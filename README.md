@@ -1,15 +1,21 @@
 # Hoy Toca Plan · Málaga
 
-Agenda pública de planes y actividades infantiles en Málaga y provincia.
+Agenda pública y gratuita de planes familiares y actividades infantiles en Málaga y su provincia.
 
-**Web pública:** https://juanan88.github.io/hoy-toca-plan/
+**Web oficial:** https://juanan88.github.io/hoy-toca-plan/
 
-Este repositorio contiene únicamente la interfaz web, los datos publicados y el flujo de despliegue de GitHub Pages. La recopilación y validación se realizan en un repositorio privado separado; no hay rastreadores ni código Python en este repositorio.
+## Funcionamiento
 
-Los datos son orientativos: las fechas, plazas, precios y recomendaciones de edad deben comprobarse con cada organizador. La disponibilidad de entradas no está verificada.
+Este repositorio público contiene solamente la web del navegador, los JSON publicados y el workflow de GitHub Pages; **no incluye rastreadores, programas Python, tests internos ni secretos**.
 
-**Migración:** la web anterior en https://juanan88.github.io/pequeplan-malaga/ se mantiene disponible durante la transición. No se debe desactivar hasta confirmar la publicación y actualización automática de esta nueva URL.
+Las actualizaciones, la importación verificada de actividades por IA y las comprobaciones de calidad se procesan en un motor privado. Después se exportan **únicamente 12 archivos autorizados** y GitHub Pages comprueba que su catálogo coincide con el desplegado.
+
+Los datos son informativos: horarios, plazas, precios y edades deben confirmarse siempre con los organizadores. La disponibilidad de entradas no está verificada.
+
+## Nueva dirección
+
+La dirección canónica y oficial es `https://juanan88.github.io/hoy-toca-plan/`. La antigua `https://juanan88.github.io/pequeplan-malaga/` corresponde a una instalación anterior y puede dejar de estar disponible cuando su código histórico se privatice. Cambia los marcadores por la URL nueva.
 
 ## Publicación
 
-GitHub Pages se genera mediante GitHub Actions con el workflow `.github/workflows/pages.yml`. La rama `main` almacena los archivos visibles públicamente. La carpeta `data/` contiene información publicada y no debe recibir secretos ni datos personales.
+`.github/workflows/pages.yml` revisa los archivos permitidos, valida el JSON, publica en GitHub Pages y compara el HTML y el hash del catálogo servidos realmente.
