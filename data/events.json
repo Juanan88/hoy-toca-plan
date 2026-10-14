@@ -1055,36 +1055,80 @@
     "id": "EVT-843836A02062",
     "title": "Taller de cerámica infantil",
     "start": "2026-10-17",
-    "end": "2026-10-17",
-    "time": "10:30",
+    "end": "2026-12-12",
+    "time": "10:30–13:00",
     "town": "Málaga",
     "venue": "La Térmica",
     "category": "Talleres y aprendizaje",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "No indicada",
-    "price_label": "Por confirmar",
-    "audience": "Consultar organizador",
-    "source_name": "InforMálaga",
-    "source_url": "https://informalaga.es/agenda/taller-de-ceramica-infantil-2026-10-17",
+    "age_min": 6,
+    "age_max": 12,
+    "age_label": "6–12 años · confirmado por La Térmica",
+    "price_label": "35 €",
+    "audience": "Infantil de 6 a 12 años",
+    "source_name": "La Térmica Mini",
+    "source_url": "https://latermicamalaga.com/taller-de-ceramica-infantil-28noviembre/",
     "status": "publicada_en_fuente",
-    "details": "Infantil en La Térmica, Málaga, el 17 de octubre a las 10:30.",
+    "details": "Taller de cerámica infantil con Candeá, impartido por Paula Valencia Escribano: modelado de piezas en barro y decoración. Incluye materiales, cocción y esmaltado; recogida de las piezas aproximadamente un mes después. Se requiere inscripción mediante formulario del organizador.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-14T14:30:18+00:00",
-    "origin": "json-ld",
+    "last_checked": "2026-10-14",
+    "origin": "agenda oficial La Térmica contrastada con formulario de inscripción",
     "schedule_unconfirmed": false,
-    "occurrences": null,
-    "secondary_sources": [],
-    "duration_minutes": null,
+    "occurrences": [
+      "2026-10-17",
+      "2026-11-28",
+      "2026-12-12"
+    ],
+    "secondary_sources": [
+      "https://informalaga.es/agenda/taller-de-ceramica-infantil-2026-10-17"
+    ],
+    "duration_minutes": 150,
     "address": "avenida de los Guindos, 48",
-    "reservation_url": null,
+    "reservation_url": "https://docs.google.com/forms/d/e/1FAIpQLScN9oJjHNYuLwRuuOAKifmRp5tR2EapyjvTpOWRxyPs_EUXaQ/viewform",
     "field_sources": {
       "address": {
         "source_url": "https://informalaga.es/agenda/taller-de-ceramica-infantil-2026-10-17",
         "quote": "avenida de los Guindos, 48",
         "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      },
+      "age_min": {
+        "source_url": "https://latermicamalaga.com/taller-de-ceramica-infantil-28noviembre/",
+        "quote": "De 6 a 12 años",
+        "evidence": "Rango de edades de la agenda oficial."
+      },
+      "age_max": {
+        "source_url": "https://latermicamalaga.com/taller-de-ceramica-infantil-28noviembre/",
+        "quote": "De 6 a 12 años",
+        "evidence": "Rango de edades de la agenda oficial."
+      },
+      "price_label": {
+        "source_url": "https://docs.google.com/forms/d/e/1FAIpQLScN9oJjHNYuLwRuuOAKifmRp5tR2EapyjvTpOWRxyPs_EUXaQ/viewform",
+        "quote": "Precio: 35€",
+        "evidence": "Precio publicado en el formulario oficial de inscripción."
+      },
+      "duration_minutes": {
+        "source_url": "https://latermicamalaga.com/taller-de-ceramica-infantil-28noviembre/",
+        "quote": "De 10:30 a 13:00 horas",
+        "evidence": "Dos horas y media según la agenda oficial."
+      },
+      "reservation_required": {
+        "source_url": "https://latermicamalaga.com/taller-de-ceramica-infantil-28noviembre/",
+        "quote": "Inscripciones AQUÍ",
+        "evidence": "La Térmica enlaza el formulario de inscripción para las sesiones."
+      },
+      "reservation_url": {
+        "source_url": "https://docs.google.com/forms/d/e/1FAIpQLScN9oJjHNYuLwRuuOAKifmRp5tR2EapyjvTpOWRxyPs_EUXaQ/viewform",
+        "quote": "Inscripciones: Taller de cerámica infantil",
+        "evidence": "Formulario enlazado desde la agenda oficial."
       }
-    }
+    },
+    "reservation_required": true,
+    "interval_kind": "recurring_dates",
+    "schedule_note": "Sesiones confirmadas: 17 de octubre, 28 de noviembre y 12 de diciembre; todas de 10:30 a 13:00.",
+    "schedule_verification": "fechas_contrastadas_en_fuente",
+    "schedule_checked_at": "2026-10-14",
+    "session_count": 3,
+    "age_source_url": "https://latermicamalaga.com/taller-de-ceramica-infantil-28noviembre/",
+    "age_quote": "De 10:30 a 13:00 horas | De 6 a 12 años"
   },
   {
     "id": "EVT-2EF174AFE004",

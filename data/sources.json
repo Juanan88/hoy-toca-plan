@@ -885,5 +885,22 @@
     "notes": "Confirmar calendario familiar; ignorar fiestas de adultos.",
     "max_links": 4,
     "events_detected_this_run": 0
+  },
+  {
+    "id": "SRC-064",
+    "name": "La Térmica Mini · programación infantil (agenda oficial)",
+    "url": "https://latermicamalaga.com/la-termica-mini/",
+    "type": "Centro cultural / talleres infantiles",
+    "area": "Málaga",
+    "priority": "Alta",
+    "approved": true,
+    "max_links": 12,
+    "strict_location": true,
+    "notes": "Revisar talleres infantiles de La Térmica Mini y las fechas de cada sesión; confirmar edad, duración, precio y formulario de inscripción en la ficha oficial.",
+    "status": "pendiente",
+    "first_seen": "2026-10-14",
+    "watch_urls": [
+      "https://latermicamalaga.com/taller-de-ceramica-infantil-28noviembre/"
+    ]
   }
 ]

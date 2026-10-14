@@ -194,7 +194,7 @@ function chooseCalendarDate(date){
  $('calendarPicker').querySelector('summary').focus();
 }
 function clearCalendarDate(){
- selectedDate=null;calendarMonth=localDate().slice(0,7);$('when').value='7';
+ selectedDate=null;calendarMonth=localDate().slice(0,7);$('when').value='15';
  syncCalendarSelection();
  $('calendarPicker').open=false;
 }
@@ -481,7 +481,7 @@ function chooseExplorerView(next,{push=false}={}){
 }
 function resetFilters(){
  for(const id of ['town','age','category','price'])$(id).value='';
- $('when').value='7';$('verifiedOnly').checked=true;$('newOnly').checked=false;
+ $('when').value='15';$('verifiedOnly').checked=true;$('newOnly').checked=false;
  $('includeUnknownAge').checked=true;
  cardsShown=24;
  clearCalendarDate();
