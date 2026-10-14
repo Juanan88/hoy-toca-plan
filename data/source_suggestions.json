@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Adolfo Suarez Agenda de Eventos, congresos y ferias",
+    "domain": "marbellacongresos.com",
+    "url": "https://www.marbellacongresos.com/eventos",
+    "reason": "Enlace relevante detectado en turismo.marbella.es",
+    "approved": false,
+    "status": "por_valorar",
+    "first_seen": "2026-10-12"
+  },
+  {
+    "name": "Agenda 2030 Agenda Urbana por un desarrollo racional y sostenible",
+    "domain": "agendaurbana.velezmalaga.es",
+    "url": "https://agendaurbana.velezmalaga.es/",
+    "reason": "Enlace relevante detectado en www.velezmalaga.es",
+    "approved": false,
+    "status": "por_valorar",
+    "first_seen": "2026-10-12"
+  },
+  {
+    "name": "Agenda de actividades y eventos",
+    "domain": "ayuntamientoronda.es",
+    "url": "https://ayuntamientoronda.es/agenda-de-actividades-y-eventos/",
+    "reason": "Enlace relevante detectado en www.ronda.es",
+    "approved": false,
+    "status": "por_valorar",
+    "first_seen": "2026-10-12"
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-10-14T10:19:50+00:00",
+  "level": "attention",
+  "events": 91,
+  "sources": 63,
+  "catalog_drift": true,
+  "last_scan_snapshot": {
+    "events": 91,
+    "sources": 62
+  },
+  "discoveries_pending": 94,
+  "discoveries_unresolved": 214,
+  "unverified_events": 8,
+  "known_age": 22,
+  "sources_never_checked": 1,
+  "sources_failed": 14,
+  "source_errors": [
+    {
+      "name": "La Diversiva",
+      "detail": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "name": "Agenda Cultura Málaga",
+      "detail": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "name": "Bibliotecas Málaga",
+      "detail": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "name": "Teatro Cervantes y Echegaray",
+      "detail": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "name": "Teatro Echegaray",
+      "detail": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "name": "SERpeques · Cadena SER Málaga",
+      "detail": "400 Client Error: Bad Request for url: https://cadenaser.com/andalucia/ser-malaga/"
+    },
+    {
+      "name": "Agenda Cultura Ayuntamiento Málaga",
+      "detail": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "name": "CC Vialia Málaga",
+      "detail": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "name": "Turismo Costa del Sol",
+      "detail": "405 Client Error: Not Allowed for url: https://www.visitacostadelsol.com/"
+    },
+    {
+      "name": "Ayuntamiento Torremolinos",
+      "detail": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "name": "Laberintus Park · eventos y Halloween",
+      "detail": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "name": "Jardín Botánico La Concepción · Halloween familiar",
+      "detail": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "name": "Ayuntamiento de Colmenar · Cultura y fiestas",
+      "detail": "405 Client Error: Not Allowed for url: https://www.colmenar.es/"
+    },
+    {
+      "name": "Agenda Axarquía · propuestas comarcales",
+      "detail": "403 Client Error: Forbidden for url: https://agendaaxarquia.com/agenda/este-mes"
+    }
+  ],
+  "last_full_scan": "2026-10-13T06:35:58+00:00",
+  "days_since_full_scan": 1.2,
+  "last_radar": "2026-10-14T10:18:41+00:00",
+  "days_since_radar": 0.0,
+  "last_verifier": "2026-10-14T10:19:16+00:00",
+  "age_missing": 69,
+  "municipalities_with_events": 13,
+  "coverage_by_town": {
+    "Málaga": 58,
+    "Fuengirola": 9,
+    "Marbella": 5,
+    "Torremolinos": 4,
+    "Estepona": 3,
+    "Benalmádena": 2,
+    "Antequera": 2,
+    "Vélez-Málaga": 2,
+    "Colmenar": 2,
+    "Rincón de la Victoria": 1,
+    "Humilladero": 1,
+    "Ronda": 1,
+    "Mijas": 1
+  },
+  "alerts": [
+    "14 fuentes con error en su última consulta",
+    "1 fuentes aún sin primera revisión"
+  ]
+}
