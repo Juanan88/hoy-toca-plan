@@ -8,7 +8,7 @@
     "url": "https://ladiversiva.com/calendario-actividades-malaga/",
     "approved": true,
     "status": "error",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Principal para hallazgos; contrastar organizador",
     "events_detected_this_run": 17,
     "last_error": "robots.txt no permite o no pudo comprobarse"
@@ -21,11 +21,10 @@
     "priority": "Alta",
     "url": "https://cultura.malaga.eu/es/agenda/",
     "approved": true,
-    "status": "error",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "status": "consultada",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Talleres y actividades municipales",
-    "events_detected_this_run": 0,
-    "last_error": "robots.txt no permite o no pudo comprobarse"
+    "events_detected_this_run": 0
   },
   {
     "id": "SRC-003",
@@ -35,11 +34,10 @@
     "priority": "Alta",
     "url": "https://bibliotecas.malaga.eu/es/agenda/",
     "approved": true,
-    "status": "error",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "status": "consultada",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Cuentacuentos y talleres; filtrar públicos adultos",
-    "events_detected_this_run": 0,
-    "last_error": "robots.txt no permite o no pudo comprobarse"
+    "events_detected_this_run": 0
   },
   {
     "id": "SRC-004",
@@ -50,7 +48,7 @@
     "url": "https://teatrocervantes.com/es/programacion/teatro-cervantes/",
     "approved": true,
     "status": "error",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Comprobar sesiones y entradas",
     "last_error": "robots.txt no permite o no pudo comprobarse"
   },
@@ -63,7 +61,7 @@
     "url": "https://www.teatrocervantes.com/es/programacion/teatro-echegaray/",
     "approved": true,
     "status": "error",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Programación infantil y familiar",
     "last_error": "robots.txt no permite o no pudo comprobarse"
   },
@@ -76,7 +74,7 @@
     "url": "https://entradas.carmenthyssenmalaga.org/actividades/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Actividades familiares y compra oficial",
     "events_detected_this_run": 0
   },
@@ -89,7 +87,7 @@
     "url": "https://www.museopicassomalaga.org/actividades",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Filtrar familias y niños",
     "events_detected_this_run": 0
   },
@@ -102,7 +100,7 @@
     "url": "https://www.marbella.es/agenda/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Cultura, fiestas, juventud",
     "events_detected_this_run": 0
   },
@@ -115,7 +113,7 @@
     "url": "https://turismo.marbella.es/agenda.html",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Complemento municipal y documentos PDF",
     "events_detected_this_run": 0
   },
@@ -128,7 +126,7 @@
     "url": "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/actividades/marbella",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Buscar municipio/provincia y público",
     "events_detected_this_run": 0
   },
@@ -141,7 +139,7 @@
     "url": "https://teatromalaga.com/cartelera?familia=Infantil+y+familiar",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Descubrimiento; validar con teatro",
     "events_detected_this_run": 28
   },
@@ -154,7 +152,7 @@
     "url": "https://informalaga.es/agenda/con-ninos?categoria=infantil",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Segundo barrido de eventos",
     "events_detected_this_run": 25
   },
@@ -167,7 +165,7 @@
     "url": "https://cadenaser.com/andalucia/2026/10/08/serpeques-charlas-inspiradoras-actividades-de-otono-musica-y-mas-para-las-familias-ser-malaga/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Detectar actividades puntuales; no confundir fecha noticia",
     "events_detected_this_run": 0
   },
@@ -180,7 +178,7 @@
     "url": "https://juventud.malaga.eu/es/agenda/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Cómic, ferias, actividades juveniles adaptables",
     "events_detected_this_run": 0
   },
@@ -193,7 +191,7 @@
     "url": "https://www.carmenthyssenmalaga.org/actividades",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Explicaciones educativas",
     "events_detected_this_run": 0
   },
@@ -206,7 +204,7 @@
     "url": "https://saposyprincesas.elmundo.es/actividades-ninos/malaga",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Eventos por fecha, edad, precio; también planes permanentes",
     "events_detected_this_run": 0
   },
@@ -219,7 +217,7 @@
     "url": "https://saposyprincesas.elmundo.es/actividades-ninos/malaga/aire-libre",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Rutas, parques, animales, atracciones",
     "events_detected_this_run": 0
   },
@@ -232,9 +230,9 @@
     "url": "https://cadenaser.com/andalucia/ser-malaga/",
     "approved": true,
     "status": "error",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Recopilaciones semanales de planes familiares",
-    "last_error": "400 Client Error: Bad Request for url: https://cadenaser.com/andalucia/ser-malaga/"
+    "last_error": "404 Client Error: Not Found for url: https://cadenaser.com/andalucia/ser-malaga/"
   },
   {
     "id": "SRC-019",
@@ -245,9 +243,9 @@
     "url": "https://mmalaga.es/agenda/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Talleres y actividades puntuales de la provincia",
-    "events_detected_this_run": 4
+    "events_detected_this_run": 9
   },
   {
     "id": "SRC-020",
@@ -257,11 +255,10 @@
     "priority": "Alta",
     "url": "https://www.malaga.eu/la-ciudad/agenda/",
     "approved": true,
-    "status": "error",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "status": "consultada",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Programación municipal consolidada",
-    "events_detected_this_run": 0,
-    "last_error": "robots.txt no permite o no pudo comprobarse"
+    "events_detected_this_run": 0
   },
   {
     "id": "SRC-021",
@@ -272,7 +269,7 @@
     "url": "https://ayuntamiento.estepona.es/agenda",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Eventos municipales y fiestas infantiles",
     "events_detected_this_run": 0
   },
@@ -285,7 +282,7 @@
     "url": "https://turismo.estepona.es/agenda/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Programación de calle y cultural; comprobar vigencia",
     "events_detected_this_run": 0
   },
@@ -298,7 +295,7 @@
     "url": "https://www.rincondelavictoria.es/eventos",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Títeres, espectáculos, festivales",
     "events_detected_this_run": 0
   },
@@ -311,7 +308,7 @@
     "url": "https://museoautomovilmoda.com/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Sábados creativos para niños",
     "events_detected_this_run": 0
   },
@@ -324,7 +321,7 @@
     "url": "https://www.juntadeandalucia.es/cultura/teatros/teatro-canovas",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Artes escénicas infantiles",
     "events_detected_this_run": 0
   },
@@ -337,7 +334,7 @@
     "url": "https://www.miramarcc.com/miramar-kids/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Miramar Kids y talleres gratuitos · Buscar programación Miramar Kids y actividades infantiles actualizadas. · Programa oficial Miramar Kids con días específicos; leerlo directamente.",
     "max_links": 8,
     "watch_urls": [
@@ -354,7 +351,7 @@
     "url": "https://www.vialiamalaga.es/",
     "approved": true,
     "status": "error",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Acciones temáticas y familiares",
     "last_error": "robots.txt no permite o no pudo comprobarse"
   },
@@ -367,7 +364,7 @@
     "url": "https://www.centrocomercialrosaleda.es/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Programas infantiles gratuitos",
     "events_detected_this_run": 0
   },
@@ -380,7 +377,7 @@
     "url": "https://laconcepcion.malaga.eu/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Visitas y talleres ocasionales",
     "events_detected_this_run": 0
   },
@@ -393,7 +390,7 @@
     "url": "https://www.visitacostadelsol.com/",
     "approved": true,
     "status": "error",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Eventos municipales y propuestas familiares",
     "last_error": "405 Client Error: Not Allowed for url: https://www.visitacostadelsol.com/"
   },
@@ -406,7 +403,7 @@
     "url": "https://www.fuengirola.es/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Eventos y ferias infantiles · Priorizar agenda municipal de octubre/noviembre y programación de bibliotecas.",
     "max_links": 10,
     "watch_urls": [
@@ -424,7 +421,7 @@
     "url": "https://www.benalmadena.es/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Agenda, cultura, juventud",
     "events_detected_this_run": 0
   },
@@ -437,7 +434,7 @@
     "url": "https://www.mijas.es/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Actividades infantiles municipales",
     "events_detected_this_run": 0
   },
@@ -450,7 +447,7 @@
     "url": "https://www.torremolinos.es/",
     "approved": true,
     "status": "error",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Fiestas, actividades y cultura",
     "last_error": "robots.txt no permite o no pudo comprobarse"
   },
@@ -463,7 +460,7 @@
     "url": "https://www.velezmalaga.es/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Programación de Axarquía · Consultar la agenda de actividades municipal para detectar programación de teatro, bibliotecas y ocio familiar, aunque no tenga JSON-LD.",
     "max_links": 10,
     "watch_urls": [
@@ -480,7 +477,7 @@
     "url": "https://www.nerja.es/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Programación de Nerja y Maro",
     "events_detected_this_run": 0
   },
@@ -493,7 +490,7 @@
     "url": "https://www.antequera.es/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Programación de interior",
     "events_detected_this_run": 0
   },
@@ -506,7 +503,7 @@
     "url": "https://www.ronda.es/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Programación serranía",
     "events_detected_this_run": 0
   },
@@ -520,7 +517,7 @@
     "notes": "Picasso en familia (3–12 años); consultar sesiones y reservas oficiales",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "events_detected_this_run": 0
   },
   {
@@ -533,7 +530,7 @@
     "notes": "Sábados en familia (5–12 años), talleres gratuitos con reserva y agenda",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "events_detected_this_run": 6
   },
   {
@@ -546,7 +543,7 @@
     "notes": "Talleres, cuentacuentos familiares y actividades culturales en Málaga",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "events_detected_this_run": 0
   },
   {
@@ -559,7 +556,7 @@
     "notes": "Sábados en el MACP; seleccionar talleres especiales infantiles",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "events_detected_this_run": 0
   },
   {
@@ -573,7 +570,7 @@
     "max_links": 5,
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "watch_urls": [
       "https://circoescuelafantasia.es/halloween-kids-party/"
@@ -592,7 +589,7 @@
     "max_links": 10,
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "watch_urls": [
       "https://littlefamilyhub.com/events/es?page=2",
@@ -611,7 +608,7 @@
     "max_links": 5,
     "approved": true,
     "status": "error",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "watch_urls": [
       "https://www.laberintuspark.com/en/scream-park-event/"
@@ -629,7 +626,7 @@
     "max_links": 5,
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "events_detected_this_run": 3
   },
@@ -644,7 +641,7 @@
     "max_links": 2,
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "events_detected_this_run": 0
   },
@@ -659,7 +656,7 @@
     "max_links": 2,
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "events_detected_this_run": 0
   },
@@ -673,11 +670,10 @@
     "notes": "La yincana familiar de Halloween tiene fechas y tarifa publicadas oficialmente",
     "max_links": 3,
     "approved": true,
-    "status": "error",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "status": "consultada",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
-    "events_detected_this_run": 0,
-    "last_error": "robots.txt no permite o no pudo comprobarse"
+    "events_detected_this_run": 0
   },
   {
     "id": "SRC-050",
@@ -690,7 +686,7 @@
     "max_links": 4,
     "approved": true,
     "status": "error",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "last_error": "405 Client Error: Not Allowed for url: https://www.colmenar.es/"
   },
@@ -703,7 +699,7 @@
     "url": "https://arterapiakids.com/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "max_links": 5,
     "notes": "Serie de talleres creativos y yoga infantil; programación detallada también en Little Family Hub.",
@@ -718,7 +714,7 @@
     "url": "https://deporte.malaga.eu/agenda-deportiva/",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "max_links": 6,
     "notes": "Fuente oficial incorporada después de detectar con IA la Mini Carrera 2026. Revisar eventos infantiles, deportivos y familiares.",
@@ -735,7 +731,7 @@
     "id": "SRC-053",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "events_detected_this_run": 0
   },
@@ -750,7 +746,7 @@
     "id": "SRC-054",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "events_detected_this_run": 0
   },
@@ -765,7 +761,7 @@
     "id": "SRC-055",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "events_detected_this_run": 0
   },
@@ -778,7 +774,7 @@
     "priority": "Alta",
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "max_links": 5,
     "notes": "Agenda de actividades con horarios diarios; no convertir cada apertura del recinto en evento independiente.",
@@ -795,7 +791,7 @@
     "max_links": 5,
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "events_detected_this_run": 0
   },
@@ -810,7 +806,7 @@
     "max_links": 4,
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "events_detected_this_run": 0
   },
@@ -825,7 +821,7 @@
     "max_links": 6,
     "approved": true,
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "events_detected_this_run": 0
   },
@@ -838,7 +834,7 @@
     "url": "https://agendaaxarquia.com/agenda/este-mes",
     "approved": true,
     "status": "error",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "strict_location": true,
     "max_links": 7,
     "notes": "Agenda pública de municipios de Axarquía. Requiere corroborar en la ficha del organizador; nunca asumir que todas las actividades son infantiles.",
@@ -856,7 +852,7 @@
     "notes": "Priorizar talleres, Pequesábados, bibliotecas y fechas de 2026. El listado puede contener actividades para adultos: exigir evidencia de público infantil.",
     "id": "SRC-061",
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "events_detected_this_run": 0
   },
@@ -872,7 +868,7 @@
     "notes": "Revisar noticias de bibliotecas, infancia, fiestas, familia, Las Lagunas, La Cala y Mijas Pueblo. No usar anuncios de años anteriores.",
     "id": "SRC-062",
     "status": "consultada",
-    "last_checked": "2026-10-13T06:35:58+00:00",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "first_seen": "2026-10-13",
     "events_detected_this_run": 0
   },
@@ -884,9 +880,10 @@
     "priority": "Media",
     "url": "https://www.puenteromano.com/es/actividades/halloween-weekend/",
     "approved": true,
-    "status": "pendiente",
-    "last_checked": null,
+    "status": "consultada",
+    "last_checked": "2026-10-14T14:29:11+00:00",
     "notes": "Confirmar calendario familiar; ignorar fiestas de adultos.",
-    "max_links": 4
+    "max_links": 4,
+    "events_detected_this_run": 0
   }
 ]

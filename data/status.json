@@ -1,28 +1,16 @@
 {
-  "last_run": "2026-10-13T06:35:58+00:00",
-  "checked": 48,
-  "attempted": 62,
-  "failed": 14,
-  "new_events": 2,
-  "new_discoveries": 22,
+  "last_run": "2026-10-14T14:29:11+00:00",
+  "checked": 53,
+  "attempted": 63,
+  "failed": 10,
+  "new_events": 9,
+  "new_discoveries": 15,
   "new_sources_suggested": 0,
   "merged_duplicates": 0,
-  "sources_without_structured_events": 43,
+  "sources_without_structured_events": 48,
   "errors": [
     {
-      "source": "Agenda Axarquía · propuestas comarcales",
-      "reason": "403 Client Error: Forbidden for url: https://agendaaxarquia.com/agenda/este-mes"
-    },
-    {
       "source": "La Diversiva",
-      "reason": "robots.txt no permite o no pudo comprobarse"
-    },
-    {
-      "source": "Agenda Cultura Málaga",
-      "reason": "robots.txt no permite o no pudo comprobarse"
-    },
-    {
-      "source": "Bibliotecas Málaga",
       "reason": "robots.txt no permite o no pudo comprobarse"
     },
     {
@@ -35,11 +23,7 @@
     },
     {
       "source": "SERpeques · Cadena SER Málaga",
-      "reason": "400 Client Error: Bad Request for url: https://cadenaser.com/andalucia/ser-malaga/"
-    },
-    {
-      "source": "Agenda Cultura Ayuntamiento Málaga",
-      "reason": "robots.txt no permite o no pudo comprobarse"
+      "reason": "404 Client Error: Not Found for url: https://cadenaser.com/andalucia/ser-malaga/"
     },
     {
       "source": "CC Vialia Málaga",
@@ -66,10 +50,6 @@
       "reason": "enlace secundario: 404 Client Error: Not Found for url: https://picofinoescuelamalaga.com/?page_id=53"
     },
     {
-      "source": "Jardín Botánico La Concepción · Halloween familiar",
-      "reason": "robots.txt no permite o no pudo comprobarse"
-    },
-    {
       "source": "Ayuntamiento de Colmenar · Cultura y fiestas",
       "reason": "405 Client Error: Not Allowed for url: https://www.colmenar.es/"
     },
@@ -80,15 +60,19 @@
     {
       "source": "Nerja · ludoteca y pintura infantil",
       "reason": "enlace secundario: No es una página HTML"
+    },
+    {
+      "source": "Agenda Axarquía · propuestas comarcales",
+      "reason": "403 Client Error: Forbidden for url: https://agendaaxarquia.com/agenda/este-mes"
     }
   ],
   "scan_partial": false,
-  "scan_elapsed_seconds": 477.2,
+  "scan_elapsed_seconds": 423.8,
   "sources_pending_next_cycle": 0,
-  "total_events": 91,
-  "total_sources": 62,
+  "total_events": 93,
+  "total_sources": 63,
   "method": "rastreo prudente por fuentes, enlaces estacionales y JSON-LD con validación geográfica",
   "caveat": "No se garantizan plazas ni exhaustividad; comprobar organizador.",
-  "last_expiration_check": "2026-10-14T13:37:00+00:00",
+  "last_expiration_check": "2026-10-14T14:38:04+00:00",
   "expired_removed_this_run": 0
 }

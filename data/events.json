@@ -216,6 +216,46 @@
     ]
   },
   {
+    "id": "EVT-CAE4347CADB9",
+    "title": "Festival &#8216;Entre dos tierras&#8217; España y Argentina",
+    "start": "2026-10-15",
+    "end": "2026-10-16",
+    "time": "12:00",
+    "town": "Torremolinos",
+    "venue": "Plaza de Toros de Torremolinos",
+    "category": "Fiestas y eventos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/fiesta-criolla-argentina-torremolinos/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/fiesta-criolla-argentina-torremolinos/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Más Málaga",
+    "source_url": "https://mmalaga.es/agenda/fiesta-criolla-argentina-torremolinos/",
+    "status": "publicada_en_fuente",
+    "details": "15 al 18 octubre 2026Plaza de toros. Torremolinos Festival 'Entre dos tierras'La Plaza de Toros acoge el I festival ‘Entre dos tierras. Dos orillas, un mismo sentimiento’ La Plaza de Toros de Torremolinos acoge el I festival ‘Entre dos tierras. Dos orillas, un mismo sentimiento’. Se celebrará del jueves 15 al domingo 18 de octubre, de 12:00 a 00:00 horas. Los asistentes podrán disfrutar de música en directo, dj’s, entretenimiento infantil y gastr",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-10-15",
+      "2026-10-16"
+    ],
+    "first_seen": "2026-10-14",
+    "last_checked": "2026-10-14T14:31:00+00:00",
+    "origin": "json-ld",
+    "secondary_sources": [],
+    "interval_kind": "recurring_dates",
+    "schedule_note": "Solo los días concretos indicados."
+  },
+  {
     "id": "EVT-MIRAMAR-MAGIC-2026",
     "title": "La aventura de las palabras mágicas · Miramar Kids",
     "start": "2026-10-15",
@@ -352,7 +392,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en La Térmica, Málaga, el 16 de octubre a las 17:00.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:25+00:00",
+    "last_checked": "2026-10-14T14:30:18+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -375,7 +415,8 @@
       }
     },
     "interval_kind": "recurring_dates",
-    "schedule_note": "Solo se celebra en los días de sesión indicados."
+    "schedule_note": "Solo se celebra en los días de sesión indicados.",
+    "schedule_change_pending_review": true
   },
   {
     "id": "EVT-C297A337AB32",
@@ -396,7 +437,7 @@
     "status": "publicada_en_fuente",
     "details": "Club de lectura para niños de 7 a 11 años: cada semana leen y comentan un libro y leen en grupo cuentos y relatos. Gratis, con inscripción previa en la app Torremolinos Despega o en el 952 385 182. · Fechas de programación: consultar los días concretos de función.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:25+00:00",
+    "last_checked": "2026-10-14T14:30:18+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-10-30"
@@ -445,7 +486,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en Biblioteca de Arroyo de la Miel, Benalmádena, el 16 de octubre a las 18:00.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:25+00:00",
+    "last_checked": "2026-10-14T14:30:18+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -489,8 +530,8 @@
     "id": "EVT-CBDE05B8AA17",
     "title": "Imaginamalaga 2026: salón del cómic, ilustración y fantasía",
     "start": "2026-10-16",
-    "end": "2026-10-18",
-    "time": "Consultar programa diario",
+    "end": "2026-10-17",
+    "time": "10:00",
     "town": "Málaga",
     "venue": "La Caja Blanca",
     "category": "Fiestas y eventos",
@@ -498,16 +539,19 @@
     "age_max": null,
     "age_label": "No indicada",
     "price_label": "Gratis",
-    "audience": "Todos los públicos; comprobar programación de cada jornada",
+    "audience": "Consultar organizador",
     "source_name": "Más Málaga",
     "source_url": "https://mmalaga.es/agenda/imaginamalaga-salon-comic-malaga/",
     "status": "publicada_en_fuente",
     "details": "16, 17 y 18 de Octubre de 2026Caja Blanca de Málaga.Actividades gratuitas relacionadas con la cultura pop y la literatura fantástica ImaginaMálaga: salón del cómic, ilustración y fantasía ImaginaMálaga es una cita imprescindible para los amantes del cómic, la ilustración, la literatura fantástica y la cultura pop en Málaga. Un encuentro donde autores, ilustradores, editoriales, artistas y aficionados comparten espacio durante varios días con una ",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:39:11+00:00",
+    "last_checked": "2026-10-14T14:31:00+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
-    "occurrences": null,
+    "occurrences": [
+      "2026-10-16",
+      "2026-10-17"
+    ],
     "secondary_sources": [
       "https://juventud.malaga.eu/es/agenda/detalle-de-agenda/index.html?id=148983&tipoVO=2",
       "https://juventud.malaga.eu/es/agenda/detalle-de-agenda/index.html?id=148984&tipoVO=2",
@@ -533,7 +577,7 @@
         "evidence": "La agenda municipal indica entrada gratuita."
       }
     },
-    "interval_kind": "continuous_days",
+    "interval_kind": "recurring_dates",
     "schedule_note": "Actividades oficiales el 16, 17 y 18 de octubre, con horarios diferentes cada jornada."
   },
   {
@@ -739,6 +783,40 @@
     "origin": "agenda especializada"
   },
   {
+    "id": "EVT-994424D0B126",
+    "title": "Picasso en familia 2026-2027",
+    "start": "2026-10-17",
+    "end": "2026-10-17",
+    "time": "11:00",
+    "town": "Málaga",
+    "venue": "Fundación Picasso. Museo Casa Natal",
+    "category": "Otros planes familiares",
+    "age_min": 3,
+    "age_max": 12,
+    "age_label": "3–12 años",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/talleres-infantiles-casa-natal-picasso/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/talleres-infantiles-casa-natal-picasso/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Más Málaga",
+    "source_url": "https://mmalaga.es/agenda/talleres-infantiles-casa-natal-picasso/",
+    "status": "publicada_en_fuente",
+    "details": "Todos los sábados, de septiembre a junio, el Museo Casa Natal Picasso ofrece una propuesta lúdica y formativa sobre las diversas facetas de la creatividad picassiana. Lugar: Aula Didáctica del Museo Casa Natal PicassoDirección: Plaza de la Merced, 13Inicio: 19 de septiembre de 2026Finalización: 19 de junio de 2027Horario: De 11:00 a 12:30hDirigido a familias con menores de 3 a 12 añosTalleres gratuitosInscripciones hasta cada viernes a las 15h, e",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-14",
+    "last_checked": "2026-10-14T14:31:00+00:00",
+    "origin": "json-ld"
+  },
+  {
     "id": "EVT-391FE1D10",
     "title": "Picasso en familia · Taller de los sábados",
     "start": "2026-10-17",
@@ -811,7 +889,7 @@
     "status": "publicada_en_fuente",
     "details": "Angie Fernanda González Castro presenta su libro 'Aako, la reina guerrera' en la sala infantil de la biblioteca. Entrada libre hasta completar aforo.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:25+00:00",
+    "last_checked": "2026-10-14T14:30:18+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -851,7 +929,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en La Térmica, Málaga, el 17 de octubre a las 10:00.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:25+00:00",
+    "last_checked": "2026-10-14T14:30:18+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -874,7 +952,8 @@
       }
     },
     "interval_kind": "recurring_dates",
-    "schedule_note": "Solo se celebra en los días de sesión indicados."
+    "schedule_note": "Solo se celebra en los días de sesión indicados.",
+    "schedule_change_pending_review": true
   },
   {
     "id": "EVT-MIRAMAR-HERO-2026",
@@ -962,7 +1041,7 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-13",
-    "last_checked": "2026-10-13T06:41:55+00:00",
+    "last_checked": "2026-10-14T14:33:52+00:00",
     "origin": "json-ld",
     "secondary_sources": [
       "https://www.coleccionmuseoruso.es/event/sabados-en-familia-al-detalle-2/"
@@ -991,7 +1070,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en La Térmica, Málaga, el 17 de octubre a las 10:30.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:25+00:00",
+    "last_checked": "2026-10-14T14:30:18+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -1026,7 +1105,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en La Térmica, Málaga, el 17 de octubre.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:25+00:00",
+    "last_checked": "2026-10-14T14:30:18+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -1048,7 +1127,8 @@
       }
     },
     "interval_kind": "recurring_dates",
-    "schedule_note": "Solo se celebra en los días de sesión indicados."
+    "schedule_note": "Solo se celebra en los días de sesión indicados.",
+    "schedule_change_pending_review": true
   },
   {
     "id": "EVT-8B4196577",
@@ -1113,7 +1193,7 @@
     "status": "publicada_en_fuente",
     "details": "Un baúl olvidado se abre en escena y, con él, la magia del teatro. Ante los ojos del público, los intérpretes se transforman del actor al personaje sin artificios ocultos. Los niños descubren cómo el cuerpo, la voz y la imaginación pueden dar vida a hormigas, cigarras, liebres y tortugas, haciendo v",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "secondary_sources": [
       "https://teatromalaga.com/cartelera?familia=Infantil+y+familiar"
@@ -1161,7 +1241,7 @@
     "status": "publicada_en_fuente",
     "details": "El Gran Bailarín se prepara para competir en el concurso estatal de talentos con su gran número de claqué. Todos esperan que se convierta en un grande entre los grandes, pero tanta expectativa supondrá demasiada carga para nuestro artista. ¿Bailar para ganar? O, como le decía su abuela ¿bailar para",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "secondary_sources": [
       "https://teatromalaga.com/cartelera?familia=Infantil+y+familiar"
@@ -1235,7 +1315,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en Biblioteca de Arroyo de la Miel, Benalmádena, el 20 de octubre a las 17:30.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:25+00:00",
+    "last_checked": "2026-10-14T14:30:18+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -1264,7 +1344,7 @@
     "status": "publicada_en_fuente",
     "details": "Club de lectura para niños de 7 a 11 años, impartido por Olga Fernández, en la sala infantil de la biblioteca. Gratis con inscripción previa en la app Torremolinos Despega o en el 952 385 182.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:25+00:00",
+    "last_checked": "2026-10-14T14:30:18+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -1387,7 +1467,7 @@
     "status": "publicada_en_fuente",
     "details": "👻🎃 TALLER SENSORIAL “PEQUEÑOS MONSTRUITOS” 🎃👻¡Este Halloween, los más peques también tienen su propia fiesta! 🧡✨En Pequeños Monstruitos, AWA Kids se llena de magia de Halloween para ofrecer una experiencia sensorial especialmente dise...",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:25+00:00",
+    "last_checked": "2026-10-14T14:30:18+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -1455,8 +1535,9 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-13",
-    "last_checked": "2026-10-13T06:41:55+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-10-14T14:33:52+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-1B44B76DBD96",
@@ -1479,7 +1560,7 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-13",
-    "last_checked": "2026-10-13T06:41:55+00:00",
+    "last_checked": "2026-10-14T14:33:52+00:00",
     "origin": "json-ld",
     "secondary_sources": [
       "https://www.coleccionmuseoruso.es/event/sabados-en-familia-notas-romanticas/"
@@ -1648,7 +1729,7 @@
     "status": "publicada_en_fuente",
     "details": "Tod@s los niñ@s mayores de 2 años tienen que sacar su entrada. Menores de 2 años únicamente cuando ocupen un asiento. Los Tres Cerditos, una adaptación del cuento clásico dentro de la Colección de Los Cuentos del Conejo Blanco de la compañía malagueña Jabetín Teatro. Já, já,já…si supiera el pobre lo · Fechas de programación: consultar los días concretos de función.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-10-25"
@@ -1694,7 +1775,7 @@
     "status": "publicada_en_fuente",
     "details": "Musical familiar con los éxitos de Youtube Kids.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:25+00:00",
+    "last_checked": "2026-10-14T14:30:18+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -1753,7 +1834,7 @@
     "status": "publicada_en_fuente",
     "details": "Espectáculo de danza para público familiar dirigido por Omar Meza, con Raúl Durán y Álvaro G. Copado; Premio FETEN 2026 al mejor espectáculo de danza.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:25+00:00",
+    "last_checked": "2026-10-14T14:30:18+00:00",
     "origin": "json-ld",
     "secondary_sources": [
       "https://teatromalaga.com/cartelera/unicos-echegaray-malaga",
@@ -1886,15 +1967,15 @@
     "age_max": 12,
     "age_label": "4–12 años",
     "price_label": "25 €",
-    "audience": "Infantil: 4–12 años",
+    "audience": "Consultar organizador",
     "source_name": "Picofino Escuela Málaga · talleres infantiles",
     "source_url": "https://picofinoescuelamalaga.com/reservas/taller-de-reposteria-de-halloween-para-ninos/",
     "status": "publicada_en_fuente",
-    "details": "Taller práctico de repostería de Halloween con galletas temáticas y merienda incluida. Para niños de 4 a 12 años. Plazas limitadas; reserva en el organizador.",
+    "details": "¡Un plan espeluznantemente divertido para todas las edades! Este 30 de octubre, los más pequeños y los no tan pequeños se convertirán en maestros de la repostería monstruosa. Hemos diseñado un taller 100% práctico y seguro donde la magia ocurre en la decoración y creatividad. Desde los 4 hasta los 12 años, cada niño creará [&hellip;]",
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-13",
-    "last_checked": "2026-10-13T06:42:51+00:00",
+    "last_checked": "2026-10-14T14:34:49+00:00",
     "origin": "json-ld",
     "secondary_sources": [],
     "duration_minutes": 90,
@@ -2155,7 +2236,7 @@
     "status": "publicada_en_fuente",
     "details": "🎃👻 ¡ESTE HALLOWEEN, AWA KIDS SE LLENA DE MAGIA, SUSTOS Y AVENTURAS! 👻🎃Prepárate para vivir un Halloween en familia que los peques recordarán durante mucho tiempo. 🕷️🕸️Hemos preparado una experiencia pensada especialmente para niños, don...",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:25+00:00",
+    "last_checked": "2026-10-14T14:30:18+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2197,7 +2278,7 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-13",
-    "last_checked": "2026-10-13T06:41:55+00:00",
+    "last_checked": "2026-10-14T14:33:52+00:00",
     "origin": "json-ld",
     "secondary_sources": [
       "https://www.coleccionmuseoruso.es/event/sabados-en-familia-mueve_el_esqueleto/"
@@ -2226,7 +2307,7 @@
     "status": "publicada_en_fuente",
     "details": "Tributo musical a «Coco» para toda la familia, en el Teatro ESAD de Málaga el domingo 1 de noviembre de 2026 a las 19:00 h (el horario se ha cambiado desde las 17:00 h; las entradas ya compradas siguen siendo válidas). En los espectáculos infantiles los niños pagan entrada a partir de los 12 meses.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2266,7 +2347,7 @@
     "status": "publicada_en_fuente",
     "details": "En un mundo rodeado de pantallas y dominado por las redes sociales y los videojuegos, Alicia se encuentra atrapada en el ciberespacio mientras su vida pasa volando entre likes, notificaciones y haters. Pero todo cambia cuando llega a sus manos un misterioso libro que le enseñará a vivir el presente",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2306,7 +2387,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en Teatro Lope de Vega, Vélez-Málaga, el 1 de noviembre a las 17:30.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:25+00:00",
+    "last_checked": "2026-10-14T14:30:18+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2341,7 +2422,7 @@
     "status": "publicada_en_fuente",
     "details": "La NS Danza lleva a escena la célebre obra de Serguéi Prokófiev (1936) creada para acercar a los niños los sonidos de los diferentes instrumentos de la orquesta. Pedro es un niño que vive en el bosque con su abuelo y que, junto a sus amigos los animales, se enfrenta al temido lobo. A diferencia de",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2403,7 +2484,7 @@
     "status": "publicada_en_fuente",
     "details": "¿Qué pasaría si los Beatles hicieran canciones para peques? En Cuentitis Musiquitis hemos querido responder a esa pregunta, y hemos adaptado las canciones más famosas del cuarteto de Liverpool a lenguaje y temática infantil. Su LADY MADONNA se convierte en un canto de amor a nuestra “Mami mandona”;",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2443,7 +2524,7 @@
     "status": "publicada_en_fuente",
     "details": "DADADá es un espectáculo pensado para plasmar el mundo de los bebés desde que nacen hasta los tres años. Experiencias desordenadas, impulsivas, aleatorias…, envueltas en la sonoridad, el color y las sensaciones propias de los bebés. Al igual que los dadaístas, nos olvidamos de la palabra, de las nor · Fechas de programación: consultar los días concretos de función.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "age_source_url": "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/dadada-1",
     "age_evidence": "Agenda Cultural de Andalucía: espectáculo pensado para bebés desde que nacen hasta los tres años.",
@@ -2495,7 +2576,7 @@
     "status": "publicada_en_fuente",
     "details": "Espectáculo familiar que rinde tributo a Frozen combinando teatro, música y magia sobre el hielo. Una reinterpretación del universo de Elsa y Anna pensada para disfrutar en familia, en el Teatro ESAD de Málaga el 8 de noviembre de 2026.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2535,7 +2616,7 @@
     "status": "publicada_en_fuente",
     "details": "Nera. Viaje a Isla madre es un viaje sensitivo, sin palabras, en el que la danza se integra con la manipulación de una marioneta de 18 hilos y algunos objetos llenos de magia. En su velero Nera se dirige hacia la Isla Madre para avisar a la gran ballena de la desaparición de los seres marinos y la",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2632,7 +2713,7 @@
     "status": "publicada_en_fuente",
     "details": "En este concierto vamos a descubrir un Nuevo Mundo, tan desconocido para la mayoría de los jóvenes oyentes como lo fue en su día América para Dvořák: la música sinfónica. Además de acercarnos a los ritmos, folclore y leyendas que dieron lugar a la música de Dvorák, quien quería sentar con su obra la",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-11-14",
@@ -2679,7 +2760,7 @@
     "status": "publicada_en_fuente",
     "details": "Tod@s los niñ@s mayores de 2 años tienen que sacar su entrada. Menores de 2 años únicamente cuando ocupen un asiento. Jabetin Teatro presenta “Robin Hood”, una adaptación teatral musical en tono de comedia adaptada a todos los públicos. Personajes divertidos que salen del mismo cuento como Robin y L · Fechas de programación: consultar los días concretos de función.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-11-15",
@@ -2726,7 +2807,7 @@
     "status": "publicada_en_fuente",
     "details": "Tres elementos nos acompañan en este recorrido: una calabaza, un bigote y una maleta. Una vida, un camino; como todas las sendas, con un destino, alcanzar la sonrisa de un niño. Miguelito viene a este mundo el segundo mes del año. Sus primeros años se nutren con lo que va a ser su más poderosa herr",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "age_source_url": "https://www.teatroechegaray.com/es/genero/teatro-infantil/temporada-2026-27/peneque-cien-por-cien-valiente-2152",
     "age_quote": "Títeres y actores. A partir de 3 años",
@@ -2772,7 +2853,7 @@
     "status": "publicada_en_fuente",
     "details": "Pleno de romanticismo, misterio y belleza, «El lago de los cisnes» es una de las obras más admiradas del repertorio clásico. El Imperial Heritage Ballet da vida a la historia de Odette, una joven condenada por un hechizo a ser cisne, y del príncipe Siegfried, un amor capaz de desafiar a Rothbart y a",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2807,7 +2888,7 @@
     "status": "publicada_en_fuente",
     "details": "Espectáculo en vivo que rinde homenaje a la película de Disney «El Rey León», con actuaciones en directo, música enérgica y coloridos vestuarios. Simba, Timón, Pumba, Scar y Rafiki cobran vida en la sabana africana con las canciones de la película, como «El Ciclo de la Vida» y «Hakuna Matata», númer · Fechas de programación: consultar los días concretos de función.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-11-20"
@@ -2853,7 +2934,7 @@
     "status": "publicada_en_fuente",
     "details": "En un mundo donde los sonidos están desapareciendo, oímos los ecos tres antiguas historias que nos ayudan a devolver la armonía: Orfeo demuestra que la sensibilidad y el arte pueden superar todos los obstáculos; una Musa traviesa enseña a descubrir la música escondida en los sonidos cotidianos; y el",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2893,7 +2974,7 @@
     "status": "publicada_en_fuente",
     "details": "Espectáculo en vivo que rinde homenaje a la película de Disney «El Rey León», con actuaciones en directo, música, baile y coloridos vestuarios, para toda la familia. En el Teatro Vicente Espinel de Ronda (Málaga), el sábado 28 de noviembre de 2026 a las 17:00 h. Organiza La Máscara Producciones.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2928,7 +3009,7 @@
     "status": "publicada_en_fuente",
     "details": "Sinopsis: ¿Qué ocurriría si un explorador y un investigador intercambiaran sus maletas por error? ¿Y qué pasaría si cayeran en la cuenta de que quizá uno de ellos no debía estar allí? Bueno… ¿y si, al final, un bailaor contemporáneo, DJ y aparentemente desordenado retase a un músico clásico, tan rig",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2992,7 +3073,7 @@
     "status": "publicada_en_fuente",
     "details": "En las nubes es la historia de mi amigo. Mi amigo a veces se siente diferente. Mi amigo a veces saldría volando como un globo y se colaría en el universo. Mi amigo tiene un amigo que es una nube. Mi amigo está muy solo y, al mismo tiempo, le salen los amigos sin darse cuenta. En las nubes es una hi",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -3032,7 +3113,7 @@
     "status": "publicada_en_fuente",
     "details": "Descripción incompleta: consultar el programa original.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-11-29",
@@ -3079,7 +3160,7 @@
     "status": "publicada_en_fuente",
     "details": "Actores Ángel Casanova, Emma Torrecillas, Rocío Belmonte, Verónica Sánchez, Paula Paz y Amparo Izquierdo Letra y música Andrés Meseguer Guión La pandilla de Drilo Producción musical y arreglos Jesús Mondéjar Coreografías Amparo Izquierdo 1.00 h (s/i) Teatro musical. Toda la familia lapandilladedrilo.com Drilo organiza un gran concierto y, para la ocasión, llama a todos sus amigos de la pandilla. Montará una banda con Guau a la batería, Peligre al",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -3119,7 +3200,7 @@
     "status": "publicada_en_fuente",
     "details": "Un espectáculo coproducido con la colaboración de la Agencia Andaluza de Instituciones Culturales de la Junta de Andalucía y La Nave del Duende TRAS 10 AÑOS TRABAJANDO COMO THE NOSE THEATER, CHEMA CABALLERO Y ÁNGELA BODEGA SE REINVENTAN COMO LA BUENA COMPAÑÍA, UN NUEVO VEHÍCULO PARA PONER EN PRÁCTIC",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-12-12",
@@ -3166,7 +3247,7 @@
     "status": "publicada_en_fuente",
     "details": "Nova, una niña alegre e imaginativa a la que le encanta leer, se ve sumergida en un profundo sueño durante la lectura de su libro favorito. Pero ese sueño, no es un sueño cualquiera, pues la transporta hasta el mundo de la imaginación. Allí se encontrará con Lecturita, la guardiana de los libros, qu",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-12-15",
@@ -3218,7 +3299,7 @@
       "2026-12-20"
     ],
     "first_seen": "2026-10-13",
-    "last_checked": "2026-10-13T06:38:14+00:00",
+    "last_checked": "2026-10-14T14:30:09+00:00",
     "origin": "json-ld",
     "schedule_note": "Dos funciones: sábado 19 de diciembre a las 19:00 y domingo 20 a las 12:00.",
     "schedule_verification": "oficial Junta de Andalucía",
