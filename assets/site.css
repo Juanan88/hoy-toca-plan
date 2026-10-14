@@ -311,3 +311,15 @@ footer a{text-decoration:underline;text-underline-offset:3px}
 .advance-place{display:flex;flex-direction:column;align-items:flex-start;gap:2px}
 .advance-venue{font-weight:760;color:#205b4f;overflow-wrap:anywhere}
 .advance-town{font-size:11px;font-weight:500;color:var(--muted);padding-left:18px}
+
+
+/* Un solo selector de fecha, siempre visible al cambiar entre Reservas y Agenda. */
+.shared-date-filter{grid-column:1/-1;display:flex;flex-direction:column;gap:7px;min-width:0}
+.shared-date-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;color:#486364;font-size:12px;font-weight:800}
+.shared-date-filter .calendar-picker{grid-column:auto}
+.shared-date-filter .calendar-picker>summary{width:fit-content;min-width:225px;justify-content:space-between}
+.shared-date-filter .calendar-panel{margin-top:9px}
+.clear-date{padding:7px 10px;border:0;background:#eff8f3;border-radius:8px;color:#176655;font-size:12px;font-weight:800;min-height:39px}
+.clear-date:hover{background:#dcefe4}
+.clear-date[hidden]{display:none}
+@media(max-width:620px){.shared-date-filter .calendar-picker>summary{width:100%;min-width:0}.shared-date-filter .calendar-panel{width:100%}}

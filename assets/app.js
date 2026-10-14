@@ -145,8 +145,11 @@ function matchesOtherFilters(e){
 }
 function calendarCounts(onlyPending=false){
  const today=localDate(),counts={},first=calendarMonth+'-01',last=plusDays(monthShift(calendarMonth,1)+'-01',-1);
- for(const event of state.events.filter(e=>matchesOtherFilters(e))){
-  if(onlyPending&&event.status==='publicada_en_fuente')continue;
+ const eligible=activeView==='reservas'?
+  state.events.filter(e=>bookingBaseMatches(e,today)&&bookingKind(e)&&Boolean(link(e.reservation_url)||link(e.source_url))):
+  state.events.filter(matchesOtherFilters);
+ for(const event of eligible){
+  if(onlyPending&&(activeView==='reservas'||event.status==='publicada_en_fuente'))continue;
   for(const date of documentedDays(event,first,last)){
    if(date>=today)counts[date]=(counts[date]||0)+1;
   }
@@ -175,8 +178,9 @@ function renderCalendar(){
 }
 function syncCalendarSelection(){
  const chosen=$('when').value==='date'&&selectedDate;
- $('calendarSummaryText').textContent=chosen?'Fecha: '+fmtDate(selectedDate):'Elegir un día concreto';
+ $('calendarSummaryText').textContent=chosen?'Fecha: '+fmtDate(selectedDate):'Elegir día en el calendario';
  $('calendarPicker').classList.toggle('has-selection',Boolean(chosen));
+ $('clearDate').hidden=!chosen;
  const option=$('when').querySelector('option[value="date"]');
  if(option){option.hidden=!chosen;option.textContent=chosen?'Día '+fmtDate(selectedDate):'Fecha elegida';}
 }
@@ -184,14 +188,17 @@ function chooseCalendarDate(date){
  if(!/^\d{4}-\d{2}-\d{2}$/.test(date)||date<localDate())return;
  selectedDate=date;calendarMonth=date.slice(0,7);
  $('when').value='date';cardsShown=24;
- syncDateChips();syncCalendarSelection();renderEvents();
+ syncCalendarSelection();renderEvents();renderAdvanceBookings();syncExplorerView();renderCalendar();
  $('calendarPicker').open=false;
  $('calendarPicker').querySelector('summary').focus();
 }
 function clearCalendarDate(){
- selectedDate=null;calendarMonth=localDate().slice(0,7);
+ selectedDate=null;calendarMonth=localDate().slice(0,7);$('when').value='7';
  syncCalendarSelection();
  $('calendarPicker').open=false;
+}
+function resetSharedDate(){
+ clearCalendarDate();cardsShown=24;renderEvents();renderAdvanceBookings();syncExplorerView();renderCalendar();
 }
 function syncAgeControl(){$('ageUnknownToggle').hidden=!$('age').value;}
 function ageMatches(e){const a=$('age').value;if(!a)return true; if(e.age_min==null&&e.age_max==null)return $('includeUnknownAge').checked;const n=Number(a);return (e.age_min==null||n>=Number(e.age_min))&&(e.age_max==null||n<=Number(e.age_max));}
@@ -240,6 +247,8 @@ const BOOKING_HORIZON_DAYS=60;
 function bookingNextDate(e,today=localDate()){
  const from=plusDays(today,BOOKING_LEAD_DAYS),until=plusDays(today,BOOKING_HORIZON_DAYS);
  if(e.status!=='publicada_en_fuente'||!relevant(e)||!e.start)return null;
+ // Día explícito: reservas y agenda usan la misma sesión, sin el límite anticipado.
+ if(selectedDate)return selectedDate>=today&&eventOnDate(e,selectedDate)?selectedDate:null;
  const sessions=Array.isArray(e.occurrences)&&e.occurrences.length?
   activeSessions(e).filter(d=>d>=from&&d<=until).sort():null;
  if(sessions)return sessions[0]||null;
@@ -259,12 +268,15 @@ function bookingKind(e){
  if(ticketUrl&&(stage||paid))return 'tickets';
  return null;
 }
-function bookingCandidates(today=localDate()){
- return state.events.filter(e=>e.status==='publicada_en_fuente'
+function bookingBaseMatches(e,today=localDate()){
+ return e.status==='publicada_en_fuente'&&relevant(e)
   &&(!$('town').value||e.town===$('town').value)
   &&(!$('category').value||e.category===$('category').value)
   &&ageMatches(e)&&priceMatches(e)
-  &&(!$('newOnly').checked||(e.first_seen||'')>=plusDays(today,-7)))
+  &&(!$('newOnly').checked||(e.first_seen||'')>=plusDays(today,-7));
+}
+function bookingCandidates(today=localDate()){
+ return state.events.filter(e=>bookingBaseMatches(e,today))
   .map(e=>({event:e,date:bookingNextDate(e,today),kind:bookingKind(e)}))
   .filter(x=>x.date&&x.kind&&(link(x.event.reservation_url)||link(x.event.source_url)))
   .sort((a,b)=>a.date.localeCompare(b.date)
@@ -308,7 +320,7 @@ function renderAdvanceBookings(){
  if(!candidates.length){
   $('advanceCards').innerHTML=age?'<div class="advance-empty">No hay actividades para reservar que coincidan con estos filtros'+
     ($('includeUnknownAge').checked?'. Comprueba otra edad o municipio.':'. Puedes activar «Incluir planes sin edad confirmada» para ampliar las opciones.')+
-    '</div>':'<div class="advance-empty">No hay planes para reservar en los próximos 7–60 días con estos filtros. Prueba otro municipio, categoría o precio.</div>';
+    '</div>':'<div class="advance-empty">'+(selectedDate?'No hay reservas para el '+fmtDate(selectedDate)+' con estos filtros. Prueba otra fecha o municipio.':'No hay planes para reservar en los próximos 7–60 días con estos filtros. Prueba otro municipio, categoría o precio.')+'</div>';
   return;
  }
  $('advanceCards').innerHTML=candidates.map(advanceCardHtml).join('');
@@ -443,13 +455,14 @@ function syncExplorerView(){
  const agenda=activeView==='agenda';
  $('agendaResults').hidden=!agenda;
  $('advanceBookings').hidden=agenda;
- $('agendaDateControls').hidden=!agenda;
- $('advancedWhenField').hidden=!agenda;
  $('verifiedFilter').hidden=!agenda;
- $('advancedHint').textContent=agenda?'Precio, fechas, novedades...':'Precio y novedades';
+ $('advancedHint').textContent='Precio y novedades';
  $('viewPeriod').textContent=agenda?'Agenda próxima · '+agendaPeriodLabel():
+  selectedDate?'Reservas para el '+fmtDate(selectedDate):
   'Reservas anticipadas · '+fmtDate(plusDays(localDate(),BOOKING_LEAD_DAYS))+
   ' – '+fmtDate(plusDays(localDate(),BOOKING_HORIZON_DAYS))+' (7–60 días desde hoy)';
+ const horizon=$('advanceBookings').querySelector('.advance-horizon');
+ if(horizon)horizon.textContent=selectedDate?'Fecha elegida':'Próximos 7–60 días';
  for(const [view,id] of [['agenda','tabAgenda'],['reservas','tabReservas']]){
   const tab=$(id),selected=view===activeView;
   tab.setAttribute('aria-selected',String(selected));
@@ -462,7 +475,7 @@ function chooseExplorerView(next,{push=false,restore=true}={}){
  viewScroll[activeView]=window.scrollY;
  activeView=next;
  syncExplorerView();
- renderAdvanceBookings();
+ renderAdvanceBookings();renderCalendar();
  if(push)window.history.pushState({pequeplanView:next},'',next==='reservas'?'#reservas':'#agenda');
  if(restore){
   // Se conserva la posición de la vista anterior, incluso al usar Atrás/Adelante.
@@ -479,20 +492,15 @@ function resetFilters(){
  $('when').value='7';$('verifiedOnly').checked=true;$('newOnly').checked=false;
  $('includeUnknownAge').checked=true;
  cardsShown=24;
- clearCalendarDate();calendarMonth=localDate().slice(0,7);
- syncAgeControl();syncDateChips();renderEvents();renderCalendar();renderAdvanceBookings();syncExplorerView();
+ clearCalendarDate();
+ syncAgeControl();renderEvents();renderCalendar();renderAdvanceBookings();syncExplorerView();
 }
-for(const id of ['when','town','age','category','price','verifiedOnly','newOnly','includeUnknownAge'])
+for(const id of ['town','age','category','price','verifiedOnly','newOnly','includeUnknownAge'])
  $(id).addEventListener('input',()=>{
-  if(id==='when') {if($('when').value!=='date')clearCalendarDate();syncDateChips();}
   if(id==='age')syncAgeControl();
-  cardsShown=24;renderEvents();renderAdvanceBookings();syncExplorerView();
-  if($('calendarPicker').open)renderCalendar();
+  cardsShown=24;renderEvents();renderAdvanceBookings();syncExplorerView();renderCalendar();
  });
-document.querySelectorAll('[data-when]').forEach(b=>b.addEventListener('click',()=>{
- $('when').value=b.dataset.when;
- clearCalendarDate();syncDateChips();cardsShown=24;renderEvents();renderAdvanceBookings();syncExplorerView();
-}));
+$('clearDate').addEventListener('click',resetSharedDate);
 $('projectInfo').addEventListener('toggle',()=>{if($('projectInfo').open){renderSources();renderHealth();renderDiscoveries();}});
 $('sourcesDetails').addEventListener('toggle',()=>{if($('sourcesDetails').open){renderSources();renderHealth();}});
 $('discoveryDetails').addEventListener('toggle',()=>{if($('discoveryDetails').open)renderDiscoveries();});
@@ -542,7 +550,6 @@ $('showMore').addEventListener('click',()=>{cardsShown+=24;renderEvents();});
 $('reloadData').addEventListener('click',init);
 $('searchSource').addEventListener('input',renderSources);
 $('clear').addEventListener('click',resetFilters);
-syncDateChips();
 syncAgeControl();
 syncCalendarSelection();
 activeView=viewFromUrl();

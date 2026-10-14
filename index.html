@@ -10,7 +10,7 @@
   <title>Hoy Toca Plan · Málaga | Agenda familiar y actividades con niños</title>
   <link rel="canonical" href="https://juanan88.github.io/hoy-toca-plan/">
   <meta property="og:url" content="https://juanan88.github.io/hoy-toca-plan/">
-  <link rel="stylesheet" href="assets/site.css?v=ux-venue-20261014-1">
+  <link rel="stylesheet" href="assets/site.css?v=calendario-compartido-20261014-1">
 </head>
 <body>
 <header class="hero">
@@ -37,31 +37,24 @@
       <button type="button" id="tabReservas" role="tab" aria-selected="true" aria-controls="advanceBookings" data-explore="reservas">🎟️ Reservar con tiempo</button>
       <button type="button" id="tabAgenda" role="tab" aria-selected="false" aria-controls="agendaResults" data-explore="agenda">Agenda próxima</button>
     </div>
-    <p class="view-period" id="viewPeriod" role="status">Reservas anticipadas · 7–60 días desde hoy</p>
+    <p class="view-period" id="viewPeriod" role="status">Reservas anticipadas · 7–60 días desde hoy · usa el calendario para elegir un día</p>
     <div class="discovery-controls">
-      <div class="agenda-date-controls" id="agendaDateControls" hidden>
-      <fieldset class="when-shortcuts">
-        <legend>¿Para cuándo?</legend>
-        <div class="date-chips" role="group" aria-label="Seleccionar fecha rápidamente">
-          <button class="date-chip" type="button" data-when="today" aria-pressed="false">Hoy</button>
-          <button class="date-chip" type="button" data-when="tomorrow" aria-pressed="false">Mañana</button>
-          <button class="date-chip" type="button" data-when="weekend" aria-pressed="false">Este finde</button>
-          <button class="date-chip active" type="button" data-when="7" aria-pressed="true">7 días</button>
-        </div>
-      </fieldset>
-      <details class="calendar-picker" id="calendarPicker">
-        <summary><span aria-hidden="true">🗓️</span> <span id="calendarSummaryText">Elegir un día concreto</span><span class="calendar-chevron" aria-hidden="true">⌄</span></summary>
-        <div class="calendar-panel" role="group" aria-label="Calendario para seleccionar la fecha">
-          <div class="calendar-navigation">
-            <button type="button" class="calendar-nav" id="calendarPrev" aria-label="Mes anterior">‹</button>
-            <strong id="calendarMonthTitle" aria-live="polite"></strong>
-            <button type="button" class="calendar-nav" id="calendarNext" aria-label="Mes siguiente">›</button>
+      <div class="shared-date-filter" id="sharedDateControls">
+        <div class="shared-date-heading"><span>¿Para qué día?</span><button id="clearDate" class="clear-date" type="button" hidden>Quitar fecha ×</button></div>
+        <details class="calendar-picker" id="calendarPicker">
+          <summary><span aria-hidden="true">🗓️</span> <span id="calendarSummaryText">Elegir día en el calendario</span><span class="calendar-chevron" aria-hidden="true">⌄</span></summary>
+          <div class="calendar-panel" role="group" aria-label="Calendario compartido para Reservas y Agenda">
+            <div class="calendar-navigation">
+              <button type="button" class="calendar-nav" id="calendarPrev" aria-label="Mes anterior">‹</button>
+              <strong id="calendarMonthTitle" aria-live="polite"></strong>
+              <button type="button" class="calendar-nav" id="calendarNext" aria-label="Mes siguiente">›</button>
+            </div>
+            <div class="calendar-weekdays" aria-hidden="true"><span>L</span><span>M</span><span>X</span><span>J</span><span>V</span><span>S</span><span>D</span></div>
+            <div class="calendar-days" id="calendarDays" aria-label="Días del mes"></div>
+            <p class="calendar-help"><span class="calendar-help-dot" aria-hidden="true"></span> Cada número indica los planes de la pestaña actual con fecha documentada. En Agenda, <span class="calendar-help-pending">*</span> señala planes pendientes de contrastar. Las fechas no confirmadas no se cuentan.</p>
           </div>
-          <div class="calendar-weekdays" aria-hidden="true"><span>L</span><span>M</span><span>X</span><span>J</span><span>V</span><span>S</span><span>D</span></div>
-          <div class="calendar-days" id="calendarDays" aria-label="Días del mes"></div>
-          <p class="calendar-help"><span class="calendar-help-dot" aria-hidden="true"></span> Los números corresponden a los resultados de los filtros. <span class="calendar-help-pending">*</span> indica que incluyen posibles planes pendientes de contrastar. Los períodos sin días precisos no se cuentan.</p>
-        </div>
-      </details>
+        </details>
+        <input type="hidden" id="when" value="7">
       </div>
       <div class="filters essential-filters" aria-label="Filtros principales">
         <label class="field">Municipio
@@ -77,12 +70,9 @@
         </label>
       </div>
       <details class="advanced-filters" id="advancedFilters">
-        <summary>Más filtros <span class="advanced-hint" id="advancedHint">Precio, fechas, novedades...</span><span class="chevron" aria-hidden="true">⌄</span></summary>
+        <summary>Más filtros <span class="advanced-hint" id="advancedHint">Precio y novedades</span><span class="chevron" aria-hidden="true">⌄</span></summary>
         <div class="advanced-content">
           <div class="filters extra-filters">
-            <label class="field" id="advancedWhenField" hidden>Más opciones de fecha
-              <select id="when"><option value="today">Hoy</option><option value="tomorrow">Mañana</option><option value="weekend">Este fin de semana</option><option value="7" selected>Próximos 7 días</option><option value="date" hidden>Fecha elegida</option><option value="14">Próximos 14 días</option><option value="30">Próximos 30 días</option><option value="all">Todas las vigentes</option></select>
-            </label>
             <label class="field">Precio
               <select id="price"><option value="">Cualquier precio</option><option value="free">Gratis</option><option value="paid">De pago</option></select>
             </label>
@@ -103,9 +93,9 @@
         <div>
           <p class="eyebrow dark">ORGANIZA TU PRÓXIMA SALIDA</p>
           <h2 id="advanceTitle"><span aria-hidden="true">🎟️</span> Para reservar con tiempo</h2>
-          <p>Teatros, espectáculos y planes que conviene organizar antes. Esta vista es independiente de «Hoy», «Este finde» y «7 días».</p>
+          <p>Teatros, espectáculos y planes que conviene organizar antes. El calendario de arriba filtra también estas reservas.</p>
         </div>
-        <span class="advance-horizon">Del día 7 al 60</span>
+        <span class="advance-horizon">Próximos 7–60 días</span>
       </div>
       <p id="advanceAgeNote" class="advance-age-note" role="status" hidden></p>
       <div id="advanceCards" class="advance-grid"></div>
@@ -151,5 +141,5 @@
   </details>
 </main>
 <footer><div class="shell footer-grid"><div><strong>✳ Hoy Toca Plan · Málaga</strong><p>Un proyecto independiente para hacer más fácil la vida en familia.</p></div><div><p>Datos informativos. Sin relación comercial con los organizadores. <a href="#projectInfo">Fuentes y transparencia</a></p><p>Las reservas, precios y horarios pueden cambiar. Verifica la web del evento.</p></div></div></footer>
-<script src="assets/app.js?v=marca-hoy-toca-plan-20261014-1" defer></script>
+<script src="assets/app.js?v=calendario-compartido-20261014-1" defer></script>
 </body></html>
