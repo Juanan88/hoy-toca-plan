@@ -22,7 +22,7 @@ const $ = id => document.getElementById(id);
 const safe = v => String(v ?? '').replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
 function link(url){try{const u=new URL(url);return ['https:','http:'].includes(u.protocol)?u.href:null;}catch{return null;}}
 const state={events:[],sources:[],discoveries:[],suggestions:[],status:{},radar:{},verification:{},health:{},tab:'agenda'};
-let cardsShown=24;
+let cardsShown=36;
 const localDate = () => {const parts=new Intl.DateTimeFormat('en-US',{timeZone:'Europe/Madrid',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(new Date());const p=Object.fromEntries(parts.map(x=>[x.type,x.value]));return `${p.year}-${p.month}-${p.day}`;};
 function plusDays(iso,n){const d=new Date(iso+'T12:00:00Z');d.setUTCDate(d.getUTCDate()+n);return d.toISOString().slice(0,10);}
 function fmtDate(date){if(!date)return 'Por confirmar';const d=new Date(date+'T12:00:00Z');return Number.isNaN(d.getTime())?safe(date):new Intl.DateTimeFormat('es-ES',{day:'numeric',month:'short',year:'numeric',timeZone:'UTC'}).format(d);}
@@ -188,7 +188,7 @@ function syncCalendarSelection(){
 function chooseCalendarDate(date){
  if(!/^\d{4}-\d{2}-\d{2}$/.test(date)||date<localDate())return;
  selectedDate=date;calendarMonth=date.slice(0,7);
- $('when').value='date';cardsShown=24;
+ $('when').value='date';cardsShown=36;
  syncCalendarSelection();renderEvents();renderAdvanceBookings();syncExplorerView();renderCalendar();
  $('calendarPicker').open=false;
  $('calendarPicker').querySelector('summary').focus();
@@ -199,7 +199,7 @@ function clearCalendarDate(){
  $('calendarPicker').open=false;
 }
 function resetSharedDate(){
- clearCalendarDate();cardsShown=24;renderEvents();renderAdvanceBookings();syncExplorerView();renderCalendar();
+ clearCalendarDate();cardsShown=36;renderEvents();renderAdvanceBookings();syncExplorerView();renderCalendar();
 }
 function syncAgeControl(){$('ageUnknownToggle').hidden=!$('age').value;}
 function ageMatches(e){const a=$('age').value;if(!a)return true; if(e.age_min==null&&e.age_max==null)return $('includeUnknownAge').checked;const n=Number(a);return (e.age_min==null||n>=Number(e.age_min))&&(e.age_max==null||n<=Number(e.age_max));}
@@ -483,14 +483,14 @@ function resetFilters(){
  for(const id of ['town','age','category','price'])$(id).value='';
  $('when').value='15';$('verifiedOnly').checked=true;$('newOnly').checked=false;
  $('includeUnknownAge').checked=true;
- cardsShown=24;
+ cardsShown=36;
  clearCalendarDate();
  syncAgeControl();renderEvents();renderCalendar();renderAdvanceBookings();syncExplorerView();
 }
 for(const id of ['town','age','category','price','verifiedOnly','newOnly','includeUnknownAge'])
  $(id).addEventListener('input',()=>{
   if(id==='age')syncAgeControl();
-  cardsShown=24;renderEvents();renderAdvanceBookings();syncExplorerView();renderCalendar();
+  cardsShown=36;renderEvents();renderAdvanceBookings();syncExplorerView();renderCalendar();
  });
 $('clearDate').addEventListener('click',resetSharedDate);
 $('projectInfo').addEventListener('toggle',()=>{if($('projectInfo').open){renderSources();renderHealth();renderDiscoveries();}});

@@ -896,11 +896,14 @@
     "approved": true,
     "max_links": 12,
     "strict_location": true,
-    "notes": "Revisar talleres infantiles de La Térmica Mini y las fechas de cada sesión; confirmar edad, duración, precio y formulario de inscripción en la ficha oficial.",
+    "notes": "Revisar programación y formularios de La Térmica Mini; los talleres de robótica Galilei Kids son tres entregas separadas con sesiones y precios por bloque, no entradas para sábados sueltos.",
     "status": "pendiente",
     "first_seen": "2026-10-14",
     "watch_urls": [
-      "https://latermicamalaga.com/taller-de-ceramica-infantil-28noviembre/"
+      "https://latermicamalaga.com/taller-de-ceramica-infantil-28noviembre/",
+      "https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+      "https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+      "https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/"
     ]
   }
 ]
