@@ -544,6 +544,9 @@ $('searchSource').addEventListener('input',renderSources);
 $('clear').addEventListener('click',resetFilters);
 syncAgeControl();
 syncCalendarSelection();
-activeView=viewFromUrl();
+// Cada apertura nueva comienza en Reservas, incluso si se recarga una URL antigua #agenda.
+// El historial sigue permitiendo cambiar de vista en esta sesión.
+activeView='reservas';
+if(window.location.hash==='#agenda')window.history.replaceState({pequeplanView:'reservas'},'','#reservas');
 syncExplorerView();
 init();
