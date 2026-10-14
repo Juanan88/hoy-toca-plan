@@ -437,7 +437,6 @@ async function getJson(name){const res=await fetch('data/'+name+'.json',{cache:'
 async function init(){try{$('reloadData').hidden=true;const events=await getJson('events');if(!Array.isArray(events))throw new Error('events.json inválido');const optional=await Promise.all(['sources','discoveries','source_suggestions','status','radar_status','verification_status','health'].map(n=>getJson(n).catch(()=>['status','radar_status','verification_status','health'].includes(n)?{}:[])));const [sources,discoveries,suggestions,status,radar,verification,health]=optional;Object.assign(state,{events,sources:Array.isArray(sources)?sources:[],discoveries:Array.isArray(discoveries)?discoveries:[],suggestions:Array.isArray(suggestions)?suggestions:[],status:status||{},radar:radar||{},verification:verification||{},health:health||{}});choices('town',[...new Set(events.filter(relevant).map(e=>e.town))]);choices('category',[...new Set(events.filter(relevant).map(e=>e.category))]);statusMessage();stats();syncAgeControl();renderEvents();renderCalendar();syncExplorerView();renderAdvanceBookings();}catch(e){$('statusLine').classList.add('warn');$('statusLine').textContent='No se pudo cargar la agenda. Comprueba la conexión y vuelve a intentarlo.';$('reloadData').hidden=false;document.querySelector('.diagnostics').open=true;$('projectInfo').open=true;$('cards').innerHTML='<div class="empty">No se pudo cargar la agenda. Usa el botón de reintentar de la sección de actualización.</div>';console.error(e);}}
 // Dos modos de explorar sin acumular dos listados verticales.
 let activeView='reservas';
-const viewScroll={agenda:null,reservas:null};
 function viewFromUrl(){return window.location.hash==='#agenda'?'agenda':'reservas';}
 function agendaPeriodLabel(){
  const v=$('when').value;
@@ -469,23 +468,15 @@ function syncExplorerView(){
   tab.tabIndex=selected?0:-1;
  }
 }
-function chooseExplorerView(next,{push=false,restore=true}={}){
+function chooseExplorerView(next,{push=false}={}){
  if(next!=='agenda'&&next!=='reservas')return;
  if(next===activeView){syncExplorerView();return;}
- viewScroll[activeView]=window.scrollY;
  activeView=next;
  syncExplorerView();
  renderAdvanceBookings();renderCalendar();
+ // Mantener el viewport donde estaba. La pestaña sticky ya permanece a la vista.
+ // No restaurar scroll de cada pestaña ni desplazar hacia su cabecera.
  if(push)window.history.pushState({pequeplanView:next},'',next==='reservas'?'#reservas':'#agenda');
- if(restore){
-  // Se conserva la posición de la vista anterior, incluso al usar Atrás/Adelante.
-  const saved=viewScroll[next];
-  window.requestAnimationFrame(()=>{
-   const tabs=document.querySelector('.view-switch');
-   const target=saved==null?Math.max(0,window.scrollY+tabs.getBoundingClientRect().top-8):saved;
-   window.scrollTo(0,target);
-  });
- }
 }
 function resetFilters(){
  for(const id of ['town','age','category','price'])$(id).value='';
