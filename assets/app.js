@@ -75,6 +75,7 @@ function eventOnDate(e,date){
  const day=weekdayIndex(date),weekly=weeklyOpeningDays(e);
  if(weekly.closed.has(day))return false;
  if(weekly.open.size)return weekly.open.has(day);
+ if(e.interval_kind==='continuous_days'&&e.status==='publicada_en_fuente')return true;
  if(explicitlyEveryDay(e)||explicitlyEnumeratedPeriod(e))return true;
  return false; // Un período amplio no crea sesiones diarias por sí solo.
 }
