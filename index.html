@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0b3741">
+  <meta name="description" content="Hoy Toca Plan: agenda de actividades infantiles en Málaga y provincia. Consulta fechas, edades, precios y entradas en las fuentes originales.">
+  <!-- Identificador público de Cloudflare Web Analytics para medir la audiencia. -->
+  <meta name="pequeplan-analytics-token" content="4d8fd7f67a3d4960844bee8cd91f0adc">
+  <title>Hoy Toca Plan · Málaga | Agenda familiar y actividades con niños</title>
+  <link rel="stylesheet" href="assets/site.css?v=ux-venue-20261014-1">
+</head>
+<body>
+<header class="hero">
+  <div class="shell">
+    <nav class="topbar" aria-label="Principal">
+      <a href="./" class="brand" aria-label="Hoy Toca Plan Málaga - inicio"><span class="brand-icon">✳</span> Hoy Toca <span>Plan</span></a>
+      <span class="top-badge">Agenda familiar · Provincia de Málaga</span>
+    </nav>
+    <div class="headline">
+      <div>
+        <p class="eyebrow">TU AGENDA FAMILIAR EN MÁLAGA</p>
+        <h1>¿Qué hacemos con <em>los peques?</em></h1>
+        <p class="subhead">Planes reales, fechas claras y una forma sencilla de elegir qué hacer en familia.</p>
+        <div class="hero-metas"><span>📍 Málaga y provincia</span><span>👧 De 0 a 12 años</span><span>✓ Enlaces para comprobar cada plan</span></div>
+      </div>
+      <div class="hero-art" aria-hidden="true"><span>☀️</span><span>🎪</span><span>🌿</span><span>🦕</span></div>
+    </div>
+  </div>
+</header>
+<main class="shell main">
+  <section id="panel-agenda" aria-label="Agenda de actividades">
+    <div class="section-intro"><div><p class="eyebrow dark">ENCUENTRA TU PRÓXIMO PLAN</p><h2>Planes para disfrutar juntos</h2></div><p>Elige cuándo y dónde. Nosotros reunimos las opciones.</p></div>
+    <div class="view-switch" role="tablist" aria-label="Explorar actividades">
+      <button type="button" id="tabReservas" role="tab" aria-selected="true" aria-controls="advanceBookings" data-explore="reservas">🎟️ Reservar con tiempo</button>
+      <button type="button" id="tabAgenda" role="tab" aria-selected="false" aria-controls="agendaResults" data-explore="agenda">Agenda próxima</button>
+    </div>
+    <p class="view-period" id="viewPeriod" role="status">Reservas anticipadas · 7–60 días desde hoy</p>
+    <div class="discovery-controls">
+      <div class="agenda-date-controls" id="agendaDateControls" hidden>
+      <fieldset class="when-shortcuts">
+        <legend>¿Para cuándo?</legend>
+        <div class="date-chips" role="group" aria-label="Seleccionar fecha rápidamente">
+          <button class="date-chip" type="button" data-when="today" aria-pressed="false">Hoy</button>
+          <button class="date-chip" type="button" data-when="tomorrow" aria-pressed="false">Mañana</button>
+          <button class="date-chip" type="button" data-when="weekend" aria-pressed="false">Este finde</button>
+          <button class="date-chip active" type="button" data-when="7" aria-pressed="true">7 días</button>
+        </div>
+      </fieldset>
+      <details class="calendar-picker" id="calendarPicker">
+        <summary><span aria-hidden="true">🗓️</span> <span id="calendarSummaryText">Elegir un día concreto</span><span class="calendar-chevron" aria-hidden="true">⌄</span></summary>
+        <div class="calendar-panel" role="group" aria-label="Calendario para seleccionar la fecha">
+          <div class="calendar-navigation">
+            <button type="button" class="calendar-nav" id="calendarPrev" aria-label="Mes anterior">‹</button>
+            <strong id="calendarMonthTitle" aria-live="polite"></strong>
+            <button type="button" class="calendar-nav" id="calendarNext" aria-label="Mes siguiente">›</button>
+          </div>
+          <div class="calendar-weekdays" aria-hidden="true"><span>L</span><span>M</span><span>X</span><span>J</span><span>V</span><span>S</span><span>D</span></div>
+          <div class="calendar-days" id="calendarDays" aria-label="Días del mes"></div>
+          <p class="calendar-help"><span class="calendar-help-dot" aria-hidden="true"></span> Los números corresponden a los resultados de los filtros. <span class="calendar-help-pending">*</span> indica que incluyen posibles planes pendientes de contrastar. Los períodos sin días precisos no se cuentan.</p>
+        </div>
+      </details>
+      </div>
+      <div class="filters essential-filters" aria-label="Filtros principales">
+        <label class="field">Municipio
+          <select id="town"><option value="">Toda la provincia</option></select>
+        </label>
+        <div class="field age-field">
+          <label for="age">Edad del peque</label>
+          <select id="age"><option value="">Todas las edades</option><option value="0">0 años</option><option value="1">1 año</option><option value="2">2 años</option><option value="3">3 años</option><option value="4">4 años</option><option value="5">5 años</option><option value="6">6 años</option><option value="7">7 años</option><option value="8">8 años</option><option value="9">9 años</option><option value="10">10 años</option><option value="11">11 años</option><option value="12">12 años</option></select>
+          <label class="check age-unknown-toggle" id="ageUnknownToggle" hidden><input id="includeUnknownAge" type="checkbox" checked> Incluir planes sin edad confirmada</label>
+        </div>
+        <label class="field">Tipo de plan
+          <select id="category"><option value="">Todos los tipos</option></select>
+        </label>
+      </div>
+      <details class="advanced-filters" id="advancedFilters">
+        <summary>Más filtros <span class="advanced-hint" id="advancedHint">Precio, fechas, novedades...</span><span class="chevron" aria-hidden="true">⌄</span></summary>
+        <div class="advanced-content">
+          <div class="filters extra-filters">
+            <label class="field" id="advancedWhenField" hidden>Más opciones de fecha
+              <select id="when"><option value="today">Hoy</option><option value="tomorrow">Mañana</option><option value="weekend">Este fin de semana</option><option value="7" selected>Próximos 7 días</option><option value="date" hidden>Fecha elegida</option><option value="14">Próximos 14 días</option><option value="30">Próximos 30 días</option><option value="all">Todas las vigentes</option></select>
+            </label>
+            <label class="field">Precio
+              <select id="price"><option value="">Cualquier precio</option><option value="free">Gratis</option><option value="paid">De pago</option></select>
+            </label>
+          </div>
+          <div class="filter-bottom">
+            <label class="check"><input id="newOnly" type="checkbox"> Solo novedades de 7 días</label>
+            <label class="check" id="verifiedFilter" hidden><input id="verifiedOnly" type="checkbox" checked> Solo planes con fecha publicada</label>
+          </div>
+        </div>
+      </details>
+    </div>
+    <div class="booking-shortcut" id="advanceTeaser" hidden>
+      <div><strong>🎟️ ¿Planeas algo para las próximas semanas?</strong><p>Descubre espectáculos y actividades con reserva previa, sin mezclar sus fechas con la agenda.</p></div>
+      <button id="advanceTeaserButton" type="button">Ver planes para reservar →</button>
+    </div>
+    <section id="advanceBookings" class="advance-bookings" role="tabpanel" aria-labelledby="tabReservas">
+      <div class="advance-header">
+        <div>
+          <p class="eyebrow dark">ORGANIZA TU PRÓXIMA SALIDA</p>
+          <h2 id="advanceTitle"><span aria-hidden="true">🎟️</span> Para reservar con tiempo</h2>
+          <p>Teatros, espectáculos y planes que conviene organizar antes. Esta vista es independiente de «Hoy», «Este finde» y «7 días».</p>
+        </div>
+        <span class="advance-horizon">Del día 7 al 60</span>
+      </div>
+      <p id="advanceAgeNote" class="advance-age-note" role="status" hidden></p>
+      <div id="advanceCards" class="advance-grid"></div>
+      <button id="advanceBack" class="view-return" type="button">← Volver a la agenda próxima</button>
+      <p class="advance-disclaimer">La fecha está publicada, pero no comprobamos plazas ni entradas disponibles. Confirma los detalles en la web del organizador.</p>
+    </section>
+    <section id="agendaResults" role="tabpanel" aria-labelledby="tabAgenda" hidden>
+    <div class="results-toolbar">
+      <p class="results-count" id="resultsCount" role="status">Buscando planes...</p>
+      <button id="clear" class="text-button" type="button">Restablecer filtros</button>
+    </div>
+    <div id="cards" class="cards"></div><button id="showMore" class="text-button" type="button" hidden>Mostrar más actividades ↓</button>
+    <div class="fineprint"><strong>Antes de ir:</strong> comprueba horario, edad y entradas en la fuente del organizador. «Edad sin confirmar» no significa apta para cualquier niño. Un período no garantiza sesiones diarias.</div>
+    </section>
+  </section>
+  <details class="project-info" id="projectInfo">
+    <summary>Acerca de Hoy Toca Plan · Fuentes y transparencia <span aria-hidden="true">⌄</span></summary>
+    <div class="project-info-content">
+      <p>Hoy Toca Plan recopila fichas de actividades de fuentes externas. Las plazas, horarios y precios pueden cambiar.</p>
+      <details class="project-subsection" id="sourcesDetails">
+        <summary>Fuentes consultadas <span id="sourceCount"></span></summary>
+  <section id="panel-sources">
+    <div class="section-intro"><div><p class="eyebrow dark">NUESTRA RED DE FUENTES</p><h2>De dónde salen los planes</h2></div><p>El catálogo crece con nuevas sugerencias y revisiones.</p></div>
+    <label class="field source-search">Buscar fuente<input id="searchSource" type="search" placeholder="Ayuntamiento, teatro, museo..."></label>
+    <h3 class="subsection-title">Estado del sistema</h3><div id="healthCard" class="source-card" aria-live="polite">Consultando estado de los rastreos...</div><h3 class="subsection-title">Fuentes del catálogo</h3><div id="sources" class="sources"></div>
+    <h3 class="subsection-title">Fuentes propuestas para valorar</h3><div id="sourceSuggestions" class="sources"></div>
+  </section>
+      </details>
+      <details class="project-subsection" id="discoveryDetails">
+        <summary>Posibles planes por verificar <span id="discoveryCount"></span></summary>
+  <section id="panel-discoveries">
+    <div class="section-intro"><div><p class="eyebrow dark">RADAR DE NOVEDADES</p><h2>Pistas de posibles planes</h2></div><p>Noticias y enlaces detectados automáticamente, todavía sin fecha, municipio o público infantil suficientemente comprobados. No son actividades confirmadas.</p></div>
+    <div id="discoveries" class="sources"></div>
+  </section>
+      </details>
+  <details class="diagnostics">
+    <summary>Cómo se actualiza Hoy Toca Plan <span aria-hidden="true">⌄</span></summary>
+    <div class="status-line" id="statusLine" role="status">Cargando agenda...</div>
+    <button id="reloadData" type="button" class="text-button" hidden>Reintentar cargar agenda</button>
+    <div class="kpis" id="kpis" aria-label="Resumen del catálogo"></div>
+  </details>
+    </div>
+  </details>
+</main>
+<footer><div class="shell footer-grid"><div><strong>✳ Hoy Toca Plan · Málaga</strong><p>Un proyecto independiente para hacer más fácil la vida en familia.</p></div><div><p>Datos informativos. Sin relación comercial con los organizadores. <a href="#projectInfo">Fuentes y transparencia</a></p><p>Las reservas, precios y horarios pueden cambiar. Verifica la web del evento.</p></div></div></footer>
+<script src="assets/app.js?v=marca-hoy-toca-plan-20261014-1" defer></script>
+</body></html>
