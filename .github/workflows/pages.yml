@@ -75,3 +75,40 @@ jobs:
       - name: Publicar página
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Verificar la web realmente publicada y el catálogo completo
+        env:
+          PAGES_URL: ${{ steps.deployment.outputs.page_url }}
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import os
+          import time
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+          from urllib.parse import urljoin
+
+          base = os.environ['PAGES_URL'].rstrip('/') + '/'
+          expected = Path('data/events.json').read_bytes()
+          expected_digest = hashlib.sha256(expected).hexdigest()
+          reason = 'Sin respuesta'
+          for attempt in range(1, 13):
+              try:
+                  def get(url):
+                      with urlopen(Request(url, headers={'Cache-Control': 'no-cache'}), timeout=20) as resp:
+                          return resp.read()
+                  html = get(base).decode('utf-8')
+                  if '<title>Hoy Toca Plan' not in html:
+                      raise ValueError('No se encuentra la identidad Hoy Toca Plan en Pages')
+                  actual = get(urljoin(base, 'data/events.json') + '?v=' + expected_digest[:16])
+                  if hashlib.sha256(actual).hexdigest() != expected_digest:
+                      raise ValueError('Pages todavía no sirve el catálogo de este commit')
+                  print(f'PAGES OK: web activa, JSON idéntico, sha256={expected_digest[:16]} (intento {attempt})')
+                  break
+              except Exception as exc:
+                  reason = str(exc)
+                  if attempt == 12:
+                      raise SystemExit('Fallo comprobando Pages: ' + reason)
+                  time.sleep(5)
+          PY
