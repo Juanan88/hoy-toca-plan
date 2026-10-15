@@ -242,13 +242,13 @@ function eventChronological(a,b){
 }
 // Reservas anticipadas: independiente del rango de la agenda, pero respeta
 // municipio, edad, categoría y precio. Nunca supone entradas disponibles.
-const BOOKING_LEAD_DAYS=7;
+const BOOKING_LEAD_DAYS=1;
 const BOOKING_HORIZON_DAYS=60;
 
 function bookingNextDate(e,today=localDate()){
  const from=plusDays(today,BOOKING_LEAD_DAYS),until=plusDays(today,BOOKING_HORIZON_DAYS);
  if(e.status!=='publicada_en_fuente'||!relevant(e)||!e.start)return null;
- // Día explícito: reservas y agenda usan la misma sesión, sin el límite anticipado.
+ // Día explícito: reservas y agenda usan la misma sesión; el calendario permite seleccionar hoy.
  if(selectedDate)return selectedDate>=today&&eventOnDate(e,selectedDate)?selectedDate:null;
  const sessions=Array.isArray(e.occurrences)&&e.occurrences.length?
   activeSessions(e).filter(d=>d>=from&&d<=until).sort():null;
@@ -321,7 +321,7 @@ function renderAdvanceBookings(){
  if(!candidates.length){
   $('advanceCards').innerHTML=age?'<div class="advance-empty">No hay actividades para reservar que coincidan con estos filtros'+
     ($('includeUnknownAge').checked?'. Comprueba otra edad o municipio.':'. Puedes activar «Incluir planes sin edad confirmada» para ampliar las opciones.')+
-    '</div>':'<div class="advance-empty">'+(selectedDate?'No hay reservas para el '+fmtDate(selectedDate)+' con estos filtros. Prueba otra fecha o municipio.':'No hay planes para reservar en los próximos 7–60 días con estos filtros. Prueba otro municipio, categoría o precio.')+'</div>';
+    '</div>':'<div class="advance-empty">'+(selectedDate?'No hay reservas para el '+fmtDate(selectedDate)+' con estos filtros. Prueba otra fecha o municipio.':'No hay planes para reservar en los próximos 1–60 días con estos filtros. Prueba otro municipio, categoría o precio.')+'</div>';
   return;
  }
  $('advanceCards').innerHTML=candidates.map(advanceCardHtml).join('');
@@ -460,9 +460,9 @@ function syncExplorerView(){
  $('viewPeriod').textContent=agenda?'Agenda próxima · '+agendaPeriodLabel():
   selectedDate?'Reservas para el '+fmtDate(selectedDate):
   'Reservas anticipadas · '+fmtDate(plusDays(localDate(),BOOKING_LEAD_DAYS))+
-  ' – '+fmtDate(plusDays(localDate(),BOOKING_HORIZON_DAYS))+' (7–60 días desde hoy)';
+  ' – '+fmtDate(plusDays(localDate(),BOOKING_HORIZON_DAYS))+' (1–60 días desde hoy)';
  const horizon=$('advanceBookings').querySelector('.advance-horizon');
- if(horizon)horizon.textContent=selectedDate?'Fecha elegida':'Próximos 7–60 días';
+ if(horizon)horizon.textContent=selectedDate?'Fecha elegida':'Próximos 1–60 días';
  for(const [view,id] of [['agenda','tabAgenda'],['reservas','tabReservas']]){
   const tab=$(id),selected=view===activeView;
   tab.setAttribute('aria-selected',String(selected));
