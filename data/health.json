@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-14T14:38:04+00:00",
+  "generated_at": "2026-10-15T10:16:59+00:00",
   "level": "attention",
-  "events": 93,
-  "sources": 63,
+  "events": 99,
+  "sources": 64,
   "catalog_drift": false,
   "last_scan_snapshot": {
-    "events": 93,
-    "sources": 63
+    "events": 99,
+    "sources": 64
   },
-  "discoveries_pending": 90,
-  "discoveries_unresolved": 240,
+  "discoveries_pending": 125,
+  "discoveries_unresolved": 305,
   "unverified_events": 8,
-  "known_age": 23,
+  "known_age": 27,
   "sources_never_checked": 0,
-  "sources_failed": 10,
+  "sources_failed": 11,
   "source_errors": [
     {
       "name": "La Diversiva",
@@ -54,22 +54,26 @@
     {
       "name": "Agenda Axarquía · propuestas comarcales",
       "detail": "403 Client Error: Forbidden for url: https://agendaaxarquia.com/agenda/este-mes"
+    },
+    {
+      "name": "La Térmica Mini · programación infantil (agenda oficial)",
+      "detail": "521 Server Error: <none> for url: https://latermicamalaga.com/la-termica-mini/"
     }
   ],
-  "last_full_scan": "2026-10-14T14:29:11+00:00",
+  "last_full_scan": "2026-10-15T10:06:50+00:00",
   "days_since_full_scan": 0.0,
-  "last_radar": "2026-10-14T14:36:48+00:00",
+  "last_radar": "2026-10-15T10:15:20+00:00",
   "days_since_radar": 0.0,
-  "last_verifier": "2026-10-14T14:37:33+00:00",
-  "age_missing": 70,
+  "last_verifier": "2026-10-15T10:16:23+00:00",
+  "age_missing": 72,
   "municipalities_with_events": 13,
   "coverage_by_town": {
-    "Málaga": 59,
+    "Málaga": 64,
     "Fuengirola": 9,
     "Torremolinos": 5,
     "Marbella": 5,
     "Estepona": 3,
-    "Benalmádena": 2,
+    "Benalmádena": 3,
     "Antequera": 2,
     "Vélez-Málaga": 2,
     "Colmenar": 2,
@@ -79,6 +83,6 @@
     "Mijas": 1
   },
   "alerts": [
-    "10 fuentes con error en su última consulta"
+    "11 fuentes con error en su última consulta"
   ]
 }
