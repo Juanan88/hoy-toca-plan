@@ -4,21 +4,27 @@
     "url": "https://cultura.malaga.eu/es/agenda/detalle-de-agenda/index.html?id=149175&tipoVO=2",
     "source_name": "Agenda Cultura Málaga",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Teatro en familia",
     "url": "https://cultura.malaga.eu/es/actividades-culturales/actividades-escenicas/teatro-en-familia/",
     "source_name": "Agenda Cultura Málaga",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Taller de Poesía. B.P.M. Manuel Altolaguirre",
     "url": "https://bibliotecas.malaga.eu/es/agenda/detalle-de-agenda/index.html?id=149173&tipoVO=2",
     "source_name": "Bibliotecas Málaga",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Talleres en Familia. B.P.M. Manuel Altolaguirre",
@@ -44,7 +50,9 @@
     "url": "https://www.marbella.es/agenda/cultura-y-ensenanza/tododanza.html",
     "source_name": "Ayuntamiento de Marbella",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Otros eventos",
@@ -67,7 +75,9 @@
     "url": "https://turismo.marbella.es/agenda/agenda-palacio-de-congresos.html",
     "source_name": "Turismo Marbella",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Publica tu evento",
@@ -90,56 +100,72 @@
     "url": "https://juventud.malaga.eu/es/actividades-y-programas-00001/europa/actividades-locales/",
     "source_name": "Juventud Málaga",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Museo en acción Música clásica en la Colección 2026 14 de noviembre de 2026",
     "url": "https://www.carmenthyssenmalaga.org/actividad/musica-clasica-coleccion-2026",
     "source_name": "Museo Carmen Thyssen (web cultural)",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Educativas Infantil. Un ser vivo Del 14 de octubre de 2026 al 28 de mayo de 2027",
     "url": "https://www.carmenthyssenmalaga.org/visita-educativa/infantil-un-ser-vivo",
     "source_name": "Museo Carmen Thyssen (web cultural)",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "La familia Dino",
     "url": "https://saposyprincesas.elmundo.es/cine-ninos/la-familia-dino",
     "source_name": "Sapos y Princesas — Málaga",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Actividades dentro y fuera de casa para el otoño",
     "url": "https://saposyprincesas.elmundo.es/especiales/ideas-y-actividades-para-hacer-en-otono-con-ninos",
     "source_name": "Sapos y Princesas — Málaga",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Rutas fáciles para hacer con niños",
     "url": "https://saposyprincesas.elmundo.es/actividades-ninos/mejores/rutas-faciles-para-hacer-con-ninos",
     "source_name": "Sapos y Princesas — aire libre",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Talleres en Familia. B.P.M. Manuel Altolaguirre",
     "url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=149175",
     "source_name": "Agenda Cultura Ayuntamiento Málaga",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "TEATRO \"EL DEMONIO DE MI CASA\" INTRATERRA TEATRO",
     "url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=148881",
     "source_name": "Agenda Cultura Ayuntamiento Málaga",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Actividades de gobierno",
@@ -170,14 +196,18 @@
     "url": "https://www.juntadeandalucia.es/aaiicc/teatros/teatro-canovas/famulus-40-espectaculo-de-calle",
     "source_name": "Teatro Cánovas",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Ciclo Didáctico de Teatro, Danza y Música",
     "url": "https://www.juntadeandalucia.es/aaiicc/teatros/teatro-canovas/ciclo/28o-ciclo-de-teatro-musica-danza-y-flamenco-infantil-y-juvenil",
     "source_name": "Teatro Cánovas",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Moda infantil",
@@ -192,28 +222,36 @@
     "url": "https://www.miramarcc.com/eventos-infantiles/",
     "source_name": "CC Miramar Fuengirola",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "CLUB INFANTIL",
     "url": "https://www.centrocomercialrosaleda.es/rosaleda-kids-club/",
     "source_name": "CC Rosaleda",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Actividad Familiar Halloween 2026",
     "url": "https://laconcepcion.malaga.eu/es/noticias/detalle-de-la-noticia/?id=178730",
     "source_name": "Jardín Botánico La Concepción",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Visitas guiadas y actividades. Pulse aquí",
     "url": "https://laconcepcion.malaga.eu/es/servicios/",
     "source_name": "Jardín Botánico La Concepción",
     "first_seen": "2026-10-12",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-16",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
   },
   {
     "title": "Agenda Centralizada",
@@ -3458,5 +3496,377 @@
     "google_news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUnhTbUtmblZwM1Bzbm5FUlFwQk1OMVY4eWdzaHFPQkVPWndSamxEaWc5VTgtM21ObUNtdlBjOFJVMGNYQnB2dkVweFBXRW5kZFlJaU0yekRPcV9JQ1pRM3RXd3BJdGRVU2RySzdfbC1fT3pNdmN2Rk1YaWN5YXpzT1hJZHB0OHFpS09SNGpQYldUdFQxMFQyRUVaNUNFcGtRLU96YzhHMnFWV1A0RjhPcjJvNGRvNUJybVpfQy1n0gHSAUFVX3lxTE83eTFTODdScjBncnJLbmJ6VUZsY2R6cmZiazZxbjB1LXV1RVRnbkFqZ0xMYlVBRGNCV3ptdUZVOTBINGU1a3dVLXdhQi1MSjBJbmJnOWdPNGMtckN4Zld3VWtFVjVMcFRfbmNOTnowRVRlMXcxaGdyLW9NdDVkUFRrczduVmVZczBHdmNZbzZIRnFNbmpnRnJveEw3Smhka0p1X0VrVU1IcGpPSXV4bFY1WFhzWUdMWG0yVGduUHgxTEhNR3hyaERjYTNSNTNpaG5EZw?oc=5",
     "resolved_from_google_news": true,
     "last_checked": "2026-10-15"
+  },
+  {
+    "title": "Fuente de Piedra refuerza su identidad en torno a la laguna y los flamencos con la ‘Fiesta del Cagarzo’ - Cadena SER",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSEVUcDVHN0QzUXNZVkVqTUlGWGp5Q3JtZ2lldF9YX2hvSlZadUZsQ2tFWFE4UmZvN2JScm55NkEzd29FYlFfcXBacmJjbEZ1Q25QZG9zUnhQZHlsQ3Z5Q3J5NlJxZzJ4dG9yaF9QUXNSWjVXNDFkTHZsNFlIVkZLMjFLcEg2TkJMZC1DdFpDZG5RNXY2X0Y0WkJiTm9RNXN0Tk5sZlBJdnNrY0NUTWRmdnRYNWlUMFoxMGFaRGdKV0xnQTRqTGtuMlRmTEswMThRMDRINjdRMDR2X19BdzJtTVpNdzdOTDhJdUxLWXNR0gGCAkFVX3lxTFBPZ290OHpNbFJ4aEx1SzNVMUtmNTZyVkxjdGJ6aXRTSDJLMERRd3hRTDdEMk13bERxdk1Wd0hnOU10VjRsLWdLSEc2Xy1GQW5qUjVvcUxNVzhfZG4zVHI5OXdqR2ZnT0FlSHVLa3NZMUZ1SEtIWnhlSmJtc3lUUmFFckd1WWxjRWUtcklDV3htNG11cVZ6MnhRX1lIZUNuaGhqSEkwY1pBcGo5ZFcydDlOcEUwczMxcndobTFTaTBOVXU1MlFtdDZnWVRXLU1hVHFnSE5VZ3dSUWE1T1J5NnpoaVRQbjloTEFHOS01WXVhLUdWZ3FnMzBhT0ZOSGJNY3h2UQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Fuente de Piedra refuerza su identidad en torno a la laguna y los flamencos con la ‘Fiesta del Cagarzo’ Cadena SER",
+    "discovery_method": "rss",
+    "query": "\"Fuente de Piedra\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Tue, 29 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "FGJES esclarece doble homicidio en Fuente de Piedra -Uno de los detenidos tenía en su poder el fusil que mediante pruebas de balística fue relacionado con el ataque al CUM previo al espectáculo “Noche Suprema”, así como ",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUFhvQ2xVRlExTDQ2VDRDVHdDdXRFdHhDbk9PNUQtc093NnMyZ21tcjZVLU5BclYtbmF5LXAzeGlVUVRGWFdqR0FVdzhrOWNJRXBpVUdqODhGZEpPQ2JneXR5RDB4dXRyeEpjRnpRYXZwWkxjUjZMcHNKNDV2WndNcW44dmFkRlNzNzVXbkxnNm1JaHpxbnlOR1plVFN6Q0k2bVdNTFpfWkRhV0lrSUlxaTN6MnJFejEzSWNnV1Q5ak1QeWRnVHJ6VUhBM0dXdUVoSDhZdDE5UWxVNWZmcjl3R1czUFU1c2FRam1rUg?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "FGJES esclarece doble homicidio en Fuente de Piedra -Uno de los detenidos tenía en su poder el fusil que mediante pruebas de balística fue relacionado con el ataque al CUM previo al espectáculo “Noche Suprema”, así como con otro homicidio en Hermosi Facebook",
+    "discovery_method": "rss",
+    "query": "\"Fuente de Piedra\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Fri, 09 Oct 2026 23:55:22 GMT"
+  },
+  {
+    "title": "CAMPILLOS (MÁLAGA) ACOGERÁ TRES TALLERES PARA FOMENTAR LA - Malagaes",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWEFrdHJxekdYTk43cmFiVXNrYmcxajNpdTdPSGJUU1oxMXZsaHViMGJzZ0lTeVk0TmEwSHQya0ZrTFVHZUhEbnRZd3I5dWw3eDM3aWdaYlQ5UVF0QUpJNV9lRjQteFEySllnYl9UUjlRQk9pOTd1WE5DSXhNRzJJV25fb2NzVW5rWTZOMHhSWXR2VFF5RDZPTTdZSExiY19kZkY5d0lqRFdqR3ZuZ1p3YUJwSXd4TFdrRk11Q21BS2l2S0ZTdHBCNTRSSlV6cF90U0wwQUJB?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "CAMPILLOS (MÁLAGA) ACOGERÁ TRES TALLERES PARA FOMENTAR LA Malagaes",
+    "discovery_method": "rss",
+    "query": "\"Campillos\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Tue, 13 Oct 2026 09:46:57 GMT"
+  },
+  {
+    "title": "Campillos arranca un nuevo curso de talleres para mayores con más de 400 participantes - Cadena SER",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd2dGd051QTRIT1M2Q0dZc1g0N3ZWNERhdzZIYkNieFk5TGkyV0lUaVQ3WG9DVGtDRzI2Vi1xLWo5MmJiaHNMNFQ4QkJodS1xTlN0U2xaal9ndnJ6b1JDZmYtTkNzNXVZZHNCLTJkVG1GNnVmd1o3cTJVQ1V2TlZCaVVPZlRWWW00d2xCb1pFUlNMd245LUloX1NWdG1QR2VFSUdobEotcTZvdEJKY25sTkVSSVJ5c0xsT2Fva3ctdGNmNldDVzA2UUJQbkROaHhvUkpPVmpMZThFOGZQ0gHwAUFVX3lxTE5kcTZ1TVVQLVZROTh6c2cwMWtJcEdBbmZrOHFaaTBJRjEyalB6S1NtM1FfWUowRGFhU0FOZENmbDcyR0FHa2pSbDhaSVc0MEpvN3dYN29xdndPbnM5d3VEUTFjeTlQZkFfbk8tdzUzWnpDQmpDOHRwTW9ncjFhaGlkX3YtMnVELVVnYTJZQ3RZNXU5Q1czM09EUGxnNzMycWM4TXFjR3lQQzN3ZDIyQm9rZHYyR3ZuYmVMd3NMalYxMzIxZDJBcWQ1c0xfYW45ZVF6Ym1GemQ4dmw2MFpuLUZRVlBjbkk0N3lsakFVLVlwXw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Campillos arranca un nuevo curso de talleres para mayores con más de 400 participantes Cadena SER",
+    "discovery_method": "rss",
+    "query": "\"Campillos\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Sat, 19 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "El Ayuntamiento de Ronda informa de un taller práctico de inteligencia artificial para empresas y autónomos - Ayuntamiento de Ronda",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOejF2N25YTE03eUpkRE5KcFVQQnRZMFJ0TVBjaURiZ0tUdVpxbk4yYTU1WXIycUdYRTl5dWJWT3VTZWd4UVh3eTNJQ2l1RURENUdoZGwxNk80SWZrZnFEN3B3b21kbTIzX0w3Vi1UcERuZmE1Y1pqejJSUGF6d1JaV0Z0dXptTUlUR0haNXphVzRUVmJwUkp2QmJlWF9YbE1BMDlTT3J2U25SekhYU05JMHJ2VElmQTRNZ0ZMWUpuMWlsQ2k2ZlpJbkVFY3RqakRudmJz?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "El Ayuntamiento de Ronda informa de un taller práctico de inteligencia artificial para empresas y autónomos Ayuntamiento de Ronda",
+    "discovery_method": "rss",
+    "query": "\"Ronda\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Wed, 14 Oct 2026 13:40:34 GMT"
+  },
+  {
+    "title": "Ronda acogerá un taller sobre inteligencia artificial para mejorar la gestión de los negocios - Charry TV",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc0VDS1U1VVVZZUowdlgwVjR6ZnFPY2F0SkhhbHRVai02Z0pyVjBFQTFXcVVBZVFRVzcwSG5USldyUERJaVFGeWZDdk5lY1BDaGlWd3NrS2Qzc3BpYTBXdUxWLVZ3bzhyYmJSbXp4bVVYcHd4SEpBN19CRDRBYmlGdXJNN0ZiUzFwcFB4d3dldVNoaExseGJ3cHdtS3NOX3EtS0pBYklmTE5TdzlpV0dNZ0V5Tnpzb3Q3XzZ3eGRjYUNBRTFlNFBrSjln?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Ronda acogerá un taller sobre inteligencia artificial para mejorar la gestión de los negocios Charry TV",
+    "discovery_method": "rss",
+    "query": "\"Ronda\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Wed, 14 Oct 2026 14:19:26 GMT"
+  },
+  {
+    "title": "Ronda vivirá una noche de Halloween terrorífica y solidaria en el Convento de Santo Domingo - Andalucía Información",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQak1nRTZEbS0wa3lUOGVWa2NOSG1NaGMxVGRqNGdOZ1ZKVGJZa084cGU5cC1PLU5vYmZpS0ZwX3k4SEJlcnlHeURrb3c5UnRTTWt5RkFDRGNYMW9sWExZbWNWTUF6bEdSbWVJWU9xTDhrZ18xR2xtRTJfRWMzb0hBTzFOaWJxelZBU084UkNlZlhoREphX0loVnp1cTJTbGdiR1FrdE1Ed3dYRWFnMFBoOGlZZFlUZ1pTWnNaLWhqOXVmWkNIZHpBcXdBZ3lTaUdsRnR5cnNOajRpVWljclhDbVd5NElmYTQ1RjFfUHliWDlsaDQxM1ItRdIB_gFBVV95cUxQSnRkVnBUa1JXR2N0aHE5VUd5X2dIQTFkOEFDWVFyRUlieFlnbm43bC03Qmg4eGFBMllQb3pXWHZ6ZDEtZ1p0ellMd2N0SmVQd3N2OGxpSDBVNGxGdW41bkVGMEtQSi1yRjIyRmc1Zk5mbGZfYTVlZ2trcXJSUWFiZ21qQXBVVGdhTG13WmdRSUJOUTdoZUJ2WkJZYXdMZldfc0w0el9sQ3ZBRzhwY0FOM0JRM2FmVk9kazZ0Qnd4WXc4ODliMTFaOHFJN09DSEEtR1pubnVFMndzb1VKTjdJZV95Rnc1aVdkekUyWW5oTnR5bDY0aTZDUkVnLVREZw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Ronda vivirá una noche de Halloween terrorífica y solidaria en el Convento de Santo Domingo Andalucía Información",
+    "discovery_method": "rss",
+    "query": "\"Ronda\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Fri, 09 Oct 2026 16:58:56 GMT"
+  },
+  {
+    "title": "Diputación de Málaga impulsa un taller práctico sobre inteligencia artificial para empresas y autónomos en Ronda - Cope Ronda",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFdJZldlX2cteFowdzBhRjd2MnotYmN5LWpHaVdmLUZ1OW1GTjNjSnExTnZ4XzNjTEloTEFILThzTGlOeWR6TTd1Qjl4NW9VU0dyVUtXUEdnVVBqUDNNRDZOMlhtS1lQYlBxMkdTX3UzbU5QbmRwRlRUN29iN2Z0eUxR?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Diputación de Málaga impulsa un taller práctico sobre inteligencia artificial para empresas y autónomos en Ronda Cope Ronda",
+    "discovery_method": "rss",
+    "query": "\"Ronda\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Wed, 14 Oct 2026 11:04:19 GMT"
+  },
+  {
+    "title": "El espectáculo de magia 'Liberada' de Lola Mento se estrenará en Ronda el próximo 18 de octubre - Diario Ronda",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeWZKX2t2cERWaVNSUGRsQnZUdTBPaFhwREhIaUJUbDVRMFl6MXN5WUdkZnVTY1htdEFFai1wOHdJUEdFU2xpR3pCSUI2dUxOT09TYU80NE9aZFdSNENiWjRHTTlnU243MFVja0JyQVI5Z254S3VDUUw5MjJ5bmpXbUt1b3ZVSVVwTGxTZnZVc0lqUy13dUUzWGktc1Zob25OZW1NN2huN2lveEdwVVVkeWh3NTNQa2Jhdkw4SWgwQzFhYUhYVEQtcVVzM2tyZw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "El espectáculo de magia 'Liberada' de Lola Mento se estrenará en Ronda el próximo 18 de octubre Diario Ronda",
+    "discovery_method": "rss",
+    "query": "\"Ronda\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Fri, 02 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "El Ayuntamiento de Ronda y Circus Berlín facilitan 150 entradas gratuitas para que menores en situación de vulnerabilidad disfruten del circo – Ayuntamiento de Ronda - Ayuntamiento de Ronda",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZzJ6NmRxUGZob0p1eVVqajNQZklsSGVjaVVkWjl3cFpSZUNJOFJRc2tEZmRpMjg0QUpLWlhCMng1LXkxVXBFWi14TFJNRmpEcy1GUlN1RW1jbFdORUlyUmMtbHdMZnRhOGlMYVNuZVJjUk9YQ0lHbHF2VGR5cXJmWFBBWWxBMkNtUHg2Q0xrN0hLSEZnanFmb3NNUC1oNmxfakhBYTFaTllZWHRtd3FmVGNfQnhIemdkWHdXb29wVVlJTWlWTnYtMzlYald6dXdFVTR4UDVsVGhoYzh1T0gyYUdYRE5wUEIyZ0dKTWo2N3hyVnd2Y1hneU5XdXo4QTFk?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "El Ayuntamiento de Ronda y Circus Berlín facilitan 150 entradas gratuitas para que menores en situación de vulnerabilidad disfruten del circo – Ayuntamiento de Ronda Ayuntamiento de Ronda",
+    "discovery_method": "rss",
+    "query": "\"Ronda\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Wed, 14 Oct 2026 13:34:23 GMT"
+  },
+  {
+    "title": "Derechos Sociales y Circus Berlín se unen para regalar 150 entradas de circo a menores en riesgo de exclusión - Diario Ronda",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOFUwUXRYcGkySnVENGgwdGVDY25nZHVTRWpCU1pPSzVRbDUyNy1RRTRYNW1oWENGT0xqNGVheU9sOVdrUGpUY0tCR3pYckRlenRJZXlNTDFnSlRkbUxEXzlhNVZwbW40Vk8zNFlaLVZZVGZYWEVUWEZ1ZXhWV05YRzYtSllVZTdIdWs3cWR4STVCcTRvbWpBcEN1MU1SVU0xZU5uTEg2TmZiUmNFR0Z3LWM0TElDNVVlbDY3X0ZYWmFGcDN1VFNvSG5hdXkwbEQtOUFQWjE0ajM5VGVsNFFIdVNmRnQtZEVL?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Derechos Sociales y Circus Berlín se unen para regalar 150 entradas de circo a menores en riesgo de exclusión Diario Ronda",
+    "discovery_method": "rss",
+    "query": "\"Ronda\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Wed, 14 Oct 2026 13:57:00 GMT"
+  },
+  {
+    "title": "Kiko Veneno, Medina Azahara y No me pises que llevo chanclas en la Fiesta del Aire de Arriate - Cadena SER",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdW5PLVA5SGwxSDlWU0tmcXJxLXdSMS1aVF9RY0xuVXNGWGhTS0dKUlN4ak96dng2cGdXLXlqbUNrNzlVaFJSWktGWHFjN2twdzlEbUlJSDFYXzczS0tCcW8zSjdEcTNCSzB0NXROdGx1Yy1hY0VhZnFaZnU4T0RHU0lRNVFfUzRPUTNiaGRCOHlPdElqQXNzME41WFV4OExEWTdWRDFpcFhMRUJaMzIyeXM5a0VTY0Y1b250Wk8wUjFyOVRJOHFNZGQxcWIxWWkzd1h2Z25IMHZoMTZuSWw5MdIB9AFBVV95cUxPenFXcDE5UVF3Z2xpd2x6Um9FZnRTbjNEM0ZvMTk5anp5UkxoX3gxX1RyVi1VSlhtaE4tNUFQOEx2a0ttR1NmRExKWjJVYnppRzZzLXhVZ3VkdTlKN0RJVWVWaE1LbkRCS25jeDdVM25JdnZab1k2THlmTHNpTlUwY184cG9iaDFSU3B6UFBqRXB0bjBFY0dtWXJBcEtKcTVnNFR2TlJ5R0I4YXF2WnB5X2xKUm5hV2gteTBaUjB1TnRvNXRhamFTMWtnNVhGUEJDM0VCbURxYldDU1J4ZGZ5VjRhOGtaTU1QaEZJdkYxQXNFQ2d1?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Kiko Veneno, Medina Azahara y No me pises que llevo chanclas en la Fiesta del Aire de Arriate Cadena SER",
+    "discovery_method": "rss",
+    "query": "\"Arriate\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Mon, 05 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Arriate se prepara para celebrar su XX Fiesta en el Aire - Cadena SER",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUnhTbUtmblZwM1Bzbm5FUlFwQk1OMVY4eWdzaHFPQkVPWndSamxEaWc5VTgtM21ObUNtdlBjOFJVMGNYQnB2dkVweFBXRW5kZFlJaU0yekRPcV9JQ1pRM3RXd3BJdGRVU2RySzdfbC1fT3pNdmN2Rk1YaWN5YXpzT1hJZHB0OHFpS09SNGpQYldUdFQxMFQyRUVaNUNFcGtRLU96YzhHMnFWV1A0RjhPcjJvNGRvNUJybVpfQy1n0gHSAUFVX3lxTE83eTFTODdScjBncnJLbmJ6VUZsY2R6cmZiazZxbjB1LXV1RVRnbkFqZ0xMYlVBRGNCV3ptdUZVOTBINGU1a3dVLXdhQi1MSjBJbmJnOWdPNGMtckN4Zld3VWtFVjVMcFRfbmNOTnowRVRlMXcxaGdyLW9NdDVkUFRrczduVmVZczBHdmNZbzZIRnFNbmpnRnJveEw3Smhka0p1X0VrVU1IcGpPSXV4bFY1WFhzWUdMWG0yVGduUHgxTEhNR3hyaERjYTNSNTNpaG5EZw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Arriate se prepara para celebrar su XX Fiesta en el Aire Cadena SER",
+    "discovery_method": "rss",
+    "query": "\"Arriate\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Thu, 08 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "GENALGUACIL ACOGIÓ UN TALLER DE CESTERÍA CON VARAS DE OLIVO - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jZ0tZWGV5el9nYmdJX0RQdFlVbnZYWnJGU0tPRF9NWmRHWTdGTmxOSUtQWjZJbF9CZ01lWi1zVk5yMVNMRUlzYUdYZG9HQXN4MGs3X2FZaFdlRllm?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "GENALGUACIL ACOGIÓ UN TALLER DE CESTERÍA CON VARAS DE OLIVO YouTube",
+    "discovery_method": "rss",
+    "query": "\"Genalguacil\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Mon, 12 Oct 2026 12:24:34 GMT"
+  },
+  {
+    "title": "Participantes de un taller de bioconstrucción de La Noria instalan en Yunquera ‘La Puerta’, una escultura transitable que simboliza la identidad de la Sierra de las Nieves - Radio Marca Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNdmM4RllNRUd1Y0dmOG9pd0stWm12MnZVNk9QRzR5WkNHZmdQUVhsVTc5N0Y0ZVE5cWd4bjJIbzM4OE1McWs5OUNUZEpNZTgyeHVNQ1FCOXg2dTJBanQ2bXVJTk1pWjVvMjROS0RnSTU4T1VWcUtPaW1KWHN4UXVoZGtSLWhLYlN4UjI5UlVtdjdFeUc1MjU3c0lRRDNNOG5tZXIwT3RlMnItWWtXeGg4cnhISmVTRGpJRGFYdUNIdy15QkhseklYcGZuMUQ3NDRlLV8wa2Zxd2tESU5TVzBrcVZ4VTNIdzhzT0llbkRuQURWQzhleGZrb2haai1ZakRPSEFwTUJZMEp0T05VdVlEal9jOWJnVUpSVHRlMk5TLWRIQzI5YWtKOA?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Participantes de un taller de bioconstrucción de La Noria instalan en Yunquera ‘La Puerta’, una escultura transitable que simboliza la identidad de la Sierra de las Nieves Radio Marca Málaga",
+    "discovery_method": "rss",
+    "query": "\"Yunquera\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Tue, 29 Sep 2026 05:52:06 GMT"
+  },
+  {
+    "title": "Art Tolox celebra su décimo aniversario convirtiendo las calles de Tolox en un museo al aire libre - Diputación de Málaga",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPS1FuUlZzdU1sTng3U2JEaUtITGxjTjdfLWc0TTNXNUdLYVZjZm9FaDlWakNlYVlFbWNQNUlzOHlGN01aaEkwTzlnZnlTM1VVdlJpQTlMamtpQ0ZkTjRrYVJSUm90c0pBb080eEs2WVJYMzFnUEhTQzZ0QnpaYjlYLU51SFoyaHhVWGJwcURSd2c0bDVfaGlPdFJHbUFzdDJQcmhBbzc5NGcyZzBnVV9jMG5FMnZwMWI2NWlUTldvbGRBOVdCNjVNUnJaT1J5YlNpTXlUdXN3RWJhQ0d1RGp6blB5SmFCNWMzQ0ctdw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Art Tolox celebra su décimo aniversario convirtiendo las calles de Tolox en un museo al aire libre Diputación de Málaga",
+    "discovery_method": "rss",
+    "query": "\"Tolox\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Fri, 18 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Tolox cumple 10 años convertido en un museo al aire libre con 120 obras de más de 250 artistas - La Opinión de Málaga",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXRKd3I5NEVDSXVfX2Y4MTZodnZUVVljWWZTT21xNFc5S1kxNHRVMUgwRGxzcmFxVC1CUTdHTVlLeGNXREVKWGVXUWlRYVIzdWEwVFpWNElTc2lnaW1xZlZTTHFfcF9jVG1PUm13T3R4dGx3a1lzMmVERldvOC1Dc3FtVllEeThENU5IWUpPWkprNFU3dDI5el9jTGlZTUHSAaQBQVVfeXFMUDRBVW9EVUs2SzdWMDk5ellmY3RtOHB0S1pWUE1SME8wRk1va1BPenZDOE1TVGUyTS14cmRBbGltd0dvUFJiYWkyelV0SVVmR2kwUzZYYkprWFZCajRtZXVaRjlkenUybksxSTAzRUw3ZWRaeHhUQ1VUOWZ0NTVlZjVieldsaVlOdkRlYzZTUFhpMXgyaXNaYWxaMTd3bDI1cWl5eDQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Tolox cumple 10 años convertido en un museo al aire libre con 120 obras de más de 250 artistas La Opinión de Málaga",
+    "discovery_method": "rss",
+    "query": "\"Tolox\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Sat, 19 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Taller de Escritura Creativa para adultos - Ayuntamiento de Cártama",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU3JxRGliV01reVJXVmxzTDNfWWpnTHFtaTNxYTd3MGRfeGtTU28yNnFLY2dXRGtEY2hHNnQ5ZGtmZkxwU3FVQnhfM1E2Znppel9NM0loY01LUTFOWHhBcjFXTWUtaVdzZUtUU2JWZGxtYVhvcndTWE4zR3BDTVd5bGNYT0JjejhyTXlGY0RZY3I?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
+    "snippet": "Taller de Escritura Creativa para adultos Ayuntamiento de Cártama",
+    "discovery_method": "rss",
+    "query": "\"Cártama\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Thu, 24 Sep 2026 12:57:19 GMT",
+    "resolution_checked": "2026-10-16"
+  },
+  {
+    "title": "Bienestar Social lanza una nueva edición de los Talleres de Memoria para las personas mayores - Ayuntamiento de Cártama",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYXZLOGM1SEppWGtYVkQzQVRVMEp3ZGVvWW1FX0ZaS2hiaVpEdTItdUx5VWZlZktybzFwODNUeFhuVkRLaXZnSEpydWpKd0ItQVZpSjNWQndnajZRZGxDVmthb2pZYVhoV2h4OUlpeFpFSGtRLWZUcHluR2g0aDU3UEdtM0VUeHgtUnJ5bTBXSXBzbkp5akZ1QlZ2d3pYdmlGaUU4RF93QXdOQThUVy1RZHZmTW9hMDVjei1HbWViNGhWTUxtLWdGd3I3ajFPcks3Y2V6a2FGcW04cjdSYkNEZXBn?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
+    "snippet": "Bienestar Social lanza una nueva edición de los Talleres de Memoria para las personas mayores Ayuntamiento de Cártama",
+    "discovery_method": "rss",
+    "query": "\"Cártama\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Fri, 18 Sep 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-16"
+  },
+  {
+    "title": "Comienzo taller de memoria CPA El Sexmo - Ayuntamiento de Cártama",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2ZKWVR5N3gyN1lxanpEQjRvajU1SnNsTHpuMmZkakxlR21mdy1FaVNZR0pvcmZubC1ZWnFGV29RVnBScDBZT2VLcTUwUy1WbTg5c3ZGR1NhS3BoVnRTc3ZqS2F6M1ZnNlRvY19pbnFyR0ZYWGgySHpKTGhyd2tOT1Jtbl94ZXhQS25wNHhB?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
+    "snippet": "Comienzo taller de memoria CPA El Sexmo Ayuntamiento de Cártama",
+    "discovery_method": "rss",
+    "query": "\"Cártama\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Mon, 21 Sep 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-16"
+  },
+  {
+    "title": "El área de Bienestar Social de Cártama refuerza sus servicios con un equipo de tratamiento familiar - Malagaes",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcFE4YzhVZUozT1kxR1RPZkdfei00Z3ExSkRiNW15ZUtnNUI5UHRVNE4yWVJtTVIyRzJ2OEsxVGhVNExhZTNSMHlqMmpWT1otMHp5bmhhWTNkSENsaFRPS2liOXFxeDRSSlptR3JMV1I5RFdEUzIxc3RvTnFNMC0wcVdYZ3ZnZVpvUXZJdXpzTHI2NUQzR193ZThtbWhGV05Ic3VhWkM3MnNjNkt4dDQzVzdXaXB3VnVadF9ZRlFOLVRva2M?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
+    "snippet": "El área de Bienestar Social de Cártama refuerza sus servicios con un equipo de tratamiento familiar Malagaes",
+    "discovery_method": "rss",
+    "query": "\"Cártama\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Thu, 08 Oct 2026 08:45:14 GMT",
+    "resolution_checked": "2026-10-16"
+  },
+  {
+    "title": "La Cangrejita Tejedora organiza un taller de otoño para crear una calabaza decorativa en Cártama - Revista Lugar de Encuentro",
+    "url": "https://revistalugardeencuentro.com/2026/10/15/taller-otono-calabaza-decorativa-cartama-chusma-selecta/",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "snippet": "La Cangrejita Tejedora organiza un taller de otoño para crear una calabaza decorativa en Cártama Revista Lugar de Encuentro",
+    "discovery_method": "rss",
+    "query": "\"Cártama\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Thu, 15 Oct 2026 16:07:29 GMT",
+    "resolution_checked": "2026-10-16",
+    "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1UzcWRVeFNZcGNERFNpTmZwT3d6UFlfbFFVLXNxNXMxLTNPb3RkcDN0aENtd0FYM2tzYVJOVUN0c2JJSUZtemNEUm15VEI3ZkViTUc1VUJJZndIdjFHeVAxVG1DbEJHaUdXZXBhNEhUVzlfZmtBdmw0cThUTWJqYmxEbndmWDRyblNxT3pxX2hBM05JTk1EZzNXY0tZWGhPVGJmY0F3?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-16"
+  },
+  {
+    "title": "Títeres en Cártama - Revista Lugar de Encuentro",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vNmdWbHVRRVhjV2d0cUprWi1YZDJSTG1wc3VaZl9LNHlKUEFJbXFIcmhJVGdJUE1Qd1BVaUFJM3l0aC1MZUE2cWxQOThzUnZzR25aSkNvNEdVS2VfWjlnVk9Ld0xaU3Y4SHd1TG03cDFLMTZn?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
+    "snippet": "Títeres en Cártama Revista Lugar de Encuentro",
+    "discovery_method": "rss",
+    "query": "\"Cártama\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Tue, 06 Oct 2026 13:15:01 GMT",
+    "resolution_checked": "2026-10-16"
+  },
+  {
+    "title": "FilmCAMP: campamento audiovisual de VADA Isthewave para niños y jóvenes en Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjQ4QkpvZ2hnVl9XZVd4bU5mSE1QN0VXMUxMTGRIbGJtOG5EeUFLbndfWTlrRGxkVWFOU3FGZE1NUjJmbkxIdXl1Rkg5SG5vLXF5Tk5ZNjlGdlk1dlp5Z1piUDNVd2d0QUg5LWRVNV9MRU93bU5sMmJCTE9aREsxVGRKcEVJUFd4WGZDdEpGMkVOOHRORkVBelVBczNscm0zTE5YZXdMTWc?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
+    "snippet": "FilmCAMP: campamento audiovisual de VADA Isthewave para niños y jóvenes en Málaga La Diversiva",
+    "discovery_method": "rss",
+    "query": "Málaga talleres de cocina infantiles when:30d",
+    "published_at": "Thu, 15 Oct 2026 12:27:14 GMT",
+    "resolution_checked": "2026-10-16"
+  },
+  {
+    "title": "La Fiesta en el Aire de Arriate cumple 20 años y lo celebra con tres jornadas de música, arte y cultura - Diputación de Málaga",
+    "url": "https://www.andaluciainformacion.es/articulo/ronda/fiesta-aire-arriate-cumple-20-anos-celebra-tres-jornadas-musica-arte-cultura/202610051829133498036.html",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "snippet": "La Fiesta en el Aire de Arriate cumple 20 años y lo celebra con tres jornadas de música, arte y cultura Diputación de Málaga",
+    "discovery_method": "rss",
+    "query": "Málaga talleres infantiles fin de semana when:30d",
+    "published_at": "Mon, 05 Oct 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-16",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ3VqazBFbG9Jekd3MU9aU0EzV2RYb3Z5Yk1RdGVkNVZZTlB5NjQwaVprMV8wVno0MWdfdDBZVjFrV054Qk9KWURENzBTQThLeU5kcEV0S2piTFY4cGRsc29OTDdFbWNYVXZmb2pJWkRtVVRuNnUxOXlhZm5raF9ITnRlcFNGVGQ5ZFRSTE1nUm1ieXpvcHlWVnliZDk1MTZGdnhwM0diTGlNbmJDOUVjb0w2bG84Z2M1RUxBVDRDTlUtSS02bV9qM1ljaFEzUlgyR2N2UzFzenlvTHQ4cGpEOWZMNFdsSURWcmpv?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-16"
+  },
+  {
+    "title": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 - Malaga Actualidad",
+    "url": "https://www.europapress.es/andalucia/malaga-00356/noticia-museo-carmen-thyssen-malaga-presenta-programa-educacion-accion-cultural-2026-2027-20260925154249.html",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "snippet": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 Malaga Actualidad",
+    "discovery_method": "rss",
+    "query": "Málaga museos talleres para familias when:30d",
+    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-16",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1drV1NIMDlybGxsMHdKYk9kUjZvUjRpZUUwUzRKb2U3clpHN2ZkMms3OHVTcmJQcmN4cTZ2OHRnZVNwVzFtUklZTS1aSlYxV0YzLVhlVmVTYWhkR1hRWURCSkpIRllmaWxKYkpIRmwweU1pZ08xQi1aellLNDBsRnFFNDJELUc0dV9ZRlpacmhrUkpIcEEzQ2RuQnlEdWduQXBqb2kxb0NaQmh3TWN2MmsxdDZoNktnVVBya1ZrNWpWYmViT3RjWjI2WnpOTDF5SlRCUw?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-16"
+  },
+  {
+    "title": "La agenda cultural de Málaga para comenzar el otoño: teatro, música, talleres y exposiciones - Málaga Hoy",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaDFTOWszenNiNFR4elVvbE9pSUxjRjhsb2M3b1FIWjVMWDE1QmNpZl82dldWYnZSQ24xWTdhaTRyUl9JUDBLbjBCc3RGNnFHS1FjRXpRdkhRd1NKalMzeEh1TVpLTkl2YXJkampKQUtZSHdYcXNnUTR4RHZLUXpwbDB0ZzJrU2JRSFpzOW9Vc3h4NmdG0gGaAUFVX3lxTE9jWGdhMXNPUHlMZlBzSjc2aGlfYlFERTJqRjdRSXRTcUpJV2FYd3NDNlM1b0RvSWhmMExXRld4TS14dzNzSVdJc3NTYkpBUGxIcjQtcjVmNXM4ZVZwcUgtS1ZFbk9BcmVUSzNBWWMyTmJfRmt5N3lzVk9FY3dFYnJHVGJQdGpYN1FPSFN3REZ5aTJIc1BqcGlJdEE?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
+    "snippet": "La agenda cultural de Málaga para comenzar el otoño: teatro, música, talleres y exposiciones Málaga Hoy",
+    "discovery_method": "rss",
+    "query": "Málaga museos talleres para familias when:30d",
+    "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-16"
+  },
+  {
+    "title": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo - El Español",
+    "url": "https://www.elespanol.com/malaga/cultura/20260925/clases-anforas-salazones-museo-carmen-thyssen-malaga-abre-yacimiento-romano-colegios-familias-nuevo-programa-educativo/1003744397742_0.html",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "snippet": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo El Español",
+    "discovery_method": "rss",
+    "query": "Málaga museos talleres para familias when:30d",
+    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-16",
+    "google_news_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZjM0UXpMUTJhdS13emdmYlRhVVNZa0RrSHJNOEphZk1XWkdURHFtYUVyeGcyMm01UDBqYVNCQmhJVnREejZ4SmJCb1BIYVNIQ1I5ZTVkS3VNME9IMUtFVGFKN3J2dmw1V2hKYmgxM3JvVl9jUFFxQTdzdkM5VG8xelFtQXJBZDgyTDB2Vl9mTTdJNGEzb2lxYjZqSTUwTXhLcVlGOGpTUWt6RVZheDJ6MGxvZ25KYmlUMnZXTHBjcU1jYW90Y1dSbnEtdFBXSmJjSDE1bXVtNHRHYWtkcGdZU0FhbTE2SnhyU1VjR1Y3VHc1QzcydlQyaUNGanl0MGVEejRWTDd5UlZXNlZqRnNUSXpVNThhOW0w0gGeAkFVX3lxTE5iSEhIU1gtbF82VHZ6Qmlnc3hOdmZzbG12SVdDTlg5RHMxUE1FZG5wMDktODVjMElRbmFPWkVTRWhKd0xmRm91Tk1ka2V5bld2NTFHOFVGRExUVzZURU0yM2psX3dxN2RQRmVmMTZlYzRFNkR5T3BmTkRVVTJMNUtwU244QVRIZmdrZFd3bmpucjRVMDBCV1BVclRzY2ZSZjhwUEtwQkNrTUFIZkZkTjdOTXFSX3ZWZEhnZzZWQUplNGFmbmVsd2JIeURXV0dTWTZyOHBJeElobWNZZzM0WEhFWUQ4TXNwclhVLXVRSWowdU1va1o5SnJFY0Y3djdOelYzdmZ6Z2ZTSlEzNDVJc1pDb2Z5b1VHZ3BvU2VVZGc?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-16"
+  },
+  {
+    "title": "Málaga abre su historia al público con rutas, visitas y talleres durante las Jornadas Europeas de Patrimonio - Málaga Hoy",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM25CU3RtSGdiZkphTjNEYWtDS21wMU9xc3dubFM4Q2diZkJNS2xJaVU2RnJiYTl5Z3FEOFNrc2ItOThlZUlkeEFZY1lwbFNfYXJJcFBZNDJXX1Exb1NwRTFDakZrdDRON21KblU3aEJTR1daaW1qWlhQdWhvdWlTRkdJOXpzTGpMN3hDMNIBkgFBVV95cUxOVWR2SkdjZ290aEYwLUJzd1BmbE1oY2RXNzh5YTE1eDd3dHZQaVA3MEFIM2JOZmZQVS0wRFZMREw4emtybG1tT25Kcm93UTRMVkZ4NWRtdURrb3pLcEZxcnFtTF9fbUFTMzcwTmJkX0piTmtoR0ZWWm9QT0FnSUlxMUgyRlpjbHdnVE9YY3k5VWYtUQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-16",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
+    "snippet": "Málaga abre su historia al público con rutas, visitas y talleres durante las Jornadas Europeas de Patrimonio Málaga Hoy",
+    "discovery_method": "rss",
+    "query": "Málaga museos talleres para familias when:30d",
+    "published_at": "Wed, 23 Sep 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-16"
   }
 ]
