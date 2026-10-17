@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T21:34:24+00:00",
+  "generated_at": "2026-10-17T21:38:24+00:00",
   "level": "attention",
-  "events": 105,
+  "events": 106,
   "sources": 70,
   "catalog_drift": true,
   "last_scan_snapshot": {
-    "events": 105,
+    "events": 106,
     "sources": 64
   },
   "discoveries_pending": 233,
@@ -65,7 +65,7 @@
   "last_radar": "2026-10-17T21:32:08+00:00",
   "days_since_radar": 0.0,
   "last_verifier": "2026-10-17T21:32:54+00:00",
-  "age_missing": 72,
+  "age_missing": 73,
   "municipalities_with_events": 13,
   "coverage_by_town": {
     "Málaga": 67,
@@ -74,10 +74,10 @@
     "Marbella": 5,
     "Torremolinos": 4,
     "Estepona": 3,
+    "Rincón de la Victoria": 2,
     "Antequera": 2,
     "Vélez-Málaga": 2,
     "Colmenar": 2,
-    "Rincón de la Victoria": 1,
     "Humilladero": 1,
     "Ronda": 1,
     "Mijas": 1
