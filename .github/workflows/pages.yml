@@ -40,7 +40,7 @@ jobs:
           from pathlib import Path
           page=Path('index.html').read_text(encoding='utf-8')
           assert '<title>Hoy Toca Plan' in page, 'Identidad incorrecta'
-          required=['events','sources','discoveries','source_suggestions','status','radar_status','verification_status','health']
+          required=['events','sources','discoveries','source_suggestions','status','radar_status','verification_status','health','cinema']
           for name in required:
               with Path('data', name+'.json').open(encoding='utf-8') as f:
                   content=json.load(f)
@@ -60,7 +60,7 @@ jobs:
           mkdir -p public/assets public/data
           cp index.html .nojekyll public/
           cp assets/app.js assets/site.css public/assets/
-          for file in events sources discoveries source_suggestions status radar_status verification_status health; do
+          for file in events sources discoveries source_suggestions status radar_status verification_status health cinema; do
             cp "data/$file.json" public/data/
           done
 
@@ -92,6 +92,8 @@ jobs:
           base = os.environ['PAGES_URL'].rstrip('/') + '/'
           expected = Path('data/events.json').read_bytes()
           expected_digest = hashlib.sha256(expected).hexdigest()
+          expected_cinema = Path('data/cinema.json').read_bytes()
+          expected_cinema_digest = hashlib.sha256(expected_cinema).hexdigest()
           reason = 'Sin respuesta'
           for attempt in range(1, 13):
               try:
@@ -104,7 +106,10 @@ jobs:
                   actual = get(urljoin(base, 'data/events.json') + '?v=' + expected_digest[:16])
                   if hashlib.sha256(actual).hexdigest() != expected_digest:
                       raise ValueError('Pages todavía no sirve el catálogo de este commit')
-                  print(f'PAGES OK: web activa, JSON idéntico, sha256={expected_digest[:16]} (intento {attempt})')
+                  actual_cinema = get(urljoin(base, 'data/cinema.json') + '?v=' + expected_cinema_digest[:16])
+                  if hashlib.sha256(actual_cinema).hexdigest() != expected_cinema_digest:
+                      raise ValueError('Pages todavía no sirve la cartelera de cine de este commit')
+                  print(f'PAGES OK: web activa, agenda y cine idénticos, sha256={expected_digest[:12]}/{expected_cinema_digest[:12]} (intento {attempt})')
                   break
               except Exception as exc:
                   reason = str(exc)
