@@ -777,8 +777,11 @@
     "last_checked": "2026-10-15T10:06:50+00:00",
     "first_seen": "2026-10-13",
     "max_links": 5,
-    "notes": "Agenda de actividades con horarios diarios; no convertir cada apertura del recinto en evento independiente.",
-    "events_detected_this_run": 0
+    "notes": "Agenda diaria + noticias especiales. Revisar eventos familiares/estacionales (Halloween, Navidad, actividades educativas) sin convertir la apertura diaria del parque en plan independiente.",
+    "events_detected_this_run": 0,
+    "watch_urls": [
+      "https://www.bioparcfuengirola.es/en/news/"
+    ]
   },
   {
     "id": "SRC-057",
