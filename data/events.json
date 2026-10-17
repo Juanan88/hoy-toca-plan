@@ -1436,6 +1436,32 @@
     }
   },
   {
+    "id": "EVT-IA-C140429E5B",
+    "title": "Sueños · magia familiar",
+    "start": "2026-10-24",
+    "end": "2026-10-24",
+    "time": "17:00",
+    "town": "Málaga",
+    "venue": "Sala Mirari",
+    "category": "Teatro y espectáculos",
+    "age_min": 4,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "12 €",
+    "audience": "Infantil y familiar",
+    "source_name": "Sala Mirari",
+    "source_url": "https://salamirari.com/reservar/?evento=521",
+    "secondary_sources": [
+      "https://salamirari.com/"
+    ],
+    "details": "Mago Torres presenta un espectáculo de magia emocional. Función familiar en Sala Mirari.",
+    "evidence": "La página oficial de Sala Mirari confirma «Sueños» el sábado 24 de octubre a las 17:00 en Sala Mirari; la cartelera oficial lo marca En familia, +4 y 12 €.",
+    "first_seen": "2026-10-17",
+    "last_checked": "2026-10-17T12:59:03+00:00",
+    "origin": "Investigación IA programada, con fuente",
+    "status": "publicada_en_fuente"
+  },
+  {
     "id": "EVT-9BB82E337",
     "title": "Sábados Creativos: Arquitectura infantil",
     "start": "2026-10-24",
@@ -2459,6 +2485,32 @@
     }
   },
   {
+    "id": "EVT-IA-31496F6394",
+    "title": "La magia de las burbujas",
+    "start": "2026-11-07",
+    "end": "2026-11-07",
+    "time": "17:00",
+    "town": "Málaga",
+    "venue": "Sala Mirari",
+    "category": "Teatro y espectáculos",
+    "age_min": 3,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "12 €",
+    "audience": "Infantil y familiar",
+    "source_name": "Sala Mirari",
+    "source_url": "https://salamirari.com/reservar/?evento=527",
+    "secondary_sources": [
+      "https://salamirari.com/"
+    ],
+    "details": "Dalma combina pompas de jabón y magia en una función familiar de Sala Mirari.",
+    "evidence": "La página oficial de reserva confirma «La magia de las burbujas» el sábado 7 de noviembre a las 17:00; la cartelera oficial indica +3 años y precio de 12 €.",
+    "first_seen": "2026-10-17",
+    "last_checked": "2026-10-17T12:59:03+00:00",
+    "origin": "Investigación IA programada, con fuente",
+    "status": "publicada_en_fuente"
+  },
+  {
     "venue": "La Térmica",
     "town": "Málaga",
     "category": "Talleres y aprendizaje",
@@ -2780,6 +2832,32 @@
     "secondary_sources": []
   },
   {
+    "id": "EVT-IA-3FD43D06FB",
+    "title": "Magiliar · magia familiar",
+    "start": "2026-11-14",
+    "end": "2026-11-14",
+    "time": "17:00",
+    "town": "Málaga",
+    "venue": "Sala Mirari",
+    "category": "Teatro y espectáculos",
+    "age_min": 4,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "12 €",
+    "audience": "Infantil y familiar",
+    "source_name": "Sala Mirari",
+    "source_url": "https://salamirari.com/reservar/?evento=546",
+    "secondary_sources": [
+      "https://salamirari.com/"
+    ],
+    "details": "Mago Nómada y Pirincho presentan un show de magia familiar en Sala Mirari.",
+    "evidence": "La página oficial de Sala Mirari confirma «Magiliar» el sábado 14 de noviembre a las 17:00; la cartelera oficial lo identifica como En familia, +4 y 12 €.",
+    "first_seen": "2026-10-17",
+    "last_checked": "2026-10-17T12:59:03+00:00",
+    "origin": "Investigación IA programada, con fuente",
+    "status": "publicada_en_fuente"
+  },
+  {
     "id": "EVT-8332CCF1FE36",
     "title": "Nuevos Mundos",
     "start": "2026-11-14",
@@ -3033,6 +3111,32 @@
     "first_seen": "2026-10-15",
     "last_checked": "2026-10-15T10:09:08+00:00",
     "origin": "json-ld"
+  },
+  {
+    "id": "EVT-IA-6A63C5B8B4",
+    "title": "Jugando con la imaginación",
+    "start": "2026-11-21",
+    "end": "2026-11-21",
+    "time": "17:00",
+    "town": "Málaga",
+    "venue": "Sala Mirari",
+    "category": "Teatro y espectáculos",
+    "age_min": 4,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "12 €",
+    "audience": "Infantil y familiar",
+    "source_name": "Sala Mirari",
+    "source_url": "https://salamirari.com/reservar/?evento=532",
+    "secondary_sources": [
+      "https://salamirari.com/"
+    ],
+    "details": "El Mago Cristian ofrece magia cómica e interactiva para público familiar en Sala Mirari.",
+    "evidence": "La página oficial confirma «Jugando con la imaginación» el sábado 21 de noviembre a las 17:00; la cartelera oficial lo marca En familia, +4 y 12 €.",
+    "first_seen": "2026-10-17",
+    "last_checked": "2026-10-17T12:59:03+00:00",
+    "origin": "Investigación IA programada, con fuente",
+    "status": "publicada_en_fuente"
   },
   {
     "id": "EVT-F968ED0BFC70",

@@ -907,5 +907,23 @@
     ],
     "last_checked": "2026-10-15T10:06:50+00:00",
     "last_error": "521 Server Error: <none> for url: https://latermicamalaga.com/la-termica-mini/"
+  },
+  {
+    "id": "SRC-065",
+    "name": "Sala Mirari · magia familiar",
+    "type": "Sala de magia / organizador",
+    "area": "Málaga capital",
+    "priority": "Alta",
+    "url": "https://salamirari.com/",
+    "approved": true,
+    "status": "pendiente",
+    "notes": "Programación familiar de magia. Priorizar funciones marcadas «En familia» y páginas oficiales de reserva; comprobar edad mínima, precio, horario y estado de plazas.",
+    "max_links": 12,
+    "watch_urls": [
+      "https://salamirari.com/reservar/?evento=521",
+      "https://salamirari.com/reservar/?evento=527",
+      "https://salamirari.com/reservar/?evento=546",
+      "https://salamirari.com/reservar/?evento=532"
+    ]
   }
 ]
