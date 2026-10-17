@@ -10,7 +10,7 @@
   <title>Hoy Toca Plan · Málaga | Agenda familiar y actividades con niños</title>
   <link rel="canonical" href="https://juanan88.github.io/hoy-toca-plan/">
   <meta property="og:url" content="https://juanan88.github.io/hoy-toca-plan/">
-  <link rel="stylesheet" href="assets/site.css?v=calendario-compartido-20261014-1">
+  <link rel="stylesheet" href="assets/site.css?v=cine-infantil-20261017-1">
 </head>
 <body>
 <header class="hero">
@@ -36,6 +36,7 @@
     <div class="view-switch" role="tablist" aria-label="Explorar actividades">
       <button type="button" id="tabReservas" role="tab" aria-selected="true" aria-controls="advanceBookings" data-explore="reservas">🎟️ Reservar con tiempo</button>
       <button type="button" id="tabAgenda" role="tab" aria-selected="false" aria-controls="agendaResults" data-explore="agenda">Agenda próxima</button>
+      <button type="button" id="tabCine" role="tab" aria-selected="false" aria-controls="cinemaResults" data-explore="cine">🎬 Cine</button>
     </div>
     <p class="view-period" id="viewPeriod" role="status">Reservas anticipadas · 1–60 días desde hoy · usa el calendario para elegir un día</p>
     <div class="discovery-controls">
@@ -43,7 +44,7 @@
         <div class="shared-date-heading"><span>¿Para qué día?</span><button id="clearDate" class="clear-date" type="button" hidden>Quitar fecha ×</button></div>
         <details class="calendar-picker" id="calendarPicker">
           <summary><span aria-hidden="true">🗓️</span> <span id="calendarSummaryText">Elegir día en el calendario</span><span class="calendar-chevron" aria-hidden="true">⌄</span></summary>
-          <div class="calendar-panel" role="group" aria-label="Calendario compartido para Reservas y Agenda">
+          <div class="calendar-panel" role="group" aria-label="Calendario para elegir una fecha">
             <div class="calendar-navigation">
               <button type="button" class="calendar-nav" id="calendarPrev" aria-label="Mes anterior">‹</button>
               <strong id="calendarMonthTitle" aria-live="polite"></strong>
@@ -51,12 +52,12 @@
             </div>
             <div class="calendar-weekdays" aria-hidden="true"><span>L</span><span>M</span><span>X</span><span>J</span><span>V</span><span>S</span><span>D</span></div>
             <div class="calendar-days" id="calendarDays" aria-label="Días del mes"></div>
-            <p class="calendar-help"><span class="calendar-help-dot" aria-hidden="true"></span> Cada número indica los planes de la pestaña actual con fecha documentada. En Agenda, <span class="calendar-help-pending">*</span> señala planes pendientes de contrastar. Las fechas no confirmadas no se cuentan.</p>
+            <p class="calendar-help" id="calendarHelp"><span class="calendar-help-dot" aria-hidden="true"></span> Cada número indica resultados de la pestaña actual con fecha documentada. En Agenda, <span class="calendar-help-pending">*</span> señala planes pendientes de contrastar.</p>
           </div>
         </details>
         <input type="hidden" id="when" value="15">
       </div>
-      <div class="filters essential-filters" aria-label="Filtros principales">
+      <div class="filters essential-filters" id="planFilters" aria-label="Filtros principales">
         <label class="field">Municipio
           <select id="town"><option value="">Toda la provincia</option></select>
         </label>
@@ -110,6 +111,15 @@
     <div id="cards" class="cards"></div><button id="showMore" class="text-button" type="button" hidden>Mostrar más actividades ↓</button>
     <div class="fineprint"><strong>Antes de ir:</strong> comprueba horario, edad y entradas en la fuente del organizador. «Edad sin confirmar» no significa apta para cualquier niño. Un período no garantiza sesiones diarias.</div>
     </section>
+    <section id="cinemaResults" class="cinema-results" role="tabpanel" aria-labelledby="tabCine" hidden>
+      <div class="cinema-header">
+        <div><p class="eyebrow dark">CARTELERA INFANTIL</p><h2>Películas para ir con peques</h2><p>Elige un día y te mostramos únicamente películas infantiles o familiares con sesiones verificadas en cines de la provincia de Málaga.</p></div>
+        <span class="cinema-scope">Provincia de Málaga</span>
+      </div>
+      <p id="cinemaCount" class="results-count" role="status">Elige un día en el calendario.</p>
+      <div id="cinemaCards" class="cinema-grid"></div>
+      <p class="advance-disclaimer">Los horarios pueden cambiar. Confirma la sesión y la disponibilidad de entradas en la fuente enlazada antes de desplazarte.</p>
+    </section>
   </section>
   <details class="project-info" id="projectInfo">
     <summary>Acerca de Hoy Toca Plan · Fuentes y transparencia <span aria-hidden="true">⌄</span></summary>
@@ -141,5 +151,5 @@
   </details>
 </main>
 <footer><div class="shell footer-grid"><div><strong>✳ Hoy Toca Plan · Málaga</strong><p>Un proyecto independiente para hacer más fácil la vida en familia.</p></div><div><p>Datos informativos. Sin relación comercial con los organizadores. <a href="#projectInfo">Fuentes y transparencia</a></p><p>Las reservas, precios y horarios pueden cambiar. Verifica la web del evento.</p></div></div></footer>
-<script src="assets/app.js?v=reservas-1-a-60-dias-20261015-1" defer></script>
+<script src="assets/app.js?v=cine-infantil-20261017-1" defer></script>
 </body></html>

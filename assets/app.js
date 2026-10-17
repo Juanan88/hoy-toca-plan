@@ -21,7 +21,7 @@ initAudienceAnalytics();
 const $ = id => document.getElementById(id);
 const safe = v => String(v ?? '').replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
 function link(url){try{const u=new URL(url);return ['https:','http:'].includes(u.protocol)?u.href:null;}catch{return null;}}
-const state={events:[],sources:[],discoveries:[],suggestions:[],status:{},radar:{},verification:{},health:{},tab:'agenda'};
+const state={events:[],sources:[],discoveries:[],suggestions:[],status:{},radar:{},verification:{},health:{},cinema:{updated_at:null,movies:[]},tab:'agenda'};
 let cardsShown=36;
 const localDate = () => {const parts=new Intl.DateTimeFormat('en-US',{timeZone:'Europe/Madrid',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(new Date());const p=Object.fromEntries(parts.map(x=>[x.type,x.value]));return `${p.year}-${p.month}-${p.day}`;};
 function plusDays(iso,n){const d=new Date(iso+'T12:00:00Z');d.setUTCDate(d.getUTCDate()+n);return d.toISOString().slice(0,10);}
@@ -146,6 +146,14 @@ function matchesOtherFilters(e){
 }
 function calendarCounts(onlyPending=false){
  const today=localDate(),counts={},first=calendarMonth+'-01',last=plusDays(monthShift(calendarMonth,1)+'-01',-1);
+ if(activeView==='cine'){
+  if(onlyPending)return counts;
+  for(const movie of (state.cinema.movies||[])){
+   const dates=new Set((movie.showtimes||[]).map(s=>s.date).filter(date=>date>=today&&date>=first&&date<=last));
+   for(const date of dates)counts[date]=(counts[date]||0)+1;
+  }
+  return counts;
+ }
  const eligible=activeView==='reservas'?
   state.events.filter(e=>bookingBaseMatches(e,today)&&bookingKind(e)&&Boolean(link(e.reservation_url)||link(e.source_url))):
   state.events.filter(matchesOtherFilters);
@@ -170,7 +178,9 @@ function renderCalendar(){
  for(let day=1;day<=daysInMonth;day++){
   const date=calendarMonth+'-'+String(day).padStart(2,'0');
   const count=counts[date]||0,pending=pendingCounts[date]||0,published=count-pending,past=date<today,chosen=date===selectedDate;
-  const label=calendarDateLabel(date)+(count?', '+count+(count===1?' plan':' planes')+': '+published+' con fecha publicada'+(pending?', '+pending+' pendiente'+(pending===1?'':'s')+' de contrastar':''): ', sin planes documentados en el catálogo');
+  const noun=activeView==='cine'?(count===1?' película':' películas'):(count===1?' plan':' planes');
+  const emptyLabel=activeView==='cine'?', sin películas infantiles verificadas':', sin planes documentados en el catálogo';
+  const label=calendarDateLabel(date)+(count?', '+count+noun+(activeView==='cine'?'':': '+published+' con fecha publicada'+(pending?', '+pending+' pendiente'+(pending===1?'':'s')+' de contrastar':'')):emptyLabel);
   fragment.push('<button type="button" class="calendar-day'+(count?' has-events':'')+(pending?' includes-pending':'')+(chosen?' selected':'')+(date===today?' today':'')+'" data-date="'+date+'" aria-label="'+safe(label)+'" aria-pressed="'+chosen+'"'+(date===today?' aria-current="date"':'')+(past?' disabled':'')+'><span class="calendar-number">'+day+'</span>'+(count?'<span class="calendar-count" aria-hidden="true">'+count+'</span>':'')+(pending?'<span class="calendar-pending-mark" aria-hidden="true">*</span>':'')+'</button>');
  }
  $('calendarDays').innerHTML=fragment.join('');
@@ -189,7 +199,7 @@ function chooseCalendarDate(date){
  if(!/^\d{4}-\d{2}-\d{2}$/.test(date)||date<localDate())return;
  selectedDate=date;calendarMonth=date.slice(0,7);
  $('when').value='date';cardsShown=36;
- syncCalendarSelection();renderEvents();renderAdvanceBookings();syncExplorerView();renderCalendar();
+ syncCalendarSelection();renderEvents();renderAdvanceBookings();renderCinema();syncExplorerView();renderCalendar();
  $('calendarPicker').open=false;
  $('calendarPicker').querySelector('summary').focus();
 }
@@ -199,7 +209,7 @@ function clearCalendarDate(){
  $('calendarPicker').open=false;
 }
 function resetSharedDate(){
- clearCalendarDate();cardsShown=36;renderEvents();renderAdvanceBookings();syncExplorerView();renderCalendar();
+ clearCalendarDate();cardsShown=36;renderEvents();renderAdvanceBookings();renderCinema();syncExplorerView();renderCalendar();
 }
 function syncAgeControl(){$('ageUnknownToggle').hidden=!$('age').value;}
 function ageMatches(e){const a=$('age').value;if(!a)return true; if(e.age_min==null&&e.age_max==null)return $('includeUnknownAge').checked;const n=Number(a);return (e.age_min==null||n>=Number(e.age_min))&&(e.age_max==null||n<=Number(e.age_max));}
@@ -409,6 +419,38 @@ function renderEvents(){
  '<div class="empty"><strong>No hay planes con esos filtros.</strong><p>Prueba otra fecha o municipio. La ausencia de resultados no significa que no existan actividades.</p><button class="empty-reset" type="button" id="emptyReset">Restablecer filtros</button></div>';
  const reset=$('emptyReset');if(reset)reset.addEventListener('click',resetFilters);
 }
+function cinemaShowtimesFor(movie,date){
+ return (movie.showtimes||[]).filter(s=>s.date===date&&Array.isArray(s.times)&&s.times.length);
+}
+function cinemaCardHtml(movie,date){
+ const sessions=cinemaShowtimesFor(movie,date);
+ const meta=[movie.classification,movie.duration_minutes!=null?movie.duration_minutes+' min':null,(movie.genres||[]).join(' · ')].filter(Boolean);
+ const rows=sessions.map(s=>{
+  const url=link(s.booking_url)||link(movie.source_url);
+  const times=s.times.map(t=>'<span class="cinema-time">'+safe(t)+'</span>').join('');
+  return '<div class="cinema-venue"><div><strong>'+safe(s.cinema)+'</strong><span>'+safe(s.town||'Málaga')+'</span></div><div class="cinema-session-actions"><div class="cinema-times">'+times+'</div>'+(url?'<a href="'+safe(url)+'" target="_blank" rel="noopener noreferrer">Horarios / entradas ↗</a>':'')+'</div></div>';
+ }).join('');
+ return '<article class="cinema-card"><div class="cinema-card-head"><div><span class="card-category">Cine infantil</span><h3>'+safe(movie.title)+'</h3></div><span class="cinema-age">'+safe(movie.classification||'Edad por confirmar')+'</span></div>'+
+  (meta.length?'<p class="cinema-meta">'+meta.map(safe).join(' · ')+'</p>':'')+
+  (movie.family_reason?'<p class="cinema-reason">'+safe(movie.family_reason)+'</p>':'')+
+  '<div class="cinema-venues">'+rows+'</div></article>';
+}
+function renderCinema(){
+ const section=$('cinemaResults');
+ if(!section)return;
+ section.hidden=activeView!=='cine';
+ if(activeView!=='cine')return;
+ if(!selectedDate){
+  $('cinemaCount').textContent='Elige un día en el calendario.';
+  $('cinemaCards').innerHTML='<div class="cinema-empty"><strong>Selecciona una fecha</strong><p>La cartelera de Cine solo utiliza el día elegido. No se aplican los filtros de Agenda o Reservas.</p></div>';
+  return;
+ }
+ const movies=(state.cinema.movies||[]).filter(m=>cinemaShowtimesFor(m,selectedDate).length).sort((x,y)=>String(x.title||'').localeCompare(String(y.title||''),'es'));
+ const cinemas=new Set(movies.flatMap(m=>cinemaShowtimesFor(m,selectedDate).map(s=>s.cinema))).size;
+ $('cinemaCount').textContent=movies.length+' '+(movies.length===1?'película infantil':'películas infantiles')+' · '+cinemas+' '+(cinemas===1?'cine':'cines')+' · '+fmtDate(selectedDate);
+ $('cinemaCards').innerHTML=movies.map(m=>cinemaCardHtml(m,selectedDate)).join('')||
+  '<div class="cinema-empty"><strong>No tenemos sesiones infantiles verificadas para este día.</strong><p>La cartelera cambia con frecuencia; comprueba otro día del calendario.</p></div>';
+}
 function renderDiscoveries(){const ds=(state.discoveries||[]).filter(d=>d.status==='por_revisar');$('discoveries').innerHTML=ds.length?ds.slice().reverse().slice(0,150).map(d=>`<article class="source-card"><span class="pill pending">Pista sin verificar</span><h3>${safe(d.title)}</h3><p>${safe(d.source_name||d.domain||'Fuente externa')} · Detectado: ${safe((d.first_seen||'').slice(0,10))}</p>${d.review_reason?`<p>${safe(d.review_reason)}</p>`:''}${link(d.url)?`<a href="${safe(link(d.url))}" target="_blank" rel="noopener noreferrer">Abrir publicación ↗</a>`:''}</article>`).join(''):'<div class="empty">Todavía no hay descubrimientos sin revisar. El radar se alimentará en las próximas ejecuciones.</div>';}
 function renderHealth(){
   const h=state.health||{},s=state.status||{};
@@ -435,10 +477,10 @@ function renderHealth(){
 }
 function renderSources(){const q=$('searchSource').value.trim().toLocaleLowerCase('es');const rows=state.sources.filter(s=>[s.name,s.type,s.area,s.notes].some(v=>String(v||'').toLocaleLowerCase('es').includes(q)));$('sources').innerHTML=rows.map(s=>`<article class="source-card"><div><span class="pill soft">${safe(s.priority||'Normal')}</span><span class="pill ${s.status==='pendiente'?'pending':''}">${safe(s.status||'Pendiente')}</span></div><h3>${safe(s.name)}</h3><p>${safe(s.type)} · ${safe(s.area)}</p><p>${safe(s.notes||'')}</p>${link(s.url)?`<a href="${safe(link(s.url))}" target="_blank" rel="noopener noreferrer">Visitar fuente ↗</a>`:''}</article>`).join('')||'<div class="empty">No hay fuentes con este filtro.</div>';const suggestions=state.suggestions||[];$('sourceSuggestions').innerHTML=suggestions.length?suggestions.map(s=>`<article class="source-card"><span class="pill pending">Candidata</span><h3>${safe(s.name||s.domain)}</h3><p>${safe(s.reason||'Pendiente de valorar')}</p>${link(s.url)?`<a href="${safe(link(s.url))}" target="_blank" rel="noopener noreferrer">Revisar fuente ↗</a>`:''}</article>`).join(''):'<div class="empty">Sin propuestas nuevas. El catálogo no incorpora dominios sin revisión.</div>';}
 async function getJson(name){const res=await fetch('data/'+name+'.json',{cache:'no-store'});if(!res.ok)throw new Error(name+': HTTP '+res.status);return res.json();}
-async function init(){try{$('reloadData').hidden=true;const events=await getJson('events');if(!Array.isArray(events))throw new Error('events.json inválido');const optional=await Promise.all(['sources','discoveries','source_suggestions','status','radar_status','verification_status','health'].map(n=>getJson(n).catch(()=>['status','radar_status','verification_status','health'].includes(n)?{}:[])));const [sources,discoveries,suggestions,status,radar,verification,health]=optional;Object.assign(state,{events,sources:Array.isArray(sources)?sources:[],discoveries:Array.isArray(discoveries)?discoveries:[],suggestions:Array.isArray(suggestions)?suggestions:[],status:status||{},radar:radar||{},verification:verification||{},health:health||{}});choices('town',[...new Set(events.filter(relevant).map(e=>e.town))]);choices('category',[...new Set(events.filter(relevant).map(e=>e.category))]);statusMessage();stats();syncAgeControl();renderEvents();renderCalendar();syncExplorerView();renderAdvanceBookings();}catch(e){$('statusLine').classList.add('warn');$('statusLine').textContent='No se pudo cargar la agenda. Comprueba la conexión y vuelve a intentarlo.';$('reloadData').hidden=false;document.querySelector('.diagnostics').open=true;$('projectInfo').open=true;$('cards').innerHTML='<div class="empty">No se pudo cargar la agenda. Usa el botón de reintentar de la sección de actualización.</div>';console.error(e);}}
+async function init(){try{$('reloadData').hidden=true;const events=await getJson('events');if(!Array.isArray(events))throw new Error('events.json inválido');const optional=await Promise.all(['sources','discoveries','source_suggestions','status','radar_status','verification_status','health','cinema'].map(n=>getJson(n).catch(()=>n==='cinema'?{movies:[]}:['status','radar_status','verification_status','health'].includes(n)?{}:[])));const [sources,discoveries,suggestions,status,radar,verification,health,cinema]=optional;Object.assign(state,{events,sources:Array.isArray(sources)?sources:[],discoveries:Array.isArray(discoveries)?discoveries:[],suggestions:Array.isArray(suggestions)?suggestions:[],status:status||{},radar:radar||{},verification:verification||{},health:health||{},cinema:cinema&&Array.isArray(cinema.movies)?cinema:{movies:[]}});choices('town',[...new Set(events.filter(relevant).map(e=>e.town))]);choices('category',[...new Set(events.filter(relevant).map(e=>e.category))]);statusMessage();stats();syncAgeControl();renderEvents();renderCalendar();syncExplorerView();renderAdvanceBookings();renderCinema();}catch(e){$('statusLine').classList.add('warn');$('statusLine').textContent='No se pudo cargar la agenda. Comprueba la conexión y vuelve a intentarlo.';$('reloadData').hidden=false;document.querySelector('.diagnostics').open=true;$('projectInfo').open=true;$('cards').innerHTML='<div class="empty">No se pudo cargar la agenda. Usa el botón de reintentar de la sección de actualización.</div>';console.error(e);}}
 // Dos modos de explorar sin acumular dos listados verticales.
 let activeView='reservas';
-function viewFromUrl(){return window.location.hash==='#agenda'?'agenda':'reservas';}
+function viewFromUrl(){return window.location.hash==='#cine'?'cine':window.location.hash==='#agenda'?'agenda':'reservas';}
 function agendaPeriodLabel(){
  const v=$('when').value;
  if(v==='today')return 'hoy';
@@ -452,32 +494,37 @@ function agendaPeriodLabel(){
  return 'próximos '+v+' días';
 }
 function syncExplorerView(){
- const agenda=activeView==='agenda';
+ const agenda=activeView==='agenda',cine=activeView==='cine',reservas=activeView==='reservas';
  $('agendaResults').hidden=!agenda;
- $('advanceBookings').hidden=agenda;
+ $('advanceBookings').hidden=!reservas;
+ $('cinemaResults').hidden=!cine;
+ $('planFilters').hidden=cine;
+ $('advancedFilters').hidden=cine;
  $('verifiedFilter').hidden=!agenda;
  $('advancedHint').textContent='Precio y novedades';
- $('viewPeriod').textContent=agenda?'Agenda próxima · '+agendaPeriodLabel():
+ $('viewPeriod').textContent=cine?(selectedDate?'Cine infantil · '+fmtDate(selectedDate):'Cine infantil · elige un día'):
+  agenda?'Agenda próxima · '+agendaPeriodLabel():
   selectedDate?'Reservas para el '+fmtDate(selectedDate):
   'Reservas anticipadas · '+fmtDate(plusDays(localDate(),BOOKING_LEAD_DAYS))+
   ' – '+fmtDate(plusDays(localDate(),BOOKING_HORIZON_DAYS))+' (1–60 días desde hoy)';
+ $('calendarHelp').innerHTML=cine?'<span class="calendar-help-dot" aria-hidden="true"></span> Cada número indica cuántas películas infantiles tienen sesiones verificadas ese día.':
+  '<span class="calendar-help-dot" aria-hidden="true"></span> Cada número indica resultados de la pestaña actual con fecha documentada. En Agenda, <span class="calendar-help-pending">*</span> señala planes pendientes de contrastar.';
  const horizon=$('advanceBookings').querySelector('.advance-horizon');
  if(horizon)horizon.textContent=selectedDate?'Fecha elegida':'Próximos 1–60 días';
- for(const [view,id] of [['agenda','tabAgenda'],['reservas','tabReservas']]){
+ for(const [view,id] of [['reservas','tabReservas'],['agenda','tabAgenda'],['cine','tabCine']]){
   const tab=$(id),selected=view===activeView;
   tab.setAttribute('aria-selected',String(selected));
   tab.tabIndex=selected?0:-1;
  }
 }
 function chooseExplorerView(next,{push=false}={}){
- if(next!=='agenda'&&next!=='reservas')return;
- if(next===activeView){syncExplorerView();return;}
+ if(!['agenda','reservas','cine'].includes(next))return;
+ if(next===activeView){syncExplorerView();renderCinema();renderCalendar();return;}
  activeView=next;
  syncExplorerView();
- renderAdvanceBookings();renderCalendar();
+ renderAdvanceBookings();renderCinema();renderCalendar();
  // Mantener el viewport donde estaba. La pestaña sticky ya permanece a la vista.
- // No restaurar scroll de cada pestaña ni desplazar hacia su cabecera.
- if(push)window.history.pushState({pequeplanView:next},'',next==='reservas'?'#reservas':'#agenda');
+ if(push)window.history.pushState({pequeplanView:next},'',next==='cine'?'#cine':next==='agenda'?'#agenda':'#reservas');
 }
 function resetFilters(){
  for(const id of ['town','age','category','price'])$(id).value='';
@@ -485,7 +532,7 @@ function resetFilters(){
  $('includeUnknownAge').checked=true;
  cardsShown=36;
  clearCalendarDate();
- syncAgeControl();renderEvents();renderCalendar();renderAdvanceBookings();syncExplorerView();
+ syncAgeControl();renderEvents();renderCalendar();renderAdvanceBookings();renderCinema();syncExplorerView();
 }
 for(const id of ['town','age','category','price','verifiedOnly','newOnly','includeUnknownAge'])
  $(id).addEventListener('input',()=>{
@@ -528,10 +575,10 @@ for(const tab of document.querySelectorAll('[data-explore]')){
  tab.addEventListener('keydown',event=>{
   if(event.key!=='ArrowLeft'&&event.key!=='ArrowRight')return;
   event.preventDefault();
-  // Solo hay dos pestañas: las flechas alternan entre ambas en el orden visual.
-  const next=tab.dataset.explore==='reservas'?'agenda':'reservas';
+  const order=['reservas','agenda','cine'],current=order.indexOf(tab.dataset.explore);
+  const next=order[(current+(event.key==='ArrowRight'?1:-1)+order.length)%order.length];
   chooseExplorerView(next,{push:true});
-  $(next==='agenda'?'tabAgenda':'tabReservas').focus({preventScroll:true});
+  $({reservas:'tabReservas',agenda:'tabAgenda',cine:'tabCine'}[next]).focus({preventScroll:true});
  });
 }
 $('advanceTeaserButton').addEventListener('click',()=>chooseExplorerView('reservas',{push:true}));
@@ -547,6 +594,6 @@ syncCalendarSelection();
 // Cada apertura nueva comienza en Reservas, incluso si se recarga una URL antigua #agenda.
 // El historial sigue permitiendo cambiar de vista en esta sesión.
 activeView='reservas';
-if(window.location.hash==='#agenda')window.history.replaceState({pequeplanView:'reservas'},'','#reservas');
+if(window.location.hash==='#agenda'||window.location.hash==='#cine')window.history.replaceState({pequeplanView:'reservas'},'','#reservas');
 syncExplorerView();
 init();

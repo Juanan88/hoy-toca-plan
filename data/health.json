@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:42:09+00:00",
+  "generated_at": "2026-10-17T19:55:11+00:00",
   "level": "attention",
   "events": 99,
   "sources": 70,
@@ -8,8 +8,8 @@
     "events": 99,
     "sources": 64
   },
-  "discoveries_pending": 168,
-  "discoveries_unresolved": 416,
+  "discoveries_pending": 167,
+  "discoveries_unresolved": 426,
   "unverified_events": 8,
   "known_age": 30,
   "sources_never_checked": 6,
@@ -61,10 +61,10 @@
     }
   ],
   "last_full_scan": "2026-10-15T10:06:50+00:00",
-  "days_since_full_scan": 2.1,
-  "last_radar": "2026-10-17T13:41:19+00:00",
+  "days_since_full_scan": 2.4,
+  "last_radar": "2026-10-17T19:53:38+00:00",
   "days_since_radar": 0.0,
-  "last_verifier": "2026-10-17T13:41:28+00:00",
+  "last_verifier": "2026-10-17T19:53:53+00:00",
   "age_missing": 69,
   "municipalities_with_events": 13,
   "coverage_by_town": {
