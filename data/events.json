@@ -1406,6 +1406,59 @@
     "secondary_sources": []
   },
   {
+    "id": "EVT-TXT-1FABAC71D0",
+    "title": "La Pista de Hielo de Benalmádena abre temporada el 23 de octubre con actividades familiares",
+    "start": "2026-10-23",
+    "end": "2026-10-23",
+    "time": "Por confirmar",
+    "town": "Benalmádena",
+    "venue": "Por confirmar",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {
+      "start": {
+        "source_url": "https://www.andaluciainformacion.es/articulo/benalmadena/pista-hielo-benalmadena-comienza-nueva-temporada-23-octubre-jornada-actividades-toda-familia/202610131632503505160.html",
+        "quote": "La Pista de Hielo de Benalmádena abre temporada el 23 de octubre con actividades familiares La instalación del Palacio de Deportes iniciará su nueva temporada con exhibiciones de",
+        "evidence": "Fecha futura explícita vinculada al evento."
+      },
+      "town": {
+        "source_url": "https://www.andaluciainformacion.es/articulo/benalmadena/pista-hielo-benalmadena-comienza-nueva-temporada-23-octubre-jornada-actividades-toda-familia/202610131632503505160.html",
+        "quote": "Benalmádena",
+        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
+      },
+      "audience": {
+        "source_url": "https://www.andaluciainformacion.es/articulo/benalmadena/pista-hielo-benalmadena-comienza-nueva-temporada-23-octubre-jornada-actividades-toda-familia/202610131632503505160.html",
+        "quote": "infantil/familiar",
+        "evidence": "El evento se presenta explícitamente como infantil o familiar."
+      },
+      "corroboration": {
+        "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
+        "quote": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia - Ayuntamiento de Benalmádena",
+        "evidence": "Segunda fuente independiente con varias palabras relevantes coincidentes."
+      }
+    },
+    "audience": "Infantil y familiar",
+    "source_name": "Radar · andaluciainformacion.es",
+    "source_url": "https://www.andaluciainformacion.es/articulo/benalmadena/pista-hielo-benalmadena-comienza-nueva-temporada-23-octubre-jornada-actividades-toda-familia/202610131632503505160.html",
+    "status": "publicada_en_fuente",
+    "details": "La instalación del Palacio de Deportes iniciará su nueva temporada con exhibiciones de patinaje artístico, animación, sorteos y actividades infantiles. La jo...",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-17",
+    "last_checked": "2026-10-17T21:32:21+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 100,
+    "verification_method": "evidencia textual fuerte",
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · corroboración independiente · titular coherente con la pista"
+  },
+  {
     "id": "EVT-TXT-20CD02C414",
     "title": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia",
     "start": "2026-10-23",
