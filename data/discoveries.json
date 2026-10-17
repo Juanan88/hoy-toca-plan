@@ -136,8 +136,14 @@
     "source_name": "Museo Carmen Thyssen (web cultural)",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-16",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-17",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "La familia Dino",
@@ -145,8 +151,14 @@
     "source_name": "Sapos y Princesas — Málaga",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-16",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-17",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Actividades dentro y fuera de casa para el otoño",
@@ -163,8 +175,14 @@
     "source_name": "Sapos y Princesas — aire libre",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-16",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-17",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Talleres en Familia. B.P.M. Manuel Altolaguirre",
@@ -249,8 +267,14 @@
     "source_name": "CC Miramar Fuengirola",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-16",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-17",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "CLUB INFANTIL",
@@ -258,8 +282,14 @@
     "source_name": "CC Rosaleda",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-16",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-17",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Actividad Familiar Halloween 2026",
@@ -1831,8 +1861,14 @@
     "source_name": "Ayuntamiento Mijas",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-17",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Torre del Mar celebrará los días 10 y 11 de octubre una nueva edición del Oktoberfest con música y actividades para todos los públicos",
@@ -1883,8 +1919,14 @@
     "source_name": "Ayuntamiento Nerja",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-17",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Ir a Talleres",
@@ -1970,8 +2012,14 @@
     "source_name": "Mijas · noticias y actividades municipales",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-17",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Certamen Literario de la Asociación de Familiares de Enfermos de Alzheimer de Mijas (AFAM)",
@@ -3135,8 +3183,15 @@
     "source_name": "CC Rosaleda",
     "first_seen": "2026-10-15",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-15",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-17",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror",
@@ -3179,8 +3234,15 @@
     "source_name": "Museo Unicaja Artes y Costumbres Populares",
     "first_seen": "2026-10-15",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-15",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-17",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Actividades literarias",
@@ -3555,15 +3617,19 @@
   },
   {
     "title": "El mercadillo de Málaga que llenará este domingo el Centro de la ciudad de artesanía, ilustraciones y diseño: habrá pintacaras infantil, taller de fieltro y puntillismo - La Opinión de Málaga",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSFJwbTBabWFmWDZ6RDhTUlRtMW5FV19BVWJ1ekNQaWlCcU54dVFHbG4tU1BNNUZJTmZjSlFMS2dYcXNTM0Vuc1lFczdDOGVWdTZGZ1dadi13QW0tZEhnLUl2dElaZzJBSXdmaXpZY2JIT2o0WDZYVm9xSXByR3dQa2VheTdiWEUzWVUwZHlJeFdzTk1pOEFZdE5ZN1JxZHlSYXdtT3RwVm1XN0JNZ0hjdk5RS1cxSXRhWG82TDJIVkRUaldCakttb0s3Y2k1OHBDLUZ1Ynd6UUNVUmZOd3ZDMTJUNzU2bXAwb3FpNGxfWnR5aWJ5bWhzQdIB_gFBVV95cUxQc0xYRUgyNjZwekdOUXQycW5FazE5d2N3aG0yTi1YYVZaZTBEcGU4SzZTMU13dW5EZnhZcWNEWlBmbWtlQy0zYS1YOEZELXJvS0E5MTR1WmhacnBJdnhyQ09PVmxTN2Z2VFJlN1doSG1vZS1SMHJISHJoSHVrZlF3TXVNZjhIa1FEOFZUeXA4ZWh1SWJIS1RnaHhHVGEtdllzVEFMVEtZNHlWVDNxMmxTc2ZEeFFCLUlyUDR2TmljV1JYOW9tY2JseE42Z3psblZlbXBfem9vcHFPOGFzNjdSdHNsc2dyXy1MNWQ5bVNKMzloUDRYWVVNY1BkUEhpZw?oc=5",
+    "url": "https://www.laopiniondemalaga.es/malaga/2026/06/25/mercadillo-artesania-celebra-domingo-centro-malaga-ropa-diseno-ilustraciones-taller-soho-dv-131796168.html",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-15",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: 406 Client Error: WAF Forbidden for url: https://www.laopiniondemalaga.es/malaga/2026/06/25/mercadillo-artesania-celebra-domingo-c",
     "snippet": "El mercadillo de Málaga que llenará este domingo el Centro de la ciudad de artesanía, ilustraciones y diseño: habrá pintacaras infantil, taller de fieltro y puntillismo La Opinión de Málaga",
     "discovery_method": "rss",
     "query": "Málaga talleres de cocina infantiles when:30d",
-    "published_at": "Wed, 23 Sep 2026 07:00:00 GMT"
+    "published_at": "Wed, 23 Sep 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-17",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSFJwbTBabWFmWDZ6RDhTUlRtMW5FV19BVWJ1ekNQaWlCcU54dVFHbG4tU1BNNUZJTmZjSlFMS2dYcXNTM0Vuc1lFczdDOGVWdTZGZ1dadi13QW0tZEhnLUl2dElaZzJBSXdmaXpZY2JIT2o0WDZYVm9xSXByR3dQa2VheTdiWEUzWVUwZHlJeFdzTk1pOEFZdE5ZN1JxZHlSYXdtT3RwVm1XN0JNZ0hjdk5RS1cxSXRhWG82TDJIVkRUaldCakttb0s3Y2k1OHBDLUZ1Ynd6UUNVUmZOd3ZDMTJUNzU2bXAwb3FpNGxfWnR5aWJ5bWhzQdIB_gFBVV95cUxQc0xYRUgyNjZwekdOUXQycW5FazE5d2N3aG0yTi1YYVZaZTBEcGU4SzZTMU13dW5EZnhZcWNEWlBmbWtlQy0zYS1YOEZELXJvS0E5MTR1WmhacnBJdnhyQ09PVmxTN2Z2VFJlN1doSG1vZS1SMHJISHJoSHVrZlF3TXVNZjhIa1FEOFZUeXA4ZWh1SWJIS1RnaHhHVGEtdllzVEFMVEtZNHlWVDNxMmxTc2ZEeFFCLUlyUDR2TmljV1JYOW9tY2JseE42Z3psblZlbXBfem9vcHFPOGFzNjdSdHNsc2dyXy1MNWQ5bVNKMzloUDRYWVVNY1BkUEhpZw?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17"
   },
   {
     "title": "Beach club familiar en Marbella para los puentes de otoño - La Diversiva",
@@ -3579,15 +3645,19 @@
   },
   {
     "title": "El pueblo de Málaga que celebra este fin de semana su famosa 'Fiesta en el Aire' con mercadillo, talleres infantiles y catas gratuitas: programación completa - La Opinión de Málaga",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWmJYMjY1R2wxWHUxSTkzODlaN25ob0ZlM3dtaWoxLVEtNE4tb1U1SEV3NnRtTk1tWXNuODg5MWtaY0JGMkN4YXg5VDg1TmIyS3ZTSExSTFZDZUljQUgwaFNrVEllNTJ2NHV6QjRoUmp1dWZSbnlPQTFRQlVJUFNhSXlvS2k5T091czdBbmJMaFY0M3RrZDF4YXZVWEUwZVlHcVhVaW5ndTh2SlJDU0E0alBRTTh2RnVLNlR4QnBrVmhxTm9kNkh6UHZqY09IWXoyNVVYNF9KRkYxSEHSAeABQVVfeXFMTXY1bUNkY3VXVVBlbnkxQXlCQ1RRbDdZMmtFN2xtN0VjWXhmSG9ieUlsMVA5aVFiZkpITTNLQ1lOYWI2YUZqemNTT0dZRnpjLWtjS3dSQlY1SG9YSDFDREpUdzBRY3VabWNsRkZqNnF6ckR0UEVoSzFqalBLTzRXM0lIbi1LbWhXc2E0eFpQU1dBVFdJbUFCMm44SEVDZVMzY3RyVlAxMlhpZFQybEVlcU9vcXVTTXQzZW1yWm1MYkw2eExuY04wRHZNVFFTVXBwdzVmSzYwUmk4TXFPT3hXOXg?oc=5",
+    "url": "https://www.laopiniondemalaga.es/malaga/2026/10/09/pueblo-malaga-celebra-famosa-fiesta-aire-mercadillo-talleres-catas-arriate-dv-135169115.html",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-15",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: 406 Client Error: WAF Forbidden for url: https://www.laopiniondemalaga.es/malaga/2026/10/09/pueblo-malaga-celebra-famosa-fiesta-ai",
     "snippet": "El pueblo de Málaga que celebra este fin de semana su famosa 'Fiesta en el Aire' con mercadillo, talleres infantiles y catas gratuitas: programación completa La Opinión de Málaga",
     "discovery_method": "rss",
     "query": "Málaga talleres infantiles fin de semana when:30d",
-    "published_at": "Fri, 09 Oct 2026 10:37:14 GMT"
+    "published_at": "Fri, 09 Oct 2026 10:37:14 GMT",
+    "resolution_checked": "2026-10-17",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWmJYMjY1R2wxWHUxSTkzODlaN25ob0ZlM3dtaWoxLVEtNE4tb1U1SEV3NnRtTk1tWXNuODg5MWtaY0JGMkN4YXg5VDg1TmIyS3ZTSExSTFZDZUljQUgwaFNrVEllNTJ2NHV6QjRoUmp1dWZSbnlPQTFRQlVJUFNhSXlvS2k5T091czdBbmJMaFY0M3RrZDF4YXZVWEUwZVlHcVhVaW5ndTh2SlJDU0E0alBRTTh2RnVLNlR4QnBrVmhxTm9kNkh6UHZqY09IWXoyNVVYNF9KRkYxSEHSAeABQVVfeXFMTXY1bUNkY3VXVVBlbnkxQXlCQ1RRbDdZMmtFN2xtN0VjWXhmSG9ieUlsMVA5aVFiZkpITTNLQ1lOYWI2YUZqemNTT0dZRnpjLWtjS3dSQlY1SG9YSDFDREpUdzBRY3VabWNsRkZqNnF6ckR0UEVoSzFqalBLTzRXM0lIbi1LbWhXc2E0eFpQU1dBVFdJbUFCMm44SEVDZVMzY3RyVlAxMlhpZFQybEVlcU9vcXVTTXQzZW1yWm1MYkw2eExuY04wRHZNVFFTVXBwdzVmSzYwUmk4TXFPT3hXOXg?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17"
   },
   {
     "title": "Mercado gastronómico, talleres infantiles y catas en Málaga: así homenajea este pueblo sus 'Sopas Perotas' este fin de semana - La Opinión de Málaga",
@@ -4258,7 +4328,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-16",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 Malaga Actualidad",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
@@ -4266,7 +4336,13 @@
     "resolution_checked": "2026-10-16",
     "google_news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1drV1NIMDlybGxsMHdKYk9kUjZvUjRpZUUwUzRKb2U3clpHN2ZkMms3OHVTcmJQcmN4cTZ2OHRnZVNwVzFtUklZTS1aSlYxV0YzLVhlVmVTYWhkR1hRWURCSkpIRllmaWxKYkpIRmwweU1pZ08xQi1aellLNDBsRnFFNDJELUc0dV9ZRlpacmhrUkpIcEEzQ2RuQnlEdWduQXBqb2kxb0NaQmh3TWN2MmsxdDZoNktnVVBya1ZrNWpWYmViT3RjWjI2WnpOTDF5SlRCUw?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-16"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "La agenda cultural de Málaga para comenzar el otoño: teatro, música, talleres y exposiciones - Málaga Hoy",
@@ -4287,7 +4363,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-16",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo El Español",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
@@ -4295,7 +4371,13 @@
     "resolution_checked": "2026-10-16",
     "google_news_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZjM0UXpMUTJhdS13emdmYlRhVVNZa0RrSHJNOEphZk1XWkdURHFtYUVyeGcyMm01UDBqYVNCQmhJVnREejZ4SmJCb1BIYVNIQ1I5ZTVkS3VNME9IMUtFVGFKN3J2dmw1V2hKYmgxM3JvVl9jUFFxQTdzdkM5VG8xelFtQXJBZDgyTDB2Vl9mTTdJNGEzb2lxYjZqSTUwTXhLcVlGOGpTUWt6RVZheDJ6MGxvZ25KYmlUMnZXTHBjcU1jYW90Y1dSbnEtdFBXSmJjSDE1bXVtNHRHYWtkcGdZU0FhbTE2SnhyU1VjR1Y3VHc1QzcydlQyaUNGanl0MGVEejRWTDd5UlZXNlZqRnNUSXpVNThhOW0w0gGeAkFVX3lxTE5iSEhIU1gtbF82VHZ6Qmlnc3hOdmZzbG12SVdDTlg5RHMxUE1FZG5wMDktODVjMElRbmFPWkVTRWhKd0xmRm91Tk1ka2V5bld2NTFHOFVGRExUVzZURU0yM2psX3dxN2RQRmVmMTZlYzRFNkR5T3BmTkRVVTJMNUtwU244QVRIZmdrZFd3bmpucjRVMDBCV1BVclRzY2ZSZjhwUEtwQkNrTUFIZkZkTjdOTXFSX3ZWZEhnZzZWQUplNGFmbmVsd2JIeURXV0dTWTZyOHBJeElobWNZZzM0WEhFWUQ4TXNwclhVLXVRSWowdU1va1o5SnJFY0Y3djdOelYzdmZ6Z2ZTSlEzNDVJc1pDb2Z5b1VHZ3BvU2VVZGc?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-16"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Málaga abre su historia al público con rutas, visitas y talleres durante las Jornadas Europeas de Patrimonio - Málaga Hoy",
@@ -4820,7 +4902,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 Malaga Actualidad",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
@@ -4828,7 +4910,13 @@
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1drV1NIMDlybGxsMHdKYk9kUjZvUjRpZUUwUzRKb2U3clpHN2ZkMms3OHVTcmJQcmN4cTZ2OHRnZVNwVzFtUklZTS1aSlYxV0YzLVhlVmVTYWhkR1hRWURCSkpIRllmaWxKYkpIRmwweU1pZ08xQi1aellLNDBsRnFFNDJELUc0dV9ZRlpacmhrUkpIcEEzQ2RuQnlEdWduQXBqb2kxb0NaQmh3TWN2MmsxdDZoNktnVVBya1ZrNWpWYmViT3RjWjI2WnpOTDF5SlRCUw?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-17"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo - El Español",
@@ -4836,7 +4924,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo El Español",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
@@ -4844,7 +4932,13 @@
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZjM0UXpMUTJhdS13emdmYlRhVVNZa0RrSHJNOEphZk1XWkdURHFtYUVyeGcyMm01UDBqYVNCQmhJVnREejZ4SmJCb1BIYVNIQ1I5ZTVkS3VNME9IMUtFVGFKN3J2dmw1V2hKYmgxM3JvVl9jUFFxQTdzdkM5VG8xelFtQXJBZDgyTDB2Vl9mTTdJNGEzb2lxYjZqSTUwTXhLcVlGOGpTUWt6RVZheDJ6MGxvZ25KYmlUMnZXTHBjcU1jYW90Y1dSbnEtdFBXSmJjSDE1bXVtNHRHYWtkcGdZU0FhbTE2SnhyU1VjR1Y3VHc1QzcydlQyaUNGanl0MGVEejRWTDd5UlZXNlZqRnNUSXpVNThhOW0w0gGeAkFVX3lxTE5iSEhIU1gtbF82VHZ6Qmlnc3hOdmZzbG12SVdDTlg5RHMxUE1FZG5wMDktODVjMElRbmFPWkVTRWhKd0xmRm91Tk1ka2V5bld2NTFHOFVGRExUVzZURU0yM2psX3dxN2RQRmVmMTZlYzRFNkR5T3BmTkRVVTJMNUtwU244QVRIZmdrZFd3bmpucjRVMDBCV1BVclRzY2ZSZjhwUEtwQkNrTUFIZkZkTjdOTXFSX3ZWZEhnZzZWQUplNGFmbmVsd2JIeURXV0dTWTZyOHBJeElobWNZZzM0WEhFWUQ4TXNwclhVLXVRSWowdU1va1o5SnJFY0Y3djdOelYzdmZ6Z2ZTSlEzNDVJc1pDb2Z5b1VHZ3BvU2VVZGc?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-17"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Museo Picasso Málaga con niños, entradas, horarios, visitas escolares y qué ver - Agendadeisa",
@@ -5036,7 +5130,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 Malaga Actualidad",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
@@ -5044,7 +5138,13 @@
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1drV1NIMDlybGxsMHdKYk9kUjZvUjRpZUUwUzRKb2U3clpHN2ZkMms3OHVTcmJQcmN4cTZ2OHRnZVNwVzFtUklZTS1aSlYxV0YzLVhlVmVTYWhkR1hRWURCSkpIRllmaWxKYkpIRmwweU1pZ08xQi1aellLNDBsRnFFNDJELUc0dV9ZRlpacmhrUkpIcEEzQ2RuQnlEdWduQXBqb2kxb0NaQmh3TWN2MmsxdDZoNktnVVBya1ZrNWpWYmViT3RjWjI2WnpOTDF5SlRCUw?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-17"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo - El Español",
@@ -5052,7 +5152,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo El Español",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
@@ -5060,7 +5160,13 @@
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZjM0UXpMUTJhdS13emdmYlRhVVNZa0RrSHJNOEphZk1XWkdURHFtYUVyeGcyMm01UDBqYVNCQmhJVnREejZ4SmJCb1BIYVNIQ1I5ZTVkS3VNME9IMUtFVGFKN3J2dmw1V2hKYmgxM3JvVl9jUFFxQTdzdkM5VG8xelFtQXJBZDgyTDB2Vl9mTTdJNGEzb2lxYjZqSTUwTXhLcVlGOGpTUWt6RVZheDJ6MGxvZ25KYmlUMnZXTHBjcU1jYW90Y1dSbnEtdFBXSmJjSDE1bXVtNHRHYWtkcGdZU0FhbTE2SnhyU1VjR1Y3VHc1QzcydlQyaUNGanl0MGVEejRWTDd5UlZXNlZqRnNUSXpVNThhOW0w0gGeAkFVX3lxTE5iSEhIU1gtbF82VHZ6Qmlnc3hOdmZzbG12SVdDTlg5RHMxUE1FZG5wMDktODVjMElRbmFPWkVTRWhKd0xmRm91Tk1ka2V5bld2NTFHOFVGRExUVzZURU0yM2psX3dxN2RQRmVmMTZlYzRFNkR5T3BmTkRVVTJMNUtwU244QVRIZmdrZFd3bmpucjRVMDBCV1BVclRzY2ZSZjhwUEtwQkNrTUFIZkZkTjdOTXFSX3ZWZEhnZzZWQUplNGFmbmVsd2JIeURXV0dTWTZyOHBJeElobWNZZzM0WEhFWUQ4TXNwclhVLXVRSWowdU1va1o5SnJFY0Y3djdOelYzdmZ6Z2ZTSlEzNDVJc1pDb2Z5b1VHZ3BvU2VVZGc?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-17"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Gran jornada de museos gratis en Málaga este domingo 27 de septiembre: visitas guiadas, talleres con IA y coches clásicos - El Español",
@@ -5341,7 +5447,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 Malaga Actualidad",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
@@ -5349,7 +5455,13 @@
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1drV1NIMDlybGxsMHdKYk9kUjZvUjRpZUUwUzRKb2U3clpHN2ZkMms3OHVTcmJQcmN4cTZ2OHRnZVNwVzFtUklZTS1aSlYxV0YzLVhlVmVTYWhkR1hRWURCSkpIRllmaWxKYkpIRmwweU1pZ08xQi1aellLNDBsRnFFNDJELUc0dV9ZRlpacmhrUkpIcEEzQ2RuQnlEdWduQXBqb2kxb0NaQmh3TWN2MmsxdDZoNktnVVBya1ZrNWpWYmViT3RjWjI2WnpOTDF5SlRCUw?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-17"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo - El Español",
@@ -5357,7 +5469,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo El Español",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
@@ -5365,7 +5477,13 @@
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZjM0UXpMUTJhdS13emdmYlRhVVNZa0RrSHJNOEphZk1XWkdURHFtYUVyeGcyMm01UDBqYVNCQmhJVnREejZ4SmJCb1BIYVNIQ1I5ZTVkS3VNME9IMUtFVGFKN3J2dmw1V2hKYmgxM3JvVl9jUFFxQTdzdkM5VG8xelFtQXJBZDgyTDB2Vl9mTTdJNGEzb2lxYjZqSTUwTXhLcVlGOGpTUWt6RVZheDJ6MGxvZ25KYmlUMnZXTHBjcU1jYW90Y1dSbnEtdFBXSmJjSDE1bXVtNHRHYWtkcGdZU0FhbTE2SnhyU1VjR1Y3VHc1QzcydlQyaUNGanl0MGVEejRWTDd5UlZXNlZqRnNUSXpVNThhOW0w0gGeAkFVX3lxTE5iSEhIU1gtbF82VHZ6Qmlnc3hOdmZzbG12SVdDTlg5RHMxUE1FZG5wMDktODVjMElRbmFPWkVTRWhKd0xmRm91Tk1ka2V5bld2NTFHOFVGRExUVzZURU0yM2psX3dxN2RQRmVmMTZlYzRFNkR5T3BmTkRVVTJMNUtwU244QVRIZmdrZFd3bmpucjRVMDBCV1BVclRzY2ZSZjhwUEtwQkNrTUFIZkZkTjdOTXFSX3ZWZEhnZzZWQUplNGFmbmVsd2JIeURXV0dTWTZyOHBJeElobWNZZzM0WEhFWUQ4TXNwclhVLXVRSWowdU1va1o5SnJFY0Y3djdOelYzdmZ6Z2ZTSlEzNDVJc1pDb2Z5b1VHZ3BvU2VVZGc?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-17"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Gran jornada de museos gratis en Málaga este domingo 27 de septiembre: visitas guiadas, talleres con IA y coches clásicos - El Español",
@@ -5643,7 +5761,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 Malaga Actualidad",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
@@ -5651,7 +5769,13 @@
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1drV1NIMDlybGxsMHdKYk9kUjZvUjRpZUUwUzRKb2U3clpHN2ZkMms3OHVTcmJQcmN4cTZ2OHRnZVNwVzFtUklZTS1aSlYxV0YzLVhlVmVTYWhkR1hRWURCSkpIRllmaWxKYkpIRmwweU1pZ08xQi1aellLNDBsRnFFNDJELUc0dV9ZRlpacmhrUkpIcEEzQ2RuQnlEdWduQXBqb2kxb0NaQmh3TWN2MmsxdDZoNktnVVBya1ZrNWpWYmViT3RjWjI2WnpOTDF5SlRCUw?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-17"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo - El Español",
@@ -5659,7 +5783,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo El Español",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
@@ -5667,7 +5791,13 @@
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZjM0UXpMUTJhdS13emdmYlRhVVNZa0RrSHJNOEphZk1XWkdURHFtYUVyeGcyMm01UDBqYVNCQmhJVnREejZ4SmJCb1BIYVNIQ1I5ZTVkS3VNME9IMUtFVGFKN3J2dmw1V2hKYmgxM3JvVl9jUFFxQTdzdkM5VG8xelFtQXJBZDgyTDB2Vl9mTTdJNGEzb2lxYjZqSTUwTXhLcVlGOGpTUWt6RVZheDJ6MGxvZ25KYmlUMnZXTHBjcU1jYW90Y1dSbnEtdFBXSmJjSDE1bXVtNHRHYWtkcGdZU0FhbTE2SnhyU1VjR1Y3VHc1QzcydlQyaUNGanl0MGVEejRWTDd5UlZXNlZqRnNUSXpVNThhOW0w0gGeAkFVX3lxTE5iSEhIU1gtbF82VHZ6Qmlnc3hOdmZzbG12SVdDTlg5RHMxUE1FZG5wMDktODVjMElRbmFPWkVTRWhKd0xmRm91Tk1ka2V5bld2NTFHOFVGRExUVzZURU0yM2psX3dxN2RQRmVmMTZlYzRFNkR5T3BmTkRVVTJMNUtwU244QVRIZmdrZFd3bmpucjRVMDBCV1BVclRzY2ZSZjhwUEtwQkNrTUFIZkZkTjdOTXFSX3ZWZEhnZzZWQUplNGFmbmVsd2JIeURXV0dTWTZyOHBJeElobWNZZzM0WEhFWUQ4TXNwclhVLXVRSWowdU1va1o5SnJFY0Y3djdOelYzdmZ6Z2ZTSlEzNDVJc1pDb2Z5b1VHZ3BvU2VVZGc?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-17"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Gran jornada de museos gratis en Málaga este domingo 27 de septiembre: visitas guiadas, talleres con IA y coches clásicos - El Español",
@@ -5880,7 +6010,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 Malaga Actualidad",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
@@ -5888,7 +6018,13 @@
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1drV1NIMDlybGxsMHdKYk9kUjZvUjRpZUUwUzRKb2U3clpHN2ZkMms3OHVTcmJQcmN4cTZ2OHRnZVNwVzFtUklZTS1aSlYxV0YzLVhlVmVTYWhkR1hRWURCSkpIRllmaWxKYkpIRmwweU1pZ08xQi1aellLNDBsRnFFNDJELUc0dV9ZRlpacmhrUkpIcEEzQ2RuQnlEdWduQXBqb2kxb0NaQmh3TWN2MmsxdDZoNktnVVBya1ZrNWpWYmViT3RjWjI2WnpOTDF5SlRCUw?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-17"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo - El Español",
@@ -5896,7 +6032,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo El Español",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
@@ -5904,7 +6040,13 @@
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZjM0UXpMUTJhdS13emdmYlRhVVNZa0RrSHJNOEphZk1XWkdURHFtYUVyeGcyMm01UDBqYVNCQmhJVnREejZ4SmJCb1BIYVNIQ1I5ZTVkS3VNME9IMUtFVGFKN3J2dmw1V2hKYmgxM3JvVl9jUFFxQTdzdkM5VG8xelFtQXJBZDgyTDB2Vl9mTTdJNGEzb2lxYjZqSTUwTXhLcVlGOGpTUWt6RVZheDJ6MGxvZ25KYmlUMnZXTHBjcU1jYW90Y1dSbnEtdFBXSmJjSDE1bXVtNHRHYWtkcGdZU0FhbTE2SnhyU1VjR1Y3VHc1QzcydlQyaUNGanl0MGVEejRWTDd5UlZXNlZqRnNUSXpVNThhOW0w0gGeAkFVX3lxTE5iSEhIU1gtbF82VHZ6Qmlnc3hOdmZzbG12SVdDTlg5RHMxUE1FZG5wMDktODVjMElRbmFPWkVTRWhKd0xmRm91Tk1ka2V5bld2NTFHOFVGRExUVzZURU0yM2psX3dxN2RQRmVmMTZlYzRFNkR5T3BmTkRVVTJMNUtwU244QVRIZmdrZFd3bmpucjRVMDBCV1BVclRzY2ZSZjhwUEtwQkNrTUFIZkZkTjdOTXFSX3ZWZEhnZzZWQUplNGFmbmVsd2JIeURXV0dTWTZyOHBJeElobWNZZzM0WEhFWUQ4TXNwclhVLXVRSWowdU1va1o5SnJFY0Y3djdOelYzdmZ6Z2ZTSlEzNDVJc1pDb2Z5b1VHZ3BvU2VVZGc?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-17"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Gran jornada de museos gratis en Málaga este domingo 27 de septiembre: visitas guiadas, talleres con IA y coches clásicos - El Español",
@@ -6103,7 +6245,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 Malaga Actualidad",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
@@ -6111,7 +6253,13 @@
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1drV1NIMDlybGxsMHdKYk9kUjZvUjRpZUUwUzRKb2U3clpHN2ZkMms3OHVTcmJQcmN4cTZ2OHRnZVNwVzFtUklZTS1aSlYxV0YzLVhlVmVTYWhkR1hRWURCSkpIRllmaWxKYkpIRmwweU1pZ08xQi1aellLNDBsRnFFNDJELUc0dV9ZRlpacmhrUkpIcEEzQ2RuQnlEdWduQXBqb2kxb0NaQmh3TWN2MmsxdDZoNktnVVBya1ZrNWpWYmViT3RjWjI2WnpOTDF5SlRCUw?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-17"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo - El Español",
@@ -6119,7 +6267,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo El Español",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
@@ -6127,7 +6275,13 @@
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZjM0UXpMUTJhdS13emdmYlRhVVNZa0RrSHJNOEphZk1XWkdURHFtYUVyeGcyMm01UDBqYVNCQmhJVnREejZ4SmJCb1BIYVNIQ1I5ZTVkS3VNME9IMUtFVGFKN3J2dmw1V2hKYmgxM3JvVl9jUFFxQTdzdkM5VG8xelFtQXJBZDgyTDB2Vl9mTTdJNGEzb2lxYjZqSTUwTXhLcVlGOGpTUWt6RVZheDJ6MGxvZ25KYmlUMnZXTHBjcU1jYW90Y1dSbnEtdFBXSmJjSDE1bXVtNHRHYWtkcGdZU0FhbTE2SnhyU1VjR1Y3VHc1QzcydlQyaUNGanl0MGVEejRWTDd5UlZXNlZqRnNUSXpVNThhOW0w0gGeAkFVX3lxTE5iSEhIU1gtbF82VHZ6Qmlnc3hOdmZzbG12SVdDTlg5RHMxUE1FZG5wMDktODVjMElRbmFPWkVTRWhKd0xmRm91Tk1ka2V5bld2NTFHOFVGRExUVzZURU0yM2psX3dxN2RQRmVmMTZlYzRFNkR5T3BmTkRVVTJMNUtwU244QVRIZmdrZFd3bmpucjRVMDBCV1BVclRzY2ZSZjhwUEtwQkNrTUFIZkZkTjdOTXFSX3ZWZEhnZzZWQUplNGFmbmVsd2JIeURXV0dTWTZyOHBJeElobWNZZzM0WEhFWUQ4TXNwclhVLXVRSWowdU1va1o5SnJFY0Y3djdOelYzdmZ6Z2ZTSlEzNDVJc1pDb2Z5b1VHZ3BvU2VVZGc?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-17"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Gran jornada de museos gratis en Málaga este domingo 27 de septiembre: visitas guiadas, talleres con IA y coches clásicos - El Español",
@@ -7073,11 +7227,7 @@
     "snippet": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 Malaga Actualidad",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
-    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT",
-    "corroboration_count": 1,
-    "corroborating_urls": [
-      "https://www.europapress.es/andalucia/malaga-00356/noticia-museo-carmen-thyssen-malaga-presenta-programa-educacion-accion-cultural-2026-2027-20260925154249.html"
-    ]
+    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT"
   },
   {
     "title": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo - El Español",
@@ -7089,11 +7239,7 @@
     "snippet": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo El Español",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
-    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT",
-    "corroboration_count": 1,
-    "corroborating_urls": [
-      "https://www.elespanol.com/malaga/cultura/20260925/clases-anforas-salazones-museo-carmen-thyssen-malaga-abre-yacimiento-romano-colegios-familias-nuevo-programa-educativo/1003744397742_0.html"
-    ]
+    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT"
   },
   {
     "title": "Gran jornada de museos gratis en Málaga este domingo 27 de septiembre: visitas guiadas, talleres con IA y coches clásicos - El Español",
@@ -7803,11 +7949,12 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
     "snippet": "🎪✨ ¡MÁLAGA, EL CIRCO QUIRÓS YA ESTÁ AQUÍ! Si estáis buscando un plan diferente para disfrutar en familia, ¡tomad nota! 🤩 Acrobacias impresionantes, números aéreos, adrenalina y toda la magia del circo en un espectáculo para sorprender a grandes Instagram",
     "discovery_method": "rss",
     "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
-    "published_at": "Sat, 10 Oct 2026 16:11:05 GMT"
+    "published_at": "Sat, 10 Oct 2026 16:11:05 GMT",
+    "resolution_checked": "2026-10-17"
   },
   {
     "title": "🎨🖌️ ‘Sábados en familia’, programación de actividades familiares gratis en el Museo Ruso de Málaga este septiembre 🖌️🎨 El Museo Ruso de Málaga (@museorusomalaga) ofrece los sábados de septiembre una programación de activ",
@@ -7815,11 +7962,12 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
     "snippet": "🎨🖌️ ‘Sábados en familia’, programación de actividades familiares gratis en el Museo Ruso de Málaga este septiembre 🖌️🎨 El Museo Ruso de Málaga (@museorusomalaga) ofrece los sábados de septiembre una programación de actividades culturales gra Instagram",
     "discovery_method": "rss",
     "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
-    "published_at": "Fri, 18 Sep 2026 07:00:00 GMT"
+    "published_at": "Fri, 18 Sep 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-17"
   },
   {
     "title": "👩🏻‍🎤✨ El Circo Berlín para toda la familia en Ronda, Málaga ✨👩🏻‍🎤 El Circo Berlín (@circoberlin ) llega a Ronda, Málaga con su nuevo espectáculo ‘Adrenalina 2.0: Las Guerreras en el Circo’, una propuesta para disfrutar e",
@@ -7827,11 +7975,12 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
     "snippet": "👩🏻‍🎤✨ El Circo Berlín para toda la familia en Ronda, Málaga ✨👩🏻‍🎤 El Circo Berlín (@circoberlin ) llega a Ronda, Málaga con su nuevo espectáculo ‘Adrenalina 2.0: Las Guerreras en el Circo’, una propuesta para disfrutar en familia que combina música, acro Instagram",
     "discovery_method": "rss",
     "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
-    "published_at": "Tue, 13 Oct 2026 13:00:27 GMT"
+    "published_at": "Tue, 13 Oct 2026 13:00:27 GMT",
+    "resolution_checked": "2026-10-17"
   },
   {
     "title": "🎪✨ ¡EL GRAN CIRCO QUIRÓS LLEGA A MÁLAGA! 😍 ¡Disfrutamos muchísimo de un espectáculo increíble, lleno de diversión, risas, emoción y mucho entretenimiento! ❤️ 🤩 Acrobacias impresionantes, magia, motos voladoras y hasta la",
@@ -7887,11 +8036,12 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
     "snippet": "🍄🔬 ¡La ciencia también se cultiva en la UIS Málaga! La sede UIS Málaga realizó el segundo taller de producción de hongos comestibles, un espacio de aprendizaje y apropiación social del conocimiento que reunió a cerca de 48 niños, jóvenes y adultos. Dur Instagram",
     "discovery_method": "rss",
     "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
-    "published_at": "Wed, 23 Sep 2026 19:25:29 GMT"
+    "published_at": "Wed, 23 Sep 2026 19:25:29 GMT",
+    "resolution_checked": "2026-10-17"
   },
   {
     "title": "En Agenda Cultural Málaga estamos sorteando 8 entradas para Circo Berlín en su estancia de Coín. Ya sabes que todos los eventos culturales y de ocio los tienes en @agendaculturalmalaga - Instagram",
@@ -7983,11 +8133,12 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
     "snippet": "🎨👨🏻‍🎨 Actividades para niños gratis en el Museo Casa Natal Picasso de Málaga este septiembre 👨🏻‍🎨🎨 El Museo Casa Natal Picasso (@museocasanatalpicasso) te trae diferentes talleres gratis para niños y niñas a lo largo del mes de septiembre. Los taller Instagram",
     "discovery_method": "rss",
     "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
-    "published_at": "Sun, 20 Sep 2026 14:00:45 GMT"
+    "published_at": "Sun, 20 Sep 2026 14:00:45 GMT",
+    "resolution_checked": "2026-10-17"
   },
   {
     "title": "Planes en Málaga: tributos musicales, degustaciones gratis y fiesta de la cabra malagueña este fin de semana - Diario Sur",
@@ -8012,5 +8163,174 @@
     "discovery_method": "rss",
     "query": "\"La Caja Blanca\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR fiesta) \"Málaga capital\" when:60d",
     "published_at": "Mon, 14 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Fuengirola, Málaga acoge desde hoy la II Gran Fiesta de la - Malagaes",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeWNseDNrZFhiUWlzemMxOUZrWDFIVnIzejMyY0J3VFhkOXJiazFRUlJTRmpuWmtnM3ZqQjQ1OEtFNDRmUUdCVVZWelhsVG13YWFmaXFoZ0pzVGk0TjRDaGE2TVZsOGN4MkdiV3FlTWljelh0Z3ozSzFObndaekVlQmZvY3pPMk1CNzhyek41M2pkdGo5WGNMQkxGc0JOWDE1aW5uVklNa1A5amQzb2xIQ0RUTkszWGNHQ3BUOGdOUjB3NTh3OVE1bVF0REh2cm1QV3l4T2ZuUHR3UQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Fuengirola, Málaga acoge desde hoy la II Gran Fiesta de la Malagaes",
+    "discovery_method": "rss",
+    "query": "\"Fuengirola\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 08 Oct 2026 16:36:47 GMT"
+  },
+  {
+    "title": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror - Guía de Benalmádena",
+    "url": "https://www.andaluciainformacion.es/articulo/benalmadena/halloween-celebrara-fiestas-infantiles-pasacalles-diferentes-espacios-terror/202610151235233507232.html",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "verificada_con_fecha",
+    "review_reason": "Actividad publicada por evidencia textual de alta confianza.",
+    "snippet": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror Guía de Benalmádena",
+    "discovery_method": "rss",
+    "query": "\"Benalmádena\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 15 Oct 2026 18:45:14 GMT",
+    "resolution_checked": "2026-10-17",
+    "google_news_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUkZxcVlsdHBhT050R3VRa09RYXl1czRxTVpBZWcxcXlwVzRJMXNTVUpteFlHbElUWVRXbmxndVFRWFc4anlsN1BmVlJaMnBpeEtGYVZqM0ZXaTFjc2FZTHhEWElvdXBwNjNqRzRUZzBaZVJPVGt6d2JyUE40U2NhcmpJeGs2TlppRW5zbFBqRXBNU3ltQ1hRTjVRakRBbjJqcHI3Si1veWNWVEtTaE1mWWlRUWZ2bklsMFo2R0JBNDV6NjhFZ3NtQm1va3RocEZwdTJ0b01RODRmLWdyNkRIVjNXYnp0T3lwMlg4ZmRzbXBXY2NXMTNHLS1YWXlqRE1tN25MNjFPTmNEaTNh0gGMAkFVX3lxTE1SRnFxWWx0cGFPTnRHdVFrT1FheXVzNHFNWkFlZzFxeXBXNEkxc1NVSm14WUdsSVRZVFdubGd1UVFYVzhqeWw3UGZWUloycGl4S0ZhVmozRldpMWNzYVlMeERYSW91cHA2M2pHNFRnMFplUk9Ua3p3YnJQTjRTY2Fyakl4azZOWmlFbnNsUGpFcE1TeW1DWFFONVFqREFuMmpwcjdKLW95Y1ZUS1NoTWZZaVFRZnZuSWwwWjZHQkE0NXo2OEVnc21CbW9rdGhwRnB1MnRvTVE4NGYtZ3I2REhWM1dienRPeXAyWDhmZHNtcFdjY1cxM0ctLVhZeWpETW03bkw2MU9OY0RpM2E?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "público infantil/familiar",
+      "municipio malagueño explícito",
+      "corroboración independiente",
+      "titular coherente con la pista"
+    ],
+    "review_priority": "resuelta",
+    "verification_method": "texto",
+    "verified_event_ids": [
+      "EVT-TXT-09F62EC28C"
+    ]
+  },
+  {
+    "title": "La Pista de Hielo de Benalmádena abre temporada el 23 de octubre con actividades familiares - Andalucía Información",
+    "url": "https://www.andaluciainformacion.es/articulo/benalmadena/pista-hielo-benalmadena-comienza-nueva-temporada-23-octubre-jornada-actividades-toda-familia/202610131632503505160.html",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "verificada_con_fecha",
+    "review_reason": "Actividad publicada por evidencia textual de alta confianza.",
+    "snippet": "La Pista de Hielo de Benalmádena abre temporada el 23 de octubre con actividades familiares Andalucía Información",
+    "discovery_method": "rss",
+    "query": "\"Benalmádena\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Tue, 13 Oct 2026 14:32:50 GMT",
+    "resolution_checked": "2026-10-17",
+    "google_news_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQR3pwWEt4Rm1aaGNteTdTdHFOQ1h5clAxUE1XZnpubVQyN3RDT1Q3SlllZmw2TC1lZjRHdVZ0NnhrZ0JNYWxtWjBnaU5xQW01ZlhleFM4dXExeXRoVEV3SlBiYUN1RHU2U2xXQnBfRFVIREN6R0dxc1g3UG1jRG0wM1FXMHVsdUxPdlRLaDFYck9WdWZoSHFyNmE0eENoMkctWFZwcXlMUEI5TnhEbHVrZklyQUdSVWlBNE1rRnlsNnhmUnJ6bnV3bzd2T3dxV19sd0h5R01kV21XM1BmcnNSel9YQVlqaVctMFluLV9IaXdubEJ6RmhraTU3UkpXUWtjR3NOdEM2c9IBjAJBVV95cUxNN2piRllZNi1sM2g1TVpmbl9WeE43SmZ0OGNwV3B4MzVQTXdsTHg3TlZ0UXNmX2NaQkRBWTBIZWxXN2I2aEVXd3ltLU5uTWpMeXFZZWQyTUowX0xYY0ZraWRnenlPTGRlNGRnQzRfQzZVdUpqT3lJNGJTcnZfX0dLWjAyeGtPUXE0dWN2cWsxR09YVV9hM3BITDBtTWhZSGVGbDBLb2FmRTY5cEt4VmpEWDMyZHdPZTNRc3NUbmFpcVlQSm1neW10c2tLNmlVdEd2WFBBR2R6TFhFb3ZvYllGblZFTW13dUhqaFpiR0Q3VDZNdFoxY29PVF9MMVA3Tmd0R2pvTDBEVHYtWWxv?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "público infantil/familiar",
+      "municipio malagueño explícito",
+      "corroboración independiente",
+      "titular coherente con la pista"
+    ],
+    "review_priority": "resuelta",
+    "verification_method": "texto",
+    "verified_event_ids": [
+      "EVT-TXT-1FABAC71D0"
+    ]
+  },
+  {
+    "title": "El teatro vuelve a ser herramienta de inclusión para familias con TDAH en Vélez-Málaga - Diario Sur",
+    "url": "https://www.diariosur.es/axarquia/velez-malaga/teatro-vuelve-herramienta-inclusion-familias-tdah-velezmalaga-20260924110800-nt.html",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "snippet": "El teatro vuelve a ser herramienta de inclusión para familias con TDAH en Vélez-Málaga Diario Sur",
+    "discovery_method": "rss",
+    "query": "\"Vélez-Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-17",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSW8wamJqRW10enprcUVJZDJqYjVQd19qTTRBWjdnVTUwbG40WTBaYlYwLVkyUFBTTjhKQWJUOTJqTXpMUkdsNkx4WFhIdzZnelFwb2xXWmhidEFlSUZSZWc5ZmJ2TURqM2h0dlRvdVcyMnl1VmtFRWNfQWVGaDEyamlmRG5VTDU1TTFHSEJMcFFwWjRsemJCaVlaM2t4bTNEVU81QVRUYUtxVXUtczdGRDJ1RzdnREdjU2tISzNBR0tKbHZNc29jMVY5a9IB0AFBVV95cUxQdExZeldVNXdmSUFGVUpwZ1o0QVhObWxXdmNTbHZVaUVudmdCOXlnSUpieWIySEtQOGFUeW9hQ0FsNXhFN3NWWExzbHJLZGcxWkpnOFVHWUt5N09RZUZfVXE5TFhQQ1dmM21qUGwySDZFTmFLOEdldW5iQk9YbGF0Q1U2WmsyTkk3dnl0ZDRXVWVvZDdVTGI3QjBwX1BTdVFibUNpdDhkZW5NRkVPLUxVdnpaUHI1VEw3VUQtdl9xal9Ic0pKQmprLWstMXFQUXM0?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Gata Brass Band presenta este sábado en Nerja su espectáculo musical ‘PARAÍSO GATA’ - Ayuntamiento de Nerja",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmxQc050emxJRGdmYW9yTGpGTDdHOFRVbVdDY2tnQXZCbWdaV0NWVzJmLUVlN0hFcGlaaW1MOF9VMkJpVzlxQ0F2Mko0cm9yMUctYXl0Q3lqOTEwYnY4TTZTdTFtYnBPQ2FlLXVCWWpMdmd1YTJiRW8yVjlfNXBzcTJYVHNGemEzdlc0c2ZCRHU3TlZxbXM0UXZyTnV6YkN1VUdxbkFn?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Gata Brass Band presenta este sábado en Nerja su espectáculo musical ‘PARAÍSO GATA’ Ayuntamiento de Nerja",
+    "discovery_method": "rss",
+    "query": "\"Nerja\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 15 Oct 2026 06:54:09 GMT"
+  },
+  {
+    "title": "El Ayuntamiento de Ronda y Circus Berlín facilitan 150 entradas gratuitas para menores en situación de vulnerabilidad - Andalucía Información",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTndlTFhtVkRILTh2WHg1N2FhVG9YQndoMFdtendZOU5kejdhTUxEY0c4UEtXaWVzeFdOdHl3bkxwRVd2NVMxWkZnMl9jVTBXQlQxcDJXUVQ5LXdOYU8zY3ZWQUdBb3VCRnhxVnozV2tRRGdmTXNzX3ZSODFCUWM5YUhrZ2pSWks3b3NsaGZSWmgyaW5qUzZQcTlybVpXYTR4ZXpFc09PU1RfVmJjS0NTTkhYNXpxN1pGSk91S09SckpHb3RRN1IwSERmTWtkdmJwMVFaVVFrNDNLLVNMM19vSVpQQzZmSDduSUdOY1V1dVI0QW55SEhEbUhXV1FMX2JpQmRPZUptVdIBjAJBVV95cUxQMUstNURob2U5Q3RZblB2Q1BJSlQzMEkxT3lPQ0YwMll6LUFjNlFBRF84NkFPODJJVGJ6ZWh6bTJZTTl6MzlxTXpPQmpndE9taHB2emQ2cFUwTVpWVlZWNmE1aTVka3pwZjBXVGdXa3p5WW43bFZmQ2xYdHFPWFV0ZXB5eXRfZF9XZVNiYVd1YmtMQWVYUTVSS25PdFFBRzF4Q0Vac3R1TnVfMkdLTlBYMzJ2aDlIWHkxMUMtSWNyejRmS3E5c2ZDNkJ5WDhrUmRRRXA5b2RtVC0ycndDbnJSVjZXai1TUEp4X2RUYWZTamFSaVlNTmU1Sm5IQ2NjejlmOHlob3JjRFBXOVdU?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "El Ayuntamiento de Ronda y Circus Berlín facilitan 150 entradas gratuitas para menores en situación de vulnerabilidad Andalucía Información",
+    "discovery_method": "rss",
+    "query": "\"Ronda\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 15 Oct 2026 21:54:33 GMT"
+  },
+  {
+    "title": "La Feria del Libro Infantil y Juvenil “Pájaro Azul” regresa a Punta Arenas con editoriales nacionales y librerías locales. - OvejeroNoticias",
+    "url": "https://www.ovejeronoticias.cl/2026/10/la-feria-del-libro-infantil-y-juvenil-pajaro-azul-regresa-a-punta-arenas-con-editoriales-nacionales-y-librerias-locales/",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (25/100).",
+    "snippet": "La Feria del Libro Infantil y Juvenil “Pájaro Azul” regresa a Punta Arenas con editoriales nacionales y librerías locales. OvejeroNoticias",
+    "discovery_method": "rss",
+    "query": "\"Arenas\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Thu, 15 Oct 2026 19:12:00 GMT",
+    "resolution_checked": "2026-10-17",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVFJlVVRaVU9aSFFUbTRaWk1abW9LZEhlTDVCSk56R1RSWHo4Q0R0eFNGSWpTV0t2dlRhSGZmTmNRdkNzSW1yaWZ5Y0VlSXVmMDhyRGpmclQ5S0lMSEhjR2twMmlUZloySjhhc1N1ckxHenJ2bmJJN0ZyclhpNHJvcmRqWUE1T0V2RWl4TUlyVHZudVhJMEgxWjJOSnl4QnNPNnlkR2xJVktGNFdxTzV2VGtwdG8tcTdqTU82T1dZLUZleEs0eUdHU09xQkpObjNHWjhrZGNqSVVQVWE1cjk1Y2I3SVlnNFNkTnZXTXJqVUU?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 25,
+    "confidence_reasons": [
+      "actividad concreta",
+      "varias fechas: requiere contraste"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "🌺 MÁLAGA CON PEQUES ESTE FINDE 🌺 Málaga ofrece numerosos planes para que paséis estos días en familia. Nosotros os los contamos 😉: 🧘‍♀️ CuentaYoga en familia - 25 de septiembre en Teatinos (Málaga) 🧱 Taller de cerámica -",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCY0ZfTS1sZElpbkc0ZlJseU9Vc2E4VHF6by1DbnpBTkhrbm13MVY4cXduZ0hWTmNwdzV6LWhGQ3dHM0hJSGFWbHlSNHFOWmNYVjY3a2l3?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
+    "snippet": "🌺 MÁLAGA CON PEQUES ESTE FINDE 🌺 Málaga ofrece numerosos planes para que paséis estos días en familia. Nosotros os los contamos 😉: 🧘‍♀️ CuentaYoga en familia - 25 de septiembre en Teatinos (Málaga) 🧱 Taller de cerámica - Fuengirola. 🧩 Activi Instagram",
+    "discovery_method": "rss",
+    "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
+    "published_at": "Thu, 24 Sep 2026 11:07:40 GMT",
+    "resolution_checked": "2026-10-17"
+  },
+  {
+    "title": "Así disfrutamos la 3ª edición de @breikifestival 🎧 en Málaga 🎉 Durante este gran evento no se paró de bailar música electrónica con una amplia lista de DJ’S de calidad y jóvenes promesas 🎶 Los peques se lo pasaron genial",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TeVFyRUljb0hxOWZMQ29TdHlSUGhyRlZZRUp4R2xxTVZnYk0wZjhzd004UDVsWFFvRXh2bDF2cEFGQU9XV0k5MDNLejl4VnB1Vm5NNlZB?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Así disfrutamos la 3ª edición de @breikifestival 🎧 en Málaga 🎉 Durante este gran evento no se paró de bailar música electrónica con una amplia lista de DJ’S de calidad y jóvenes promesas 🎶 Los peques se lo pasaron genial con el Taller de Calistenia, el Pe Instagram",
+    "discovery_method": "rss",
+    "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
+    "published_at": "Tue, 29 Sep 2026 07:00:00 GMT"
   }
 ]

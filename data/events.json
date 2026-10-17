@@ -1504,63 +1504,10 @@
     "origin": "evidencia textual automatizada",
     "confidence_score": 100,
     "verification_method": "evidencia textual fuerte",
-    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · corroboración independiente · titular coherente con la pista"
-  },
-  {
-    "id": "EVT-TXT-20CD02C414",
-    "title": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia",
-    "start": "2026-10-23",
-    "end": "2026-10-23",
-    "time": "Por confirmar",
-    "town": "Benalmádena",
-    "venue": "Por confirmar",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_required": null,
-    "reservation_url": null,
-    "field_sources": {
-      "start": {
-        "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
-        "quote": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia La Pista de Hielo de Benalmádena comienza una nue",
-        "evidence": "Fecha futura explícita vinculada al evento."
-      },
-      "town": {
-        "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
-        "quote": "Benalmádena",
-        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
-      },
-      "audience": {
-        "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
-        "quote": "infantil/familiar",
-        "evidence": "El evento se presenta explícitamente como infantil o familiar."
-      },
-      "corroboration": {
-        "source_url": "https://www.benalmadena.es/noticias/N13614/La-Pista-de-Hielo-de-Benalmdena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia.html",
-        "quote": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia",
-        "evidence": "Segunda fuente independiente con varias palabras relevantes coincidentes."
-      }
-    },
-    "audience": "Infantil y familiar",
-    "source_name": "Radar · azcostadelsol.com",
-    "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
-    "status": "publicada_en_fuente",
-    "details": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia Ayuntamiento de Benalmádena",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-10-13",
-    "last_checked": "2026-10-17T21:07:49+00:00",
-    "origin": "evidencia textual automatizada",
-    "confidence_score": 100,
-    "verification_method": "evidencia textual fuerte",
     "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · corroboración independiente · titular coherente con la pista",
     "secondary_sources": [
-      "https://www.benalmadena.es/noticias/N13614/La-Pista-de-Hielo-de-Benalmdena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia.html",
-      "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/"
+      "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
+      "https://www.benalmadena.es/noticias/N13614/La-Pista-de-Hielo-de-Benalmdena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia.html"
     ]
   },
   {
@@ -2564,6 +2511,59 @@
         "evidence": "Horario del Halloween familiar publicado por el organizador."
       }
     }
+  },
+  {
+    "id": "EVT-TXT-09F62EC28C",
+    "title": "Halloween se celebrará con fiestas infantiles, pasacalles y diferentes espacios de terror",
+    "start": "2026-10-31",
+    "end": "2026-10-31",
+    "time": "Por confirmar",
+    "town": "Benalmádena",
+    "venue": "Por confirmar",
+    "category": "Lectura y cuentos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {
+      "start": {
+        "source_url": "https://www.andaluciainformacion.es/articulo/benalmadena/halloween-celebrara-fiestas-infantiles-pasacalles-diferentes-espacios-terror/202610151235233507232.html",
+        "quote": "Halloween se celebrará con fiestas infantiles, pasacalles y diferentes espacios de terror La programación del 31 de octubre incluirá cuentacuentos, concursos, una batucada, una cas",
+        "evidence": "Fecha futura explícita vinculada al evento."
+      },
+      "town": {
+        "source_url": "https://www.andaluciainformacion.es/articulo/benalmadena/halloween-celebrara-fiestas-infantiles-pasacalles-diferentes-espacios-terror/202610151235233507232.html",
+        "quote": "Benalmádena",
+        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
+      },
+      "audience": {
+        "source_url": "https://www.andaluciainformacion.es/articulo/benalmadena/halloween-celebrara-fiestas-infantiles-pasacalles-diferentes-espacios-terror/202610151235233507232.html",
+        "quote": "infantil/familiar",
+        "evidence": "El evento se presenta explícitamente como infantil o familiar."
+      },
+      "corroboration": {
+        "source_url": "https://www.benalmadena.es/noticias/N13619/Benalmdena-celebrar-Halloween-con-fiestas-infantiles-pasacalles-y-diferentes-espacios-de-terror.html",
+        "quote": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror",
+        "evidence": "Segunda fuente independiente con varias palabras relevantes coincidentes."
+      }
+    },
+    "audience": "Infantil y familiar",
+    "source_name": "Radar · andaluciainformacion.es",
+    "source_url": "https://www.andaluciainformacion.es/articulo/benalmadena/halloween-celebrara-fiestas-infantiles-pasacalles-diferentes-espacios-terror/202610151235233507232.html",
+    "status": "publicada_en_fuente",
+    "details": "La programación del 31 de octubre incluirá cuentacuentos, concursos, una batucada, una casa del terror y diferentes espacios ambientados en las calles y plaz...",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-17",
+    "last_checked": "2026-10-17T21:40:09+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 100,
+    "verification_method": "evidencia textual fuerte",
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · corroboración independiente · titular coherente con la pista"
   },
   {
     "id": "EVT-FUEN-TOYS-2026",
