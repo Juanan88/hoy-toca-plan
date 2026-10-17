@@ -1459,7 +1459,16 @@
     "first_seen": "2026-10-17",
     "last_checked": "2026-10-17T12:59:03+00:00",
     "origin": "Investigación IA programada, con fuente",
-    "status": "publicada_en_fuente"
+    "status": "publicada_en_fuente",
+    "reservation_url": "https://salamirari.com/reservar/?evento=521",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://salamirari.com/reservar/?evento=521",
+        "quote": "Reservar entradas · Sáb 24 Oct · 17:00 · Sueños",
+        "evidence": "La página oficial de la función ofrece el acceso de reserva para Sueños en Sala Mirari.",
+        "last_verified": "2026-10-17"
+      }
+    }
   },
   {
     "id": "EVT-9BB82E337",
@@ -2508,7 +2517,16 @@
     "first_seen": "2026-10-17",
     "last_checked": "2026-10-17T12:59:03+00:00",
     "origin": "Investigación IA programada, con fuente",
-    "status": "publicada_en_fuente"
+    "status": "publicada_en_fuente",
+    "reservation_url": "https://salamirari.com/reservar/?evento=527",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://salamirari.com/reservar/?evento=527",
+        "quote": "Reservar entradas · Sáb 7 Nov · 17:00 · La magia de las burbujas",
+        "evidence": "La página oficial de la función ofrece el acceso de reserva para La magia de las burbujas.",
+        "last_verified": "2026-10-17"
+      }
+    }
   },
   {
     "venue": "La Térmica",
@@ -2855,7 +2873,16 @@
     "first_seen": "2026-10-17",
     "last_checked": "2026-10-17T12:59:03+00:00",
     "origin": "Investigación IA programada, con fuente",
-    "status": "publicada_en_fuente"
+    "status": "publicada_en_fuente",
+    "reservation_url": "https://salamirari.com/reservar/?evento=546",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://salamirari.com/reservar/?evento=546",
+        "quote": "Reservar entradas · Sáb 14 Nov · 17:00 · Magiliar",
+        "evidence": "La página oficial de la función ofrece el acceso de reserva para Magiliar en Sala Mirari.",
+        "last_verified": "2026-10-17"
+      }
+    }
   },
   {
     "id": "EVT-8332CCF1FE36",
@@ -3136,7 +3163,16 @@
     "first_seen": "2026-10-17",
     "last_checked": "2026-10-17T12:59:03+00:00",
     "origin": "Investigación IA programada, con fuente",
-    "status": "publicada_en_fuente"
+    "status": "publicada_en_fuente",
+    "reservation_url": "https://salamirari.com/reservar/?evento=532",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://salamirari.com/reservar/?evento=532",
+        "quote": "Reservar entradas · Sáb 21 Nov · 17:00 · Jugando con la imaginación",
+        "evidence": "La página oficial de la función ofrece el acceso de reserva para Jugando con la imaginación.",
+        "last_verified": "2026-10-17"
+      }
+    }
   },
   {
     "id": "EVT-F968ED0BFC70",
