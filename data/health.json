@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T21:34:06+00:00",
+  "generated_at": "2026-10-17T21:34:24+00:00",
   "level": "attention",
-  "events": 104,
+  "events": 105,
   "sources": 70,
   "catalog_drift": true,
   "last_scan_snapshot": {
-    "events": 104,
+    "events": 105,
     "sources": 64
   },
   "discoveries_pending": 233,
@@ -65,12 +65,12 @@
   "last_radar": "2026-10-17T21:32:08+00:00",
   "days_since_radar": 0.0,
   "last_verifier": "2026-10-17T21:32:54+00:00",
-  "age_missing": 71,
+  "age_missing": 72,
   "municipalities_with_events": 13,
   "coverage_by_town": {
     "Málaga": 67,
     "Fuengirola": 8,
-    "Benalmádena": 7,
+    "Benalmádena": 8,
     "Marbella": 5,
     "Torremolinos": 4,
     "Estepona": 3,
