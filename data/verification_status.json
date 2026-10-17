@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-10-17T10:58:13+00:00",
-  "examined": 11,
+  "last_run": "2026-10-17T13:18:33+00:00",
+  "examined": 12,
   "new_published_events": 0,
-  "inaccessible": 1,
-  "total_events": 93,
+  "inaccessible": 3,
+  "total_events": 97,
   "method": "eventos públicos JSON-LD con fecha y municipio; respeta robots.txt"
 }

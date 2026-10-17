@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-17T12:59:39+00:00",
+  "generated_at": "2026-10-17T13:19:28+00:00",
   "level": "attention",
   "events": 97,
-  "sources": 65,
+  "sources": 66,
   "catalog_drift": true,
   "last_scan_snapshot": {
     "events": 97,
     "sources": 64
   },
-  "discoveries_pending": 158,
-  "discoveries_unresolved": 381,
+  "discoveries_pending": 162,
+  "discoveries_unresolved": 397,
   "unverified_events": 8,
   "known_age": 30,
-  "sources_never_checked": 1,
+  "sources_never_checked": 2,
   "sources_failed": 11,
   "source_errors": [
     {
@@ -62,9 +62,9 @@
   ],
   "last_full_scan": "2026-10-15T10:06:50+00:00",
   "days_since_full_scan": 2.1,
-  "last_radar": "2026-10-17T10:58:02+00:00",
-  "days_since_radar": 0.1,
-  "last_verifier": "2026-10-17T10:58:13+00:00",
+  "last_radar": "2026-10-17T13:18:21+00:00",
+  "days_since_radar": 0.0,
+  "last_verifier": "2026-10-17T13:18:33+00:00",
   "age_missing": 67,
   "municipalities_with_events": 13,
   "coverage_by_town": {
@@ -84,6 +84,6 @@
   },
   "alerts": [
     "11 fuentes con error en su última consulta",
-    "1 fuentes aún sin primera revisión"
+    "2 fuentes aún sin primera revisión"
   ]
 }

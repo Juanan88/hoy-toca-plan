@@ -406,7 +406,7 @@
     "id": "EVT-CBDE05B8AA17",
     "title": "Imaginamalaga 2026: salón del cómic, ilustración y fantasía",
     "start": "2026-10-16",
-    "end": "2026-10-17",
+    "end": "2026-10-18",
     "time": "10:00",
     "town": "Málaga",
     "venue": "La Caja Blanca",
@@ -426,7 +426,8 @@
     "schedule_unconfirmed": false,
     "occurrences": [
       "2026-10-16",
-      "2026-10-17"
+      "2026-10-17",
+      "2026-10-18"
     ],
     "secondary_sources": [
       "https://juventud.malaga.eu/es/agenda/detalle-de-agenda/index.html?id=148983&tipoVO=2",

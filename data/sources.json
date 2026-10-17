@@ -925,5 +925,20 @@
       "https://salamirari.com/reservar/?evento=546",
       "https://salamirari.com/reservar/?evento=532"
     ]
+  },
+  {
+    "id": "SRC-066",
+    "name": "La Caja Blanca · programación oficial",
+    "type": "Ayuntamiento / espacio cultural",
+    "area": "Málaga capital",
+    "priority": "Alta",
+    "url": "https://juventud.malaga.eu/es/la-caja-blanca/",
+    "approved": true,
+    "status": "pendiente",
+    "notes": "Fuente oficial del Área de Juventud. Revisar programación mensual, auditorio y actividades familiares; no incluir automáticamente propuestas exclusivamente juveniles/adultas. Verificar fecha, público, precio y reserva.",
+    "max_links": 12,
+    "watch_urls": [
+      "https://juventud.malaga.eu/es/la-caja-blanca/"
+    ]
   }
 ]

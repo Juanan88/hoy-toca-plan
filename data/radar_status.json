@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-10-17T10:58:02+00:00",
+  "last_run": "2026-10-17T13:18:21+00:00",
   "queries": 38,
-  "items_examined": 802,
-  "new_candidates": 9,
+  "items_examined": 822,
+  "new_candidates": 16,
   "candidates_discarded_for_quality": 0,
   "feeds_google": 34,
-  "feeds_bing_web": 20,
-  "total_discoveries": 396,
+  "feeds_bing_web": 16,
+  "total_discoveries": 412,
   "warnings": [],
   "method": "RSS público sin API, búsqueda territorial rotativa; candidatos no confirmados"
 }
