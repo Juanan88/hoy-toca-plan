@@ -723,56 +723,6 @@
     "origin": "agenda especializada"
   },
   {
-    "id": "EVT-TXT-20BA5B629A",
-    "title": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia",
-    "start": "2026-10-17",
-    "end": "2026-10-17",
-    "time": "Por confirmar",
-    "town": "Torremolinos",
-    "venue": "Por confirmar",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "3 €",
-    "audience": "Infantil y familiar",
-    "source_name": "Radar contrastado · azcostadelsol.com",
-    "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
-    "status": "publicada_en_fuente",
-    "details": "La Pista de Hielo de Benalmádena, ubicada en el Palacio de Deportes de la avenida Ciudad de Melilla, iniciará el",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-10-13",
-    "last_checked": "2026-10-17T20:59:38+00:00",
-    "origin": "evidencia textual automatizada",
-    "field_sources": {
-      "start": {
-        "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
-        "quote": "emporada el 23 de octubre con una jornada de actividades para toda la familia - AZ Costa del Sol Aviso legal / Política de privacidad Contacto sábado 17 octubre 2026 Login Sin resu",
-        "evidence": "Fecha futura explícita encontrada en el contenido visible."
-      },
-      "town": {
-        "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
-        "quote": "Torremolinos",
-        "evidence": "Municipio malagueño mencionado explícitamente en la página."
-      },
-      "audience": {
-        "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
-        "quote": "infantil/familiar",
-        "evidence": "El contenido visible identifica explícitamente público infantil o familiar."
-      },
-      "corroboration": {
-        "source_url": "https://www.fuengirola.es/evento/agenda-octubre/",
-        "quote": "AGENDA OCTUBRE",
-        "evidence": "Segunda fuente independiente con titular coincidente."
-      }
-    },
-    "verification_confidence": 105,
-    "verification_method": "evidencia textual fuerte",
-    "reservation_required": null,
-    "reservation_url": null
-  },
-  {
     "id": "EVT-994424D0B126",
     "title": "Picasso en familia 2026-2027",
     "start": "2026-10-17",
@@ -3857,5 +3807,36 @@
       }
     },
     "secondary_sources": []
+  },
+  {
+    "id": "EVT-TXT-1292D597A0",
+    "title": "Teatro en familia",
+    "start": "2027-03-28",
+    "end": "2027-03-28",
+    "time": "Por confirmar",
+    "town": "Málaga",
+    "venue": "Por confirmar",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {},
+    "audience": "Infantil y familiar",
+    "source_name": "Agenda Cultura Málaga",
+    "source_url": "https://cultura.malaga.eu/es/actividades-culturales/actividades-escenicas/teatro-en-familia/",
+    "status": "publicada_en_fuente",
+    "details": "2026 con una selección de obras conocidas adaptadas a todos los públicos. El ciclo gratuito se extenderá hasta el 28 de marzo de 2027 y se divide en: ‘Los Domingos en el Eduardo Ocón’ ‘Festival de Títeres’ ‘Teatro en Navidad’ TEATRO EN FAMILIA 2026",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-12",
+    "last_checked": "2026-10-17T21:03:42+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 95,
+    "evidence": "público infantil/familiar · actividad concreta · fecha futura explícita · municipio malagueño explícito · fuente aprobada del catálogo"
   }
 ]
