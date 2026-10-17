@@ -586,7 +586,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100).",
     "snippet": "Cómo se escribe una Vendimia: el taller que dictará Alicia Casares en la Nave Cultural Sitio Andino",
     "discovery_method": "rss",
     "query": "\"Casares\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
@@ -594,7 +594,15 @@
     "resolution_checked": "2026-10-13",
     "google_news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSE03YURiXzVaS19UZmVudndxVS1wV0hNNDZ0UUc0cVdYR3JkcTZ6UjNBRzc2Y2VDUTFKWXpBUW9aUk1BOEFwYWlGRTdRWTVQTlM5ajVxMkZwQWJGNnI1SS0wd0Z0LWhMdUpHSnpqYnB3VGl4cFNIVFgzSXo1YTlzMGFrU2s3aExwZ19xVVJEOGxWcTRtZWtUYkY4Mk1sd0RqZHAtZkZmWUlGaHVQc2dpQm5CMUhFZlcyVXptbUFqd2M0TWFhRW9RcERTVmQtd0FFZTE3RA?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-15"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "El pueblo de Málaga que celebra este fin de semana su famosa 'Fiesta en el Aire' con mercadillo, talleres infantiles y catas gratuitas: programación completa - La Opinión de Málaga",
@@ -618,7 +626,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "El pueblo de Álora, en Málaga, ha convertido su plato más tradicional en una fiesta: este sábado habrá sopas perotas gratis para todos Directo al Paladar",
     "discovery_method": "rss",
     "query": "Málaga talleres de cocina infantiles when:30d",
@@ -626,7 +634,13 @@
     "resolution_checked": "2026-10-13",
     "google_news_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTnE2ako5Vmp2dS1rUEFkRzZ4WG0tNHJrMzB0dDNNR1RRaENGN1Zub3doM3RlRjFPWVM5SGE0blltQ1Aya3FoajBMZlQyVWFuVmVCSGFDdVFwTjRjR19vV0J4Z3l6Rm0wY1FvTmtBaTFueUl3UFNfaXlNYl85MlN2bEJuLVBXZFB1ZVJuQWVWRWVGOHl6b3dmTjdDczNZWkdxZkZKNHBzZE5YWXI4UXZKQkwxdVdOZ2M2R2RNRTUycmU1UTlNUnRiYTg5NTNJeF9zYjQ3YmJVc0UyejY0SE9mQUdUWTI1QdIB6wFBVV95cUxPVVJvYjdNNUlyREdtS1N6bkQ5cF9wU090STdoOU9VblpJc0pONUswa1M5ZDk2LVFBcHJKclZnS0FJUUJhenk1a25yMXE1NzFwSXhUU19qeU1lb3FWWi1zbEFweklnblg2N25ZbWVsWVBNd0ZXQm5jdng5SW5zR2pOTnZ6SXNndzZzMG9pZkVlMXZfMzV6MG9WVUkzS1R6ZnN4TjZ2VWQzQ1NHNEE4T21HUWFZWEY2S3UxZUZvajNKOEJidDRvamppa3NKT1BLWXVqbnNiN1oxZUVvWXY3aENNU2NqMXd0eFdjaTFz?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-15"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Los mejores planes con niños en Málaga en octubre: danza, títeres y exposiciones para toda la familia - Sapos y Princesas",
@@ -2144,7 +2158,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100).",
     "snippet": "Cómo se escribe una Vendimia: el taller que dictará Alicia Casares en la Nave Cultural Sitio Andino",
     "discovery_method": "rss",
     "query": "\"Casares\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
@@ -2152,7 +2166,15 @@
     "resolution_checked": "2026-10-13",
     "google_news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSE03YURiXzVaS19UZmVudndxVS1wV0hNNDZ0UUc0cVdYR3JkcTZ6UjNBRzc2Y2VDUTFKWXpBUW9aUk1BOEFwYWlGRTdRWTVQTlM5ajVxMkZwQWJGNnI1SS0wd0Z0LWhMdUpHSnpqYnB3VGl4cFNIVFgzSXo1YTlzMGFrU2s3aExwZ19xVVJEOGxWcTRtZWtUYkY4Mk1sd0RqZHAtZkZmWUlGaHVQc2dpQm5CMUhFZlcyVXptbUFqd2M0TWFhRW9RcERTVmQtd0FFZTE3RA?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-13"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "El pueblo de Álora, en Málaga, ha convertido su plato más tradicional en una fiesta: este sábado habrá sopas perotas gratis para todos - Directo al Paladar",
@@ -2160,7 +2182,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "El pueblo de Álora, en Málaga, ha convertido su plato más tradicional en una fiesta: este sábado habrá sopas perotas gratis para todos Directo al Paladar",
     "discovery_method": "rss",
     "query": "Málaga talleres de cocina infantiles when:30d",
@@ -2168,7 +2190,13 @@
     "resolution_checked": "2026-10-13",
     "google_news_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTnE2ako5Vmp2dS1rUEFkRzZ4WG0tNHJrMzB0dDNNR1RRaENGN1Zub3doM3RlRjFPWVM5SGE0blltQ1Aya3FoajBMZlQyVWFuVmVCSGFDdVFwTjRjR19vV0J4Z3l6Rm0wY1FvTmtBaTFueUl3UFNfaXlNYl85MlN2bEJuLVBXZFB1ZVJuQWVWRWVGOHl6b3dmTjdDczNZWkdxZkZKNHBzZE5YWXI4UXZKQkwxdVdOZ2M2R2RNRTUycmU1UTlNUnRiYTg5NTNJeF9zYjQ3YmJVc0UyejY0SE9mQUdUWTI1QdIB6wFBVV95cUxPVVJvYjdNNUlyREdtS1N6bkQ5cF9wU090STdoOU9VblpJc0pONUswa1M5ZDk2LVFBcHJKclZnS0FJUUJhenk1a25yMXE1NzFwSXhUU19qeU1lb3FWWi1zbEFweklnblg2N25ZbWVsWVBNd0ZXQm5jdng5SW5zR2pOTnZ6SXNndzZzMG9pZkVlMXZfMzV6MG9WVUkzS1R6ZnN4TjZ2VWQzQ1NHNEE4T21HUWFZWEY2S3UxZUZvajNKOEJidDRvamppa3NKT1BLWXVqbnNiN1oxZUVvWXY3aENNU2NqMXd0eFdjaTFz?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-13"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "El pueblo de Málaga que celebra este fin de semana su famosa 'Fiesta en el Aire' con mercadillo, talleres infantiles y catas gratuitas: programación completa - La Opinión de Málaga",
@@ -2399,7 +2427,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-14",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "La UNIA realiza en la Sede Tecnológica de Málaga el taller de dibujo urbano Mediterráneo Onda Cero",
     "discovery_method": "rss",
     "query": "\"Málaga\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
@@ -2407,7 +2435,13 @@
     "resolution_checked": "2026-10-14",
     "google_news_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeDg5eGU0aW1VV1ZvazlwRTZUTm04bHV2d3JIaWh2Tk16NXFKVlRDMF9kbG51MGRadlZ2Y0lvQjBaZDQ3a2x0TTNnWldPOUpwSlA4Z0hGcHg0R0NPNC1IY01SSFdTSlRtMFZNaG1nT1p0Skl0aHQ2RmpuSWNhMFBENkwwY09lQjJ3MVBoYklJU1VHMlZEaXBnY1NBd1YyeXhaUzdiMS16YnhDM0VYcmRxdEViR3NaTmlkLWdablFUSHgxQ0lhblVubS1aNzBWNjlKRFNQd0RnRExaMjlYM050X0JNMjJqdTQ0dm9oLWZKR3dyU2RxRHp3cDNVZ9IB-wFBVV95cUxNeDg5eGU0aW1VV1ZvazlwRTZUTm04bHV2d3JIaWh2Tk16NXFKVlRDMF9kbG51MGRadlZ2Y0lvQjBaZDQ3a2x0TTNnWldPOUpwSlA4Z0hGcHg0R0NPNC1IY01SSFdTSlRtMFZNaG1nT1p0Skl0aHQ2RmpuSWNhMFBENkwwY09lQjJ3MVBoYklJU1VHMlZEaXBnY1NBd1YyeXhaUzdiMS16YnhDM0VYcmRxdEViR3NaTmlkLWdablFUSHgxQ0lhblVubS1aNzBWNjlKRFNQd0RnRExaMjlYM050X0JNMjJqdTQ0dm9oLWZKR3dyU2RxRHp3cDNVZw?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-14"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Santa Teresa celebra sus fiestas del 15 al 18 de octubre con música, actividades infantiles y una paella solidaria - Diario Colmenar",
@@ -2454,7 +2488,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-14",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "El pueblo de Álora, en Málaga, ha convertido su plato más tradicional en una fiesta: este sábado habrá sopas perotas gratis para todos Directo al Paladar",
     "discovery_method": "rss",
     "query": "Málaga talleres de cocina infantiles when:30d",
@@ -2462,7 +2496,13 @@
     "resolution_checked": "2026-10-14",
     "google_news_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTnE2ako5Vmp2dS1rUEFkRzZ4WG0tNHJrMzB0dDNNR1RRaENGN1Zub3doM3RlRjFPWVM5SGE0blltQ1Aya3FoajBMZlQyVWFuVmVCSGFDdVFwTjRjR19vV0J4Z3l6Rm0wY1FvTmtBaTFueUl3UFNfaXlNYl85MlN2bEJuLVBXZFB1ZVJuQWVWRWVGOHl6b3dmTjdDczNZWkdxZkZKNHBzZE5YWXI4UXZKQkwxdVdOZ2M2R2RNRTUycmU1UTlNUnRiYTg5NTNJeF9zYjQ3YmJVc0UyejY0SE9mQUdUWTI1QdIB6wFBVV95cUxPVVJvYjdNNUlyREdtS1N6bkQ5cF9wU090STdoOU9VblpJc0pONUswa1M5ZDk2LVFBcHJKclZnS0FJUUJhenk1a25yMXE1NzFwSXhUU19qeU1lb3FWWi1zbEFweklnblg2N25ZbWVsWVBNd0ZXQm5jdng5SW5zR2pOTnZ6SXNndzZzMG9pZkVlMXZfMzV6MG9WVUkzS1R6ZnN4TjZ2VWQzQ1NHNEE4T21HUWFZWEY2S3UxZUZvajNKOEJidDRvamppa3NKT1BLWXVqbnNiN1oxZUVvWXY3aENNU2NqMXd0eFdjaTFz?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-14"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Casetas, fiestas infantiles y conciertos gratuitos de Camela, OBK y Modestia Aparte en Málaga: así celebra este conocido pueblo costero su mítica feria esta semana - La Opinión de Málaga",
@@ -2550,7 +2590,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-14",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
     "snippet": "Arriate se convierte en un 'gran escenario cultural' para celebrar veinte ediciones de la Fiesta en el Aire Diario Sur",
     "discovery_method": "rss",
     "query": "Serranía de Ronda talleres infantiles when:30d",
@@ -2558,7 +2598,14 @@
     "resolution_checked": "2026-10-14",
     "google_news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFpwYmppSXJRTjNuMDJQZTRMZEtiV2xOek5OazhadTVzZjBucUFZc3JjM0t3QnE4RGRoNmUzM0E0TkJtUThEejBVaWtFbnBIa0plRU94bDhpbml1YVF2MGh2NmdZdFN5YnFiS2RZYXgyQ0xQc0tEU2RyMDhnMzJjcEFoMkJibS1HbHBBM1phQXBaTngtOHdCeFRrOHRaWGtSdEp0QV9qbmRzbWpnV1pzYjM5MFJtSW5FSlR3UWl2aHhYSmvSAcgBQVVfeXFMTXFfbjViRk1wLWFGS3dpNFI5QlFCYXBOb2ROOHZpdFh4NFQtOTI3XzU2SjdTWWhTdEgtWlZmZGZnX3FxME1XOElqME9kNjg2bjJpOFl2clRXX29kVHVPQmJQNmo2Q1ZvZW14QnQwWDhoMzQ4TTZZTkZfSVB1RjZrbzVGeUF0RldSR3lYdGo2V3JFYjltX2ZMdGdwZGVEV3ZJRTlISlVHWFp5NjUzWVN4MnVvWENUN2xVOERla2tFaVJRSGU2a1lxLWo?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-14"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "La Fiesta en el Aire de Arriate cumple 20 años y lo celebra con tres jornadas de música, arte y cultura - 103 Málaga",
@@ -2566,7 +2613,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-14",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
     "snippet": "La Fiesta en el Aire de Arriate cumple 20 años y lo celebra con tres jornadas de música, arte y cultura 103 Málaga",
     "discovery_method": "rss",
     "query": "Serranía de Ronda talleres infantiles when:30d",
@@ -2574,7 +2621,14 @@
     "resolution_checked": "2026-10-14",
     "google_news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUgteTh4VnBKOUVTSC1kMW1zcEdUc19KdXY0ZTBwd0RzY0pDTTFwT0xMMk1nTnJKV09PeDQxX1hwLXA5VVhQZlZIX2ZJZWwwcUQtbTl1NFZoMGMxVU80eEJCRE8zUExJeE5qUlZVQ0podXpjRFNVa3dPam5fOTd5VkRmTkpxR1FySE5zSkVyaUlQb3RpWGNTZkFFZVl0SVBROUVCN2lLLXhwRmpsLWNmWnQtUkFydGJHaXBxZ1VMQmtVcUJKQlQ4ZQ?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-14"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Halloween Gala",
@@ -2636,8 +2690,15 @@
     "source_name": "Más Málaga",
     "first_seen": "2026-10-14",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-14",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-17",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Agenda Urbana",
@@ -2733,7 +2794,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-14",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100).",
     "snippet": "Casarabonela celebra una jornada de puertas abiertas en la Casa Museo Charo Galvín el 24 de octubre Revista Lugar de Encuentro",
     "discovery_method": "rss",
     "query": "\"Casarabonela\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
@@ -2741,7 +2802,15 @@
     "resolution_checked": "2026-10-14",
     "google_news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRXJ6LXQ5Y2dhMG1sQUdwVmpUUVhzZUxUS19MRXZVTkN1ampOSDNqeDRjSEJ5N1AxbkZBaDdhWkVHMzAweElJR21ORXJiUUhTUmUyUmVMUkNBd2tKaHRGUVlWWG80VFhpUmNPZG44UFlDZFB6bXJsSjBkSzZYLUNXMHBoOHBVYU1CYzVkX0pBY015MFlyejNIQWxMQlBwUGpmcW9NdjYtTjZrWUZFMnc?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-14"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "AGENDA: Spider-Man llega al CC Vialia Málaga con un entrenamiento de superhéroes gratis para toda la familia - La Diversiva",
@@ -2762,7 +2831,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-14",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
     "snippet": "La UNIA realiza en la Sede Tecnológica de Málaga el taller de dibujo urbano Mediterráneo Onda Cero",
     "discovery_method": "rss",
     "query": "\"Málaga\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
@@ -2770,7 +2839,14 @@
     "resolution_checked": "2026-10-14",
     "google_news_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeDg5eGU0aW1VV1ZvazlwRTZUTm04bHV2d3JIaWh2Tk16NXFKVlRDMF9kbG51MGRadlZ2Y0lvQjBaZDQ3a2x0TTNnWldPOUpwSlA4Z0hGcHg0R0NPNC1IY01SSFdTSlRtMFZNaG1nT1p0Skl0aHQ2RmpuSWNhMFBENkwwY09lQjJ3MVBoYklJU1VHMlZEaXBnY1NBd1YyeXhaUzdiMS16YnhDM0VYcmRxdEViR3NaTmlkLWdablFUSHgxQ0lhblVubS1aNzBWNjlKRFNQd0RnRExaMjlYM050X0JNMjJqdTQ0dm9oLWZKR3dyU2RxRHp3cDNVZ9IB-wFBVV95cUxNeDg5eGU0aW1VV1ZvazlwRTZUTm04bHV2d3JIaWh2Tk16NXFKVlRDMF9kbG51MGRadlZ2Y0lvQjBaZDQ3a2x0TTNnWldPOUpwSlA4Z0hGcHg0R0NPNC1IY01SSFdTSlRtMFZNaG1nT1p0Skl0aHQ2RmpuSWNhMFBENkwwY09lQjJ3MVBoYklJU1VHMlZEaXBnY1NBd1YyeXhaUzdiMS16YnhDM0VYcmRxdEViR3NaTmlkLWdablFUSHgxQ0lhblVubS1aNzBWNjlKRFNQd0RnRExaMjlYM050X0JNMjJqdTQ0dm9oLWZKR3dyU2RxRHp3cDNVZw?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-14"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "El pueblo de Álora, en Málaga, ha convertido su plato más tradicional en una fiesta: este sábado habrá sopas perotas gratis para todos - Directo al Paladar",
@@ -2778,7 +2854,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-14",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "El pueblo de Álora, en Málaga, ha convertido su plato más tradicional en una fiesta: este sábado habrá sopas perotas gratis para todos Directo al Paladar",
     "discovery_method": "rss",
     "query": "Málaga talleres de cocina infantiles when:30d",
@@ -2786,7 +2862,13 @@
     "resolution_checked": "2026-10-14",
     "google_news_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTnE2ako5Vmp2dS1rUEFkRzZ4WG0tNHJrMzB0dDNNR1RRaENGN1Zub3doM3RlRjFPWVM5SGE0blltQ1Aya3FoajBMZlQyVWFuVmVCSGFDdVFwTjRjR19vV0J4Z3l6Rm0wY1FvTmtBaTFueUl3UFNfaXlNYl85MlN2bEJuLVBXZFB1ZVJuQWVWRWVGOHl6b3dmTjdDczNZWkdxZkZKNHBzZE5YWXI4UXZKQkwxdVdOZ2M2R2RNRTUycmU1UTlNUnRiYTg5NTNJeF9zYjQ3YmJVc0UyejY0SE9mQUdUWTI1QdIB6wFBVV95cUxPVVJvYjdNNUlyREdtS1N6bkQ5cF9wU090STdoOU9VblpJc0pONUswa1M5ZDk2LVFBcHJKclZnS0FJUUJhenk1a25yMXE1NzFwSXhUU19qeU1lb3FWWi1zbEFweklnblg2N25ZbWVsWVBNd0ZXQm5jdng5SW5zR2pOTnZ6SXNndzZzMG9pZkVlMXZfMzV6MG9WVUkzS1R6ZnN4TjZ2VWQzQ1NHNEE4T21HUWFZWEY2S3UxZUZvajNKOEJidDRvamppa3NKT1BLWXVqbnNiN1oxZUVvWXY3aENNU2NqMXd0eFdjaTFz?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-14"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Casetas, fiestas infantiles y conciertos gratuitos de Camela, OBK y Modestia Aparte en Málaga: así celebra este conocido pueblo costero su mítica feria esta semana - La Opinión de Málaga",
@@ -2874,7 +2956,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-14",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
     "snippet": "Arriate se convierte en un 'gran escenario cultural' para celebrar veinte ediciones de la Fiesta en el Aire Diario Sur",
     "discovery_method": "rss",
     "query": "Serranía de Ronda talleres infantiles when:30d",
@@ -2882,7 +2964,14 @@
     "resolution_checked": "2026-10-14",
     "google_news_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFpwYmppSXJRTjNuMDJQZTRMZEtiV2xOek5OazhadTVzZjBucUFZc3JjM0t3QnE4RGRoNmUzM0E0TkJtUThEejBVaWtFbnBIa0plRU94bDhpbml1YVF2MGh2NmdZdFN5YnFiS2RZYXgyQ0xQc0tEU2RyMDhnMzJjcEFoMkJibS1HbHBBM1phQXBaTngtOHdCeFRrOHRaWGtSdEp0QV9qbmRzbWpnV1pzYjM5MFJtSW5FSlR3UWl2aHhYSmvSAcgBQVVfeXFMTXFfbjViRk1wLWFGS3dpNFI5QlFCYXBOb2ROOHZpdFh4NFQtOTI3XzU2SjdTWWhTdEgtWlZmZGZnX3FxME1XOElqME9kNjg2bjJpOFl2clRXX29kVHVPQmJQNmo2Q1ZvZW14QnQwWDhoMzQ4TTZZTkZfSVB1RjZrbzVGeUF0RldSR3lYdGo2V3JFYjltX2ZMdGdwZGVEV3ZJRTlISlVHWFp5NjUzWVN4MnVvWENUN2xVOERla2tFaVJRSGU2a1lxLWo?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-14"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "La Fiesta en el Aire de Arriate cumple 20 años y lo celebra con tres jornadas de música, arte y cultura - 103 Málaga",
@@ -2951,8 +3040,16 @@
     "source_name": "Ayuntamiento Nerja",
     "first_seen": "2026-10-15",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-15",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-17",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100).",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Música, danza y teatro",
@@ -2978,11 +3075,12 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-15",
     "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
     "snippet": "Taller para niños y niñas ‘¡Celebrando a Picasso!’ en el Museo Picasso Málaga La Diversiva",
     "discovery_method": "rss",
     "query": "\"Málaga\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Thu, 01 Oct 2026 07:00:00 GMT"
+    "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-17"
   },
   {
     "title": "La UNIA realiza en la Sede Tecnológica de Málaga el taller de dibujo urbano Mediterráneo - Onda Cero",
@@ -3002,11 +3100,12 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-15",
     "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
     "snippet": "‘Peke-Tube’, espectáculo infantil en Vélez-Málaga para toda la familia La Diversiva",
     "discovery_method": "rss",
     "query": "\"Málaga\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Tue, 29 Sep 2026 07:00:00 GMT"
+    "published_at": "Tue, 29 Sep 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-17"
   },
   {
     "title": "Alcaucín celebra este sábado la Fiesta Multicultural bajo el eslogan 'Las diferencias nos enriquecen y el respeto nos une' - AxarquiaPlus",
@@ -3094,15 +3193,26 @@
   },
   {
     "title": "El teatro vuelve a ser herramienta de inclusión para familias con TDAH en Vélez-Málaga - Diario Sur",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSW8wamJqRW10enprcUVJZDJqYjVQd19qTTRBWjdnVTUwbG40WTBaYlYwLVkyUFBTTjhKQWJUOTJqTXpMUkdsNkx4WFhIdzZnelFwb2xXWmhidEFlSUZSZWc5ZmJ2TURqM2h0dlRvdVcyMnl1VmtFRWNfQWVGaDEyamlmRG5VTDU1TTFHSEJMcFFwWjRsemJCaVlaM2t4bTNEVU81QVRUYUtxVXUtczdGRDJ1RzdnREdjU2tISzNBR0tKbHZNc29jMVY5a9IB0AFBVV95cUxQdExZeldVNXdmSUFGVUpwZ1o0QVhObWxXdmNTbHZVaUVudmdCOXlnSUpieWIySEtQOGFUeW9hQ0FsNXhFN3NWWExzbHJLZGcxWkpnOFVHWUt5N09RZUZfVXE5TFhQQ1dmM21qUGwySDZFTmFLOEdldW5iQk9YbGF0Q1U2WmsyTkk3dnl0ZDRXVWVvZDdVTGI3QjBwX1BTdVFibUNpdDhkZW5NRkVPLUxVdnpaUHI1VEw3VUQtdl9xal9Ic0pKQmprLWstMXFQUXM0?oc=5",
+    "url": "https://www.diariosur.es/axarquia/velez-malaga/teatro-vuelve-herramienta-inclusion-familias-tdah-velezmalaga-20260924110800-nt.html",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-15",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
     "snippet": "El teatro vuelve a ser herramienta de inclusión para familias con TDAH en Vélez-Málaga Diario Sur",
     "discovery_method": "rss",
     "query": "\"Vélez-Málaga\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT"
+    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-17",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSW8wamJqRW10enprcUVJZDJqYjVQd19qTTRBWjdnVTUwbG40WTBaYlYwLVkyUFBTTjhKQWJUOTJqTXpMUkdsNkx4WFhIdzZnelFwb2xXWmhidEFlSUZSZWc5ZmJ2TURqM2h0dlRvdVcyMnl1VmtFRWNfQWVGaDEyamlmRG5VTDU1TTFHSEJMcFFwWjRsemJCaVlaM2t4bTNEVU81QVRUYUtxVXUtczdGRDJ1RzdnREdjU2tISzNBR0tKbHZNc29jMVY5a9IB0AFBVV95cUxQdExZeldVNXdmSUFGVUpwZ1o0QVhObWxXdmNTbHZVaUVudmdCOXlnSUpieWIySEtQOGFUeW9hQ0FsNXhFN3NWWExzbHJLZGcxWkpnOFVHWUt5N09RZUZfVXE5TFhQQ1dmM21qUGwySDZFTmFLOEdldW5iQk9YbGF0Q1U2WmsyTkk3dnl0ZDRXVWVvZDdVTGI3QjBwX1BTdVFibUNpdDhkZW5NRkVPLUxVdnpaUHI1VEw3VUQtdl9xal9Ic0pKQmprLWstMXFQUXM0?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Vélez-Málaga lleva a las aulas talleres sobre redes sociales, salud emocional y diversidad - Diario Sur",
@@ -3146,11 +3256,12 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-15",
     "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
     "snippet": "AGENDA: Festival familiar gratis en CC Rincón de la Victoria en septiembre y octubre La Diversiva",
     "discovery_method": "rss",
     "query": "\"Rincón de la Victoria\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Thu, 01 Oct 2026 06:58:36 GMT"
+    "published_at": "Thu, 01 Oct 2026 06:58:36 GMT",
+    "resolution_checked": "2026-10-17"
   },
   {
     "title": "Rincón de la Victoria acoge un taller gratuito para aprender a preparar entrevistas de selección de empleo con Inteligencia Artificial - InfoAxarquia",
@@ -3673,7 +3784,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-15",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
     "snippet": "Arriate se prepara para celebrar su XX Fiesta en el Aire Cadena SER",
     "discovery_method": "rss",
     "query": "site:cadenaser.com (infantil OR niños OR familia OR taller) Málaga when:30d",
@@ -3681,7 +3792,14 @@
     "resolution_checked": "2026-10-15",
     "google_news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUnhTbUtmblZwM1Bzbm5FUlFwQk1OMVY4eWdzaHFPQkVPWndSamxEaWc5VTgtM21ObUNtdlBjOFJVMGNYQnB2dkVweFBXRW5kZFlJaU0yekRPcV9JQ1pRM3RXd3BJdGRVU2RySzdfbC1fT3pNdmN2Rk1YaWN5YXpzT1hJZHB0OHFpS09SNGpQYldUdFQxMFQyRUVaNUNFcGtRLU96YzhHMnFWV1A0RjhPcjJvNGRvNUJybVpfQy1n0gHSAUFVX3lxTE83eTFTODdScjBncnJLbmJ6VUZsY2R6cmZiazZxbjB1LXV1RVRnbkFqZ0xMYlVBRGNCV3ptdUZVOTBINGU1a3dVLXdhQi1MSjBJbmJnOWdPNGMtckN4Zld3VWtFVjVMcFRfbmNOTnowRVRlMXcxaGdyLW9NdDVkUFRrczduVmVZczBHdmNZbzZIRnFNbmpnRnJveEw3Smhka0p1X0VrVU1IcGpPSXV4bFY1WFhzWUdMWG0yVGduUHgxTEhNR3hyaERjYTNSNTNpaG5EZw?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-15"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Fuente de Piedra refuerza su identidad en torno a la laguna y los flamencos con la ‘Fiesta del Cagarzo’ - Cadena SER",
@@ -3945,7 +4063,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-16",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100).",
     "snippet": "La Cangrejita Tejedora organiza un taller de otoño para crear una calabaza decorativa en Cártama Revista Lugar de Encuentro",
     "discovery_method": "rss",
     "query": "\"Cártama\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
@@ -3953,7 +4071,15 @@
     "resolution_checked": "2026-10-16",
     "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1UzcWRVeFNZcGNERFNpTmZwT3d6UFlfbFFVLXNxNXMxLTNPb3RkcDN0aENtd0FYM2tzYVJOVUN0c2JJSUZtemNEUm15VEI3ZkViTUc1VUJJZndIdjFHeVAxVG1DbEJHaUdXZXBhNEhUVzlfZmtBdmw0cThUTWJqYmxEbndmWDRyblNxT3pxX2hBM05JTk1EZzNXY0tZWGhPVGJmY0F3?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-16"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Títeres en Cártama - Revista Lugar de Encuentro",
@@ -3987,7 +4113,7 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-16",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
     "snippet": "La Fiesta en el Aire de Arriate cumple 20 años y lo celebra con tres jornadas de música, arte y cultura Diputación de Málaga",
     "discovery_method": "rss",
     "query": "Málaga talleres infantiles fin de semana when:30d",
@@ -3995,7 +4121,14 @@
     "resolution_checked": "2026-10-16",
     "google_news_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ3VqazBFbG9Jekd3MU9aU0EzV2RYb3Z5Yk1RdGVkNVZZTlB5NjQwaVprMV8wVno0MWdfdDBZVjFrV054Qk9KWURENzBTQThLeU5kcEV0S2piTFY4cGRsc29OTDdFbWNYVXZmb2pJWkRtVVRuNnUxOXlhZm5raF9ITnRlcFNGVGQ5ZFRSTE1nUm1ieXpvcHlWVnliZDk1MTZGdnhwM0diTGlNbmJDOUVjb0w2bG84Z2M1RUxBVDRDTlUtSS02bV9qM1ljaFEzUlgyR2N2UzFzenlvTHQ4cGpEOWZMNFdsSURWcmpv?oc=5",
     "resolved_from_google_news": true,
-    "last_checked": "2026-10-16"
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 - Malaga Actualidad",
@@ -4085,11 +4218,12 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
     "snippet": "AGENDA: Bioparc Fuengirola celebra Halloween con muchas actividades para niños y niñas La Diversiva",
     "discovery_method": "rss",
     "query": "\"Fuengirola\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Wed, 14 Oct 2026 10:50:17 GMT"
+    "published_at": "Wed, 14 Oct 2026 10:50:17 GMT",
+    "resolution_checked": "2026-10-17"
   },
   {
     "title": "Fuengirola abre la inscripción para un taller gratuito de envejecimiento activo dirigido a mayores de 65 años - La Noción",
@@ -4109,23 +4243,35 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
     "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "review_reason": "Google News: no se ha confirmado la URL original; no se incorpora a la agenda.",
     "snippet": "Domingos Mágicos: espectáculos de magia gratis para familias en Los Boliches, Fuengirola La Diversiva",
     "discovery_method": "rss",
     "query": "\"Fuengirola\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Sun, 20 Sep 2026 07:00:00 GMT"
+    "published_at": "Sun, 20 Sep 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-17"
   },
   {
     "title": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror - Radio Marca Málaga",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXk4MF95aVRoQ0RFcE1PVWtvZlcwTmNoU0hEVU8yeVJQaE5PN3VoMVFyR2QzNVhMQndSMlQ3TFFDdXVqRXMtN1RLbHktaE9fOVRjVG43Uk5lQ0owRXhCc1JhZjhxYjgwWktueEZlOUhFTEVBd0p6dDhQVUNFYkVrM3ZtSVAySURpSVZ3UTYtSEsxYzBzdVhjb3lLOUFmamdPVk5EUU1YSnlWazlpNGpTQjVqTTZVaW1Xc3hiR09PR25RQmZ0VjNObTN3?oc=5",
+    "url": "https://www.azcostadelsol.com/benalmadena/benalmadena-celebrara-halloween-con-fiestas-infantiles-pasacalles-y-diferentes-espacios-de-terror/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (25/100).",
     "snippet": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror Radio Marca Málaga",
     "discovery_method": "rss",
     "query": "\"Benalmádena\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Thu, 15 Oct 2026 15:47:24 GMT"
+    "published_at": "Thu, 15 Oct 2026 15:47:24 GMT",
+    "resolution_checked": "2026-10-17",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXk4MF95aVRoQ0RFcE1PVWtvZlcwTmNoU0hEVU8yeVJQaE5PN3VoMVFyR2QzNVhMQndSMlQ3TFFDdXVqRXMtN1RLbHktaE9fOVRjVG43Uk5lQ0owRXhCc1JhZjhxYjgwWktueEZlOUhFTEVBd0p6dDhQVUNFYkVrM3ZtSVAySURpSVZ3UTYtSEsxYzBzdVhjb3lLOUFmamdPVk5EUU1YSnlWazlpNGpTQjVqTTZVaW1Xc3hiR09PR25RQmZ0VjNObTN3?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 25,
+    "confidence_reasons": [
+      "actividad concreta",
+      "varias fechas: requiere contraste"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "EDUCACIÓN APUESTA POR LA ESCUELA TALLER DE BENALMÁDENA COMO - Malagaes",
@@ -4141,27 +4287,50 @@
   },
   {
     "title": "Benalmádena prepara Halloween con pasacalles, fiestas infantiles y dos espacios de terror hasta la madrugada - La Noción",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVE9sMElkeC14TmM2RTVBR0tyYUhBODVqRHBPTjd4cVlEWVhEWU9sNGZGeUMwM3pMZ1JQaHlWYktPRmpaQ3YybHFURERZQjVjNGtYbW5XNmNXWEpkOVRHeG5uTlZBNFdXR01RanhuVHJKU0o1X2MzRGZmdzlpUTFuMVkyamZRdmJwV2dENHhMVXlVNnBPVG81YmZ3TVJ4N3ljVWk3OVdqVFo?oc=5",
+    "url": "https://www.lanocion.es/benalmadena/20261015/benalmadena-prepara-halloween-con-pasacalles-fies-cbb7c.html",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: 403 Client Error: Forbidden for url: https://www.lanocion.es/benalmadena/20261015/benalmadena-prepara-halloween-con-pasacalles-fie",
     "snippet": "Benalmádena prepara Halloween con pasacalles, fiestas infantiles y dos espacios de terror hasta la madrugada La Noción",
     "discovery_method": "rss",
     "query": "\"Benalmádena\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Thu, 15 Oct 2026 09:57:32 GMT"
+    "published_at": "Thu, 15 Oct 2026 09:57:32 GMT",
+    "resolution_checked": "2026-10-17",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVE9sMElkeC14TmM2RTVBR0tyYUhBODVqRHBPTjd4cVlEWVhEWU9sNGZGeUMwM3pMZ1JQaHlWYktPRmpaQ3YybHFURERZQjVjNGtYbW5XNmNXWEpkOVRHeG5uTlZBNFdXR01RanhuVHJKU0o1X2MzRGZmdzlpUTFuMVkyamZRdmJwV2dENHhMVXlVNnBPVG81YmZ3TVJ4N3ljVWk3OVdqVFo?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17"
   },
   {
     "title": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia - Ayuntamiento de Benalmádena",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjNDT2hmREp1bS1td2Iwb0J6SVlHSGswbWZhSHEtX1I2LUJ0RGdhSUhXNjJCUzdrajdQR0Y2RXYxcVNEVTZQOEpVQnk3cTNXYVY3YjYxX0N0NWhDWFJZNTRyVEtBUFc0Y01rbzRYejhQOC1KSDNnSXdkbWVza2NaSnpYZFE5RWpqbC1rSXo5MVNFOUNhbkNyUzhoRk16SEtRX3NVSENkTFA1RGRwYjU0eFFjWGtWTXZSV00tS0NZcDg1Qnl1c0lpRGZYLWt6ZHZfSF92c0d1b2o0a2h0TTBvWUZ6QUlycEIyemhrdjBsNjVNWjk4R3A3MDBFTVduUmw1YTh3dnlWNWU?oc=5",
+    "url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
-    "status": "por_revisar",
-    "review_reason": "Reevaluar con prioridad de fecha y municipio del titular/fuente oficial.",
+    "status": "verificada_con_fecha",
+    "review_reason": "Actividad publicada por evidencia textual de alta confianza.",
     "snippet": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia Ayuntamiento de Benalmádena",
     "discovery_method": "rss",
     "query": "\"Benalmádena\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Tue, 13 Oct 2026 11:09:17 GMT"
+    "published_at": "Tue, 13 Oct 2026 11:09:17 GMT",
+    "resolution_checked": "2026-10-17",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjNDT2hmREp1bS1td2Iwb0J6SVlHSGswbWZhSHEtX1I2LUJ0RGdhSUhXNjJCUzdrajdQR0Y2RXYxcVNEVTZQOEpVQnk3cTNXYVY3YjYxX0N0NWhDWFJZNTRyVEtBUFc0Y01rbzRYejhQOC1KSDNnSXdkbWVza2NaSnpYZFE5RWpqbC1rSXo5MVNFOUNhbkNyUzhoRk16SEtRX3NVSENkTFA1RGRwYjU0eFFjWGtWTXZSV00tS0NZcDg1Qnl1c0lpRGZYLWt6ZHZfSF92c0d1b2o0a2h0TTBvWUZ6QUlycEIyemhrdjBsNjVNWjk4R3A3MDBFTVduUmw1YTh3dnlWNWU?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "público infantil/familiar",
+      "municipio malagueño explícito",
+      "corroboración independiente",
+      "titular coherente con la pista"
+    ],
+    "review_priority": "resuelta",
+    "verification_method": "texto",
+    "verified_event_ids": [
+      "EVT-TXT-20CD02C414"
+    ]
   },
   {
     "title": "Los jóvenes podrán participar en noviembre en un taller gratuito para decorar un marco - Torremolinos Cultura",
@@ -6406,60 +6575,92 @@
     "url": "https://www.msn.com/es-es/noticias/otras/casares-dice-que-ser%C3%A1n-los-acampados-los-que-decidan-si-cambian-de-lugar-para-dejar-sitio-al-pasadizo-de-halloween/ar-AA2en928",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
-    "status": "por_revisar",
-    "review_reason": "Titular encontrado en un enlace original; pendiente de verificar fecha, evento, edad y municipio.",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "snippet": "Casares dice que serán los acampados los que decidan si cambian de lugar para dejar sitio al pasadizo de Halloween Ifomo Noticias 24h",
     "discovery_method": "rss",
     "query": "\"Casares\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
     "published_at": "Fri, 16 Oct 2026 10:16:13 GMT",
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNWt0UmVUSF9tSGlydS05WXdhQU5jUmxNQXJiVjZjNVFiSmk4Sjc5aHdoMWlqWnpvOHdhd20zcDI5dEI2Qll2c2RvcnZOT2JzaTBLTUtqRklxUk1UWUpyOVBLZ0h5ZmVHZW1xWERFV3F3SUxvUmZtUVJTOFM0cVVUeUVpSTRDU0NlUFpqREdrd1RkLURCV1RJdGdPb2ZPVy1lWEl5VHlVdElnelg1QmYzajBXc1NUeUM4eWt0Y1RWSFUxYWVsWEZMX1RGcjNuYnFNOV9kWHdqZnUyMldkVmxxbFlRUXZNa0MtdXF6aWhpVEdlU3l3enlKNkw1dWHSAfwBQVVfeXFMTzVrdFJlVEhfbUhpcnUtOVl3YUFOY1JsTUFyYlY2YzVRYkppOEo3OWh3aDFpalp6bzh3YXdtM3AyOXRCNkJZdnNkb3J2Tk9ic2kwS01LakZJcVJNVFlKcjlQS2dIeWZlR2VtcVhERVdxd0lMb1JmbVFSUzhTNHFVVHlFaUk0Q1NDZVBaakRHa3dUZC1EQldUSXRnT29mT1ctZVhJeVR5VXRJZ3pYNUJmM2owV3NTVHlDOHlrdGNUVkhVMWFlbFhGTF9URnIzbmJxTTlfZFh3amZ1MjJXZFZscWxZUVF2TWtDLXVxemloaVRHZVN5d3p5SjZMNXVh?oc=5",
-    "resolved_from_google_news": true
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Alicia Casares abre el detrás de escena de la Vendimia con un taller sobre escritura - Diario Mendoza Today",
     "url": "https://mendozatoday.com.ar/sociedad/alicia-casares-abre-el-detras-de-escena-de-la-vendimia-con-un-taller-sobre-escritura-7057/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
-    "status": "por_revisar",
-    "review_reason": "Titular encontrado en un enlace original; pendiente de verificar fecha, evento, edad y municipio.",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100).",
     "snippet": "Alicia Casares abre el detrás de escena de la Vendimia con un taller sobre escritura Diario Mendoza Today",
     "discovery_method": "rss",
     "query": "\"Casares\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
     "published_at": "Mon, 05 Oct 2026 07:00:00 GMT",
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVjFoU2FPN09wSl9zYVpNZm8wbUdyVkJraGhiYzJSV01tdHVuN3lYZEF5ZENzVmxmUGl5NmQtNEp6NWI3ZkhGcl9OVFl0MEhqLWdZLXV3eVZldGRnTjZNU09IazRYSEd5WVc2NFZIb19CS09LVENpSkdBZGpEbUR2Wm13Y29iam03OFVoS2dST28xVFRZbU00WXdhaG1MY3FLZUloekNiZEVsM3BPdlQxRmdxcmpJVWZ4Nl82al9VYWM4S1BqQVHSAb8BQVVfeXFMUGNrei1QRm5ReC03RlFZVXlDTTVGV010Z2tVRWpmOUdraXBhbTNHdmxZX0xzV1FJMWw3RU4waXAzNGZrRTBnYjVwNGVRVmJtNElrWkdsTFVHdUN2Ym9SUmgyRTZNTk45U2FPRDNlLV91UTVNUVU2cUtwWE0yUGdxX2tmQ1lEdFdLX25KY2JxLTlGcnpRY2Y4d1NJeHVHMDVMc3poWDVUc0xRLTdTVWJGZmRVNXpVMW0zUGtoZk1TejA?oc=5",
-    "resolved_from_google_news": true
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Eventos para Halloween 2026 en Manilva - Manilva WebSite",
     "url": "https://manilva.ws/eventos-para-halloween-2026-en-manilva/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
-    "status": "por_revisar",
-    "review_reason": "Titular encontrado en un enlace original; pendiente de verificar fecha, evento, edad y municipio.",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (25/100).",
     "snippet": "Eventos para Halloween 2026 en Manilva Manilva WebSite",
     "discovery_method": "rss",
     "query": "\"Manilva\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
     "published_at": "Thu, 15 Oct 2026 22:30:06 GMT",
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9POHJ3Q1MtblNhOGdpemxPNGJRc01aN0tOaGRtT3REQjNfSlNfbURqbDRkY1hPQ01uM3A2am9mQUNDbEVrYjJOODBxZmNpdlpoR1ByREZTY1llRGZXU1hxYklOQnBqZ3ZBcnc?oc=5",
-    "resolved_from_google_news": true
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 25,
+    "confidence_reasons": [
+      "actividad concreta",
+      "varias fechas: requiere contraste"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "La Fiesta en el Aire de Arriate cumple 20 años y lo celebra con tres jornadas de música, arte y cultura - Diputación de Málaga",
     "url": "https://www.andaluciainformacion.es/articulo/ronda/fiesta-aire-arriate-cumple-20-anos-celebra-tres-jornadas-musica-arte-cultura/202610051829133498036.html",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
-    "status": "por_revisar",
-    "review_reason": "Titular encontrado en un enlace original; pendiente de verificar fecha, evento, edad y municipio.",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
     "snippet": "La Fiesta en el Aire de Arriate cumple 20 años y lo celebra con tres jornadas de música, arte y cultura Diputación de Málaga",
     "discovery_method": "rss",
     "query": "Málaga talleres infantiles fin de semana when:30d",
     "published_at": "Mon, 05 Oct 2026 07:00:00 GMT",
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ3VqazBFbG9Jekd3MU9aU0EzV2RYb3Z5Yk1RdGVkNVZZTlB5NjQwaVprMV8wVno0MWdfdDBZVjFrV054Qk9KWURENzBTQThLeU5kcEV0S2piTFY4cGRsc29OTDdFbWNYVXZmb2pJWkRtVVRuNnUxOXlhZm5raF9ITnRlcFNGVGQ5ZFRSTE1nUm1ieXpvcHlWVnliZDk1MTZGdnhwM0diTGlNbmJDOUVjb0w2bG84Z2M1RUxBVDRDTlUtSS02bV9qM1ljaFEzUlgyR2N2UzFzenlvTHQ4cGpEOWZMNFdsSURWcmpv?oc=5",
-    "resolved_from_google_news": true
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "De El Kanka a Falete: esta localidad malagueña celebra desde este viernes cinco días de feria con grandes conciertos, espectáculos ecuestres y atracciones infantiles - La Opinión de Málaga",
@@ -6482,15 +6683,16 @@
     "url": "https://www.axarquiaplus.es/torre-del-mar-celebrara-halloween-con-un-gran-pasacalles-talleres-infantiles-y-un-renovado-pasaje-del-terror/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
-    "status": "por_revisar",
-    "review_reason": "Titular encontrado en un enlace original; pendiente de verificar fecha, evento, edad y municipio.",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: 403 Client Error: Forbidden for url: https://www.axarquiaplus.es/torre-del-mar-celebrara-halloween-con-un-gran-pasacalles-talleres",
     "snippet": "Torre del Mar prepara Halloween con pasacalles, talleres y un renovado pasaje del terror Diario Sur",
     "discovery_method": "rss",
     "query": "Málaga Navidad niños actividades when:30d",
     "published_at": "Thu, 15 Oct 2026 15:55:02 GMT",
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGlYdGxOS3pRc05DU0U5Y2k5UThsY1hEY2tuYTRsbWRlTFI0SGpQQWtseHdoR0dIVVNfQXFmZkZMSDRjZU42cFhTWXRNSUN0SHNNUkZuX0piT1k3NXpzc1JZRWN3SzFMSktwNFd6Q3NYY21UX1RmblV0UkdfX0xlSEt2SGliM2tmTS1fdXQxYlNSZFZRbjVEa1RSbUR0YWFaTWFZYXNFTmpJMDhWbW9RYjlLOGdvb2l2RUVRVFR2M21MSzFY0gHKAUFVX3lxTE5tdHVPNkRBam55djFzeWh2Q2F1RHdQWnU2OENXVk9NM1QzTXpTVlZnLUl2Rm52OTR0dFlRdzZRcWtLVXpaaDdlZ21LR1R6UXpTbS1ySW1kc1FudmtHOVota1RGSk5LVlJ3bVA3VEhRNkJfVGtveS1vWm9SWmpKTDUzSG0yTE1PU1lPbTZ3bGpTdkdhamxaMjNSQk5SY1BrUTFMZzhQTGZsMXJ2dWhJMHZWSnh2NllBWmVMdzAtSzRlemtaMmhJTzI1Nmc?oc=5",
-    "resolved_from_google_news": true
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17"
   },
   {
     "title": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 - Malaga Actualidad",
@@ -6527,15 +6729,187 @@
     "url": "https://www.elespanol.com/malaga/cultura/20260926/gran-jornada-museos-gratis-malaga-domingo-septiembre-visitas-guiadas-talleres-ia-coches-clasicos-trt/1003744398573_0.html",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
-    "status": "por_revisar",
-    "review_reason": "Titular encontrado en un enlace original; pendiente de verificar fecha, evento, edad y municipio.",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100).",
     "snippet": "Gran jornada de museos gratis en Málaga este domingo 27 de septiembre: visitas guiadas, talleres con IA y coches clásicos El Español",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:30d",
     "published_at": "Sat, 26 Sep 2026 07:00:00 GMT",
     "resolution_checked": "2026-10-17",
     "google_news_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNa1VHRTVEbzhIYzlieXpDUHNPVE1sUlJIMlAtd0lwRHdQNWloVVY0RUpqU3BaZ3M2dFdORV9NYzFKMjBKUVVhclZfWXJJbWNKVW84T1dzRVhQUkVrbFB6amZRTklJSlZReTZuNXZ0ZE9pVXd3S3Vyb2I3NUNQV0c4bDF2bG5ieDlFS3FYYU9iRzl3Ql9XSmdMczJiemQzaS1aM1N5XzJBT29qelByTS10dk0wOXBsSUI5Q1JySzBDMmpoNmM0dTRvOWhhZ1EwNlprRG1CVmQ1eUhNZ01BTjVxREhPeEk3OS1BbmFPeTJMcUZkSFNuM1lwZkdSeWxwbU9z0gGGAkFVX3lxTFBNQ3luZVNTV1Q4MHNmdW5NQWFjaktWeXZrbllFU2dGUkRfNE15aXA5VklZYkxGNkN0M3N2em5nMm90cncyekllYzk1Z0VSQTlqRUZCN2hoY3hnR2xSN3oyR1NneTdmbFN6bExmNUFSWlV3ekRJXzhockY5c2p5bXV4YmdrRWxhdUdFWGFxTUtpSjNKWVlyR21HdTdKQVVOTEp0anVwN0Z0NHgwcXRNMTJzckFvTEpNTHZqOXdOX3RzRmoxLXJGWFBTTlRQa1hnQi1GdnNzTW5BeF9fWW12TEgycW9CQXMxVG5wOFpwdG1lYWNFaGowRmk4RHF2djRiUmlRc1JIUmc?oc=5",
-    "resolved_from_google_news": true
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "El pueblo de Málaga que se llenará de conciertos, cuentacuentos y 'lluvia de regalos' por su Feria de San Miguel: habrá pasacalles, casetas y actividades para toda la familia - La Opinión de Málaga",
+    "url": "https://www.laopiniondemalaga.es/malaga/2026/09/25/pueblo-malaga-llenara-conciertos-cuentacuentos-lluvia-regalos-feria-san-miguel-istan-dv-134667605.html",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: 406 Client Error: WAF Forbidden for url: https://www.laopiniondemalaga.es/malaga/2026/09/25/pueblo-malaga-llenara-conciertos-cuent",
+    "snippet": "El pueblo de Málaga que se llenará de conciertos, cuentacuentos y 'lluvia de regalos' por su Feria de San Miguel: habrá pasacalles, casetas y actividades para toda la familia La Opinión de Málaga",
+    "discovery_method": "rss",
+    "query": "Málaga espectáculos infantiles entradas when:30d",
+    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-17",
+    "google_news_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSlN1VUwtcE1RVzVjbTJLdDhqTW43V1l0YWJGNU1XdjNoell1ajZ2VlZod18tWmpLTWdoVGMyd1piMUd4U3BSZTc4enJKVHhYS2pENlhudDFldXBudUkzak1mMjE4eXhQZFJqS3FLTnBBX1lvY3pxdHc5dHVlTE1SY1R5cjlkR2VZSTV2X3UxTkt1OGJqdUhLVGl5ZEFHQVI1SXdVX3d2X0lQcmplOGpXSXpSdXJwWGNCQ25jNDU1RDA4dTNWY2hxQTRMTUp5eXRDOFZfa01vQkE4MThpYUlzN0JqNUxBeDV10gHuAUFVX3lxTE9pRzdBSHdvTHNXOS1Pbks2UjJrUVJkVXloUjAxb1BZWmczN24wRVAyQzdxcTg1Um9wOC15UTZTUjlVdlVjbjE3V1BXOVJmbWN4WFgteUJsOWdHVGVvODBoYzU4NWRtbzU2TGJwVWhpd2lxanNkbEJqcEVuNHFMaG1XMGl0S0UxVDJ2dy10WHZJX3d1R2dNbDA4enV4aFJwSkFQb19aU3g4d0FmdlBnMmhycHpBb3lSZ3hZcVVNaHFTc2ZsakJSdWNMcVNTdmJUYXFwU3RpRHlFNEhUVDZEN0t5YjI0eWVOSjV1M01JX0E?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17"
+  },
+  {
+    "title": "'Estepona Vive sus Calles' vuelve en otoño con Seguridad Social, atracciones infantiles y actividades culturales - Europa Press",
+    "url": "https://www.teleprensa.com/andalucia/malaga/estepona-vive-calles-vuelve-otono-seguridad-social-atracciones-infantiles-actividades-culturales/202610041542232523976.html",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "snippet": "'Estepona Vive sus Calles' vuelve en otoño con Seguridad Social, atracciones infantiles y actividades culturales Europa Press",
+    "discovery_method": "rss",
+    "query": "Málaga espectáculos infantiles entradas when:30d",
+    "published_at": "Sun, 04 Oct 2026 15:37:49 GMT",
+    "resolution_checked": "2026-10-17",
+    "google_news_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ0ItaTBjemliRTAwUklrcFdZZVJtR3pMRk1sYXhNRFlINGZQWXRwSUhmNk9OU1lfQUM1SmJEN25IZ3o4eTVkNmpXdi0wWjVJV3dqMmdtQ05wMmpDaHBuVE9uT2RGa0NJMnUxd3NzZUZXTURqcDBzY3BjMnF4R2dGZjFlSThDX1RrUEkzbHB4blhEc3VaX0ZvUGZDLVJrdnVQMjF4N19nN0F3ZkRJZDh5TVotc0V6Z2hJZHB4bnMydDRIYVdxTVdJd080V1l4Ynh1bWk2WHFBUE9WQ2JtUGF5bmdzdXpoWmJ1d2hNT1BOcHJEZDlHbUtCcy1uRllwdG9fV2hnLQ?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17",
+    "last_text_checked": "2026-10-17",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Santander requiere a Casares para que despeje la zona de la Porticada en la que se ubicará Halloween - Cantabria Liberal",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbG5qYmRjb0ZkVThDUkQ4emNoT2t1d0hKZmc3QzE2NkdFR1hUc2pscXdGSjVGZVd4a2xHLXQxcU9COFNyclRfYldISGx6NjlKd0dfRzl1ajV3VzBEREF4VTBmVktTaGlRSkg2MU4tV2RBTW90Z1RUbGNyeVg5dDZDRzRSZ2ZsV3U3MGtnVHNvRy1lc2thUk96bjcydVA5MU9qdDFjRTRIcjhhdEFBUHBoRUtHRTNHdmpHb29IZnhfQm5vdTJTdWZZRmUtTnFpUEpGNXZEckJ3ZE9jUXIxa25fRDFoMW1Uc0ZrbXlR?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Santander requiere a Casares para que despeje la zona de la Porticada en la que se ubicará Halloween Cantabria Liberal",
+    "discovery_method": "rss",
+    "query": "\"Casares\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Wed, 14 Oct 2026 14:20:11 GMT"
+  },
+  {
+    "title": "Casares dice que serán los acampados los que decidan si cambian de lugar para dejar sitio al pasadizo de Halloween - Ifomo Noticias 24h",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNWt0UmVUSF9tSGlydS05WXdhQU5jUmxNQXJiVjZjNVFiSmk4Sjc5aHdoMWlqWnpvOHdhd20zcDI5dEI2Qll2c2RvcnZOT2JzaTBLTUtqRklxUk1UWUpyOVBLZ0h5ZmVHZW1xWERFV3F3SUxvUmZtUVJTOFM0cVVUeUVpSTRDU0NlUFpqREdrd1RkLURCV1RJdGdPb2ZPVy1lWEl5VHlVdElnelg1QmYzajBXc1NUeUM4eWt0Y1RWSFUxYWVsWEZMX1RGcjNuYnFNOV9kWHdqZnUyMldkVmxxbFlRUXZNa0MtdXF6aWhpVEdlU3l3enlKNkw1dWHSAfwBQVVfeXFMTzVrdFJlVEhfbUhpcnUtOVl3YUFOY1JsTUFyYlY2YzVRYkppOEo3OWh3aDFpalp6bzh3YXdtM3AyOXRCNkJZdnNkb3J2Tk9ic2kwS01LakZJcVJNVFlKcjlQS2dIeWZlR2VtcVhERVdxd0lMb1JmbVFSUzhTNHFVVHlFaUk0Q1NDZVBaakRHa3dUZC1EQldUSXRnT29mT1ctZVhJeVR5VXRJZ3pYNUJmM2owV3NTVHlDOHlrdGNUVkhVMWFlbFhGTF9URnIzbmJxTTlfZFh3amZ1MjJXZFZscWxZUVF2TWtDLXVxemloaVRHZVN5d3p5SjZMNXVh?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Casares dice que serán los acampados los que decidan si cambian de lugar para dejar sitio al pasadizo de Halloween Ifomo Noticias 24h",
+    "discovery_method": "rss",
+    "query": "\"Casares\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Fri, 16 Oct 2026 10:16:13 GMT"
+  },
+  {
+    "title": "Alicia Casares abre el detrás de escena de la Vendimia con un taller sobre escritura - Diario Mendoza Today",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVjFoU2FPN09wSl9zYVpNZm8wbUdyVkJraGhiYzJSV01tdHVuN3lYZEF5ZENzVmxmUGl5NmQtNEp6NWI3ZkhGcl9OVFl0MEhqLWdZLXV3eVZldGRnTjZNU09IazRYSEd5WVc2NFZIb19CS09LVENpSkdBZGpEbUR2Wm13Y29iam03OFVoS2dST28xVFRZbU00WXdhaG1MY3FLZUloekNiZEVsM3BPdlQxRmdxcmpJVWZ4Nl82al9VYWM4S1BqQVHSAb8BQVVfeXFMUGNrei1QRm5ReC03RlFZVXlDTTVGV010Z2tVRWpmOUdraXBhbTNHdmxZX0xzV1FJMWw3RU4waXAzNGZrRTBnYjVwNGVRVmJtNElrWkdsTFVHdUN2Ym9SUmgyRTZNTk45U2FPRDNlLV91UTVNUVU2cUtwWE0yUGdxX2tmQ1lEdFdLX25KY2JxLTlGcnpRY2Y4d1NJeHVHMDVMc3poWDVUc0xRLTdTVWJGZmRVNXpVMW0zUGtoZk1TejA?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Alicia Casares abre el detrás de escena de la Vendimia con un taller sobre escritura Diario Mendoza Today",
+    "discovery_method": "rss",
+    "query": "\"Casares\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Mon, 05 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Eventos para Halloween 2026 en Manilva - Manilva WebSite",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9POHJ3Q1MtblNhOGdpemxPNGJRc01aN0tOaGRtT3REQjNfSlNfbURqbDRkY1hPQ01uM3A2am9mQUNDbEVrYjJOODBxZmNpdlpoR1ByREZTY1llRGZXU1hxYklOQnBqZ3ZBcnc?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Eventos para Halloween 2026 en Manilva Manilva WebSite",
+    "discovery_method": "rss",
+    "query": "\"Manilva\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
+    "published_at": "Thu, 15 Oct 2026 22:30:06 GMT"
+  },
+  {
+    "title": "La Fiesta en el Aire de Arriate cumple 20 años y lo celebra con tres jornadas de música, arte y cultura - Diputación de Málaga",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ3VqazBFbG9Jekd3MU9aU0EzV2RYb3Z5Yk1RdGVkNVZZTlB5NjQwaVprMV8wVno0MWdfdDBZVjFrV054Qk9KWURENzBTQThLeU5kcEV0S2piTFY4cGRsc29OTDdFbWNYVXZmb2pJWkRtVVRuNnUxOXlhZm5raF9ITnRlcFNGVGQ5ZFRSTE1nUm1ieXpvcHlWVnliZDk1MTZGdnhwM0diTGlNbmJDOUVjb0w2bG84Z2M1RUxBVDRDTlUtSS02bV9qM1ljaFEzUlgyR2N2UzFzenlvTHQ4cGpEOWZMNFdsSURWcmpv?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "La Fiesta en el Aire de Arriate cumple 20 años y lo celebra con tres jornadas de música, arte y cultura Diputación de Málaga",
+    "discovery_method": "rss",
+    "query": "Málaga talleres infantiles fin de semana when:30d",
+    "published_at": "Mon, 05 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "De El Kanka a Falete: esta localidad malagueña celebra desde este viernes cinco días de feria con grandes conciertos, espectáculos ecuestres y atracciones infantiles - La Opinión de Málaga",
+    "url": "https://www.laopiniondemalaga.es/malaga/2026/09/22/kanka-falete-localidad-malaguena-confirma-cinco-dias-feria-grandes-conciertos-espectaculos-ecuestres-atracciones-torremolinos-semana-dv-134548274.html",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: 406 Client Error: WAF Forbidden for url: https://www.laopiniondemalaga.es/malaga/2026/09/22/kanka-falete-localidad-malaguena-confi",
+    "snippet": "De El Kanka a Falete: esta localidad malagueña celebra desde este viernes cinco días de feria con grandes conciertos, espectáculos ecuestres y atracciones infantiles La Opinión de Málaga",
+    "discovery_method": "rss",
+    "query": "Málaga talleres infantiles fin de semana when:30d",
+    "published_at": "Tue, 22 Sep 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-17",
+    "google_news_url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNNTZJeUZNZl9wZ05HcXhZbUQ0NnJsakZMekd4SUlZZElpczlwTVFSWWozWUc4WXMzZTJqMDdQSGRCU2kyR0tiQTZ3X2ttdGZHOG1uZk1vX3BZcXVZOVpyeUF3ZW00VkFoQjVIa2FGZjM5anNndlEzTHZSYVRkTXkwT0otWWQzSnotM3dWZW1kOGRzUGliS25VRHlZaGtnNXMxNHljeE1TaHJCakU5NWJWSnI1aDZKX2VYRmNWT3ZvTkxkcUxGeXM5NGVQRzA1N2w1NE16U1Izc2FmZUxnb3REUlppbkJIclZDU01KcjZhMVNtOGpPTVVLVE5aSVByNjRoN2o1N29HOFM0YjJzWnprUTVrQl9iSGd3TGZqSkFqS3dSaUtfZzJiQ9IBrgJBVV95cUxOV3U2V0R0V2xRWmxHdllQREJPWVZ2MGpqcnpwUzNOcXJIWFZZVi0yOEZjQUs4bzRwZEo1LVRQZUwyM0ctSjlXZWVmdzlNdWwxNTRSeEVHdkV6RWtVR05wZFlYTEJvSklQQ01EaUM3aHZNQmM3TURaMzRqdjgxNmJiVWJmcDBSbVgzQVp5d3ZJdUJqVm5YY0RtVXBqUnV2djFmb1EwYmFmQm0tN2VzU2E3TWFzN2hOR0xBQnV5bHhlUVpEWjVNNkhOUnQtTFhrY2Q2NFZ3M3ItYW5TRWx4LXBCMkNMVmRkMHZuUko4dnQtQ0VUbXhibDJ0YTVuZGFsRy14S1g0d09vbHh3UGpMdFhpRWRmNXVRSUNrMjVfdzZLeExwQzZUWlhZT2ZiZ015QQ?oc=5",
+    "resolved_from_google_news": true,
+    "last_checked": "2026-10-17"
+  },
+  {
+    "title": "Torre del Mar prepara Halloween con pasacalles, talleres y un renovado pasaje del terror - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGlYdGxOS3pRc05DU0U5Y2k5UThsY1hEY2tuYTRsbWRlTFI0SGpQQWtseHdoR0dIVVNfQXFmZkZMSDRjZU42cFhTWXRNSUN0SHNNUkZuX0piT1k3NXpzc1JZRWN3SzFMSktwNFd6Q3NYY21UX1RmblV0UkdfX0xlSEt2SGliM2tmTS1fdXQxYlNSZFZRbjVEa1RSbUR0YWFaTWFZYXNFTmpJMDhWbW9RYjlLOGdvb2l2RUVRVFR2M21MSzFY0gHKAUFVX3lxTE5tdHVPNkRBam55djFzeWh2Q2F1RHdQWnU2OENXVk9NM1QzTXpTVlZnLUl2Rm52OTR0dFlRdzZRcWtLVXpaaDdlZ21LR1R6UXpTbS1ySW1kc1FudmtHOVota1RGSk5LVlJ3bVA3VEhRNkJfVGtveS1vWm9SWmpKTDUzSG0yTE1PU1lPbTZ3bGpTdkdhamxaMjNSQk5SY1BrUTFMZzhQTGZsMXJ2dWhJMHZWSnh2NllBWmVMdzAtSzRlemtaMmhJTzI1Nmc?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Torre del Mar prepara Halloween con pasacalles, talleres y un renovado pasaje del terror Diario Sur",
+    "discovery_method": "rss",
+    "query": "Málaga Navidad niños actividades when:30d",
+    "published_at": "Thu, 15 Oct 2026 15:55:02 GMT"
+  },
+  {
+    "title": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 - Malaga Actualidad",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1drV1NIMDlybGxsMHdKYk9kUjZvUjRpZUUwUzRKb2U3clpHN2ZkMms3OHVTcmJQcmN4cTZ2OHRnZVNwVzFtUklZTS1aSlYxV0YzLVhlVmVTYWhkR1hRWURCSkpIRllmaWxKYkpIRmwweU1pZ08xQi1aellLNDBsRnFFNDJELUc0dV9ZRlpacmhrUkpIcEEzQ2RuQnlEdWduQXBqb2kxb0NaQmh3TWN2MmsxdDZoNktnVVBya1ZrNWpWYmViT3RjWjI2WnpOTDF5SlRCUw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 Malaga Actualidad",
+    "discovery_method": "rss",
+    "query": "Málaga museos talleres para familias when:30d",
+    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo - El Español",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZjM0UXpMUTJhdS13emdmYlRhVVNZa0RrSHJNOEphZk1XWkdURHFtYUVyeGcyMm01UDBqYVNCQmhJVnREejZ4SmJCb1BIYVNIQ1I5ZTVkS3VNME9IMUtFVGFKN3J2dmw1V2hKYmgxM3JvVl9jUFFxQTdzdkM5VG8xelFtQXJBZDgyTDB2Vl9mTTdJNGEzb2lxYjZqSTUwTXhLcVlGOGpTUWt6RVZheDJ6MGxvZ25KYmlUMnZXTHBjcU1jYW90Y1dSbnEtdFBXSmJjSDE1bXVtNHRHYWtkcGdZU0FhbTE2SnhyU1VjR1Y3VHc1QzcydlQyaUNGanl0MGVEejRWTDd5UlZXNlZqRnNUSXpVNThhOW0w0gGeAkFVX3lxTE5iSEhIU1gtbF82VHZ6Qmlnc3hOdmZzbG12SVdDTlg5RHMxUE1FZG5wMDktODVjMElRbmFPWkVTRWhKd0xmRm91Tk1ka2V5bld2NTFHOFVGRExUVzZURU0yM2psX3dxN2RQRmVmMTZlYzRFNkR5T3BmTkRVVTJMNUtwU244QVRIZmdrZFd3bmpucjRVMDBCV1BVclRzY2ZSZjhwUEtwQkNrTUFIZkZkTjdOTXFSX3ZWZEhnZzZWQUplNGFmbmVsd2JIeURXV0dTWTZyOHBJeElobWNZZzM0WEhFWUQ4TXNwclhVLXVRSWowdU1va1o5SnJFY0Y3djdOelYzdmZ6Z2ZTSlEzNDVJc1pDb2Z5b1VHZ3BvU2VVZGc?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo El Español",
+    "discovery_method": "rss",
+    "query": "Málaga museos talleres para familias when:30d",
+    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Gran jornada de museos gratis en Málaga este domingo 27 de septiembre: visitas guiadas, talleres con IA y coches clásicos - El Español",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNa1VHRTVEbzhIYzlieXpDUHNPVE1sUlJIMlAtd0lwRHdQNWloVVY0RUpqU3BaZ3M2dFdORV9NYzFKMjBKUVVhclZfWXJJbWNKVW84T1dzRVhQUkVrbFB6amZRTklJSlZReTZuNXZ0ZE9pVXd3S3Vyb2I3NUNQV0c4bDF2bG5ieDlFS3FYYU9iRzl3Ql9XSmdMczJiemQzaS1aM1N5XzJBT29qelByTS10dk0wOXBsSUI5Q1JySzBDMmpoNmM0dTRvOWhhZ1EwNlprRG1CVmQ1eUhNZ01BTjVxREhPeEk3OS1BbmFPeTJMcUZkSFNuM1lwZkdSeWxwbU9z0gGGAkFVX3lxTFBNQ3luZVNTV1Q4MHNmdW5NQWFjaktWeXZrbllFU2dGUkRfNE15aXA5VklZYkxGNkN0M3N2em5nMm90cncyekllYzk1Z0VSQTlqRUZCN2hoY3hnR2xSN3oyR1NneTdmbFN6bExmNUFSWlV3ekRJXzhockY5c2p5bXV4YmdrRWxhdUdFWGFxTUtpSjNKWVlyR21HdTdKQVVOTEp0anVwN0Z0NHgwcXRNMTJzckFvTEpNTHZqOXdOX3RzRmoxLXJGWFBTTlRQa1hnQi1GdnNzTW5BeF9fWW12TEgycW9CQXMxVG5wOFpwdG1lYWNFaGowRmk4RHF2djRiUmlRc1JIUmc?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-17",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Gran jornada de museos gratis en Málaga este domingo 27 de septiembre: visitas guiadas, talleres con IA y coches clásicos El Español",
+    "discovery_method": "rss",
+    "query": "Málaga museos talleres para familias when:30d",
+    "published_at": "Sat, 26 Sep 2026 07:00:00 GMT"
   },
   {
     "title": "El pueblo de Málaga que se llenará de conciertos, cuentacuentos y 'lluvia de regalos' por su Feria de San Miguel: habrá pasacalles, casetas y actividades para toda la familia - La Opinión de Málaga",
