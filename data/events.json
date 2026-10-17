@@ -723,6 +723,56 @@
     "origin": "agenda especializada"
   },
   {
+    "id": "EVT-TXT-20BA5B629A",
+    "title": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia",
+    "start": "2026-10-17",
+    "end": "2026-10-17",
+    "time": "Por confirmar",
+    "town": "Torremolinos",
+    "venue": "Por confirmar",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "3 €",
+    "audience": "Infantil y familiar",
+    "source_name": "Radar contrastado · azcostadelsol.com",
+    "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
+    "status": "publicada_en_fuente",
+    "details": "La Pista de Hielo de Benalmádena, ubicada en el Palacio de Deportes de la avenida Ciudad de Melilla, iniciará el",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-13",
+    "last_checked": "2026-10-17T20:59:38+00:00",
+    "origin": "evidencia textual automatizada",
+    "field_sources": {
+      "start": {
+        "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
+        "quote": "emporada el 23 de octubre con una jornada de actividades para toda la familia - AZ Costa del Sol Aviso legal / Política de privacidad Contacto sábado 17 octubre 2026 Login Sin resu",
+        "evidence": "Fecha futura explícita encontrada en el contenido visible."
+      },
+      "town": {
+        "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
+        "quote": "Torremolinos",
+        "evidence": "Municipio malagueño mencionado explícitamente en la página."
+      },
+      "audience": {
+        "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
+        "quote": "infantil/familiar",
+        "evidence": "El contenido visible identifica explícitamente público infantil o familiar."
+      },
+      "corroboration": {
+        "source_url": "https://www.fuengirola.es/evento/agenda-octubre/",
+        "quote": "AGENDA OCTUBRE",
+        "evidence": "Segunda fuente independiente con titular coincidente."
+      }
+    },
+    "verification_confidence": 105,
+    "verification_method": "evidencia textual fuerte",
+    "reservation_required": null,
+    "reservation_url": null
+  },
+  {
     "id": "EVT-994424D0B126",
     "title": "Picasso en familia 2026-2027",
     "start": "2026-10-17",
@@ -1592,48 +1642,70 @@
     "title": "Sábados en familia | Notas románticas",
     "start": "2026-10-24",
     "end": "2026-10-24",
-    "time": "11:30",
+    "time": "11:30 y 17:00",
     "town": "Málaga",
-    "venue": "Por confirmar",
+    "venue": "Colección Museo Ruso",
     "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": null,
-    "field_sources": {},
-    "audience": "Consultar organizador",
+    "age_min": 5,
+    "age_max": 12,
+    "age_label": "5–12 años",
+    "price_label": "Gratis",
+    "duration_minutes": 90,
+    "address": "Av. de Sor Teresa Prat, 15, 29003 Málaga",
+    "reservation_url": "https://www.coleccionmuseoruso.es/event/sabados-en-familia-notas-romanticas/",
+    "field_sources": {
+      "age_min": {
+        "source_url": "https://ladiversiva.com/sabados-en-familia-programacion-de-actividades-familiares-gratis-en-el-museo-ruso-de-malaga/",
+        "quote": "De 5 a 12 años",
+        "evidence": "La programación familiar publicada indica edades de 5 a 12 años."
+      },
+      "price_label": {
+        "source_url": "https://ladiversiva.com/sabados-en-familia-programacion-de-actividades-familiares-gratis-en-el-museo-ruso-de-malaga/",
+        "quote": "actividad es gratuita",
+        "evidence": "La programación publicada indica acceso gratuito."
+      },
+      "duration_minutes": {
+        "source_url": "https://ladiversiva.com/sabados-en-familia-programacion-de-actividades-familiares-gratis-en-el-museo-ruso-de-malaga/",
+        "quote": "11:30 a 13:00",
+        "evidence": "La sesión publicada dura 90 minutos."
+      },
+      "reservation_required": {
+        "source_url": "https://ladiversiva.com/sabados-en-familia-programacion-de-actividades-familiares-gratis-en-el-museo-ruso-de-malaga/",
+        "quote": "requieren de inscripción previa",
+        "evidence": "La programación publicada exige reserva previa."
+      }
+    },
+    "audience": "Infantil y familiar",
     "source_name": "Colección Museo Ruso — mediación familiar",
     "source_url": "https://www.coleccionmuseoruso.es/event/sabados-en-familia-notas-romanticas/",
     "status": "publicada_en_fuente",
-    "details": "¿Y si volvemos a nuestras raíces a través de la mirada de un foráneo, conocido por hacer posible que esas tradiciones fueran compartidas por todo el mundo?",
+    "details": "Taller familiar «Notas románticas». Sesiones en español a las 11:30 y 17:00. Actividad gratuita para familias con menores de 5 a 12 años; requiere inscripción previa.",
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-13",
     "last_checked": "2026-10-15T10:12:18+00:00",
     "origin": "json-ld",
-    "secondary_sources": []
+    "secondary_sources": [],
+    "reservation_required": true
   },
   {
     "id": "EVT-1B44B76DBD96",
-    "title": "Sábados en familia | Романтические ноты",
+    "title": "Sábados en familia | Notas románticas · sesión en ruso",
     "start": "2026-10-24",
     "end": "2026-10-24",
     "time": "16:30",
     "town": "Málaga",
     "venue": "Colección Museo Ruso",
     "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "audience": "Consultar organizador",
+    "age_min": 5,
+    "age_max": 12,
+    "age_label": "5–12 años",
+    "price_label": "Gratis",
+    "audience": "Infantil y familiar",
     "source_name": "Colección Museo Ruso — mediación familiar",
     "source_url": "https://www.coleccionmuseoruso.es/event/sabados-en-familia-%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5-%d0%bd%d0%be%d1%82%d1%8b/",
     "status": "publicada_en_fuente",
-    "details": "А что, если мы вернёмся к своим корням — глазами человека со стороны, который помог сделать эти традиции достоянием всего мира?",
+    "details": "Taller familiar «Notas románticas», impartido en ruso. Sesión a las 16:30. Actividad gratuita para familias con menores de 5 a 12 años; requiere inscripción previa.",
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-13",
@@ -1642,10 +1714,33 @@
     "secondary_sources": [
       "https://www.coleccionmuseoruso.es/event/sabados-en-familia-notas-romanticas/"
     ],
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": null,
-    "field_sources": {}
+    "duration_minutes": 90,
+    "address": "Av. de Sor Teresa Prat, 15, 29003 Málaga",
+    "reservation_url": "https://www.coleccionmuseoruso.es/event/sabados-en-familia-%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5-%d0%bd%d0%be%d1%82%d1%8b/",
+    "field_sources": {
+      "age_min": {
+        "source_url": "https://ladiversiva.com/sabados-en-familia-programacion-de-actividades-familiares-gratis-en-el-museo-ruso-de-malaga/",
+        "quote": "De 5 a 12 años",
+        "evidence": "La programación familiar publicada indica edades de 5 a 12 años."
+      },
+      "price_label": {
+        "source_url": "https://ladiversiva.com/sabados-en-familia-programacion-de-actividades-familiares-gratis-en-el-museo-ruso-de-malaga/",
+        "quote": "actividad es gratuita",
+        "evidence": "La programación publicada indica acceso gratuito."
+      },
+      "duration_minutes": {
+        "source_url": "https://ladiversiva.com/sabados-en-familia-programacion-de-actividades-familiares-gratis-en-el-museo-ruso-de-malaga/",
+        "quote": "16:30 a 18:00",
+        "evidence": "La sesión en ruso publicada dura 90 minutos."
+      },
+      "reservation_required": {
+        "source_url": "https://ladiversiva.com/sabados-en-familia-programacion-de-actividades-familiares-gratis-en-el-museo-ruso-de-malaga/",
+        "quote": "requieren de inscripción previa",
+        "evidence": "La programación publicada exige reserva previa."
+      }
+    },
+    "reservation_required": true,
+    "language": "Ruso"
   },
   {
     "id": "EVT-UNI-20261024",
@@ -2407,19 +2502,19 @@
     "title": "Sábados en familia | ¡Mueve el esqueleto!",
     "start": "2026-10-31",
     "end": "2026-10-31",
-    "time": "17:00",
+    "time": "11:30 y 17:00",
     "town": "Málaga",
     "venue": "Colección Museo Ruso",
     "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "audience": "Consultar organizador",
+    "age_min": 5,
+    "age_max": 12,
+    "age_label": "5–12 años",
+    "price_label": "Gratis",
+    "audience": "Infantil y familiar",
     "source_name": "Colección Museo Ruso — mediación familiar",
     "source_url": "https://www.coleccionmuseoruso.es/event/sabados-en-familia-mueve-el-esqueleto/",
     "status": "publicada_en_fuente",
-    "details": "No pierdas el ritmo porque tenemos preparadas unas coreografías terriblemente divertidas y que te dejaran con la mandíbula temblando…",
+    "details": "Taller familiar «¡Mueve el esqueleto!», con coreografías y juego creativo. Sesiones en español a las 11:30 y 17:00. Actividad gratuita para familias con menores de 5 a 12 años; requiere inscripción previa.",
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-13",
@@ -2428,10 +2523,27 @@
     "secondary_sources": [
       "https://www.coleccionmuseoruso.es/event/sabados-en-familia-mueve_el_esqueleto/"
     ],
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": null,
-    "field_sources": {}
+    "duration_minutes": 90,
+    "address": "Av. de Sor Teresa Prat, 15, 29003 Málaga",
+    "reservation_url": "https://www.coleccionmuseoruso.es/event/sabados-en-familia-mueve-el-esqueleto/",
+    "field_sources": {
+      "age_min": {
+        "source_url": "https://ladiversiva.com/sabados-en-familia-programacion-de-actividades-familiares-gratis-en-el-museo-ruso-de-malaga/",
+        "quote": "De 5 a 12 años",
+        "evidence": "La programación familiar publicada indica edades de 5 a 12 años."
+      },
+      "price_label": {
+        "source_url": "https://ladiversiva.com/sabados-en-familia-programacion-de-actividades-familiares-gratis-en-el-museo-ruso-de-malaga/",
+        "quote": "actividad es gratuita",
+        "evidence": "La programación publicada indica acceso gratuito."
+      },
+      "reservation_required": {
+        "source_url": "https://ladiversiva.com/sabados-en-familia-programacion-de-actividades-familiares-gratis-en-el-museo-ruso-de-malaga/",
+        "quote": "requieren de inscripción previa",
+        "evidence": "La programación publicada exige reserva previa."
+      }
+    },
+    "reservation_required": true
   },
   {
     "id": "EVT-3309B82F055F",
