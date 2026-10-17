@@ -1406,6 +1406,62 @@
     "secondary_sources": []
   },
   {
+    "id": "EVT-TXT-20CD02C414",
+    "title": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia",
+    "start": "2026-10-23",
+    "end": "2026-10-23",
+    "time": "Por confirmar",
+    "town": "Benalmádena",
+    "venue": "Por confirmar",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {
+      "start": {
+        "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
+        "quote": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia La Pista de Hielo de Benalmádena comienza una nue",
+        "evidence": "Fecha futura explícita vinculada al evento."
+      },
+      "town": {
+        "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
+        "quote": "Benalmádena",
+        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
+      },
+      "audience": {
+        "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
+        "quote": "infantil/familiar",
+        "evidence": "El evento se presenta explícitamente como infantil o familiar."
+      },
+      "corroboration": {
+        "source_url": "https://www.benalmadena.es/noticias/N13614/La-Pista-de-Hielo-de-Benalmdena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia.html",
+        "quote": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia",
+        "evidence": "Segunda fuente independiente con varias palabras relevantes coincidentes."
+      }
+    },
+    "audience": "Infantil y familiar",
+    "source_name": "Radar · azcostadelsol.com",
+    "source_url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
+    "status": "publicada_en_fuente",
+    "details": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia Ayuntamiento de Benalmádena",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-13",
+    "last_checked": "2026-10-17T21:07:49+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 100,
+    "verification_method": "evidencia textual fuerte",
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · corroboración independiente · titular coherente con la pista",
+    "secondary_sources": [
+      "https://www.benalmadena.es/noticias/N13614/La-Pista-de-Hielo-de-Benalmdena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia.html"
+    ]
+  },
+  {
     "id": "EVT-TEATINOS-SUENOS-MEDIEVALES-20261023",
     "title": "Sueños Medievales de la Colonia Santa Inés",
     "start": "2026-10-23",
@@ -3807,36 +3863,5 @@
       }
     },
     "secondary_sources": []
-  },
-  {
-    "id": "EVT-TXT-1292D597A0",
-    "title": "Teatro en familia",
-    "start": "2027-03-28",
-    "end": "2027-03-28",
-    "time": "Por confirmar",
-    "town": "Málaga",
-    "venue": "Por confirmar",
-    "category": "Teatro y espectáculos",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Gratis",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_required": null,
-    "reservation_url": null,
-    "field_sources": {},
-    "audience": "Infantil y familiar",
-    "source_name": "Agenda Cultura Málaga",
-    "source_url": "https://cultura.malaga.eu/es/actividades-culturales/actividades-escenicas/teatro-en-familia/",
-    "status": "publicada_en_fuente",
-    "details": "2026 con una selección de obras conocidas adaptadas a todos los públicos. El ciclo gratuito se extenderá hasta el 28 de marzo de 2027 y se divide en: ‘Los Domingos en el Eduardo Ocón’ ‘Festival de Títeres’ ‘Teatro en Navidad’ TEATRO EN FAMILIA 2026",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-10-12",
-    "last_checked": "2026-10-17T21:03:42+00:00",
-    "origin": "evidencia textual automatizada",
-    "confidence_score": 95,
-    "evidence": "público infantil/familiar · actividad concreta · fecha futura explícita · municipio malagueño explícito · fuente aprobada del catálogo"
   }
 ]
