@@ -550,6 +550,68 @@
     "origin": "importación inicial"
   },
   {
+    "id": "EVT-CIRCO-QUIROS-MALAGA-202610",
+    "title": "Circo Quirós Málaga",
+    "start": "2026-10-17",
+    "end": "2026-10-25",
+    "occurrences": [
+      "2026-10-17",
+      "2026-10-18",
+      "2026-10-19",
+      "2026-10-22",
+      "2026-10-23",
+      "2026-10-24",
+      "2026-10-25"
+    ],
+    "interval_kind": "recurring_dates",
+    "time": "Horarios según sesión",
+    "schedule_note": "17 oct: 17:00 y 19:30 · 18 oct: 12:00 y 18:00 · 19 oct: 18:30 · 22 oct: 18:30 · 23 oct: 18:30 · 24 oct: 17:00 y 19:30 · 25 oct: 12:00 y 18:00.",
+    "town": "Málaga",
+    "venue": "Circo Quirós Málaga · Recinto Ferial",
+    "address": "Av. de José Ortega y Gasset, 201, 29006 Málaga",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Familiar / todas las edades",
+    "price_label": "Desde 9 € según fecha y plataforma",
+    "duration_minutes": 120,
+    "reservation_required": true,
+    "reservation_url": "https://www.entradas.com/artist/circo-quiros/circo-quiros-malaga-4233182/",
+    "audience": "Infantil y familiar",
+    "source_name": "Entradas.com",
+    "source_url": "https://www.entradas.com/artist/circo-quiros/circo-quiros-malaga-4233182/",
+    "secondary_sources": [
+      "https://www.atrapalo.com/entradas/circo-quiros-en-malaga_e4952675/"
+    ],
+    "status": "publicada_en_fuente",
+    "details": "Espectáculo de circo para toda la familia con acrobacias, humor y magia. Entradas.com y Atrápalo coinciden en su programación en Málaga hasta el 25 de octubre.",
+    "evidence": "Entradas.com publica funciones del Circo Quirós en Málaga hasta el 25 de octubre y lo describe para toda la familia; Atrápalo lo clasifica como Familiar y confirma 120 minutos de duración.",
+    "first_seen": "2026-10-17",
+    "last_checked": "2026-10-17",
+    "origin": "contraste manual de dos plataformas de venta",
+    "schedule_unconfirmed": false,
+    "field_sources": {
+      "duration_minutes": {
+        "source_url": "https://www.atrapalo.com/entradas/circo-quiros-en-malaga_e4952675/",
+        "quote": "Duración 120 minutos",
+        "evidence": "Atrápalo publica una duración de 120 minutos para Circo Quirós en Málaga.",
+        "last_verified": "2026-10-17"
+      },
+      "reservation_url": {
+        "source_url": "https://www.entradas.com/artist/circo-quiros/circo-quiros-malaga-4233182/",
+        "quote": "Circo Quirós Málaga",
+        "evidence": "Entradas.com mantiene la venta de entradas y lista las funciones futuras en Málaga.",
+        "last_verified": "2026-10-17"
+      },
+      "address": {
+        "source_url": "https://www.entradas.com/city/malaga-490/venue/circo-quiros-malaga-95673/",
+        "quote": "Av. de José Ortega y Gasset, 201, 29006 Málaga",
+        "evidence": "Entradas.com publica la dirección del recinto del Circo Quirós en Málaga.",
+        "last_verified": "2026-10-17"
+      }
+    }
+  },
+  {
     "id": "EVT-UNI-20261017",
     "title": "Cuentacuentos musical «Cuentos para Pinocho»",
     "start": "2026-10-17",
@@ -1342,6 +1404,38 @@
     "interval_kind": "recurring_dates",
     "schedule_note": "Solo se celebra en los días de sesión indicados.",
     "secondary_sources": []
+  },
+  {
+    "id": "EVT-TEATINOS-SUENOS-MEDIEVALES-20261023",
+    "title": "Sueños Medievales de la Colonia Santa Inés",
+    "start": "2026-10-23",
+    "end": "2026-10-25",
+    "time": "Consultar programación",
+    "town": "Málaga",
+    "venue": "Calle Manuel Rivadeneyra · Colonia Santa Inés",
+    "category": "Fiestas y eventos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Todas las edades",
+    "price_label": "Por confirmar",
+    "audience": "Infantil y familiar",
+    "source_name": "Ayuntamiento de Málaga · Distrito 11 Teatinos-Universidad",
+    "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=149278",
+    "secondary_sources": [],
+    "status": "publicada_en_fuente",
+    "details": "Pasacalles, talleres de alfarería e infantiles, espectáculos de títeres y representaciones de temática medieval en la Colonia Santa Inés.",
+    "evidence": "La agenda oficial del Ayuntamiento de Málaga publica el evento del 23 al 25 de octubre y señala talleres infantiles, títeres y actividades para todas las edades.",
+    "first_seen": "2026-10-17",
+    "last_checked": "2026-10-17",
+    "origin": "fuente oficial municipal",
+    "interval_kind": "recurring_dates",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-10-23",
+      "2026-10-24",
+      "2026-10-25"
+    ],
+    "schedule_note": "Se celebra los días 23, 24 y 25 de octubre; consultar la programación de cada jornada."
   },
   {
     "id": "EVT-LIB-20261023-TA",

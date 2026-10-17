@@ -940,5 +940,63 @@
     "watch_urls": [
       "https://juventud.malaga.eu/es/la-caja-blanca/"
     ]
+  },
+  {
+    "id": "SRC-067",
+    "name": "Entradas.com Málaga · espectáculos",
+    "type": "Ticketing / descubrimiento",
+    "area": "Málaga capital",
+    "priority": "Media",
+    "url": "https://www.entradas.com/city/malaga-490/musicales-y-shows-83/",
+    "approved": true,
+    "status": "pendiente",
+    "notes": "Descubrir circo, magia, musicales y espectáculos familiares en Málaga. Filtrar propuestas adultas y contrastar público, fecha y recinto antes de publicar.",
+    "max_links": 12,
+    "watch_urls": [
+      "https://www.entradas.com/artist/circo-quiros/circo-quiros-malaga-4233182/"
+    ]
+  },
+  {
+    "id": "SRC-068",
+    "name": "Atrápalo Málaga · entradas familiares",
+    "type": "Ticketing / descubrimiento",
+    "area": "Provincia",
+    "priority": "Media",
+    "url": "https://www.atrapalo.com/entradas/malaga/d43/",
+    "approved": true,
+    "status": "pendiente",
+    "notes": "Fuente de descubrimiento de espectáculos con venta de entradas. Priorizar etiquetas Familiar, Para todas las edades y Teatro para niños; contrastar antes de publicar.",
+    "max_links": 12,
+    "watch_urls": [
+      "https://www.atrapalo.com/entradas/circo-quiros-en-malaga_e4952675/"
+    ]
+  },
+  {
+    "id": "SRC-069",
+    "name": "Distrito 11 Teatinos-Universidad · Ayuntamiento de Málaga",
+    "type": "Junta Municipal de Distrito",
+    "area": "Málaga capital · Teatinos-Universidad",
+    "priority": "Alta",
+    "url": "https://www.malaga.eu/la-ciudad/juntas-municipales-de-distrito/junta-de-distrito-11-teatinos-universidad/",
+    "approved": true,
+    "status": "pendiente",
+    "notes": "Fuente oficial hiperlocal. Buscar fiestas de barrio, talleres infantiles, actividades culturales, Navidad, Carnaval, pasacalles y programación familiar del Distrito 11.",
+    "max_links": 12,
+    "watch_urls": [
+      "https://www.malaga.eu/la-ciudad/agenda/"
+    ]
+  },
+  {
+    "id": "SRC-070",
+    "name": "AVV Teatinos Ciudad de la Justicia",
+    "type": "Asociación vecinal / fuente hiperlocal",
+    "area": "Málaga capital · Teatinos",
+    "priority": "Alta",
+    "url": "https://www.instagram.com/avvteatinos/",
+    "approved": true,
+    "status": "pendiente",
+    "notes": "Asociación vecinal registrada en el Ayuntamiento. Vigilar actividades culturales, ocio, fiestas y propuestas infantiles/familiares publicadas en redes; contrastar fecha y lugar antes de publicar.",
+    "max_links": 4,
+    "watch_urls": []
   }
 ]
