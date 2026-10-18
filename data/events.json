@@ -2659,6 +2659,60 @@
     "status": "publicada_en_fuente"
   },
   {
+    "id": "EVT-GTM-9261EFF603D6",
+    "title": "Imagilusión: Around the World",
+    "start": "2026-11-07",
+    "end": "2026-11-07",
+    "time": "18:00 y 20:00",
+    "town": "Málaga",
+    "venue": "Auditorio AM",
+    "address": "Av. de Sor Teresa Prat, 51, Málaga",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Desde 16,50 € (confirmar precio por función)",
+    "duration_minutes": null,
+    "audience": "Musical familiar",
+    "reservation_required": true,
+    "reservation_url": "https://gtmmalaga.com/evento/a_54559-imagilusion-en-malaga",
+    "source_name": "GTM Málaga · Auditorio AM (organizador)",
+    "source_url": "https://gtmmalaga.com/evento/a_54559-imagilusion-en-malaga",
+    "secondary_sources": [
+      "https://gtmmalaga.com/evento/a_60208-imagilusion-en-malaga---sesion-20h",
+      "https://informalaga.es/agenda/imagilusion-en-malaga-2026-11-07"
+    ],
+    "status": "publicada_en_fuente",
+    "details": "Imagilusión presenta Around the World: musical familiar de homenaje a clásicos de Disney, con personajes de Frozen, El Rey León, La Bella y la Bestia, Toy Story, Aladdín, Moana y Encanto. Incluye intérpretes de Lengua de Signos Española. Dos funciones confirmadas (18:00 y 20:00). El organizador señala entrada gratuita para bebés hasta 12 meses en brazos; comprobar condiciones y plazas antes de comprar.",
+    "schedule_note": "Dos funciones diferentes el sábado 7 de noviembre: 18:00 y 20:00; segunda función en el enlace oficial alternativo.",
+    "schedule_unconfirmed": false,
+    "field_sources": {
+      "time": {
+        "source_url": "https://gtmmalaga.com/evento/a_54559-imagilusion-en-malaga",
+        "quote": "7 de noviembre 18:00h",
+        "evidence": "Página oficial del organizador: función a las 18:00. Otra ficha oficial de GTM anuncia 20:00: https://gtmmalaga.com/evento/a_60208-imagilusion-en-malaga---sesion-20h"
+      },
+      "price_label": {
+        "source_url": "https://informalaga.es/agenda/imagilusion-en-malaga-2026-11-07",
+        "quote": "Desde 16,5 €",
+        "evidence": "Precio de referencia indicado por el agregador que enlaza a Enterticket; verificar por pase en GTM."
+      },
+      "reservation_url": {
+        "source_url": "https://gtmmalaga.com/evento/a_54559-imagilusion-en-malaga",
+        "quote": "Venta Online",
+        "evidence": "Ficha oficial de GTM con venta para la función de las 18:00; la de 20:00 tiene un enlace separado."
+      },
+      "address": {
+        "source_url": "https://gtmmalaga.com/evento/a_54559-imagilusion-en-malaga",
+        "quote": "Av de Sor Teresa Prat, 51",
+        "evidence": "Dirección del Auditorio AM publicada por el organizador."
+      }
+    },
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18",
+    "origin": "programación del organizador contrastada en dos funciones"
+  },
+  {
     "id": "EVT-IA-31496F6394",
     "title": "La magia de las burbujas",
     "start": "2026-11-07",

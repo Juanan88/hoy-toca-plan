@@ -1029,8 +1029,9 @@
     "watch_urls": [
       "https://limon-loco.es/"
     ],
-    "last_checked": "2026-10-18T12:33:12+00:00",
-    "events_detected_this_run": 0
+    "last_checked": "2026-10-18T12:48:10+00:00",
+    "events_detected_this_run": 0,
+    "daily_crawl": true
   },
   {
     "id": "SRC-072",
@@ -1048,6 +1049,28 @@
       "https://granjaescuelaelpato.com/"
     ],
     "last_checked": "2026-10-18T12:05:08+00:00",
+    "events_detected_this_run": 0
+  },
+  {
+    "id": "SRC-073",
+    "name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "type": "Recinto escénico y venta oficial de entradas",
+    "area": "Málaga capital",
+    "priority": "Alta",
+    "url": "https://gtmmalaga.com/",
+    "approved": true,
+    "status": "consultada",
+    "strict_location": true,
+    "daily_crawl": true,
+    "max_links": 30,
+    "notes": "Cartelera oficial del Auditorio AM, av. Sor Teresa Prat 51. El organizador incluye Imagilusión, Canta Juegos, Momonsters y otros shows. Revisar TODAS las URLs /evento/a_... de la portada aunque el título no diga infantil; sólo publicar si la sinopsis concreta acredita público familiar y coincide fecha, lugar, hora. No confundir el aviso genérico del recinto 'niños hasta 12 meses' con evidencia infantil de un evento adulto. Agrupar dos sesiones del mismo espectáculo en una ficha, conservando enlaces oficiales de cada pase. Vigilar diariamente además del rastreo completo.",
+    "watch_urls": [
+      "https://gtmmalaga.com/evento/a_54559-imagilusion-en-malaga",
+      "https://gtmmalaga.com/evento/a_60208-imagilusion-en-malaga---sesion-20h",
+      "https://gtmmalaga.com/evento/a_57059-canta-juegos-en-malaga",
+      "https://gtmmalaga.com/evento/a_56679-momonsters-mi-primer-musical-en-malaga"
+    ],
+    "last_checked": "2026-10-18T12:48:10+00:00",
     "events_detected_this_run": 0
   }
 ]

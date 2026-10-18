@@ -1,142 +1,5 @@
 [
   {
-    "title": "La Caja Blanca",
-    "url": "https://juventud.malaga.eu/es/la-caja-blanca/",
-    "snippet": "La Caja Blanca Contacto y Ubicación Exposiciones Temporales Sala de Exposiciones Primera Planta Programación Caja Blanca Solicitud de espacios Los Jueves del Ocón Estudio de Grabación Bienal de jóvenes creadores",
-    "source_name": "La Caja Blanca · programación oficial",
-    "discovery_method": "case_official_crawl",
-    "case_id": "CASE-ED6DC872B1",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Programación Caja Blanca",
-    "url": "https://juventud.malaga.eu/es/la-caja-blanca/programacin/",
-    "snippet": "Programación Caja Blanca",
-    "source_name": "La Caja Blanca · programación oficial",
-    "discovery_method": "case_official_crawl",
-    "case_id": "CASE-ED6DC872B1",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Campamentos de verano para niños en Vélez-Málaga y Torre del Mar - La Diversiva",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQTdyanVwZDJVTThjX2pTRElpdDdyU3pHeURtaldfd0ZHUG5MVEI0N0NEWVM3V1o4TjNjSklaTnEzQ18wdlNITGo4dmVUcXVoVDBqMXUyTFhRSTVVMUI3UVlOSDhuUlJWT0gxMVZrOXdFZmJXY1B3Y1hBYTVQUDBybEVmcG8yeHJiSTNEOEx5eXhGc1k?oc=5",
-    "snippet": "Campamentos de verano para niños en Vélez-Málaga y Torre del Mar La Diversiva",
-    "published_at": "Thu, 27 Apr 2023 14:17:17 GMT",
-    "source_name": "Investigación por caso",
-    "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "discovery_method": "case_rescue",
-    "case_id": "CASE-92319190E6",
-    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
-    "resolution_checked": "2026-10-18",
-    "resolution_version": 2
-  },
-  {
-    "title": "Torre del Mar acoge este finde el IX Festival Aéreo Internacional - La Diversiva",
-    "url": "https://www.abc.es/economia/festival-aereo-internacional-llena-playas-torre-mar-20260907093940-nt.html",
-    "snippet": "Torre del Mar acoge este finde el IX Festival Aéreo Internacional La Diversiva",
-    "published_at": "Tue, 03 Sep 2024 14:09:10 GMT",
-    "source_name": "Investigación por caso",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "case_rescue",
-    "case_id": "CASE-92319190E6",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
-    "resolution_checked": "2026-10-18",
-    "resolution_version": 2,
-    "google_news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFR3UkxVNHYzZ0ZTOUlzc0tyMVpOWHM5a0JkX0VfRDZQMHg2TTJtSEhaM21Ib0M3NFk1UjNybFhuRThpcXhzUGgwU19FOU4wUUEwaXdfRDZLX1lRX2VPUC1KZlNxWFNvdVpYTW5POGZQLVhKUG4wam9vT3FINjVMNXU3OXI0bzQxMDBLY3pBUUc0aXJjTDYxc2xLMHZlSGI1ZnFBdGZEME1zTlVXamU0VVQzYzlnR1U?oc=5",
-    "resolved_from_google_news": true,
-    "resolution_method": "title_match",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "página de ciclo/programación, no sesión concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Feria de Málaga con niños: programación infantil completa 2026 - La Diversiva",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzc0cm9zNVY1UUFrQ3gzMi1nLWpIZnFZSzlpcXFjVDlybHJVY3Zmd1hsa2VjUkFON0NZNnI2M21rMlJzY3l1a3RSb2N4VUVkb3BManJST1hOaFdLWXZRcm5tVGlSeTRtYnlqV0s1a05NdWdXcU1wSG9qS2lqLXAxRzB2OHBvNTlS?oc=5",
-    "snippet": "Feria de Málaga con niños: programación infantil completa 2026 La Diversiva",
-    "published_at": "Thu, 08 Aug 2024 13:01:29 GMT",
-    "source_name": "Investigación por caso",
-    "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "discovery_method": "case_rescue",
-    "case_id": "CASE-92319190E6",
-    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
-    "resolution_checked": "2026-10-18",
-    "resolution_version": 2
-  },
-  {
-    "title": "Eventos en 3 octubre, 2026 – Actividades para niños en Málaga - La Diversiva",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3N0QkVLcGI5SGRrT3JDeWVTaHNsbEQxSG81dFM5RUFmUXZoU0tBSHFQc1pPWXZaamRHaHFoUXFTMHg5TmRlRGYxWWJscFczZDhua0c1MUFUOHdmcU90X1NFcU9TS3ZoTjlrdW9RTTM4c21PdjV5QjkzejdpRmZmdlI2YXRTWHlQN3ZUQWRlSjNEbVJ5UWZFNjN2c2dOTkgxcTlfcVd3?oc=5",
-    "snippet": "Eventos en 3 octubre, 2026 – Actividades para niños en Málaga La Diversiva",
-    "published_at": "Sat, 03 Oct 2026 07:00:00 GMT",
-    "source_name": "Investigación por caso",
-    "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "discovery_method": "case_rescue",
-    "case_id": "CASE-92319190E6",
-    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
-    "resolution_checked": "2026-10-18",
-    "resolution_version": 2
-  },
-  {
-    "title": "Feria del Libro de Málaga para niños: programación infantil 2023 - La Diversiva",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1UyV3VEUFNXXzlzREZERGoxV0dGcnpNZnhoWWk1WUFMX3FpaVJLSEtoY0lLUkpwOGlxRXV6UmNMTWtwMkltWjZGaUdacUpfVDJ3UGNJQy15X1pBR2FOeENZdWh6Q1RvdExrYXluZWV3eGo1T0U2eFVmNFVxR1pqT01UYkk?oc=5",
-    "snippet": "Feria del Libro de Málaga para niños: programación infantil 2023 La Diversiva",
-    "published_at": "Thu, 27 Apr 2023 15:10:11 GMT",
-    "source_name": "Investigación por caso",
-    "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "discovery_method": "case_rescue",
-    "case_id": "CASE-92319190E6",
-    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
-    "resolution_checked": "2026-10-18",
-    "resolution_version": 2
-  },
-  {
-    "title": "⇨ Teatro de títeres gratis en Vélez-Málaga con Peneque el Valiente - La Diversiva",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFUyNGJwSGFDcU1ieHBfWUZ5dEtlUlRLV2l3WlN0bmowdTNQZkpzbXd4ZlBRZW10MkJMV1NFU2t3V1JZMHl2Z1FLenYtRzVZRi1ncDNZQ0R6ekl0QXBDTDg0YkdNTFdUTU1HTFpBTFR4Y0Rlc3FQOHgtOWpmQWpleDgyX0NRYlhqcm00a201UXBmVUU?oc=5",
-    "snippet": "⇨ Teatro de títeres gratis en Vélez-Málaga con Peneque el Valiente La Diversiva",
-    "published_at": "Thu, 16 Feb 2023 20:29:01 GMT",
-    "source_name": "Investigación por caso",
-    "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "discovery_method": "case_rescue",
-    "case_id": "CASE-92319190E6",
-    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
-    "resolution_checked": "2026-10-18",
-    "resolution_version": 2
-  },
-  {
     "title": "⇨ Vélez-Málaga - Etiquetas | La Diversiva - Guía de ocio infantil y familiar - La Diversiva",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fMG9oRjdqeElxZmtDbmt4TzZOQ1psTFdQclBKX2RUVDZvZVFvZFJTNGlBaWtLZ3JXeDE5TzMyaXdTSVlXVjdYTEhJQk9YaU12d2VENQ?oc=5",
     "snippet": "⇨ Vélez-Málaga - Etiquetas | La Diversiva - Guía de ocio infantil y familiar La Diversiva",
@@ -980,8 +843,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-E3D5D410B0",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Torre del Mar - Ayto. Vélez-Málaga",
@@ -993,8 +858,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-E3D5D410B0",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Asociación Alma Torre del Mar 2025 - Ayto. Vélez-Málaga",
@@ -1006,8 +873,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-E3D5D410B0",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Torre del Mar acoge una exposición de propuestas de proyectos de transformación del Hogar Virgen de la Victoria - Ayto. Vélez-Málaga",
@@ -1019,8 +888,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-E3D5D410B0",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Torre del Mar celebrará el VIII Día del Turista con una tarta gigante de casi 9 metros de largo - Ayto. Vélez-Málaga",
@@ -1032,8 +903,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-E3D5D410B0",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "El Castillo de Torre del Mar será restaurado y convertido en un Centro de Interpretación financiado al 100% por la Unión Europea - Ayto. Vélez-Málaga",
@@ -1045,8 +918,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-E3D5D410B0",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Torre del Mar - Ayto. Vélez-Málaga",
@@ -1058,8 +933,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-E3D5D410B0",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Escultura Torre del Mar - Ayto. Vélez-Málaga",
@@ -1071,8 +948,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-E3D5D410B0",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Torre del Mar implanta dos aseos con accesibilidad mejorada en sus playas para la temporada 2023 - Ayto. Vélez-Málaga",
@@ -1084,8 +963,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-E3D5D410B0",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Turismo Vélez-Málaga - Turismo Vélez-Málaga",
@@ -1097,8 +978,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-E3D5D410B0",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "La Romería en honor a la Virgen del Carmen de Torre del Mar ya tiene nueva fecha: 25 de mayo - Ayto. Vélez-Málaga",
@@ -1110,8 +993,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-E3D5D410B0",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Torre del Mar marca el símbolo de la paz en sus playas en solidaridad con el pueblo ucraniano - Ayto. Vélez-Málaga",
@@ -9845,5 +9730,115 @@
     "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
     "resolution_checked": "2026-10-18",
     "resolution_version": 2
+  },
+  {
+    "title": "Este sábado, la gran fiesta del bienmesabe más grande del mundo en Antequera - El Sol de Antequera",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXFiU3lhTFQ2c3hfVHJEUWpLSUs2azFYNWxobkUwRVhhUlo4SFZHM1FtQlgyajc0UU1QX0c1RTFpSmhWaU5zdTdKN2pQd3E0WHVyLXR4a29EWVFVRXJKTW1XRWNrSE0zUHhIalphdnF5eEotMW9vdHFvaE83cWRrb1Q0WVJCcVdNcVFpbGx4Y1VTdi00OFBlbDJZWlJCOFZpYjNreGJRb2tNTTE0SUotbFhwUDJPdw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Este sábado, la gran fiesta del bienmesabe más grande del mundo en Antequera El Sol de Antequera",
+    "discovery_method": "rss",
+    "query": "\"Antequera\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "🎡💃Última jornada de la Feria de San Miguel de Vélez-Málaga. Un día en el que aún quedan por delante muchas horas de fiesta y diversión que tendrá como colofón la actuación estelar de María del Monte a las 23:30 h. en la ",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aNjFrU1RncmxLeXBjRVhvSjBZOVRNa0FRVjU5eWNYc2Z4TXJnNmVnamY4SUpNUkRha3JDV2cwOEZ4S3ZvLUhvTVp0a1NJdXA5Tmc?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "🎡💃Última jornada de la Feria de San Miguel de Vélez-Málaga. Un día en el que aún quedan por delante muchas horas de fiesta y diversión que tendrá como colofón la actuación estelar de María del Monte a las 23:30 h. en la Caseta Municipal. Pero hay muc Instagram",
+    "discovery_method": "rss",
+    "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
+    "published_at": "Sun, 04 Oct 2026 11:28:48 GMT"
+  },
+  {
+    "title": "Y los sueños, sueños son | Espectáculo familiar en Málaga - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1lQQWpWTC1FUHFXQmlYOHhHTlphTTlNSmtpNExCMlItRzY1dEI3eUlQZ3BHX0VXUHlRd3FTYkJ2ajRXWng1SjJHUU81RUctemtrMUdZc0ZobU8zVF91a3M4MU10RUx6WkQ0NVhLdWNFNDZfd1RfR2JpSDNvVnBxUHJMa0dUYk5Na0I4S1o3V0IwRU5sM3pHa0tDX0V3Xy1fU1BkRWRR?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Y los sueños, sueños son | Espectáculo familiar en Málaga Sapos y Princesas",
+    "discovery_method": "rss",
+    "query": "\"Teatro Echegaray\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Málaga\" when:90d",
+    "published_at": "Sun, 27 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Teatro infantil en Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TejRQUnZzVnpXdmZ3M2thcGk5aTlpUm5seHhqeWZ6aTJCQThLSDN6Z0thMEtGS01wR1NCWGxnZzhLV3owYWRJRFNDdGRxOVE5dWl3a1BHcmI5Q1NSZGY0?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Teatro infantil en Málaga La Diversiva",
+    "discovery_method": "rss",
+    "query": "site:ladiversiva.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
+    "published_at": "Sat, 24 Mar 2018 19:13:30 GMT"
+  },
+  {
+    "title": "La Caja Blanca",
+    "url": "https://juventud.malaga.eu/es/la-caja-blanca/",
+    "snippet": "La Caja Blanca Contacto y Ubicación Exposiciones Temporales Sala de Exposiciones Primera Planta Programación Caja Blanca Solicitud de espacios Los Jueves del Ocón Estudio de Grabación Bienal de jóvenes creadores",
+    "source_name": "La Caja Blanca · programación oficial",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-FC0B6C873E",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Programación Caja Blanca",
+    "url": "https://juventud.malaga.eu/es/la-caja-blanca/programacin/",
+    "snippet": "Programación Caja Blanca",
+    "source_name": "La Caja Blanca · programación oficial",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-FC0B6C873E",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Bioparc Fuengirola amplía su horario hasta las 23.00 horas con espectáculos y actividades familiares durante el verano - Cadena SER",
+    "url": "https://cadenaser.com/andalucia/2026/07/22/bioparc-fuengirola-amplia-su-horario-hasta-las-2300-horas-con-espectaculos-y-actividades-familiares-durante-el-verano-ser-malaga/",
+    "snippet": "Bioparc Fuengirola amplía su horario hasta las 23.00 horas con espectáculos y actividades familiares durante el verano Cadena SER",
+    "published_at": "Wed, 22 Jul 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-7E5E78ED78",
+    "query": "\"Bioparc Fuengirola\" \"amplia\" naturaleza \"Fuengirola\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSlB4SE1PbHU3QTVXWGNKLWNVYmx1bmFBNXM1djFMSUtpcF9XbDQyUzZreEJ5aEdsN2I5MU1fbHlUeHhJc0xyZS1vUFluN2Z3NWM3emVKS1cxYkxxWENoYnhsR0ZGWUt4V0tGcWt4QmI5SWpjM0hoa0E1VWJJQ0FDZkpYbHdzSGFLY3ZJN20wdnF5Z3pYWnFHbkpPSnEtb1VPQlNnVnJMSHJRWUZnYnBTeVR2R2xxQ21xdzE0d21oWE1CSUViTjVkVjFTbnRHOFpwZy1ESTdwd2dfUDFsQnBtTklvNXozNUtaWTk1YXp4d3ZVME85UXNfTEYydE80X2pXZ3fSAZYCQVVfeXFMTmhBNkhiVVdOeWFKcjlEVEpLTFJiY0pJQVdvcGFqMTUwYWxjXzFhU2luanlXOWJCcWw5aXJQcjM3N3A1ak16QmtoYVZ5VWxwR2laZEQwU1RQWmJrOVdMa3ZWdi02NXMyQzQyUm1IYnlyWnQ0Vy1famZtNTk5YS10QUNaa2djMzByVEJXX1V6VklCMmRaaF9seXRRRmhHV0FKaUJoRTRxeHNxbHBLMFB6UFBhbTBlN1dhWEk5LWZWRmNZMkpmNVFSd2JqajRsMEk0UjVQSW1UdE9oTmNtazg0SWw0OHRkMjU4cTN0T0c3NHBTQTdfNjVtanpFLVRseUpNYVNpSDhHaXpWR1hMSFR4QlRDQ2tDREE?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   }
 ]
