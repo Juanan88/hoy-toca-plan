@@ -1,21 +1,5 @@
 [
   {
-    "title": "Actividades de fomento de la lectura",
-    "url": "https://bibliotecas.malaga.eu/es/servicios/actividades-de-fomento-de-la-lectura/",
-    "source_name": "Bibliotecas Málaga",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
     "title": "Exposición El Quijote en Málaga. B.P.M. Vicente Espinel",
     "url": "https://bibliotecas.malaga.eu/es/agenda/detalle-de-agenda/index.html?id=149177&tipoVO=2",
     "source_name": "Bibliotecas Málaga",
@@ -3374,8 +3358,8 @@
     "url": "https://www.azcostadelsol.com/benalmadena/benalmadena-celebrara-halloween-con-fiestas-infantiles-pasacalles-y-diferentes-espacios-de-terror/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
-    "status": "sin_fecha_estructurada",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (25/100).",
+    "status": "verificada_con_fecha",
+    "review_reason": "Pista ya incorporada a la agenda; se conserva el vínculo de la fuente.",
     "snippet": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror Radio Marca Málaga",
     "discovery_method": "rss",
     "query": "\"Benalmádena\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
@@ -3390,7 +3374,10 @@
       "actividad concreta",
       "varias fechas: requiere contraste"
     ],
-    "review_priority": "normal"
+    "review_priority": "normal",
+    "verified_event_ids": [
+      "EVT-TXT-09F62EC28C"
+    ]
   },
   {
     "title": "EDUCACIÓN APUESTA POR LA ESCUELA TALLER DE BENALMÁDENA COMO - Malagaes",
@@ -6421,8 +6408,8 @@
     "url": "https://www.azcostadelsol.com/benalmadena/benalmadena-celebrara-halloween-con-fiestas-infantiles-pasacalles-y-diferentes-espacios-de-terror/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-17",
-    "status": "sin_fecha_estructurada",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (25/100).",
+    "status": "verificada_con_fecha",
+    "review_reason": "Pista ya incorporada a la agenda; se conserva el vínculo de la fuente.",
     "snippet": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror Guía de Benalmádena",
     "discovery_method": "rss",
     "query": "\"Benalmádena\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
@@ -6437,7 +6424,10 @@
       "actividad concreta",
       "varias fechas: requiere contraste"
     ],
-    "review_priority": "normal"
+    "review_priority": "normal",
+    "verified_event_ids": [
+      "EVT-TXT-09F62EC28C"
+    ]
   },
   {
     "title": "2.300 alumnos inician el curso 2026-27 en los Cursos y Talleres Municipales y en la Escuela Municipal de Música, Danza y Teatro de Benalmádena - Radio Marca Málaga",
@@ -7418,27 +7408,54 @@
   },
   {
     "title": "El pueblo de Málaga que celebra este fin de semana su famosa 'Fiesta en el Aire' con mercadillo, talleres infantiles y catas gratuitas: programación completa - La Opinión de Málaga",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWmJYMjY1R2wxWHUxSTkzODlaN25ob0ZlM3dtaWoxLVEtNE4tb1U1SEV3NnRtTk1tWXNuODg5MWtaY0JGMkN4YXg5VDg1TmIyS3ZTSExSTFZDZUljQUgwaFNrVEllNTJ2NHV6QjRoUmp1dWZSbnlPQTFRQlVJUFNhSXlvS2k5T091czdBbmJMaFY0M3RrZDF4YXZVWEUwZVlHcVhVaW5ndTh2SlJDU0E0alBRTTh2RnVLNlR4QnBrVmhxTm9kNkh6UHZqY09IWXoyNVVYNF9KRkYxSEHSAeABQVVfeXFMTXY1bUNkY3VXVVBlbnkxQXlCQ1RRbDdZMmtFN2xtN0VjWXhmSG9ieUlsMVA5aVFiZkpITTNLQ1lOYWI2YUZqemNTT0dZRnpjLWtjS3dSQlY1SG9YSDFDREpUdzBRY3VabWNsRkZqNnF6ckR0UEVoSzFqalBLTzRXM0lIbi1LbWhXc2E0eFpQU1dBVFdJbUFCMm44SEVDZVMzY3RyVlAxMlhpZFQybEVlcU9vcXVTTXQzZW1yWm1MYkw2eExuY04wRHZNVFFTVXBwdzVmSzYwUmk4TXFPT3hXOXg?oc=5",
+    "url": "https://www.laopiniondemalaga.es/malaga/2026/10/09/pueblo-malaga-celebra-famosa-fiesta-aire-mercadillo-talleres-catas-arriate-dv-135169115.html",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: 406 Client Error: WAF Forbidden for url: https://www.laopiniondemalaga.es/malaga/2026/10/09/pueblo-malaga-celebra-famosa-fiesta-ai",
     "snippet": "El pueblo de Málaga que celebra este fin de semana su famosa 'Fiesta en el Aire' con mercadillo, talleres infantiles y catas gratuitas: programación completa La Opinión de Málaga",
     "discovery_method": "rss",
     "query": "\"Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Fri, 09 Oct 2026 10:37:14 GMT"
+    "published_at": "Fri, 09 Oct 2026 10:37:14 GMT",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWmJYMjY1R2wxWHUxSTkzODlaN25ob0ZlM3dtaWoxLVEtNE4tb1U1SEV3NnRtTk1tWXNuODg5MWtaY0JGMkN4YXg5VDg1TmIyS3ZTSExSTFZDZUljQUgwaFNrVEllNTJ2NHV6QjRoUmp1dWZSbnlPQTFRQlVJUFNhSXlvS2k5T091czdBbmJMaFY0M3RrZDF4YXZVWEUwZVlHcVhVaW5ndTh2SlJDU0E0alBRTTh2RnVLNlR4QnBrVmhxTm9kNkh6UHZqY09IWXoyNVVYNF9KRkYxSEHSAeABQVVfeXFMTXY1bUNkY3VXVVBlbnkxQXlCQ1RRbDdZMmtFN2xtN0VjWXhmSG9ieUlsMVA5aVFiZkpITTNLQ1lOYWI2YUZqemNTT0dZRnpjLWtjS3dSQlY1SG9YSDFDREpUdzBRY3VabWNsRkZqNnF6ckR0UEVoSzFqalBLTzRXM0lIbi1LbWhXc2E0eFpQU1dBVFdJbUFCMm44SEVDZVMzY3RyVlAxMlhpZFQybEVlcU9vcXVTTXQzZW1yWm1MYkw2eExuY04wRHZNVFFTVXBwdzVmSzYwUmk4TXFPT3hXOXg?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18"
   },
   {
     "title": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror - Guía de Benalmádena",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUkZxcVlsdHBhT050R3VRa09RYXl1czRxTVpBZWcxcXlwVzRJMXNTVUpteFlHbElUWVRXbmxndVFRWFc4anlsN1BmVlJaMnBpeEtGYVZqM0ZXaTFjc2FZTHhEWElvdXBwNjNqRzRUZzBaZVJPVGt6d2JyUE40U2NhcmpJeGs2TlppRW5zbFBqRXBNU3ltQ1hRTjVRakRBbjJqcHI3Si1veWNWVEtTaE1mWWlRUWZ2bklsMFo2R0JBNDV6NjhFZ3NtQm1va3RocEZwdTJ0b01RODRmLWdyNkRIVjNXYnp0T3lwMlg4ZmRzbXBXY2NXMTNHLS1YWXlqRE1tN25MNjFPTmNEaTNh0gGMAkFVX3lxTE1SRnFxWWx0cGFPTnRHdVFrT1FheXVzNHFNWkFlZzFxeXBXNEkxc1NVSm14WUdsSVRZVFdubGd1UVFYVzhqeWw3UGZWUloycGl4S0ZhVmozRldpMWNzYVlMeERYSW91cHA2M2pHNFRnMFplUk9Ua3p3YnJQTjRTY2Fyakl4azZOWmlFbnNsUGpFcE1TeW1DWFFONVFqREFuMmpwcjdKLW95Y1ZUS1NoTWZZaVFRZnZuSWwwWjZHQkE0NXo2OEVnc21CbW9rdGhwRnB1MnRvTVE4NGYtZ3I2REhWM1dienRPeXAyWDhmZHNtcFdjY1cxM0ctLVhZeWpETW03bkw2MU9OY0RpM2E?oc=5",
+    "url": "https://www.azcostadelsol.com/benalmadena/benalmadena-celebrara-halloween-con-fiestas-infantiles-pasacalles-y-diferentes-espacios-de-terror/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "verificada_con_fecha",
+    "review_reason": "Actividad publicada por evidencia textual de alta confianza.",
     "snippet": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror Guía de Benalmádena",
     "discovery_method": "rss",
     "query": "\"Benalmádena\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Thu, 15 Oct 2026 18:45:14 GMT"
+    "published_at": "Thu, 15 Oct 2026 18:45:14 GMT",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUkZxcVlsdHBhT050R3VRa09RYXl1czRxTVpBZWcxcXlwVzRJMXNTVUpteFlHbElUWVRXbmxndVFRWFc4anlsN1BmVlJaMnBpeEtGYVZqM0ZXaTFjc2FZTHhEWElvdXBwNjNqRzRUZzBaZVJPVGt6d2JyUE40U2NhcmpJeGs2TlppRW5zbFBqRXBNU3ltQ1hRTjVRakRBbjJqcHI3Si1veWNWVEtTaE1mWWlRUWZ2bklsMFo2R0JBNDV6NjhFZ3NtQm1va3RocEZwdTJ0b01RODRmLWdyNkRIVjNXYnp0T3lwMlg4ZmRzbXBXY2NXMTNHLS1YWXlqRE1tN25MNjFPTmNEaTNh0gGMAkFVX3lxTE1SRnFxWWx0cGFPTnRHdVFrT1FheXVzNHFNWkFlZzFxeXBXNEkxc1NVSm14WUdsSVRZVFdubGd1UVFYVzhqeWw3UGZWUloycGl4S0ZhVmozRldpMWNzYVlMeERYSW91cHA2M2pHNFRnMFplUk9Ua3p3YnJQTjRTY2Fyakl4azZOWmlFbnNsUGpFcE1TeW1DWFFONVFqREFuMmpwcjdKLW95Y1ZUS1NoTWZZaVFRZnZuSWwwWjZHQkE0NXo2OEVnc21CbW9rdGhwRnB1MnRvTVE4NGYtZ3I2REhWM1dienRPeXAyWDhmZHNtcFdjY1cxM0ctLVhZeWpETW03bkw2MU9OY0RpM2E?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "actividad concreta",
+      "evento multidía con fechas explícitas",
+      "público infantil/familiar",
+      "municipio malagueño explícito",
+      "corroboración independiente",
+      "titular coherente con la pista"
+    ],
+    "review_priority": "resuelta",
+    "verification_method": "texto",
+    "verified_event_ids": [
+      "EVT-TXT-09F62EC28C"
+    ]
   },
   {
     "title": "Cerca de 2.300 alumnos inician el curso 2026-27 en los Cursos y Talleres Municipales y en la Escuela Municipal de Música, Danza y Teatro de Benalmádena - Ayuntamiento de Benalmádena",
@@ -7454,39 +7471,79 @@
   },
   {
     "title": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia - Ayuntamiento de Benalmádena",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjNDT2hmREp1bS1td2Iwb0J6SVlHSGswbWZhSHEtX1I2LUJ0RGdhSUhXNjJCUzdrajdQR0Y2RXYxcVNEVTZQOEpVQnk3cTNXYVY3YjYxX0N0NWhDWFJZNTRyVEtBUFc0Y01rbzRYejhQOC1KSDNnSXdkbWVza2NaSnpYZFE5RWpqbC1rSXo5MVNFOUNhbkNyUzhoRk16SEtRX3NVSENkTFA1RGRwYjU0eFFjWGtWTXZSV00tS0NZcDg1Qnl1c0lpRGZYLWt6ZHZfSF92c0d1b2o0a2h0TTBvWUZ6QUlycEIyemhrdjBsNjVNWjk4R3A3MDBFTVduUmw1YTh3dnlWNWU?oc=5",
+    "url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "verificada_con_fecha",
+    "review_reason": "Actividad publicada por evidencia textual de alta confianza.",
     "snippet": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia Ayuntamiento de Benalmádena",
     "discovery_method": "rss",
     "query": "\"Benalmádena\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Tue, 13 Oct 2026 11:09:17 GMT"
+    "published_at": "Tue, 13 Oct 2026 11:09:17 GMT",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjNDT2hmREp1bS1td2Iwb0J6SVlHSGswbWZhSHEtX1I2LUJ0RGdhSUhXNjJCUzdrajdQR0Y2RXYxcVNEVTZQOEpVQnk3cTNXYVY3YjYxX0N0NWhDWFJZNTRyVEtBUFc0Y01rbzRYejhQOC1KSDNnSXdkbWVza2NaSnpYZFE5RWpqbC1rSXo5MVNFOUNhbkNyUzhoRk16SEtRX3NVSENkTFA1RGRwYjU0eFFjWGtWTXZSV00tS0NZcDg1Qnl1c0lpRGZYLWt6ZHZfSF92c0d1b2o0a2h0TTBvWUZ6QUlycEIyemhrdjBsNjVNWjk4R3A3MDBFTVduUmw1YTh3dnlWNWU?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "público infantil/familiar",
+      "municipio malagueño explícito",
+      "corroboración independiente",
+      "titular coherente con la pista"
+    ],
+    "review_priority": "resuelta",
+    "verification_method": "texto",
+    "verified_event_ids": [
+      "EVT-TXT-1FABAC71D0"
+    ]
   },
   {
     "title": "Benalmádena prepara Halloween con pasacalles, fiestas infantiles y dos espacios de terror hasta la madrugada - La Noción",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVE9sMElkeC14TmM2RTVBR0tyYUhBODVqRHBPTjd4cVlEWVhEWU9sNGZGeUMwM3pMZ1JQaHlWYktPRmpaQ3YybHFURERZQjVjNGtYbW5XNmNXWEpkOVRHeG5uTlZBNFdXR01RanhuVHJKU0o1X2MzRGZmdzlpUTFuMVkyamZRdmJwV2dENHhMVXlVNnBPVG81YmZ3TVJ4N3ljVWk3OVdqVFo?oc=5",
+    "url": "https://www.lanocion.es/benalmadena/20261015/benalmadena-prepara-halloween-con-pasacalles-fies-cbb7c.html",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: 403 Client Error: Forbidden for url: https://www.lanocion.es/benalmadena/20261015/benalmadena-prepara-halloween-con-pasacalles-fie",
     "snippet": "Benalmádena prepara Halloween con pasacalles, fiestas infantiles y dos espacios de terror hasta la madrugada La Noción",
     "discovery_method": "rss",
     "query": "\"Benalmádena\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Thu, 15 Oct 2026 09:57:32 GMT"
+    "published_at": "Thu, 15 Oct 2026 09:57:32 GMT",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVE9sMElkeC14TmM2RTVBR0tyYUhBODVqRHBPTjd4cVlEWVhEWU9sNGZGeUMwM3pMZ1JQaHlWYktPRmpaQ3YybHFURERZQjVjNGtYbW5XNmNXWEpkOVRHeG5uTlZBNFdXR01RanhuVHJKU0o1X2MzRGZmdzlpUTFuMVkyamZRdmJwV2dENHhMVXlVNnBPVG81YmZ3TVJ4N3ljVWk3OVdqVFo?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18"
   },
   {
     "title": "El teatro vuelve a ser herramienta de inclusión para familias con TDAH en Vélez-Málaga - Diario Sur",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSW8wamJqRW10enprcUVJZDJqYjVQd19qTTRBWjdnVTUwbG40WTBaYlYwLVkyUFBTTjhKQWJUOTJqTXpMUkdsNkx4WFhIdzZnelFwb2xXWmhidEFlSUZSZWc5ZmJ2TURqM2h0dlRvdVcyMnl1VmtFRWNfQWVGaDEyamlmRG5VTDU1TTFHSEJMcFFwWjRsemJCaVlaM2t4bTNEVU81QVRUYUtxVXUtczdGRDJ1RzdnREdjU2tISzNBR0tKbHZNc29jMVY5a9IB0AFBVV95cUxQdExZeldVNXdmSUFGVUpwZ1o0QVhObWxXdmNTbHZVaUVudmdCOXlnSUpieWIySEtQOGFUeW9hQ0FsNXhFN3NWWExzbHJLZGcxWkpnOFVHWUt5N09RZUZfVXE5TFhQQ1dmM21qUGwySDZFTmFLOEdldW5iQk9YbGF0Q1U2WmsyTkk3dnl0ZDRXVWVvZDdVTGI3QjBwX1BTdVFibUNpdDhkZW5NRkVPLUxVdnpaUHI1VEw3VUQtdl9xal9Ic0pKQmprLWstMXFQUXM0?oc=5",
+    "url": "https://www.diariosur.es/axarquia/velez-malaga/teatro-vuelve-herramienta-inclusion-familias-tdah-velezmalaga-20260924110800-nt.html",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
     "snippet": "El teatro vuelve a ser herramienta de inclusión para familias con TDAH en Vélez-Málaga Diario Sur",
     "discovery_method": "rss",
     "query": "\"Vélez-Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT"
+    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSW8wamJqRW10enprcUVJZDJqYjVQd19qTTRBWjdnVTUwbG40WTBaYlYwLVkyUFBTTjhKQWJUOTJqTXpMUkdsNkx4WFhIdzZnelFwb2xXWmhidEFlSUZSZWc5ZmJ2TURqM2h0dlRvdVcyMnl1VmtFRWNfQWVGaDEyamlmRG5VTDU1TTFHSEJMcFFwWjRsemJCaVlaM2t4bTNEVU81QVRUYUtxVXUtczdGRDJ1RzdnREdjU2tISzNBR0tKbHZNc29jMVY5a9IB0AFBVV95cUxQdExZeldVNXdmSUFGVUpwZ1o0QVhObWxXdmNTbHZVaUVudmdCOXlnSUpieWIySEtQOGFUeW9hQ0FsNXhFN3NWWExzbHJLZGcxWkpnOFVHWUt5N09RZUZfVXE5TFhQQ1dmM21qUGwySDZFTmFLOEdldW5iQk9YbGF0Q1U2WmsyTkk3dnl0ZDRXVWVvZDdVTGI3QjBwX1BTdVFibUNpdDhkZW5NRkVPLUxVdnpaUHI1VEw3VUQtdl9xal9Ic0pKQmprLWstMXFQUXM0?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "El Área de Cultura presenta la oferta de talleres y escuelas municipales para el curso 2026-2027 - Ayuntamiento de Antequera",
@@ -7502,27 +7559,46 @@
   },
   {
     "title": "Antequera adjudica las obras para renovar el parque infantil de Los Remedios - Cadena SER",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOejZyZ2dBVl9sRWpZd3h4NXhzbkYwOU1kSU1ReFFjYVFSMjdydTVKVnFsdEJ5bzdqa25tUDFSMkV6YjFFbEVoTXl0ZWxrWHRYbkY1Y3JKN2ZtNGc0NG9DdkpONkFETEpFeS1yUzFfcW9HMGRvQ1RnWEl2Q3g4ZWFLc1V4MVBqZkdES2NzQ3k1X0hBSTBpb1VZb2M3TjFNdTJhSUlpQXBhSHJqUGhGekZoZ0dpWUhEdVN3ejlqTjVzRnZMM3dIbk0yU01XNm9HSlXSAeMBQVVfeXFMTWNvVDhnUDByREd4LUlTWlN4X3lMNEs3dW10cnMzQXRWRHN4V1NZSFQtalYzR2xJTTVtTno5TC1kVGdjNXNaYWFLelFtWHJvbHBEMkNUVm5Ndml1RG1iRXBRZUpsZm8tWGx3M3hKMDAxSm9XWjI2eXhjcThnc2JaTllvQlprWkpjbmtnWFV0VVdXMVhjMVpoTVEyRnhjRkg0aVRLeTl1Wklqd1Y3RU05Qk9XX2xVWm50NW5YVlJLRlNyeG9qRk9FMkR1Uk9uZFlJQy1TSUZzRll3VkhZMlI2VmVsbXM?oc=5",
+    "url": "https://cadenaser.com/andalucia/2026/10/15/antequera-adjudica-las-obras-para-renovar-el-parque-infantil-de-los-remedios-ser-antequera/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
     "snippet": "Antequera adjudica las obras para renovar el parque infantil de Los Remedios Cadena SER",
     "discovery_method": "rss",
     "query": "\"Antequera\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Thu, 15 Oct 2026 04:06:21 GMT"
+    "published_at": "Thu, 15 Oct 2026 04:06:21 GMT",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOejZyZ2dBVl9sRWpZd3h4NXhzbkYwOU1kSU1ReFFjYVFSMjdydTVKVnFsdEJ5bzdqa25tUDFSMkV6YjFFbEVoTXl0ZWxrWHRYbkY1Y3JKN2ZtNGc0NG9DdkpONkFETEpFeS1yUzFfcW9HMGRvQ1RnWEl2Q3g4ZWFLc1V4MVBqZkdES2NzQ3k1X0hBSTBpb1VZb2M3TjFNdTJhSUlpQXBhSHJqUGhGekZoZ0dpWUhEdVN3ejlqTjVzRnZMM3dIbk0yU01XNm9HSlXSAeMBQVVfeXFMTWNvVDhnUDByREd4LUlTWlN4X3lMNEs3dW10cnMzQXRWRHN4V1NZSFQtalYzR2xJTTVtTno5TC1kVGdjNXNaYWFLelFtWHJvbHBEMkNUVm5Ndml1RG1iRXBRZUpsZm8tWGx3M3hKMDAxSm9XWjI2eXhjcThnc2JaTllvQlprWkpjbmtnWFV0VVdXMVhjMVpoTVEyRnhjRkg0aVRLeTl1Wklqd1Y3RU05Qk9XX2xVWm50NW5YVlJLRlNyeG9qRk9FMkR1Uk9uZFlJQy1TSUZzRll3VkhZMlI2VmVsbXM?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Torre del Mar celebrará Halloween con un gran pasacalles, talleres infantiles y un renovado pasaje del terror - AxarquiaPlus",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGltQ09lYl9EakxvbFlVN0ZWREhKQ3pLSEZDa2E5TmVIU1R2Ykx2LV80eS1rR05ObmFzNTlSMnZlZDgwbzdVOGFjQUNBakJzWGlONTdBMDdRMVlBZFE3a3JCVjJ5cVNpYnFleDBEQi1EQjRGM3ByMEIxa0VXSzVQcmFaNndqTmkzbXpXcEhTcVZUUzlaeWxJaGlUMWVKVF9GQ2k5OXcwd3hpOTI1Mm4yUF9RWEFUOUp6S0JmTmotV2RXWmJRTmIteTdQeUYzSTh5MVpr?oc=5",
+    "url": "https://www.axarquiaplus.es/torre-del-mar-celebrara-halloween-con-un-gran-pasacalles-talleres-infantiles-y-un-renovado-pasaje-del-terror/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: 403 Client Error: Forbidden for url: https://www.axarquiaplus.es/torre-del-mar-celebrara-halloween-con-un-gran-pasacalles-talleres",
     "snippet": "Torre del Mar celebrará Halloween con un gran pasacalles, talleres infantiles y un renovado pasaje del terror AxarquiaPlus",
     "discovery_method": "rss",
     "query": "\"Torre del Mar\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
-    "published_at": "Thu, 15 Oct 2026 10:52:20 GMT"
+    "published_at": "Thu, 15 Oct 2026 10:52:20 GMT",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGltQ09lYl9EakxvbFlVN0ZWREhKQ3pLSEZDa2E5TmVIU1R2Ykx2LV80eS1rR05ObmFzNTlSMnZlZDgwbzdVOGFjQUNBakJzWGlONTdBMDdRMVlBZFE3a3JCVjJ5cVNpYnFleDBEQi1EQjRGM3ByMEIxa0VXSzVQcmFaNndqTmkzbXpXcEhTcVZUUzlaeWxJaGlUMWVKVF9GQ2k5OXcwd3hpOTI1Mm4yUF9RWEFUOUp6S0JmTmotV2RXWmJRTmIteTdQeUYzSTh5MVpr?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18"
   },
   {
     "title": "Torre del Mar celebrará los días 10 y 11 de octubre una nueva edición del Oktoberfest con música y actividades para todos los públicos - AxarquiaPlus",
@@ -8147,8 +8223,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"Teatro Cervantes y Echegaray\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"Teatro Cervantes y Echegaray\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Planes para el puente de octubre en Málaga: cervezas, ferias, teatro o bandoleros - Diario Sur",
@@ -8372,8 +8450,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-008BFDBF9D",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"CC Miramar Fuengirola\" \"peques\" taller \"Fuengirola\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"CC Miramar Fuengirola\" \"peques\" taller \"Fuengirola\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Actividades y talleres gratis para niños en las playas de Fuengirola con Bioparc - La Diversiva",
@@ -8584,8 +8664,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"vuelve\" teatro \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"vuelve\" teatro \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Banderas acaricia volver al escenario de su Teatro del Soho con 'Sweeney Todd' - La Opinión de Málaga",
@@ -9296,8 +9378,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Los mejores planes con niños en Málaga en agosto: exposiciones, espectáculos y actividades al aire libre - Sapos y Princesas",
@@ -9324,8 +9408,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Los mejores planes con niños en Madrid en septiembre: exposiciones, musicales y aventuras en familia - Sapos y Princesas",
@@ -11104,5 +11190,17 @@
       "EVT-8B0BFA505D6F",
       "EVT-441B45A4BB26"
     ]
+  },
+  {
+    "title": "Vélez-Málaga y la Asociación TDAH Axarquía ponen en marcha la segunda edición del taller de teatro inclusivo para familias - AxarquiaPlus",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN0NFZ3lRVkxZTlhORWJCVkEtVW1HS0o5Nkc4MVN1NURMdVNpQ2ZJMzlKMVV2ck9BSjdfelRna01mbG1YYjltaEFjZDhKcHItdXhpTURQVlptYXdMSlBfOTduRkdIanpBY2VBZDJwWWhScTl0dHdPOGNwUEdoTnhkalNUMW8zUDB0dDBKUXEtUWVMZzJ5ek5TenhyTmMtNkc5ODR2SGtKaVBCNmhLN0JZNUloMVRrX09GMDBXWXdfNEk3ZXRFbm4xNVF2ZkFHUTRtRW95ZHJBdHdWWlJSMW5QcVhUZUlXQQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Vélez-Málaga y la Asociación TDAH Axarquía ponen en marcha la segunda edición del taller de teatro inclusivo para familias AxarquiaPlus",
+    "discovery_method": "rss",
+    "query": "\"Vélez-Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 24 Sep 2026 13:09:05 GMT"
   }
 ]
