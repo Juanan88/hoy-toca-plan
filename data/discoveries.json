@@ -1,36 +1,5 @@
 [
   {
-    "title": "Actividades y talleres",
-    "url": "https://www.bioparcfuengirola.es/prepara-tu-visita/actividades-y-talleres/",
-    "source_name": "Bioparc Fuengirola · agenda de actividades",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Actos y eventos",
-    "url": "https://www.bioparcfuengirola.es/actos-y-eventos/",
-    "source_name": "Bioparc Fuengirola · agenda de actividades",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
     "title": "Presentado el nuevo proyecto de terminación, rehabilitación y modernización con el que el Teatro Torcal recuperará su actividad cultural",
     "url": "https://cultura.antequera.es/presentado-el-nuevo-proyecto-de-terminacion-rehabilitacion-y-modernizacion-con-el-que-el-teatro-torcal-recuperara-su-actividad-cultural/",
     "source_name": "Cultura Antequera · talleres municipales 2026/27",
@@ -8171,8 +8140,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-300C13F1E3",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "seguridad https vuelve infantiles Estepona"
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "seguridad https vuelve infantiles Estepona",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Taller gratuito ‘Aprendiendo valores en familia’ y presentación del canal educativo YUPI TV - Ayuntamiento de Estepona",
@@ -8212,8 +8183,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"Teatro Cervantes y Echegaray\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"Teatro Cervantes y Echegaray\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Consulta la programación completa del 40 Festival de Teatro de Málaga: obras, horarios y entradas - Málaga Hoy",
@@ -8225,8 +8198,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"Teatro Cervantes y Echegaray\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"Teatro Cervantes y Echegaray\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Los Premios Lorca del Teatro Andaluz rinden homenaje al autor Jesús Domínguez - Huelva Buenas Noticias",
@@ -8713,8 +8688,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-92319190E6",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Torre del Mar acoge este finde el IX Festival Aéreo Internacional - La Diversiva",
@@ -8799,8 +8776,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-92319190E6",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Actividades para niños gratis en agosto del Centro Comercial El Ingenio de Vélez-Málaga - La Diversiva",
@@ -8919,8 +8898,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-92319190E6",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Mini Feria del Mar: actividades gratis para niños y niñas en el Muelle Uno para celebrar la Feria de Málaga 2026 - La Diversiva",
@@ -9184,8 +9165,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Planes con niños en Málaga en enero: experiencias inmersivas y musicales emocionantes para vivir en familia - Sapos y Princesas",
@@ -9242,8 +9225,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Los mejores planes con niños en Málaga en julio: instalaciones inmersivas, exposiciones y musicales - Sapos y Princesas",
@@ -9961,8 +9946,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-FDB703BEE9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Carrera solidaria de color para toda la familia en Torre del Mar - La Diversiva",
@@ -9974,8 +9961,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-FDB703BEE9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Parque Jumanji, un nuevo espacio de deporte para jóvenes en la playa de Torre del Mar - La Diversiva",
@@ -10289,8 +10278,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-64E2DD9270",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Cine de verano 2025 gratis en Málaga para toda la familia - La Diversiva",
@@ -10302,8 +10293,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-64E2DD9270",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Los domingos en el Eduardo Ocón: obras de teatro gratis para toda la familia en Málaga - La Diversiva",
@@ -10925,6 +10918,72 @@
     "source_name": "Mijas · noticias y actividades municipales",
     "discovery_method": "case_official_crawl",
     "case_id": "CASE-0A3E11923C",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Seguridad Social, flamenco, teatro y planes para toda la familia: Estepona vuelve a llenar sus calles de cultura este otoño - Área Costa del Sol",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSjlUcDJSZkxXekMxOWpmR0Jxel8zMEo3MEVpOEFzNGpvWnZYRHJlZW9ORVZXYWNTRks0ZnItcnZqLUFwMTNtcHZET1BVTmNEQXZPQUJDdGtCam5EX3lnc3lraW1JV3g5UUJIS3dlYUZ6cUJ3czk1QlhiUkFkd0l0RXpYSFpGQzVQazVCQ2FRQ1gtenNSR2I4dVNiSzJud1NvdnQxaHVzYWdFNWRPSGdkek1ncm51V01ocWRkd09UU045bHJzNTFNMlh2c1dSRXFuOU0wV2ozYWZiMzBKa0FNa2RsZkcyM0FxSk5rczdUTnlBOEVfSkQ1S09Fbw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Seguridad Social, flamenco, teatro y planes para toda la familia: Estepona vuelve a llenar sus calles de cultura este otoño Área Costa del Sol",
+    "discovery_method": "rss",
+    "query": "\"Estepona\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Wed, 30 Sep 2026 13:08:02 GMT"
+  },
+  {
+    "title": "Dirección Camino del Jardín Botánico, nº 3 - 29014 Málaga",
+    "url": "https://laconcepcion.malaga.eu/es/visitas/#direcciones-telefonos",
+    "snippet": "Dirección Camino del Jardín Botánico, nº 3 - 29014 Málaga",
+    "source_name": "Jardín Botánico La Concepción",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-CD7BE79BB9",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Conoce el Jardín Botánico Histórico",
+    "url": "https://laconcepcion.malaga.eu/es/el-jardin/",
+    "snippet": "Conoce el Jardín Botánico Histórico",
+    "source_name": "Jardín Botánico La Concepción",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-CD7BE79BB9",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Participa en el Escape Room de Rosaleda",
+    "url": "https://www.centrocomercialrosaleda.es/los-escondites-de-rosita/",
+    "snippet": "Participa en el Escape Room de Rosaleda",
+    "source_name": "CC Rosaleda",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-C6BE23BD5E",
     "first_seen": "2026-10-18",
     "status": "sin_fecha_estructurada",
     "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
