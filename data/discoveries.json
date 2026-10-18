@@ -1609,47 +1609,95 @@
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-18",
     "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
     "snippet": "Vélez-Málaga y la Asociación TDAH Axarquía ponen en marcha la segunda edición del taller de teatro inclusivo para familias AxarquiaPlus",
     "discovery_method": "rss",
     "query": "\"Vélez-Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Thu, 24 Sep 2026 13:09:05 GMT"
+    "published_at": "Thu, 24 Sep 2026 13:09:05 GMT",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "El pueblo de Málaga que celebra este fin de semana su famosa 'Fiesta en el Aire' con mercadillo, talleres infantiles y catas gratuitas: programación completa - La Opinión de Málaga",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWmJYMjY1R2wxWHUxSTkzODlaN25ob0ZlM3dtaWoxLVEtNE4tb1U1SEV3NnRtTk1tWXNuODg5MWtaY0JGMkN4YXg5VDg1TmIyS3ZTSExSTFZDZUljQUgwaFNrVEllNTJ2NHV6QjRoUmp1dWZSbnlPQTFRQlVJUFNhSXlvS2k5T091czdBbmJMaFY0M3RrZDF4YXZVWEUwZVlHcVhVaW5ndTh2SlJDU0E0alBRTTh2RnVLNlR4QnBrVmhxTm9kNkh6UHZqY09IWXoyNVVYNF9KRkYxSEHSAeABQVVfeXFMTXY1bUNkY3VXVVBlbnkxQXlCQ1RRbDdZMmtFN2xtN0VjWXhmSG9ieUlsMVA5aVFiZkpITTNLQ1lOYWI2YUZqemNTT0dZRnpjLWtjS3dSQlY1SG9YSDFDREpUdzBRY3VabWNsRkZqNnF6ckR0UEVoSzFqalBLTzRXM0lIbi1LbWhXc2E0eFpQU1dBVFdJbUFCMm44SEVDZVMzY3RyVlAxMlhpZFQybEVlcU9vcXVTTXQzZW1yWm1MYkw2eExuY04wRHZNVFFTVXBwdzVmSzYwUmk4TXFPT3hXOXg?oc=5",
+    "url": "https://www.laopiniondemalaga.es/malaga/2026/10/09/pueblo-malaga-celebra-famosa-fiesta-aire-mercadillo-talleres-catas-arriate-dv-135169115.html",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: 406 Client Error: WAF Forbidden for url: https://www.laopiniondemalaga.es/malaga/2026/10/09/pueblo-malaga-celebra-famosa-fiesta-ai",
     "snippet": "El pueblo de Málaga que celebra este fin de semana su famosa 'Fiesta en el Aire' con mercadillo, talleres infantiles y catas gratuitas: programación completa La Opinión de Málaga",
     "discovery_method": "rss",
     "query": "\"Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Fri, 09 Oct 2026 10:37:14 GMT"
+    "published_at": "Fri, 09 Oct 2026 10:37:14 GMT",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWmJYMjY1R2wxWHUxSTkzODlaN25ob0ZlM3dtaWoxLVEtNE4tb1U1SEV3NnRtTk1tWXNuODg5MWtaY0JGMkN4YXg5VDg1TmIyS3ZTSExSTFZDZUljQUgwaFNrVEllNTJ2NHV6QjRoUmp1dWZSbnlPQTFRQlVJUFNhSXlvS2k5T091czdBbmJMaFY0M3RrZDF4YXZVWEUwZVlHcVhVaW5ndTh2SlJDU0E0alBRTTh2RnVLNlR4QnBrVmhxTm9kNkh6UHZqY09IWXoyNVVYNF9KRkYxSEHSAeABQVVfeXFMTXY1bUNkY3VXVVBlbnkxQXlCQ1RRbDdZMmtFN2xtN0VjWXhmSG9ieUlsMVA5aVFiZkpITTNLQ1lOYWI2YUZqemNTT0dZRnpjLWtjS3dSQlY1SG9YSDFDREpUdzBRY3VabWNsRkZqNnF6ckR0UEVoSzFqalBLTzRXM0lIbi1LbWhXc2E0eFpQU1dBVFdJbUFCMm44SEVDZVMzY3RyVlAxMlhpZFQybEVlcU9vcXVTTXQzZW1yWm1MYkw2eExuY04wRHZNVFFTVXBwdzVmSzYwUmk4TXFPT3hXOXg?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18"
   },
   {
     "title": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror - Guía de Benalmádena",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUkZxcVlsdHBhT050R3VRa09RYXl1czRxTVpBZWcxcXlwVzRJMXNTVUpteFlHbElUWVRXbmxndVFRWFc4anlsN1BmVlJaMnBpeEtGYVZqM0ZXaTFjc2FZTHhEWElvdXBwNjNqRzRUZzBaZVJPVGt6d2JyUE40U2NhcmpJeGs2TlppRW5zbFBqRXBNU3ltQ1hRTjVRakRBbjJqcHI3Si1veWNWVEtTaE1mWWlRUWZ2bklsMFo2R0JBNDV6NjhFZ3NtQm1va3RocEZwdTJ0b01RODRmLWdyNkRIVjNXYnp0T3lwMlg4ZmRzbXBXY2NXMTNHLS1YWXlqRE1tN25MNjFPTmNEaTNh0gGMAkFVX3lxTE1SRnFxWWx0cGFPTnRHdVFrT1FheXVzNHFNWkFlZzFxeXBXNEkxc1NVSm14WUdsSVRZVFdubGd1UVFYVzhqeWw3UGZWUloycGl4S0ZhVmozRldpMWNzYVlMeERYSW91cHA2M2pHNFRnMFplUk9Ua3p3YnJQTjRTY2Fyakl4azZOWmlFbnNsUGpFcE1TeW1DWFFONVFqREFuMmpwcjdKLW95Y1ZUS1NoTWZZaVFRZnZuSWwwWjZHQkE0NXo2OEVnc21CbW9rdGhwRnB1MnRvTVE4NGYtZ3I2REhWM1dienRPeXAyWDhmZHNtcFdjY1cxM0ctLVhZeWpETW03bkw2MU9OY0RpM2E?oc=5",
+    "url": "https://www.azcostadelsol.com/benalmadena/benalmadena-celebrara-halloween-con-fiestas-infantiles-pasacalles-y-diferentes-espacios-de-terror/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "verificada_con_fecha",
+    "review_reason": "Actividad publicada por evidencia textual de alta confianza.",
     "snippet": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror Guía de Benalmádena",
     "discovery_method": "rss",
     "query": "\"Benalmádena\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Thu, 15 Oct 2026 18:45:14 GMT"
+    "published_at": "Thu, 15 Oct 2026 18:45:14 GMT",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUkZxcVlsdHBhT050R3VRa09RYXl1czRxTVpBZWcxcXlwVzRJMXNTVUpteFlHbElUWVRXbmxndVFRWFc4anlsN1BmVlJaMnBpeEtGYVZqM0ZXaTFjc2FZTHhEWElvdXBwNjNqRzRUZzBaZVJPVGt6d2JyUE40U2NhcmpJeGs2TlppRW5zbFBqRXBNU3ltQ1hRTjVRakRBbjJqcHI3Si1veWNWVEtTaE1mWWlRUWZ2bklsMFo2R0JBNDV6NjhFZ3NtQm1va3RocEZwdTJ0b01RODRmLWdyNkRIVjNXYnp0T3lwMlg4ZmRzbXBXY2NXMTNHLS1YWXlqRE1tN25MNjFPTmNEaTNh0gGMAkFVX3lxTE1SRnFxWWx0cGFPTnRHdVFrT1FheXVzNHFNWkFlZzFxeXBXNEkxc1NVSm14WUdsSVRZVFdubGd1UVFYVzhqeWw3UGZWUloycGl4S0ZhVmozRldpMWNzYVlMeERYSW91cHA2M2pHNFRnMFplUk9Ua3p3YnJQTjRTY2Fyakl4azZOWmlFbnNsUGpFcE1TeW1DWFFONVFqREFuMmpwcjdKLW95Y1ZUS1NoTWZZaVFRZnZuSWwwWjZHQkE0NXo2OEVnc21CbW9rdGhwRnB1MnRvTVE4NGYtZ3I2REhWM1dienRPeXAyWDhmZHNtcFdjY1cxM0ctLVhZeWpETW03bkw2MU9OY0RpM2E?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "actividad concreta",
+      "evento multidía con fechas explícitas",
+      "público infantil/familiar",
+      "municipio malagueño explícito",
+      "corroboración independiente",
+      "titular coherente con la pista"
+    ],
+    "review_priority": "resuelta",
+    "verification_method": "texto",
+    "verified_event_ids": [
+      "EVT-TXT-09F62EC28C"
+    ]
   },
   {
     "title": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia - Ayuntamiento de Benalmádena",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjNDT2hmREp1bS1td2Iwb0J6SVlHSGswbWZhSHEtX1I2LUJ0RGdhSUhXNjJCUzdrajdQR0Y2RXYxcVNEVTZQOEpVQnk3cTNXYVY3YjYxX0N0NWhDWFJZNTRyVEtBUFc0Y01rbzRYejhQOC1KSDNnSXdkbWVza2NaSnpYZFE5RWpqbC1rSXo5MVNFOUNhbkNyUzhoRk16SEtRX3NVSENkTFA1RGRwYjU0eFFjWGtWTXZSV00tS0NZcDg1Qnl1c0lpRGZYLWt6ZHZfSF92c0d1b2o0a2h0TTBvWUZ6QUlycEIyemhrdjBsNjVNWjk4R3A3MDBFTVduUmw1YTh3dnlWNWU?oc=5",
+    "url": "https://www.azcostadelsol.com/benalmadena/la-pista-de-hielo-de-benalmadena-comienza-una-nueva-temporada-el-23-de-octubre-con-una-jornada-de-actividades-para-toda-la-familia/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "verificada_con_fecha",
+    "review_reason": "Pista ya incorporada a la agenda; se conserva el vínculo de la fuente.",
     "snippet": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia Ayuntamiento de Benalmádena",
     "discovery_method": "rss",
     "query": "\"Benalmádena\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Tue, 13 Oct 2026 11:09:17 GMT"
+    "published_at": "Tue, 13 Oct 2026 11:09:17 GMT",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjNDT2hmREp1bS1td2Iwb0J6SVlHSGswbWZhSHEtX1I2LUJ0RGdhSUhXNjJCUzdrajdQR0Y2RXYxcVNEVTZQOEpVQnk3cTNXYVY3YjYxX0N0NWhDWFJZNTRyVEtBUFc0Y01rbzRYejhQOC1KSDNnSXdkbWVza2NaSnpYZFE5RWpqbC1rSXo5MVNFOUNhbkNyUzhoRk16SEtRX3NVSENkTFA1RGRwYjU0eFFjWGtWTXZSV00tS0NZcDg1Qnl1c0lpRGZYLWt6ZHZfSF92c0d1b2o0a2h0TTBvWUZ6QUlycEIyemhrdjBsNjVNWjk4R3A3MDBFTVduUmw1YTh3dnlWNWU?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 75,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "público infantil/familiar",
+      "municipio malagueño explícito",
+      "fuente externa sin corroboración"
+    ],
+    "review_priority": "normal",
+    "verified_event_ids": [
+      "EVT-TXT-1FABAC71D0"
+    ]
   },
   {
     "title": "Benalmádena prepara Halloween con pasacalles, fiestas infantiles y dos espacios de terror hasta la madrugada - La Noción",
@@ -11582,7 +11630,9 @@
     "query": "site:museocasanatalpicasso.malaga.eu \"ojos\"  \"Málaga\" 2026",
     "first_seen": "2026-10-18",
     "status": "por_revisar",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Exposiciones actuales de Picasso - Museo Casa Natal Picasso",
@@ -11951,7 +12001,9 @@
     "query": "site:fundacionunicaja.com \"encuentro\" taller \"Málaga\" 2026",
     "first_seen": "2026-10-18",
     "status": "por_revisar",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Encuentro con Travis Bird dentro del ciclo Suena Sur de Diario Sur - Fundación Unicaja",
@@ -12003,11 +12055,13 @@
     "query": "site:fundacionunicaja.com \"encuentro\" taller \"Málaga\" 2026",
     "first_seen": "2026-10-18",
     "status": "por_revisar",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Marta García Aller y Antonio Soler inauguran la segunda edición del ciclo de conferencias y talleres ‘VIRAL’ - Fundación Unicaja",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSEdyYzNhU21ZOXpKNjQ4UTRIU0x5aFk5SGVieFhIcTdfTkg0d3JuSmpNSlYzWDF6LVFoT0ZxQzBZc0N0THBwRWVHX3VuR1FkN3c5bG51MnZxcFdUREZjcXpIN3MwclFnT1VOZ01Cb3RpRTNzbS1IcWxlek9wR1hraTZrOUM1Nk9RMWxtSzhVMVhJX1NROUhVMktPbHlCZUp0U3JpQ2dFRlR4OWVOZG10UXdzTGVTZGtucUVRaUoyMFUyNkJDZGlyY1dqU2ZXN1E2bTVJZUZ0Zkk0ckhTVXc?oc=5",
+    "url": "https://cadenaser.com/andalucia/2026/03/18/marta-garcia-aller-y-antonio-soler-inauguran-la-segunda-edicion-del-ciclo-de-conferencias-y-talleres-viral-ser-malaga/",
     "snippet": "Marta García Aller y Antonio Soler inauguran la segunda edición del ciclo de conferencias y talleres ‘VIRAL’ Fundación Unicaja",
     "published_at": "Wed, 11 Mar 2026 13:55:00 GMT",
     "source_name": "Investigación por caso",
@@ -12015,8 +12069,22 @@
     "case_id": "CASE-E787F39714",
     "query": "site:fundacionunicaja.com \"encuentro\" taller \"Málaga\" 2026",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100).",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSEdyYzNhU21ZOXpKNjQ4UTRIU0x5aFk5SGVieFhIcTdfTkg0d3JuSmpNSlYzWDF6LVFoT0ZxQzBZc0N0THBwRWVHX3VuR1FkN3c5bG51MnZxcFdUREZjcXpIN3MwclFnT1VOZ01Cb3RpRTNzbS1IcWxlek9wR1hraTZrOUM1Nk9RMWxtSzhVMVhJX1NROUhVMktPbHlCZUp0U3JpQ2dFRlR4OWVOZG10UXdzTGVTZGtucUVRaUoyMFUyNkJDZGlyY1dqU2ZXN1E2bTVJZUZ0Zkk0ckhTVXc?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Clausura del ‘Taller estival para voces blancas’ de la Escolanía Pueri Cantores - Fundación Unicaja",
@@ -12029,6 +12097,111 @@
     "query": "site:fundacionunicaja.com \"encuentro\" taller \"Málaga\" 2026",
     "first_seen": "2026-10-18",
     "status": "por_revisar",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Vivaldi renace en el Teatro del Soho de Málaga entre violines, rock y un espectáculo visual - Málaga Hoy",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0luNWtVY0hzLTQ1dXRvb0poeVRsZTR2Qk9zX2tqUW5yX3phSUhmRzhJcVFQTWFKT3dYbUJiS09wOVgwaV9HVFVtZDExRGlLNVhHWHNZZXpzSE1QeExQZ2RiQ2F0WG5KY3RrcGhTLTNiMjRnVVA4ZWp3VWxncU40TDBWc1JqVG1HOExV0gGQAUFVX3lxTE5wRlhYSDRwaWo4NTVYRjRWcFlWdVhzTl9wbGtJSmVNSE5rUEVaZURhY09FQURLVHZCb3FOb2dvNXFqQTlwTVJtSmNrQmtad0R0X2QwUlhhUmdKQV9LbzZkVHhyeXE3dlNnYnVoYUo4Ykl3TjlXY3ZTaE5tdFhDTDZLNndxMjNUTVdXcV9iaFRzeQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Vivaldi renace en el Teatro del Soho de Málaga entre violines, rock y un espectáculo visual Málaga Hoy",
+    "discovery_method": "rss",
+    "query": "\"Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 15 Oct 2026 13:35:25 GMT"
+  },
+  {
+    "title": "La programación de la Real Feria de San Miguel de Vélez-Málaga 2026 reúne más de un centenar de actividades y propuestas para todos los públicos - AxarquiaPlus",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMDBXckJIVTktS19PWnBqeFdOTS1CMUFHb25la29IaWk1NGJtQjVXSnpIREQ1MnpVWHlMVkFQMGQ4TGxHZE5yVEFEMGtTY09vN3F2TE9JdnNIeXFNUTVxWWJ4R2g3cnpzaHZPNHZlSnhLYndPeThTSEk0VW9obDdDSzUwYTUtdUZWeXlsSXdHSHFMYTA4WGsxZ0kwazdRUUl4eTRYNl9VdTgyYlRoay1uM0lNNTdoQUNoR3J3b2hYcmVLRkJ6OEVmYW9mYzE1MmQyRFhydFkwVmRtckxUVFllQm05MndIM0dNMXQzX1JB?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "La programación de la Real Feria de San Miguel de Vélez-Málaga 2026 reúne más de un centenar de actividades y propuestas para todos los públicos AxarquiaPlus",
+    "discovery_method": "rss",
+    "query": "\"Vélez-Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Wed, 23 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "La Diputación de Málaga y el Ayuntamiento de Antequera han programado varias iniciativas formativas para el mes de octubre de 2026, enfocadas principalmente en profesionales, autónomos y personas desempleadas.📚🖊️ Taller ",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50NUpNNFNXU2NodU9YakcyN21KejlXaEs1c1dqSjdkelFkNHN0UHNqbDlKYWtyTzRzSjdMeld3Rmx1UWJ6aG9nUnhxRzN4OGQ0VEE?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "La Diputación de Málaga y el Ayuntamiento de Antequera han programado varias iniciativas formativas para el mes de octubre de 2026, enfocadas principalmente en profesionales, autónomos y personas desempleadas.📚🖊️ Taller para Autónomos y Profesi Instagram",
+    "discovery_method": "rss",
+    "query": "site:www.instagram.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
+    "published_at": "Tue, 22 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Representación teatral navideña ‘El Taller de Papá Noel’ en Málaga - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjR4YU9lc3cyci1pT0l5d2VmWVhkdkEyNmlORjZ4LUxkblV1cExaRlpHTW1sQV9hVkdrdnF4TEFZcmJjb2Y0aTNCVElhMkpvMUpVbFRiVlNfUUI5YmpQdU51eURUTXIxTW5TelFmRlQ1WVJUZjhUbVpwZ0JDVkVZNnFlcnJMYVZmVm1TTmZRb253anhQbE1XT1pn?oc=5",
+    "snippet": "Representación teatral navideña ‘El Taller de Papá Noel’ en Málaga Fundación Unicaja",
+    "published_at": "Tue, 25 Nov 2025 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E787F39714",
+    "query": "site:fundacionunicaja.com \"encuentro\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Taller ‘Tocados y sombreros’ dentro del ciclo ‘Sábados en el MACP’ - Fundación Unicaja",
+    "url": "https://cadenaser.com/andalucia/2025/09/15/fundacion-unicaja-organiza-el-taller-infantil-musica-y-lutieres-dentro-del-ciclo-sabados-en-el-macp-ser-malaga/",
+    "snippet": "Taller ‘Tocados y sombreros’ dentro del ciclo ‘Sábados en el MACP’ Fundación Unicaja",
+    "published_at": "Tue, 23 Sep 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E787F39714",
+    "query": "site:fundacionunicaja.com \"encuentro\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR1dBak5ia3Q2ZlVOV0FyU2xaWVJtWnhrMDZubXVYNGZRUDRfTmZCUmgxbVpGZHdFTFptV0pNYTFscG9pN0h5dXB4VUg2dkFxRThFbk9sTkNSclNxUG40V2tKbnJBcm5MMnJIZ1dQWG5Uc3VPMkUxQUgyRmxfRkcxWTE2R3JFaTI3SDBPcHJSanVTejJaTDhJNjUzVmltdllJNmc5Tg?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Taller infantil 'Celebrando San Marcos: elaboración de trampantojos' dentro del ciclo 'Sábados en el MACP' - Fundación Unicaja",
+    "url": "https://cadenaser.com/andalucia/2025/09/15/fundacion-unicaja-organiza-el-taller-infantil-musica-y-lutieres-dentro-del-ciclo-sabados-en-el-macp-ser-malaga/",
+    "snippet": "Taller infantil 'Celebrando San Marcos: elaboración de trampantojos' dentro del ciclo 'Sábados en el MACP' Fundación Unicaja",
+    "published_at": "Sat, 25 Apr 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E787F39714",
+    "query": "site:fundacionunicaja.com \"encuentro\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdnhYdXVhVEpfTGNGN0pSUUlTSnFWejFsTkhDSXhqbHlEYkFsQjhlbUYxZ2g3Z1NHNmtyY2lhWkhWNDB6MDBVdW03LWFGSHlyYWZtUno5aTVSalQxTXZTRl9FUTF4aVJRR1p0RmdzWUdpaW81aGZFeVM4bWVLMFEwZjk5RGlIM0VTSDVtcmdVUEo3NF91TmdjM0hXdmlhZGx0Y3JqVXFHZFBwaHZpSk5lb25ybjdWY0xWNGtFMmZLZ25NTzlUcEpLUFFHVTlkd3YxU0g4dTFkcU4?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   }
 ]
