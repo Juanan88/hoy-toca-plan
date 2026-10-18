@@ -1444,6 +1444,65 @@
     }
   },
   {
+    "id": "EVT-SOHRLIN-ANNIE-20261024",
+    "title": "Annie, el musical",
+    "start": "2026-10-24",
+    "end": "2026-10-25",
+    "occurrences": [
+      "2026-10-24",
+      "2026-10-25"
+    ],
+    "town": "Málaga",
+    "venue": "Auditorio Sohrlin Andalucía",
+    "address": "Calle Almonte, 6, 29004 Málaga",
+    "time": "Horario por confirmar",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad recomendada sin indicar",
+    "price_label": "Consultar precios y disponibilidad",
+    "audience": "Musical familiar",
+    "reservation_required": true,
+    "reservation_url": "https://sohrlinandalucia.janto.es/es/espectaculo/annie-el-musical-by-theatre-properties--sohrlin-malaga/ANNIE26",
+    "source_url": "https://theatreproperties.com/annie-el-musical/",
+    "source_name": "Theatre Properties · productora oficial de Annie",
+    "secondary_sources": [
+      "https://sohrlin.com/programacion/",
+      "https://sohrlinandalucia.janto.es/es/espectaculo/annie-el-musical-by-theatre-properties--sohrlin-malaga/ANNIE26"
+    ],
+    "details": "El musical Annie llega al Auditorio Sohrlin Andalucía con la historia de la pequeña huérfana que sueña con encontrar una familia. Theatre Properties lo presenta como musical para toda la familia. El productor anuncia funciones en Málaga los sábados y domingos del 10 al 25 de octubre de 2026. Se muestran los dos días restantes, 24 y 25 de octubre; confirmar hora, precio y disponibilidad en la taquilla oficial.",
+    "schedule_note": "Últimas fechas dentro de la temporada confirmada: sábado 24 y domingo 25 de octubre. Horario de cada función por confirmar en la taquilla.",
+    "schedule_unconfirmed": false,
+    "field_sources": {
+      "start": {
+        "source_url": "https://theatreproperties.com/annie-el-musical/",
+        "quote": "MÁLAGA · Del 10 al 25 de Octubre (Sábado y Domingo) · Auditorio Sohrlin Andalucía",
+        "evidence": "Programación oficial de la productora para 2026, de la que se derivan únicamente los sábados/domingos futuros 24 y 25 de octubre."
+      },
+      "audience": {
+        "source_url": "https://theatreproperties.com/annie-el-musical/",
+        "quote": "Annie, El musical familiar por excelencia, regresa a España",
+        "evidence": "Encabezado y descripción del espectáculo en la web oficial de la productora."
+      },
+      "venue": {
+        "source_url": "https://theatreproperties.com/annie-el-musical/",
+        "quote": "Auditorio Sohrlin Andalucía",
+        "evidence": "La productora confirma el recinto para la parada en Málaga."
+      },
+      "reservation_url": {
+        "source_url": "https://sohrlin.com/programacion/",
+        "quote": "COMPRAR ENTRADAS",
+        "evidence": "La programación oficial del recinto enlaza con la taquilla de Annie de Sohrlin Andalucía en Janto."
+      }
+    },
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18",
+    "status": "publicada_en_fuente",
+    "origin": "Cartelera oficial Sohrlin + gira Theatre Properties, revisión manual documentada",
+    "confidence_score": 100,
+    "verification_method": "fuente oficial de la productora y taquilla enlazada desde el recinto"
+  },
+  {
     "id": "EVT-ART-20261024",
     "title": "Halloween creativo: catrinas, yoga y brunch",
     "start": "2026-10-24",

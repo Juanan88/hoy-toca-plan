@@ -10332,5 +10332,1105 @@
       "sin fecha futura demostrable"
     ],
     "review_priority": "normal"
+  },
+  {
+    "title": "Jekyll hyde el musical",
+    "url": "https://sohrlinandalucia.janto.es/es/espectaculo/jekyll-hyde-el-musical-by-theatre-properties-sohrlin-malaga/JEKYLL26",
+    "snippet": "Entrada oficial enlazada desde Sohrlin Andalucía (Málaga). La ficha de venta puede requerir navegador; verificar sinopsis, público familiar, fecha futura y horas en organizador.",
+    "source_name": "Sohrlin Andalucía · programación oficial",
+    "first_seen": "2026-10-18",
+    "discovery_method": "venue_ticket_link",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: robots.txt no permite o no pudo comprobarse",
+    "last_checked": "2026-10-18"
+  },
+  {
+    "title": "Casa pestino navidad flamenca",
+    "url": "https://sohrlinandalucia.janto.es/es/espectaculo/casa-pestino-navidad-flamenca/FLMC26",
+    "snippet": "Entrada oficial enlazada desde Sohrlin Andalucía (Málaga). La ficha de venta puede requerir navegador; verificar sinopsis, público familiar, fecha futura y horas en organizador.",
+    "source_name": "Sohrlin Andalucía · programación oficial",
+    "first_seen": "2026-10-18",
+    "discovery_method": "venue_ticket_link",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: robots.txt no permite o no pudo comprobarse",
+    "last_checked": "2026-10-18"
+  },
+  {
+    "title": "Mecano symphonic",
+    "url": "https://sohrlinandalucia.janto.es/es/espectaculo/mecano-symphonic/MECAN2026CONCERT",
+    "snippet": "Entrada oficial enlazada desde Sohrlin Andalucía (Málaga). La ficha de venta puede requerir navegador; verificar sinopsis, público familiar, fecha futura y horas en organizador.",
+    "source_name": "Sohrlin Andalucía · programación oficial",
+    "first_seen": "2026-10-18",
+    "discovery_method": "venue_ticket_link",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: robots.txt no permite o no pudo comprobarse",
+    "last_checked": "2026-10-18"
+  },
+  {
+    "title": "Cumpleaños infantiles",
+    "url": "https://limon-loco.es/b-day",
+    "source_name": "Limón Loco Málaga · talleres y animaciones oficiales",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
+  },
+  {
+    "title": "Seguimiento prioritario",
+    "url": "https://gtmmalaga.com/evento/a_54559-imagilusion-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "verificada_con_fecha",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "Pista ya incorporada a la agenda; se conserva el vínculo de la fuente.",
+    "verified_event_ids": [
+      "EVT-GTM-9261EFF603D6"
+    ]
+  },
+  {
+    "title": "Seguimiento prioritario",
+    "url": "https://gtmmalaga.com/evento/a_60208-imagilusion-en-malaga---sesion-20h",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "verificada_con_fecha",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal",
+    "review_reason": "Pista ya incorporada a la agenda; se conserva el vínculo de la fuente.",
+    "verified_event_ids": [
+      "EVT-GTM-9261EFF603D6"
+    ]
+  },
+  {
+    "title": "Seguimiento prioritario",
+    "url": "https://gtmmalaga.com/evento/a_57059-canta-juegos-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
+  },
+  {
+    "title": "Seguimiento prioritario",
+    "url": "https://gtmmalaga.com/evento/a_56679-momonsters-mi-primer-musical-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100)."
+  },
+  {
+    "title": "Más información",
+    "url": "https://gtmmalaga.com/evento/a_57286-los-hijos-adolescentes-de-andres-torres-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
+  },
+  {
+    "title": "Más información",
+    "url": "https://gtmmalaga.com/evento/a_59608-las-ratas-por-dsas3-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
+  },
+  {
+    "title": "Más información",
+    "url": "https://gtmmalaga.com/evento/a_54232-querida-yo-tenemos-que-hablar-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
+  },
+  {
+    "title": "Más información",
+    "url": "https://gtmmalaga.com/evento/a_59707-soy-un-50ter---marcos-arizmendi-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
+  },
+  {
+    "title": "Más información",
+    "url": "https://gtmmalaga.com/evento/a_58650-los-humanos-y-su-antologia-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
+  },
+  {
+    "title": "Más información",
+    "url": "https://gtmmalaga.com/evento/a_54418-perdido-en-los-80-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
+  },
+  {
+    "title": "Más información",
+    "url": "https://gtmmalaga.com/evento/a_59680-para-bailar-by-elvira-romero-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
+  },
+  {
+    "title": "Más información",
+    "url": "https://gtmmalaga.com/evento/a_55952-mago-hugo---la-piel-de-gallina-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
+  },
+  {
+    "title": "Más información",
+    "url": "https://gtmmalaga.com/evento/a_59723-gala-navidad-mireia-dance-studio-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar"
+  },
+  {
+    "title": "Más información",
+    "url": "https://gtmmalaga.com/evento/a_56974-deja-vu-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar"
+  },
+  {
+    "title": "Más información",
+    "url": "https://gtmmalaga.com/evento/a_59679-salir-de-la-tele---agustin-jimenez-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar"
+  },
+  {
+    "title": "Más información",
+    "url": "https://gtmmalaga.com/evento/a_58502-doscapacitados-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar"
+  },
+  {
+    "title": "Más información",
+    "url": "https://gtmmalaga.com/evento/a_60405-toni-bright---creer-es-poder-en-malaga",
+    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar"
+  },
+  {
+    "title": "Circo, batalla de bandas y teatro para disfrutar del puente de octubre en Málaga con niños - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHhMZ290SUpZb1p2SnVaeHJlS0VURGJIT0JJb0VFd1ZocmxXYkpoU3RxbUl2cmdnbVpvRVNxVUU5UkZweE5GYzA2MzdUVzRsdU9sazB4bFBMWUIzaG0tV3I1TlhGWHVJVjdKWEo4LVBpbjk0YmhIMnZCZGJzQlozQ01DZG5IdnFGbHFxOS1ZSVQ3RGdfVXRuOWFId0ozMjBJdGwxY9IBqgFBVV95cUxNaUxLcjRCaUFIU0IydUZVTjBkdzhHREZjLTd4SlJLYUhxRlBqWnBablBsemlfZTJwT3BBS2VzNHJQT0t3WEJuMnFxZmdHU0ZmX19YOFlzUjF2S0NrdDQ3YnRzZmFmQ3Q5dTE1cjBPUTlyNlRpZjRtVGdObnJpT2FyT0FYdWRxc1RPSzlQbDFnblI4VzZJTEhqZjNvZnZMV0d2eWdSRGdPYmZlZw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Circo, batalla de bandas y teatro para disfrutar del puente de octubre en Málaga con niños Diario Sur",
+    "discovery_method": "rss",
+    "query": "\"Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Wed, 07 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "'Estepona Vive sus Calles' vuelve en otoño con Seguridad Social, atracciones infantiles y actividades culturales - https://tuperiodico.soy/",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjE5czN5Q2tvUWhoYlltclFwcFBoSjI4QXNnSi01ZklnTXFuendjVDN3Y1RTUkVteUxmNkRPa0ZQeG5wUHlOZHpqS01pRjdIeUl1NlF2bnloOGQ5RzNjX0lQdmdsaWxKSFVtT1RpS1lTQlhxd3o3QXpSSlRDYlVHaHc4NTJjdE9iX1VkZXZ2clA1c29mZ0hWY3ltVE5nakFfeWl2UDViRk9oVlJETGxyRHREZG1zZVk5b1o5eVBkUGhGajQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "'Estepona Vive sus Calles' vuelve en otoño con Seguridad Social, atracciones infantiles y actividades culturales https://tuperiodico.soy/",
+    "discovery_method": "rss",
+    "query": "\"Estepona\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Sun, 04 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Títeres, talleres (gratis) y música para disfrutar del fin de semana con niños en Málaga - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSURkeEJ3MEZtRGJQQjN3djI5bnNpaV9QVGxmaXptSl93NUhKMlZBNGpiS2NSUFkxa3M1SkhZWjJnTWFSbzBYWTJTSlN4ZG0zRVg1c2xRR1RMcXRyQUJETUl3cVdwVFFCR2lIdmZ1aktocWFCSmtMdkdWb0dMV1NjZkVDQ0pCQTRqemVYbTdYRllkQktYVWNlUmZDVHJCaG91UklR0gGoAUFVX3lxTFBZajIwMWVvRm5Bd3JMU3psTmhQVEM3dVR1ZkZCZEVjMHRheXBpWmdDQ2JzMGlCRzhubW44UU44MkYtdzVlYmtoWUF1V1p2SFdqd19GV0F2NUxiQzV6YXk4Ty1jTW9CU3hwcGJXZjhPSzgzWHJqTUtUbHZuNXBqNGw1eURnWFhBWDNmZnhnOGh4cWpXTVZmbVNFMWpMcEd6SDZJdE5KUXZoUA?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Títeres, talleres (gratis) y música para disfrutar del fin de semana con niños en Málaga Diario Sur",
+    "discovery_method": "rss",
+    "query": "Málaga Navidad niños actividades when:45d",
+    "published_at": "Wed, 23 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "AGENDA: Actividades en la playa gratis para niños con Bioparc Fuengirola - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmlLZVU5UHVvS21TY3B2RlZTSE1ja1haUkFLaE1BNFljMXhVRkIxbU5iUnVDSGlaUHNreDhnbURkcGJSekIzYzVaOVkxOFZNZldtNGhVZjhkVzgwNFdMdnNpUGZ3YVg4WWNKc0VIQXBvUHRkUGxxblVIUU12MnhwV2tLVGR6Y1p3NVR2NzduUEZka3M1NVpoSDNEdDJpOTJ3Tk0wQlgwRHFMLUpmNVd2QUFYTTIzelkx?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "AGENDA: Actividades en la playa gratis para niños con Bioparc Fuengirola La Diversiva",
+    "discovery_method": "rss",
+    "query": "\"Bioparc Fuengirola\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Fuengirola\" when:90d",
+    "published_at": "Sun, 16 Aug 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Bioparc Fuengirola amplía su horario hasta las 23.00 horas con espectáculos y actividades familiares durante el verano - Cadena SER",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSlB4SE1PbHU3QTVXWGNKLWNVYmx1bmFBNXM1djFMSUtpcF9XbDQyUzZreEJ5aEdsN2I5MU1fbHlUeHhJc0xyZS1vUFluN2Z3NWM3emVKS1cxYkxxWENoYnhsR0ZGWUt4V0tGcWt4QmI5SWpjM0hoa0E1VWJJQ0FDZkpYbHdzSGFLY3ZJN20wdnF5Z3pYWnFHbkpPSnEtb1VPQlNnVnJMSHJRWUZnYnBTeVR2R2xxQ21xdzE0d21oWE1CSUViTjVkVjFTbnRHOFpwZy1ESTdwd2dfUDFsQnBtTklvNXozNUtaWTk1YXp4d3ZVME85UXNfTEYydE80X2pXZ3fSAZYCQVVfeXFMTmhBNkhiVVdOeWFKcjlEVEpLTFJiY0pJQVdvcGFqMTUwYWxjXzFhU2luanlXOWJCcWw5aXJQcjM3N3A1ak16QmtoYVZ5VWxwR2laZEQwU1RQWmJrOVdMa3ZWdi02NXMyQzQyUm1IYnlyWnQ0Vy1famZtNTk5YS10QUNaa2djMzByVEJXX1V6VklCMmRaaF9seXRRRmhHV0FKaUJoRTRxeHNxbHBLMFB6UFBhbTBlN1dhWEk5LWZWRmNZMkpmNVFSd2JqajRsMEk0UjVQSW1UdE9oTmNtazg0SWw0OHRkMjU4cTN0T0c3NHBTQTdfNjVtanpFLVRseUpNYVNpSDhHaXpWR1hMSFR4QlRDQ2tDREE?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Bioparc Fuengirola amplía su horario hasta las 23.00 horas con espectáculos y actividades familiares durante el verano Cadena SER",
+    "discovery_method": "rss",
+    "query": "\"Bioparc Fuengirola\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Fuengirola\" when:90d",
+    "published_at": "Wed, 22 Jul 2026 07:00:00 GMT"
+  },
+  {
+    "title": "De una expedición por Centroamérica a un espectáculo maya: el verano más inmersivo de Bioparc Fuengirola - El Español",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ2x1Skkzcmo0cTRuN0RLd05zcWpFb1hVcGZWRVh5aVVRWC1iU3l6eWZBdzNZMU5VVE5iZVFZUVBNdkM5Yk01TVJWay1Zb1Q3eFZ4Qk44UTUtcXpvQzZyR0kxRVljOG0wbTV0dnY4eV9mUjJSbFM5R1h5d1RzbUhBcjM2VVhrWlF2SndiT2JuR1FHVnNYT1EyVTB5TzNrXzdlUU5HbmlpenlwVklGTm5LQ2xGODRUVTdnX2M3VlpUbmRya0k2NXoxOXliclQ5cEdjdW5zeGZUVnJSRkdhRzZV0gHkAUFVX3lxTE01WmhvNk5sTmw3SmE1aHhNUGg0WXAxbFc1ZXFfTHpFMUNqUkVmbFo2UGQxSFpWRGFQUU9PSEgxYVpGRjNoNGxLZ1BwM3hTM3FYd2dlSVUzTnVvMkdacEtObkV2U3NyeGh5Y09YN0FPZkkxTHozNWctU1pwNUdEZS1yVTJJeEloVXA2d3JqcDBKdlg0eHd2ejVxa3VKOWFmZWNYSHZaTUZiMmIxMUZ5Yno4M3lUbDhNS0F6RFJ6ZnUtMzBlb2dCNmVOOEY2U0xRM1ZVSGZkX2JkQzE0VW9vbVR1Z2hrUA?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "De una expedición por Centroamérica a un espectáculo maya: el verano más inmersivo de Bioparc Fuengirola El Español",
+    "discovery_method": "rss",
+    "query": "\"Bioparc Fuengirola\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Fuengirola\" when:90d",
+    "published_at": "Wed, 22 Jul 2026 07:00:00 GMT"
+  },
+  {
+    "title": "El Museo Carmen Thyssen Málaga convoca taller de acrílico - MASDEARTE",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGJLVkJYOE5ibll5V1pHbGdtSlZPWTBjVUk4LXVqcndQZGotX0pKSDN5STJHX3FiVWJUanNuNDJ1MldCZzVGanVMeEttZjl6aGpaWkZwRXNlRVhJVDZmUEFRaGlhbzVsdGtWblViWExDY2VmZ2VhWS1kR2tRdUFFRkxrWVp3c1lHRTNHNjlXbDU0OU5SZzRsT2dOajVnNkJ3Vmxhb0czZV92M0R6cmpaWDZoTTVaZDl0bnRGNmt6UHpCV3lXc2c?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "El Museo Carmen Thyssen Málaga convoca taller de acrílico MASDEARTE",
+    "discovery_method": "rss",
+    "query": "\"Carmen Thyssen Málaga\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Málaga\" when:90d",
+    "published_at": "Mon, 24 Aug 2026 10:37:45 GMT"
+  },
+  {
+    "title": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 - Malaga Actualidad",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1drV1NIMDlybGxsMHdKYk9kUjZvUjRpZUUwUzRKb2U3clpHN2ZkMms3OHVTcmJQcmN4cTZ2OHRnZVNwVzFtUklZTS1aSlYxV0YzLVhlVmVTYWhkR1hRWURCSkpIRllmaWxKYkpIRmwweU1pZ08xQi1aellLNDBsRnFFNDJELUc0dV9ZRlpacmhrUkpIcEEzQ2RuQnlEdWduQXBqb2kxb0NaQmh3TWN2MmsxdDZoNktnVVBya1ZrNWpWYmViT3RjWjI2WnpOTDF5SlRCUw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 Malaga Actualidad",
+    "discovery_method": "rss",
+    "query": "\"Carmen Thyssen Málaga\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Málaga\" when:90d",
+    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Pedro Almodóvar se cuela en el Museo Carmen Thyssen Málaga para demostrar que 'Spain is different' - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdllWU0RrM1JSQnJWT0dsQlZkV0I0Z05LbFV2QWVuY3B0T211X1V5cWxlNlE0X2VuVl9Tck1pcTVfZGdydTg2TENJOEZVbEdTV3dsYWtkOG9kU2RReUdGSm9DejNjekZ4X3dGMjRxaEFQY1VqamhYbTdfNGFXa2NPOFNmM25ES19BRzdadWZpQ05CdHZhSG04NDJKOEtVSmJaemMxeXNCWUdlREZ4VVF2Y1R30gG3AUFVX3lxTE1PcmY4WTctRjcxT0pHMzRqaFJYMGlnLWxXOGMtTy1nVExtN3FYZlVCUURvV3pPWUU0RVJnaHU3Sk8zMHh1LUdySFZnTHBSdzBwUXhKWF9GVFZuUHdIY2lsRHF2YXdweVBoaXJ1ZV9UMWptMUFjMnlCVElJQ3lJX2pLNGstUXdza1pLRXVKSVlOUnM0R1VzdEhwVy0tdEdJZzNpZEN0Y09HYldNU05PNUNXUHp3LWN3WQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Pedro Almodóvar se cuela en el Museo Carmen Thyssen Málaga para demostrar que 'Spain is different' Diario Sur",
+    "discovery_method": "rss",
+    "query": "\"Carmen Thyssen Málaga\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Málaga\" when:90d",
+    "published_at": "Fri, 02 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Programación educativa del curso 2026/27 en el Museo Carmen Thyssen Málaga para colegios e institutos - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ0FkLW9lUm5RT1hqS0c5dTQ0dFNsdDhwRGR5SHZhVFhqY1JJOW83eTV5RkhpSGZqLXk1SENyVWZkUW9FaUtWUmhCd2lpMEFsRVZqeml6RzMxSVQtWnVCQzQ4aE1rS1NxRzdEa0dTNDZEU2xzSE4xRVlWTmpycDNndGx6ajdROHd3eDJhdm9DbVFyT3Z2X1l5YlEzZ2gxQUFxb00yYVk1eWFhT203VlViTGl4TjdLTWFhN1k5ZjlwX3FqanA4?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Programación educativa del curso 2026/27 en el Museo Carmen Thyssen Málaga para colegios e institutos La Diversiva",
+    "discovery_method": "rss",
+    "query": "\"Carmen Thyssen Málaga\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Málaga\" when:90d",
+    "published_at": "Thu, 17 Sep 2026 08:19:04 GMT"
+  },
+  {
+    "title": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo - El Español",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZjM0UXpMUTJhdS13emdmYlRhVVNZa0RrSHJNOEphZk1XWkdURHFtYUVyeGcyMm01UDBqYVNCQmhJVnREejZ4SmJCb1BIYVNIQ1I5ZTVkS3VNME9IMUtFVGFKN3J2dmw1V2hKYmgxM3JvVl9jUFFxQTdzdkM5VG8xelFtQXJBZDgyTDB2Vl9mTTdJNGEzb2lxYjZqSTUwTXhLcVlGOGpTUWt6RVZheDJ6MGxvZ25KYmlUMnZXTHBjcU1jYW90Y1dSbnEtdFBXSmJjSDE1bXVtNHRHYWtkcGdZU0FhbTE2SnhyU1VjR1Y3VHc1QzcydlQyaUNGanl0MGVEejRWTDd5UlZXNlZqRnNUSXpVNThhOW0w0gGeAkFVX3lxTE5iSEhIU1gtbF82VHZ6Qmlnc3hOdmZzbG12SVdDTlg5RHMxUE1FZG5wMDktODVjMElRbmFPWkVTRWhKd0xmRm91Tk1ka2V5bld2NTFHOFVGRExUVzZURU0yM2psX3dxN2RQRmVmMTZlYzRFNkR5T3BmTkRVVTJMNUtwU244QVRIZmdrZFd3bmpucjRVMDBCV1BVclRzY2ZSZjhwUEtwQkNrTUFIZkZkTjdOTXFSX3ZWZEhnZzZWQUplNGFmbmVsd2JIeURXV0dTWTZyOHBJeElobWNZZzM0WEhFWUQ4TXNwclhVLXVRSWowdU1va1o5SnJFY0Y3djdOelYzdmZ6Z2ZTSlEzNDVJc1pDb2Z5b1VHZ3BvU2VVZGc?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Clases entre ánforas y salazones: el Museo Carmen Thyssen de Málaga incorpora su yacimiento en su programa educativo El Español",
+    "discovery_method": "rss",
+    "query": "\"Carmen Thyssen Málaga\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Málaga\" when:90d",
+    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "«Los ojos del niño Pablo», de Ana Romma",
+    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/Los-ojos-del-nino-Pablo-de-Ana-Romma/",
+    "source_name": "Museo Casa Natal Picasso — actividades familiares",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-039",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Visitas guiadas y otros servicios de Mediación",
+    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/Visitas-guiadas-y-otros-servicios-de-Mediacion/",
+    "source_name": "Museo Casa Natal Picasso — actividades familiares",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-039",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "XX Picasso en las Bibliotecas",
+    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/XX-Picasso-en-las-Bibliotecas/",
+    "source_name": "Museo Casa Natal Picasso — actividades familiares",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-039",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "XXXIX Octubre Picassiano",
+    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/XXXIX-Octubre-Picassiano/",
+    "source_name": "Museo Casa Natal Picasso — actividades familiares",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-039",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "«Birthing Picasso». Museo Casa Natal Picasso Málaga-Round Rock",
+    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/Birthing-Picasso.-Museo-Casa-Natal-Picasso-Malaga-Round-Rock/",
+    "source_name": "Museo Casa Natal Picasso — actividades familiares",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-039",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "TALLER | Regina Dejiménez. «El proceso creativo: de la intuición al arte textil contemporáneo»",
+    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/TALLER-Regina-Dejimenez.-El-proceso-creativo-de-la-intuicion-al-arte-textil-contemporaneo/",
+    "source_name": "Museo Casa Natal Picasso — actividades familiares",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-039",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Talleres 14.11.26 Taller infantil ‘Celebramos los Verdiales; creación de mini sombrero de verdiales’ dentro del ciclo ‘Sábados en el MACP’",
+    "url": "https://www.fundacionunicaja.com/event/taller-infantil-celebramos-los-verdiales-creacion-de-mini-sombrero-de-verdiales-dentro-del-ciclo-sabados-en-el-macp/",
+    "source_name": "Fundación Unicaja — agenda cultural",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-041",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (60/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 60,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "público infantil/familiar",
+      "municipio malagueño no demostrado"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Talleres 20.09.26 — 10.01.27 Talleres infantiles ‘Descubriendo a Goya: crear, imaginar y contar’",
+    "url": "https://www.fundacionunicaja.com/event/talleres-infantiles-descubriendo-a-goya-crear-imaginar-y-contar/",
+    "source_name": "Fundación Unicaja — agenda cultural",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-041",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Todo el día Ciclo ‘Fe, ciencia, religión y ética en la vida de hoy’ Agrupación de Cofradías de Málaga, Málaga",
+    "url": "https://www.fundacionunicaja.com/event/ciclo-fe-ciencia-religion-y-etica-en-la-vida-de-hoy/",
+    "source_name": "Fundación Unicaja — agenda cultural",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-041",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Todo el día Exposición ‘Guillermo Pérez Villalta’. El Laboratorio infinito’ Centro Fundación Unicaja Cádiz, Cádiz",
+    "url": "https://www.fundacionunicaja.com/event/exposicion-guillermo-perez-villalta-el-laboratorio-infinito/",
+    "source_name": "Fundación Unicaja — agenda cultural",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-041",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Todo el día Exposición ‘La sombra de Goya en el Museo Lázaro Galdiano’ Centro Fundación Unicaja Granada, Granada",
+    "url": "https://www.fundacionunicaja.com/event/exposicion-la-sombra-de-goya-en-el-museo-lazaro-galdiano/",
+    "source_name": "Fundación Unicaja — agenda cultural",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-041",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Todo el día Exposición ‘XXVI Premio Fundación Unicaja de Artesanía’ en el MACP Museo Fundación Unicaja de Artes y Costumbres Populares, Málaga",
+    "url": "https://www.fundacionunicaja.com/event/exposicion-xxvi-premio-fundacion-unicaja-de-artesania-en-el-macp/",
+    "source_name": "Fundación Unicaja — agenda cultural",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-041",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "« septiembre",
+    "url": "https://www.fuengirola.es/agenda/2026-09/",
+    "source_name": "Fuengirola · Agenda municipal de eventos",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-053",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "noviembre »",
+    "url": "https://www.fuengirola.es/agenda/2026-11/",
+    "source_name": "Fuengirola · Agenda municipal de eventos",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-053",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "CALENDARIO DE CARRERAS 2026",
+    "url": "https://www.fuengirola.es/evento/calendario-de-carreras-2026/",
+    "source_name": "Fuengirola · Agenda municipal de eventos",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-053",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "PROGRAMA TRIMESTRAL IGUALDAD",
+    "url": "https://www.fuengirola.es/evento/programa-trimestral/",
+    "source_name": "Fuengirola · Agenda municipal de eventos",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-053",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "BEACTIVE: PROGRAMA SEMANA EUROPEA DEL DEPORTE",
+    "url": "https://www.fuengirola.es/evento/beactive/",
+    "source_name": "Fuengirola · Agenda municipal de eventos",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-053",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Conferencias 21.10.26 Encuentro con Marta Robles dentro del ciclo ‘Aula de cultura’",
+    "url": "https://www.fundacionunicaja.com/event/encuentro-con-marta-robles-dentro-del-ciclo-aula-de-cultura/",
+    "snippet": "Conferencias 21.10.26 Encuentro con Marta Robles dentro del ciclo ‘Aula de cultura’",
+    "source_name": "Fundación Unicaja — agenda cultural",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-B9F7B7DDD8",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Ficha localizada navegando una fuente oficial relacionada con el caso; requiere verificación de contenido."
+  },
+  {
+    "title": "Talleres 24.10.26 Taller ‘Celebramos el otoño; creación de llaveros de madera decorados con miniaturas’ dentro del ciclo ‘Sábados en el MACP’",
+    "url": "https://www.fundacionunicaja.com/event/taller-celebramos-el-otono-creacion-de-llaveros-de-madera-decorados-con-miniaturas-dentro-del-ciclo-sabados-en-el-macp/",
+    "snippet": "Talleres 24.10.26 Taller ‘Celebramos el otoño; creación de llaveros de madera decorados con miniaturas’ dentro del ciclo ‘Sábados en el MACP’",
+    "source_name": "Fundación Unicaja — agenda cultural",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-B9F7B7DDD8",
+    "first_seen": "2026-10-18",
+    "status": "verificada_con_fecha",
+    "review_reason": "Pista ya incorporada a la agenda; se conserva el vínculo de la fuente.",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal",
+    "verified_event_ids": [
+      "EVT-UNI-20261024"
+    ]
+  },
+  {
+    "title": "Conciertos 28.10.26 Encuentro con Martirio dentro del ciclo ‘Suena SUR’",
+    "url": "https://www.fundacionunicaja.com/event/encuentro-con-martirio-dentro-del-ciclo-suena-sur/",
+    "snippet": "Conciertos 28.10.26 Encuentro con Martirio dentro del ciclo ‘Suena SUR’",
+    "source_name": "Fundación Unicaja — agenda cultural",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-B9F7B7DDD8",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Ficha localizada navegando una fuente oficial relacionada con el caso; requiere verificación de contenido."
+  },
+  {
+    "title": "Talleres 07.11.26 Taller infantil ‘Celebramos la repostería tradicional; creación de trampantojos de roscos, mantecados y mazapanes’ dentro del ciclo ‘Sábados en el MACP’",
+    "url": "https://www.fundacionunicaja.com/event/taller-infantil-celebramos-la-reposteria-tradicional-creacion-de-trampantojos-de-roscos-mantecados-y-mazapanes-dentro-del-ciclo-sabados-en-el-macp/",
+    "snippet": "Talleres 07.11.26 Taller infantil ‘Celebramos la repostería tradicional; creación de trampantojos de roscos, mantecados y mazapanes’ dentro del ciclo ‘Sábados en el MACP’",
+    "source_name": "Fundación Unicaja — agenda cultural",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-B9F7B7DDD8",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (60/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 60,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "público infantil/familiar",
+      "municipio malagueño no demostrado"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Fundación Unicaja pone en marcha talleres creativos gratuitos en Málaga para todos los públicos - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONHh3NUlVb0M0STRLTUl0Vlo1aDVKcEtxZTFvbmVRRlFPVENSUkNyOVVrS2I5bHRMeFJzM1UtV1pUazFtM0swTFR5a001Ymo2LUlBTW44cHVBdzVENXd0Y0c1UlpIeno0bTBYVml4TDJHdXppanFuMUF5aTQxek9zT2FQMkFpdmhmeVBJTnVGSG5TeDRzWlE3RjVJazZ2MHc4TnVIT3F1VnRqRTlOQVRfbFZDajUyRXNRY3FYdTRzejhjcWU3c0ZoQlFxYVBPS0k?oc=5",
+    "snippet": "Fundación Unicaja pone en marcha talleres creativos gratuitos en Málaga para todos los públicos Fundación Unicaja",
+    "published_at": "Wed, 29 Oct 2025 13:01:03 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Programación de talleres ‘Aula Abierta’ en Málaga - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaFhNQXpkM2VkWkZrSndjejN5eGxqS0xwRERfNzM5WURiLVBMZTB4TTR4Q3FWT21FOXQwQmlINmNlc3JqLUw1WVRjd09oS1ZkUHBxbmtkanUyeWV4b2l3bG1HYkc5UEo0WXkwVi16VlJPbnBZR3FzeUJKWlE2SlAxd3hpQm5sZUZtczJadGtraUQ?oc=5",
+    "snippet": "Programación de talleres ‘Aula Abierta’ en Málaga Fundación Unicaja",
+    "published_at": "Wed, 29 Oct 2025 14:25:50 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Talleres ‘Aula Abierta’ en Málaga - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sMTlQMXZma1ZQVGY0cmFQVlF5U1MwSGFQZUFDSDVwbGpXenptZF9tcFNDWkpENGtYWGplODlVZXM4SmV5dEthdmh4ZGUyaEhVTm1USFpRdllTYzB1X0YzejUzWkZ4di1jS0JJV0k0QlpYQk9jX2RWZjhlZw?oc=5",
+    "snippet": "Talleres ‘Aula Abierta’ en Málaga Fundación Unicaja",
+    "published_at": "Fri, 16 Oct 2026 10:40:55 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Cartel programacion talleres aula abierta MALAGA - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdUhIUHZsQ0dodEV1TlUtSW9MUDI1b1l5U1FFNHAwMjdOMnh1Rm5wYXJUb1NZVDRhQ2pNallvLXpkY1BtaVV2ZHhRazlMZ2xLTXEyOWhWeThvTVpuSTFzTS1CSzZyTTBxaTJZQnpoNXJqV0VVbkl2VDAwc3NkdUNabEpqZHZiNU1POTFHUWtRS1pFUlItZGx0OUx6QkNmVzAxZXR5aWhDME5seERYUlJ4d0VB?oc=5",
+    "snippet": "Cartel programacion talleres aula abierta MALAGA Fundación Unicaja",
+    "published_at": "Thu, 30 Oct 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Taller 'Celebramos a la Virgen del Carmen. Taller de macramé en recuerdo de las redes tradicionales de pesca' dentro del ciclo 'Sábados en el MACP' - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdHZzaDdPLXdhUEQ1MWRLUVFZR1JleW9VNnNkOGlwbnFlZDYzbGo5NlNwVU1zSlctZXdfdm1TejBscFBSX1ByajFlX3dSOFVsV2dFbmdjN0ZmT2M1bExKMkhZc2ZOMG41eU1waFRpalR4bGIwbkNtaGNxQkpTNjJoYVFRemhCcHVHRjI2S3hna3VYdDhrUW5nMXllSEpfbkZfRHdBUW82c3ZrT19KYWJGWHlCREZ3bUFIVldMZHBPRFA1dHY2YkxWVXVoUy1MYmtjM3JONHlGa2hGMnJzQVVRNjNLVDFVU3JudHFPZ2NFc25qXzktajlRVUJFVWZULUU5Zmx2Zm5tY1V1WTdoV2FV?oc=5",
+    "snippet": "Taller 'Celebramos a la Virgen del Carmen. Taller de macramé en recuerdo de las redes tradicionales de pesca' dentro del ciclo 'Sábados en el MACP' Fundación Unicaja",
+    "published_at": "Sat, 25 Jul 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Taller ‘La cestería’ dentro del ciclo ‘Sábados en el MACP’ - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXoxZF9wN2hXcnpZeUh4NW9UdGlUek9aNm1McHBVLWR1T2ZwaU1VV0ZMT3YtZVFOekMyX0U1MDFJWjhrVTBlaUtuNDZ6U2hxZFJHS3ROQXcxOTNPYlZYSlo0TWtkWVlXNmtadDFWWE9tTVBFVHhpaDhJeW1lek9HdjVQcTRBNjJUbDdFU21PZ1Ywb1RubTVBYTFmaTU?oc=5",
+    "snippet": "Taller ‘La cestería’ dentro del ciclo ‘Sábados en el MACP’ Fundación Unicaja",
+    "published_at": "Thu, 06 Nov 2025 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Taller 'Celebramos el otoño; creación de bolsas de olor para los armarios' dentro del ciclo 'Sábados en el MACP' - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbTY4cTNZR3hmblI4WWY4cGdMV3RhcThTSXRCckhWc0t0cXdfOE1UV1ZXbjZZeXNNanpsVWdJcGtPWmdONHJpamFTMVk2MVIxVzUza25CMVdIYlg2b3R4QWVxcmtNN2tfa0pxUUxYQS1wZzJ5U1BGN3hMeXI3M0dxY0pucTFHVllHTmppc1BIUWtXd244cG5RWXk1THlQYmVKbHhkamNDeGpxS2JUNE9adEJYSDlRR20zLUMzRTBGR2hXUzRWN3pjSTZzODBtQlk3OVFHWlNyQ2FDWHY5NnhhbA?oc=5",
+    "snippet": "Taller 'Celebramos el otoño; creación de bolsas de olor para los armarios' dentro del ciclo 'Sábados en el MACP' Fundación Unicaja",
+    "published_at": "Sat, 03 Oct 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Taller infantil 'Celebrando la primavera: photocall primaveral' dentro del ciclo 'Sábados en el MACP' - Fundación Unicaja",
+    "url": "https://cadenaser.com/andalucia/2025/09/15/fundacion-unicaja-organiza-el-taller-infantil-musica-y-lutieres-dentro-del-ciclo-sabados-en-el-macp-ser-malaga/",
+    "snippet": "Taller infantil 'Celebrando la primavera: photocall primaveral' dentro del ciclo 'Sábados en el MACP' Fundación Unicaja",
+    "published_at": "Sat, 23 May 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMEZWQzYzRFhZUnVTbndOQ1lmUEFHZDlMdG5LNjNBcmFlYXlnc0gtUHplX1NDYVd3NWhsOUgzMXZ4SENwTnduMkxPaUdBTW9qVXd2dHhtbHM5blZMa0diRWliQlZpRlM5QTl1LUtiakMyUVN4c3VDcVZOLVlJNnhSQS1XaVhneGo0aE9kRWxDN3pSNnZncmpOMUtDQko5dmR5cVdKcV9yeW5acWNjSGx2ZW1iYXE3cVZDcTBUdV9jTGVSMWlYQzU1cnY4aFlWZzBoS0E?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Taller infantil 'Celebramos el otoño; creación de paisaje otoñal con acuarela' dentro del ciclo 'Sábados en el MACP' - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUHJhNzVhMTVqSTNxRmF4OEd1VWVJT1o5T0pQczNlaTJqTjB5WVFtT1pHZG53U2lNaXpCVE5sZjVwTXFMOGdnWmcwd2ZKc3RQSC1NU0pGQ3hseDRhRnRPVWZfeWk0UElPQ0gtcDAydExVaDNFS0tkT0pMeEJiTmFsMlN4MWlIUElDMWxuRm1RWUZscmhvRVNlSVo0UmZySE4ycFFBamtCMkFiand1NVV2WVdVdFpYLTZBMXFuUXo0aXY3OE5rOTYzeDZTQXRvQm9RVjlTSHc0R1lUX244eUk2Q2Z4OFBrdw?oc=5",
+    "snippet": "Taller infantil 'Celebramos el otoño; creación de paisaje otoñal con acuarela' dentro del ciclo 'Sábados en el MACP' Fundación Unicaja",
+    "published_at": "Sat, 10 Oct 2026 10:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Taller ‘Tocados y sombreros’ dentro del ciclo ‘Sábados en el MACP’ - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR1dBak5ia3Q2ZlVOV0FyU2xaWVJtWnhrMDZubXVYNGZRUDRfTmZCUmgxbVpGZHdFTFptV0pNYTFscG9pN0h5dXB4VUg2dkFxRThFbk9sTkNSclNxUG40V2tKbnJBcm5MMnJIZ1dQWG5Uc3VPMkUxQUgyRmxfRkcxWTE2R3JFaTI3SDBPcHJSanVTejJaTDhJNjUzVmltdllJNmc5Tg?oc=5",
+    "snippet": "Taller ‘Tocados y sombreros’ dentro del ciclo ‘Sábados en el MACP’ Fundación Unicaja",
+    "published_at": "Tue, 23 Sep 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Taller 'Celebramos nuestras ferias y romerías. Creación de abanicos' dentro del ciclo 'Sábados en el MACP' - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNUdFYVZ4RTN0ampBQnBaeDEyNUVLWUxuRXNWd2NLblY5VlJUR1dzNGViNTJUY0FGcG5zVVFQdElPZFpVTF9WRDgtZEc1c0FSRTc0SE5WYmgyUjFXV3M0d0tHUEtraVQzWV9ndlVWeVR2cEE2SU9pSXFObzBKRmFIaF91Q1lhdFpmcTFCcHRqdHYxNVB2XzAtX1JFV1BNbEdNdWRXMTRMNkJfU1pzRkdjR3RJOVd6QXltUWQteFEzUTJEZ2gtaklIbGlrR0dVR1RiTnNzYjc0cHI?oc=5",
+    "snippet": "Taller 'Celebramos nuestras ferias y romerías. Creación de abanicos' dentro del ciclo 'Sábados en el MACP' Fundación Unicaja",
+    "published_at": "Sat, 11 Jul 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Taller infantil ‘Carpintería’ dentro del ciclo ‘Sábados en el MACP’ - Fundación Unicaja",
+    "url": "https://cadenaser.com/andalucia/2025/09/15/fundacion-unicaja-organiza-el-taller-infantil-musica-y-lutieres-dentro-del-ciclo-sabados-en-el-macp-ser-malaga/",
+    "snippet": "Taller infantil ‘Carpintería’ dentro del ciclo ‘Sábados en el MACP’ Fundación Unicaja",
+    "published_at": "Mon, 07 Apr 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmEyaXBxMW9EbkFGRGZHZW0yblVjNmg2a3NMeTNCZmIzZ2NLb2V1aU9qRy15VHdzZDZpTHU3OGlSekotOEdKZjlGLTllRGhvVmM5WUhPQ0RMTllaZTNHV05uTDNYUWlZRFBGak9mWGZ5RjdDUEh3YlV0MVQ4SzRpUjVJalFOX0lteEFyblBfSG5aYjE3Um0xOXpDMDJWWGFUeERDVERB?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Taller infantil 'Celebramos los Verdiales; creación de mini sombrero de verdiales' dentro del ciclo 'Sábados en el MACP' - Fundación Unicaja",
+    "url": "https://cadenaser.com/andalucia/2025/09/15/fundacion-unicaja-organiza-el-taller-infantil-musica-y-lutieres-dentro-del-ciclo-sabados-en-el-macp-ser-malaga/",
+    "snippet": "Taller infantil 'Celebramos los Verdiales; creación de mini sombrero de verdiales' dentro del ciclo 'Sábados en el MACP' Fundación Unicaja",
+    "published_at": "Thu, 24 Sep 2026 15:01:14 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN2xwQnVSYkkzMDJHV2d6djJ2WGtVS1VMNFhJM243czFSc0V2SE15d2pTZGdRT2ZPTVpqN05nWE9vSGZ3X1BUdTBwN1d0TlMwTEdJMVpBNm8yTWRLS19FUmFfbGFDalpUY1RCaEZvNURRT3Q4X1Qwc2JvaEdzUGRyQmIwU0VLZEVTT2RSc1d4ZzB5R2VZYndKc2tOcnlnd2VleThhZUVlWlZXd3JybllLU3FiMXRMMDR3NVBfVGFmbno0UnNfbzJ5cERRTm1ReEN2V29jVTc1SC1KeWdkVU5UdXBySlpmM096N3p3?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Taller infantil 'Celebramos la repostería tradicional; creación de trampantojos de roscos, mantecados y mazapanes' dentro del ciclo 'Sábados en el MACP' - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPSGVYMldtSTVCR0lycmtvLUtEdW9xWDZZMUoxVl9mZlB3ZXhXWURMcXpyQV9HbEpNdGhadmJIR2E5QTFlYnZOYW8zUDJYcmdZcVBpUUJFWm9LcFhnUzRKOUNFQy11TUtiOHFhalpkRm80ZE1JX21sTVNFNkthR0hHRmJBVWVZUWZ0UmtKQ1NuMmFzRW9vVEdjN2RGQnlOSmJ1aENueGM4TWJKNnJ0bEtKUy1CVE4tNGdfNUp2UGNyMXNjVXRsR2VYYnZOUmdJVWNLaVp3eS1kMUNvclhSM3BvNUtTWWJnT2tLVmJZMDREVVU5akJMRExMMkpxYWdVTmlHVzVkckM2OHg2TVVMT0xNTmpqbHU?oc=5",
+    "snippet": "Taller infantil 'Celebramos la repostería tradicional; creación de trampantojos de roscos, mantecados y mazapanes' dentro del ciclo 'Sábados en el MACP' Fundación Unicaja",
+    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Taller infantil 'Celebrando San Marcos: elaboración de trampantojos' dentro del ciclo 'Sábados en el MACP' - Fundación Unicaja",
+    "url": "https://cadenaser.com/andalucia/2025/09/15/fundacion-unicaja-organiza-el-taller-infantil-musica-y-lutieres-dentro-del-ciclo-sabados-en-el-macp-ser-malaga/",
+    "snippet": "Taller infantil 'Celebrando San Marcos: elaboración de trampantojos' dentro del ciclo 'Sábados en el MACP' Fundación Unicaja",
+    "published_at": "Sat, 25 Apr 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdnhYdXVhVEpfTGNGN0pSUUlTSnFWejFsTkhDSXhqbHlEYkFsQjhlbUYxZ2g3Z1NHNmtyY2lhWkhWNDB6MDBVdW03LWFGSHlyYWZtUno5aTVSalQxTXZTRl9FUTF4aVJRR1p0RmdzWUdpaW81aGZFeVM4bWVLMFEwZjk5RGlIM0VTSDVtcmdVUEo3NF91TmdjM0hXdmlhZGx0Y3JqVXFHZFBwaHZpSk5lb25ybjdWY0xWNGtFMmZLZ25NTzlUcEpLUFFHVTlkd3YxU0g4dTFkcU4?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Ciclo ‘Sábados en el MUACP’ con actividades gratuitas para todos los públicos - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObzlGWTJ4elN5cTNvUHpPeW9lSVhHNU9WTDZlU3VZQ0Z6SDhkcnNRbm5wZG5MNDV1VWRMMHZ6WFYyYmI2c0xpRi0tQ1RLQWN4MV9zcm4yOTJhT1doZndQcUltODZORlN6UXBLa0F6LVJNYTE3WVhLbHdoYW1nMnpzN25VNDdWNGFacVdVWm1LdTB2djJQM2xjclk5TENJU2QwaWVxN2lybFF1bkFnRjFfa29OTXZpNTZ1R3A1RTF3?oc=5",
+    "snippet": "Ciclo ‘Sábados en el MUACP’ con actividades gratuitas para todos los públicos Fundación Unicaja",
+    "published_at": "Sat, 23 Dec 2023 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Taller ‘El encaje como elemento decorativo’ en el Museo Unicaja de Artes y Costumbres Populares de Málaga - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYmNxRllSQVloYUNJTmFuNWZ0LTJoLVp6cng3aWw5Y1QwS1hpTk9HZzhJVmNnOGlmb1Q3bzNuNVdvWVpJc2pCWFlsSU9TQzJBZGlSWkJzdGM3eXM5aHV5enR4S2ZKa2MzU3FuN3lvMEI3VXN6eE9SS2NGNjVMem9VbkFwWDhodTVJRi0tZ2h4eFBEVWhDV2xTWTJZdEF4c2wzQnRISGJDWnpjbHY3RjFHNnlXSmk2RTlBcE1SazhNd3NnUHFFWHZWclFFWmNvcTVxV2VOa2c5YjhETTZpTmc4ZkZZc3U?oc=5",
+    "snippet": "Taller ‘El encaje como elemento decorativo’ en el Museo Unicaja de Artes y Costumbres Populares de Málaga Fundación Unicaja",
+    "published_at": "Fri, 02 Feb 2024 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Taller 'Tradición y vanguardia: la mirada innovadora de Alejandro Sánchez a la arquitectura popular andaluza' - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOLWdMYUtITGZMTnljRzlpTFF5TkE5VW9LV2tnbmZ2bjN1eklSdXd0V3JzeXQ2TWluNFVpc0lTSEVXbVRJZ1VtNGxnZm5HOHhPTndLNHRaQjJrcXdSNEFjdnFtcDFHdzNZaTJjYUFwblZUM0c5aEp2ZER2VkRacVk5a0NtM09uWUZEcFJYS2FaRVUzLTlDM045eHRYZ0N3dWlsRDdCVnVxR0RURVhlZ2dnX0NqbmhXSndvS2FlenVoT09xSkFrSW5iQ2VrS2VadWw5aHRYNzRubTZpMVBoYl9J?oc=5",
+    "snippet": "Taller 'Tradición y vanguardia: la mirada innovadora de Alejandro Sánchez a la arquitectura popular andaluza' Fundación Unicaja",
+    "published_at": "Fri, 08 May 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Taller infantil ‘Los barros malagueños’ dentro del ciclo ‘Sábados en el MACP’ - Fundación Unicaja",
+    "url": "https://cadenaser.com/andalucia/2025/07/03/fundacion-unicaja-organiza-este-sabado-un-taller-infantil-sobre-los-barros-malaguenos-ser-malaga/",
+    "snippet": "Taller infantil ‘Los barros malagueños’ dentro del ciclo ‘Sábados en el MACP’ Fundación Unicaja",
+    "published_at": "Thu, 26 Jun 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMjdVTWZXbkt1WHJwb1NpVjlSdy1nMm5yeS0xLTRYLXJYbnlYbzdFbUZCZ1EtVXk3Rk9oYWp2RXVUYWQ4NDJxMXVVbzlkbGNpVEFXR1VDNE5nekxRZDQ5TFpTODB1SlVVWHl4UmhSUXppbkp6el9wd0tnQnVXSUZyQUtTQ1lldy1Pb0lVamgzTlBzNFU2R3ZWRmV3dWVzQ0dLOUZWNmFLUDY5T0g5OTRIOVQtaVdLdw?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Taller 'Celebramos el otoño; creación de cestas para la recogida de la castaña y la seta' dentro del ciclo 'Sábados en el MACP' - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSWVBUktqVlBpZnk5T0VTeTZfdnJyVnhZd0R4MEZud2hrakZuQ0psNi1HU2RCMVJXR0kzLW5uOHk2aUhGWV9oU29qRUNJN3p3UXNybEZZUXFEWXpVYVdwaGYySlA4XzNla0s1OW92TE52Y3ZuLVBPaDU5bzF1cG84ZXYtbW4zYVNFMFpYTnF3UXpvZGFGS05SNHI0QzZ2aldHZ19OcW4zazM5WHZCMWMzLUVZc3FlU0FmdHZrQXJMVEMyZ3pEdEVLZklPZWJoMmRBd3l2dVRDWkxILU93Z3J3bldMZDBhRG5pVTFYdGxJa0VQeEVC?oc=5",
+    "snippet": "Taller 'Celebramos el otoño; creación de cestas para la recogida de la castaña y la seta' dentro del ciclo 'Sábados en el MACP' Fundación Unicaja",
+    "published_at": "Sat, 19 Sep 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Taller 'Celebramos el otoño; creación de pinturas sobre telas con motivos de la vendimia' dentro del ciclo 'Sábados en el MACP' - Fundación Unicaja",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ1J5c1JLWFozQUNEVi1WeTNRcXVRZ3g1NEpkODdUdmVzMDJ0a1diZVoxYmU3dHpzSndNTUpKLUp3bjdLVUlZVVdnMW5ESUliNVFhUE1zcmZ1RmxtLU9IQkpwS1g2NGtsWlZEYzc3MDNWbGNjakE2MGVTMVQ1cWF4dGNCTklJMmh2elNVSEVqUkl2aXVkNFhfd1Jfd0hOUW0wWjM2OWZzX2hIV3A4aUhYcGVVTzdfS1NqT19qNEZ5TDh3Zjh1MFpydHRXX0pyc3pIWU9tWTRldWZHcnNkNTdPMGFTNTJldmpkZXVEby1RZVpZNThi?oc=5",
+    "snippet": "Taller 'Celebramos el otoño; creación de pinturas sobre telas con motivos de la vendimia' dentro del ciclo 'Sábados en el MACP' Fundación Unicaja",
+    "published_at": "Sat, 05 Sep 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B9F7B7DDD8",
+    "query": "site:fundacionunicaja.com \"talleres\" taller \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Limón Loco: un parque infantil ideal para cumpleaños en Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUmVzd3JQTXdKbGdlV082a29odmJCQmZ6akFTaWtJdHpNbmNUYklTb3UzSDZieHRtcWZBZTQxb2hQbjBZUzBFNnE3VFFpb3BwTk4yM2s1QTFSajZnaG5sWWJUaFNOcVROUUllOFBhUFZvWjV5UHdudzhIeVEwNEY5VUVnOV9zN0Z0MUEzR2w2RQ?oc=5",
+    "snippet": "Limón Loco: un parque infantil ideal para cumpleaños en Málaga La Diversiva",
+    "published_at": "Tue, 25 Mar 2025 10:17:40 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-1B5D2B52AC",
+    "query": "\"cumpleanos\"  \"Málaga\" infantil familiar 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Talleres vacacionales de verano 2026 - Museo Casa Natal Picasso",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2txS185LV9sWEY5UUJiVl9jb0cybWljZUtSczA0V3VOTE9rbUM3Mkw3Vjhmc3NnRFhDelFRMnlWT2xUTVhUNmdmaTNHNFBhNG9SQThqNmJSOGpEdXczVDF1TXh3QnJMNjItZ3U2ZmRudDU0Rkhkbi1QcVhPWHl0dGJDR1J1U2hETmFsOVdwQQ?oc=5",
+    "snippet": "Talleres vacacionales de verano 2026 Museo Casa Natal Picasso",
+    "published_at": "Fri, 12 Jun 2026 10:54:10 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-7A26D57FC2",
+    "query": "site:museocasanatalpicasso.malaga.eu \"ojos\"  \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Exposiciones actuales de Picasso - Museo Casa Natal Picasso",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjenpxNnR6TU1vRTZDZld6VVZUdXcxQTBaeW5rZlZRY19CcTFnY0d2eHBLa19KRldobVh6VVg2ZWlhcjRacEtlcEdRWkh5VklMSnVsaEFRMU5IWk1UbTIxa25zTlVhcFNyOFpGNjVmSV81Q08zTlRj?oc=5",
+    "snippet": "Exposiciones actuales de Picasso Museo Casa Natal Picasso",
+    "published_at": "Thu, 24 Mar 2022 13:00:50 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-7A26D57FC2",
+    "query": "site:museocasanatalpicasso.malaga.eu \"ojos\"  \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Visita teatraliza [Jardín Botánico histórico la Concepción] - Diputación de Málaga",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGtPREFOcnY2VHVUQkNib2RPTFNMTFNBSTY1bThlRndzMlpMZzg2RWdhYXJWZkpfT2RIQ3NtSThZYVVxRXdONjFPQ3pqZEpTNTNDQkgxVWJfM0RaM2NpQUswNTRYOENwSl9vNXJxZnFjTDV6OXFJRXEtMmlqQWF6Q1BQTXBCMEJubjg5cUFaemtOTnpYS1I5RWxCczlBVjQ5YjZXMmxMRy1wRHRKQXU4ZFVHRWx6Tkp1WEJrTE5YZnExTjRDdm84QWpxZUpGZw?oc=5",
+    "snippet": "Visita teatraliza [Jardín Botánico histórico la Concepción] Diputación de Málaga",
+    "published_at": "Thu, 17 Sep 2026 19:28:47 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-CD7BE79BB9",
+    "query": "\"Jardín Botánico La Concepción\" \"historico\"  \"Málaga\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
   }
 ]
