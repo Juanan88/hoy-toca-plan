@@ -2187,60 +2187,6 @@
     "schedule_note": "Programa de varios días: consultar horario diario y disponibilidad con el organizador."
   },
   {
-    "id": "EVT-TXT-1FFACA8FD7",
-    "title": "Halloween at BIOPARC Fuengirola: family activities",
-    "start": "2026-10-31",
-    "end": "2026-11-02",
-    "time": "Por confirmar",
-    "town": "Fuengirola",
-    "venue": "Por confirmar",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_required": null,
-    "reservation_url": null,
-    "field_sources": {
-      "start": {
-        "source_url": "https://www.bioparcfuengirola.es/en/Halloween-Bioparc-Fuengirola-2/",
-        "quote": "s Discover Halloween at BIOPARC Fuengirola: escape room, gymkhana, children's activities and family experiences on October 31, November 1 and 2. Halloween at BIOPARC Fuengirola: my",
-        "evidence": "Fecha futura explícita vinculada al evento."
-      },
-      "town": {
-        "source_url": "https://www.bioparcfuengirola.es/en/Halloween-Bioparc-Fuengirola-2/",
-        "quote": "Fuengirola",
-        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
-      },
-      "audience": {
-        "source_url": "https://www.bioparcfuengirola.es/en/Halloween-Bioparc-Fuengirola-2/",
-        "quote": "infantil/familiar",
-        "evidence": "El evento se presenta explícitamente como infantil o familiar."
-      }
-    },
-    "audience": "Infantil y familiar",
-    "source_name": "Bioparc Fuengirola · agenda de actividades",
-    "source_url": "https://www.bioparcfuengirola.es/en/Halloween-Bioparc-Fuengirola-2/",
-    "status": "publicada_en_fuente",
-    "details": "Discover Halloween at BIOPARC Fuengirola: escape room, gymkhana, children's activities and family experiences on October 31, November 1 and 2.",
-    "schedule_unconfirmed": false,
-    "occurrences": [
-      "2026-10-31",
-      "2026-11-01",
-      "2026-11-02"
-    ],
-    "interval_kind": "continuous_days",
-    "schedule_note": "Se celebra únicamente en las fechas indicadas.",
-    "first_seen": "2026-10-18",
-    "last_checked": "2026-10-18T10:34:39+00:00",
-    "origin": "evidencia textual automatizada",
-    "confidence_score": 95,
-    "verification_method": "evidencia textual fuerte",
-    "evidence": "actividad concreta · evento multidía con fechas explícitas · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo"
-  },
-  {
     "id": "EVT-ART-20261031",
     "title": "Halloween creativo: decoración, yoga y brunch",
     "start": "2026-10-31",
@@ -2314,7 +2260,10 @@
     "origin": "evidencia textual automatizada",
     "confidence_score": 95,
     "verification_method": "evidencia textual fuerte",
-    "evidence": "actividad concreta · evento multidía con fechas explícitas · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo"
+    "evidence": "actividad concreta · evento multidía con fechas explícitas · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo",
+    "secondary_sources": [
+      "https://www.bioparcfuengirola.es/en/Halloween-Bioparc-Fuengirola-2/"
+    ]
   },
   {
     "age_min": null,
@@ -2466,40 +2415,6 @@
         "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
       }
     }
-  },
-  {
-    "id": "EVT-C55FBBBD91EC",
-    "title": "Las villas y hotelitos del Limonar",
-    "start": "2026-10-31",
-    "end": "2026-10-31",
-    "time": "11:00",
-    "town": "Málaga",
-    "venue": "Villa Onieva",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Gratis",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": "https://mmalaga.es/agenda/las-villas-y-hotelitos-del-limonar/",
-    "field_sources": {
-      "reservation_url": {
-        "source_url": "https://mmalaga.es/agenda/las-villas-y-hotelitos-del-limonar/",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "Radar · mmalaga.es",
-    "source_url": "https://mmalaga.es/agenda/las-villas-y-hotelitos-del-limonar/",
-    "status": "publicada_en_fuente",
-    "details": "Próxima fecha:Sábado 31 octubre - 11:00h El Limonar es uno de los barrios más bonitos de Málaga, situado junto a la playa y dividido por un arroyo, se convirtió a finales del siglo XIX en el barrio burgués por excelencia. Sus «hotelitos» nacieron como residencias de veraneo y lugares de descanso para escapar de las grandes ciudades y su ambiente viciado. Muchas de estas villas, como el Limonar 40 o Villa Fernanda, fueron residencias veraniegas de",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-10-18",
-    "last_checked": "2026-10-18T08:21:22+00:00",
-    "origin": "json-ld"
   },
   {
     "id": "EVT-BE50F5EF64CA",
@@ -3990,5 +3905,55 @@
       }
     },
     "secondary_sources": []
+  },
+  {
+    "id": "EVT-TXT-6DCE98AF22",
+    "title": "Talleres en Semana Blanca en el Museo Picasso | Agenda Cultural de Andalucía",
+    "start": "2027-03-03",
+    "end": "2027-03-03",
+    "time": "10:00",
+    "town": "Málaga",
+    "venue": "Por confirmar",
+    "category": "Talleres y aprendizaje",
+    "age_min": 4,
+    "age_max": 12,
+    "age_label": "4–12 años",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {
+      "start": {
+        "source_url": "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/talleres-en-semana-blanca-en-el-museo-picasso",
+        "quote": "na Blanca en el Museo Picasso Palacio de Buenavista. Calle San Agustín, 8, Málaga. Málaga 23 de Febrero del 2026 - 03 de Marzo del 2026 10:00-14:00 h. Incluye ludoteca opcional de ",
+        "evidence": "Fecha futura explícita vinculada al evento."
+      },
+      "town": {
+        "source_url": "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/talleres-en-semana-blanca-en-el-museo-picasso",
+        "quote": "Málaga",
+        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
+      },
+      "audience": {
+        "source_url": "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/talleres-en-semana-blanca-en-el-museo-picasso",
+        "quote": "infantil/familiar",
+        "evidence": "El evento se presenta explícitamente como infantil o familiar."
+      }
+    },
+    "audience": "Infantil y familiar",
+    "source_name": "Agenda Cultural de Andalucía",
+    "source_url": "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/talleres-en-semana-blanca-en-el-museo-picasso",
+    "status": "publicada_en_fuente",
+    "details": "Durante cuatro jornadas, los talleres de Semana Blanca —para niños a partir de 4 años— tienen como hilo conductor la obra de Picasso y Elena Asins.Esta actividad está diseñada para niños y niñas de entre 4 y 12 años; con un descuento aplicable del 20% a partir del segundo hermano. El precio del taller incluye todos los materiales.Más información: https://www.museopicassomalaga.org/actividades/al-pie-de-la-letra-talleres-de-semana-blanca",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "interval_kind": null,
+    "schedule_note": null,
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T10:59:27+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 100,
+    "verification_method": "evidencia textual fuerte",
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
   }
 ]
