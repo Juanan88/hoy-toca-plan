@@ -848,7 +848,8 @@
     "last_checked": "2026-10-15T10:08:15+00:00",
     "origin": "json-ld",
     "secondary_sources": [
-      "https://teatromalaga.com/cartelera?familia=Infantil+y+familiar"
+      "https://teatromalaga.com/cartelera?familia=Infantil+y+familiar",
+      "https://teatromalaga.com/cartelera/el-ba-ul-de-las-f-abulas-la-cochera-malaga"
     ],
     "age_source_url": "https://lacocheracabaret.com/evento/el-baul-de-las-fabulas-2/",
     "age_quote": "Edad recomendada: A partir de 3 años y público familiar",
@@ -896,7 +897,8 @@
     "last_checked": "2026-10-15T10:08:15+00:00",
     "origin": "json-ld",
     "secondary_sources": [
-      "https://teatromalaga.com/cartelera?familia=Infantil+y+familiar"
+      "https://teatromalaga.com/cartelera?familia=Infantil+y+familiar",
+      "https://teatromalaga.com/cartelera/el-gran-bailarin-echegaray-malaga"
     ],
     "age_source_url": "https://teatromalaga.com/cartelera/el-gran-bailarin-echegaray-malaga",
     "age_evidence": "La ficha del espectáculo indica expresamente «A partir de 3 años».",
@@ -1667,7 +1669,9 @@
     "schedule_checked_at": "2026-10-13",
     "session_count": 1,
     "schedule_unconfirmed": true,
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://teatromalaga.com/cartelera/jabet-in-teatro-los-tres-cerditos-la-cochera-malaga"
+    ],
     "duration_minutes": null,
     "address": "Av. de los Guindos, 19",
     "reservation_url": "https://lacocheracabaret.com/evento/jabetin-teatro-los-tres-cerditos-5/",

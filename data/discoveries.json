@@ -1,689 +1,5 @@
 [
   {
-    "title": "Talleres en Familia. B.P.M. Manuel Altolaguirre",
-    "url": "https://cultura.malaga.eu/es/agenda/detalle-de-agenda/index.html?id=149175&tipoVO=2",
-    "source_name": "Agenda Cultura Málaga",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-17",
-    "review_reason": "Evidencia insuficiente para publicación automática (85/100). Se exige actividad familiar concreta, fecha futura, municipio y fuente aprobada o corroborada.",
-    "priority_score": 67,
-    "confidence_score": 85,
-    "confidence_reasons": [
-      "público infantil/familiar explícito",
-      "actividad concreta",
-      "fecha futura explícita",
-      "fuente aprobada",
-      "titular coherente con la página"
-    ],
-    "last_text_checked": "2026-10-17"
-  },
-  {
-    "title": "Teatro en familia",
-    "url": "https://cultura.malaga.eu/es/actividades-culturales/actividades-escenicas/teatro-en-familia/",
-    "source_name": "Agenda Cultura Málaga",
-    "first_seen": "2026-10-12",
-    "status": "no_es_actividad",
-    "last_checked": "2026-10-17",
-    "review_reason": "Página de ciclo/programación: contiene varias obras y una fecha final del ciclo, no una sesión concreta.",
-    "last_text_checked": "2026-10-17",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "página de ciclo/programación, no sesión concreta"
-    ],
-    "review_priority": "descartada",
-    "verification_method": "regla de ciclo"
-  },
-  {
-    "title": "Taller de Poesía. B.P.M. Manuel Altolaguirre",
-    "url": "https://bibliotecas.malaga.eu/es/agenda/detalle-de-agenda/index.html?id=149173&tipoVO=2",
-    "source_name": "Bibliotecas Málaga",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Talleres en Familia. B.P.M. Manuel Altolaguirre",
-    "url": "https://bibliotecas.malaga.eu/es/agenda/detalle-de-agenda/index.html?id=149175&tipoVO=2",
-    "source_name": "Bibliotecas Málaga",
-    "first_seen": "2026-10-12",
-    "status": "verificada_con_fecha",
-    "verified_event_ids": [
-      "EVT-LIB-20261023-TA"
-    ],
-    "review_reason": "Pista ya incorporada a la agenda; se conserva el vínculo de la fuente."
-  },
-  {
-    "title": "Eventos corporativos",
-    "url": "https://www.museopicassomalaga.org/eventos-empresas",
-    "source_name": "Museo Picasso Málaga",
-    "first_seen": "2026-10-12",
-    "status": "no_es_actividad",
-    "review_reason": "Página genérica o de navegación, sin sesión infantil concreta."
-  },
-  {
-    "title": "Sábado, 3 de Octubre de 2026 - 06 Noviembre 2026 TodoDanza Cultura y Enseñanza Festival",
-    "url": "https://www.marbella.es/agenda/cultura-y-ensenanza/tododanza.html",
-    "source_name": "Ayuntamiento de Marbella",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Otros eventos",
-    "url": "https://www.marbella.es/agenda/otros-eventos.html",
-    "source_name": "Ayuntamiento de Marbella",
-    "first_seen": "2026-10-12",
-    "status": "no_es_actividad",
-    "review_reason": "Página genérica o de navegación, sin sesión infantil concreta."
-  },
-  {
-    "title": "Agenda cultural mensual Octubre de 2026",
-    "url": "https://turismo.marbella.es/agenda/agendas-mensuales/agenda-mensual.html",
-    "source_name": "Turismo Marbella",
-    "first_seen": "2026-10-12",
-    "status": "no_es_actividad",
-    "review_reason": "Página genérica o de navegación, sin sesión infantil concreta."
-  },
-  {
-    "title": "1 Junio 2026 Agenda Palacio de Congresos Ferias y Congresos",
-    "url": "https://turismo.marbella.es/agenda/agenda-palacio-de-congresos.html",
-    "source_name": "Turismo Marbella",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Publica tu evento",
-    "url": "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/user/login",
-    "source_name": "Agenda Cultural de Andalucía",
-    "first_seen": "2026-10-12",
-    "status": "no_es_actividad",
-    "review_reason": "Página genérica o de navegación, sin sesión infantil concreta."
-  },
-  {
-    "title": "Listado Actividades",
-    "url": "https://juventud.malaga.eu/es/actividades-y-programas-00001/listado-actividades/",
-    "source_name": "Juventud Málaga",
-    "first_seen": "2026-10-12",
-    "status": "no_es_actividad",
-    "review_reason": "Página genérica o de navegación, sin sesión infantil concreta."
-  },
-  {
-    "title": "Actividades locales",
-    "url": "https://juventud.malaga.eu/es/actividades-y-programas-00001/europa/actividades-locales/",
-    "source_name": "Juventud Málaga",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Museo en acción Música clásica en la Colección 2026 14 de noviembre de 2026",
-    "url": "https://www.carmenthyssenmalaga.org/actividad/musica-clasica-coleccion-2026",
-    "source_name": "Museo Carmen Thyssen (web cultural)",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Educativas Infantil. Un ser vivo Del 14 de octubre de 2026 al 28 de mayo de 2027",
-    "url": "https://www.carmenthyssenmalaga.org/visita-educativa/infantil-un-ser-vivo",
-    "source_name": "Museo Carmen Thyssen (web cultural)",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-17",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-17",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "La familia Dino",
-    "url": "https://saposyprincesas.elmundo.es/cine-ninos/la-familia-dino",
-    "source_name": "Sapos y Princesas — Málaga",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-17",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-17",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Actividades dentro y fuera de casa para el otoño",
-    "url": "https://saposyprincesas.elmundo.es/especiales/ideas-y-actividades-para-hacer-en-otono-con-ninos",
-    "source_name": "Sapos y Princesas — Málaga",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Rutas fáciles para hacer con niños",
-    "url": "https://saposyprincesas.elmundo.es/actividades-ninos/mejores/rutas-faciles-para-hacer-con-ninos",
-    "source_name": "Sapos y Princesas — aire libre",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-17",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-17",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Talleres en Familia. B.P.M. Manuel Altolaguirre",
-    "url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=149175",
-    "source_name": "Agenda Cultura Ayuntamiento Málaga",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-17",
-    "review_reason": "Evidencia insuficiente para publicación automática (80/100). Se exige actividad familiar concreta, fecha futura, municipio y fuente aprobada o corroborada.",
-    "priority_score": 67,
-    "confidence_score": 80,
-    "confidence_reasons": [
-      "público infantil/familiar explícito",
-      "actividad concreta",
-      "fecha futura explícita",
-      "fuente aprobada"
-    ],
-    "last_text_checked": "2026-10-17"
-  },
-  {
-    "title": "TEATRO \"EL DEMONIO DE MI CASA\" INTRATERRA TEATRO",
-    "url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=148881",
-    "source_name": "Agenda Cultura Ayuntamiento Málaga",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Actividades de gobierno",
-    "url": "https://www.rincondelavictoria.es/ayuntamiento/actividades-de-gobierno",
-    "source_name": "Rincón de la Victoria",
-    "first_seen": "2026-10-12",
-    "status": "no_es_actividad",
-    "review_reason": "Página genérica o de navegación, sin sesión infantil concreta."
-  },
-  {
-    "title": "Museo Accesible",
-    "url": "https://museoautomovilmoda.com/museo-accesible/",
-    "source_name": "Museo del Automóvil y la Moda",
-    "first_seen": "2026-10-12",
-    "status": "no_es_actividad",
-    "review_reason": "Página genérica o de navegación, sin sesión infantil concreta."
-  },
-  {
-    "title": "Eventos propios",
-    "url": "https://museoautomovilmoda.com/eventos-propios/",
-    "source_name": "Museo del Automóvil y la Moda",
-    "first_seen": "2026-10-12",
-    "status": "no_es_actividad",
-    "review_reason": "Página genérica o de navegación, sin sesión infantil concreta."
-  },
-  {
-    "title": "Famulus 4.0 ( Espectáculo de calle)",
-    "url": "https://www.juntadeandalucia.es/aaiicc/teatros/teatro-canovas/famulus-40-espectaculo-de-calle",
-    "source_name": "Teatro Cánovas",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Ciclo Didáctico de Teatro, Danza y Música",
-    "url": "https://www.juntadeandalucia.es/aaiicc/teatros/teatro-canovas/ciclo/28o-ciclo-de-teatro-musica-danza-y-flamenco-infantil-y-juvenil",
-    "source_name": "Teatro Cánovas",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Moda infantil",
-    "url": "https://www.miramarcc.com/moda-infantil/",
-    "source_name": "CC Miramar Fuengirola",
-    "first_seen": "2026-10-12",
-    "status": "no_es_actividad",
-    "review_reason": "Página genérica o de navegación, sin sesión infantil concreta."
-  },
-  {
-    "title": "Eventos infantiles",
-    "url": "https://www.miramarcc.com/eventos-infantiles/",
-    "source_name": "CC Miramar Fuengirola",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-17",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-17",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "CLUB INFANTIL",
-    "url": "https://www.centrocomercialrosaleda.es/rosaleda-kids-club/",
-    "source_name": "CC Rosaleda",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-17",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-17",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Actividad Familiar Halloween 2026",
-    "url": "https://laconcepcion.malaga.eu/es/noticias/detalle-de-la-noticia/?id=178730",
-    "source_name": "Jardín Botánico La Concepción",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-17",
-    "review_reason": "Evidencia insuficiente para publicación automática (10/100). Se exige actividad familiar concreta, fecha futura, municipio y fuente aprobada o corroborada.",
-    "priority_score": 67,
-    "confidence_score": 10,
-    "confidence_reasons": [
-      "fuente aprobada"
-    ],
-    "last_text_checked": "2026-10-17"
-  },
-  {
-    "title": "Visitas guiadas y actividades. Pulse aquí",
-    "url": "https://laconcepcion.malaga.eu/es/servicios/",
-    "source_name": "Jardín Botánico La Concepción",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Agenda Centralizada",
-    "url": "https://www.benalmadena.es/pags/agenda.php?v=1",
-    "source_name": "Ayuntamiento Benalmádena",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Agenda Urbana",
-    "url": "https://www.benalmadena.es/delegacion-de-agenda-urbana.html",
-    "source_name": "Ayuntamiento Benalmádena",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Agenda 21 Local",
-    "url": "https://www.mijas.es/portal/medio-ambiente/agenda-21-local/",
-    "source_name": "Ayuntamiento Mijas",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "40 Festival de Teatro Villa de Mijas.",
-    "url": "https://www.mijas.es/portal/eventos/40-festival-de-teatro-villa-de-mijas/",
-    "source_name": "Ayuntamiento Mijas",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-17",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-17",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "PROGRAMACIÓN TRIMESTRAL TEATRO DEL CARMEN",
-    "url": "https://velezmalaga.es/index.php?mod=noticias&id=8857",
-    "source_name": "Ayuntamiento Vélez-Málaga",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "página de ciclo/programación, no sesión concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Taller de lectura y escritura Filosófico-poética",
-    "url": "https://www.velezmalaga.es/index.php?mod=agendadeactividades&id=3017",
-    "source_name": "Ayuntamiento Vélez-Málaga",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (25/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 25,
-    "confidence_reasons": [
-      "actividad concreta",
-      "varias fechas no atribuibles con seguridad al mismo evento"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Agenda 21 Local",
-    "url": "https://www.nerja.es/agenda-21-local/",
-    "source_name": "Ayuntamiento Nerja",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Infancia, Familia, Mayores y Equidad",
-    "url": "https://www.antequera.es/areas/area13/",
-    "source_name": "Ayuntamiento Antequera",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "señales de actividad no familiar"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Políticas de Empleo, Actividades y Polígonos Industriales",
-    "url": "https://www.antequera.es/areas/area11/",
-    "source_name": "Ayuntamiento Antequera",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-15",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
-  },
-  {
-    "title": "No te pierdas ningún evento en Ronda.",
-    "url": "https://www.ronda.es/agenda-de-actividades-y-eventos",
-    "source_name": "Ayuntamiento Ronda",
-    "first_seen": "2026-10-12",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "regla de exclusión del catálogo"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Feria de la Mula. Arenas",
-    "url": "https://mmalaga.es/agenda/feria-mula-arenas/",
-    "source_name": "Más Málaga",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_checked": "2026-10-17",
-    "last_text_checked": "2026-10-17",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Música… en tu Zona 2026: conciertos gratuitos",
-    "url": "https://mmalaga.es/agenda/programa-musica-en-tu-zona-malaga/",
-    "source_name": "Más Málaga",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Festival de Cine Francés de Málaga 2026",
-    "url": "https://mmalaga.es/agenda/festival-cine-frances-malaga/",
-    "source_name": "Más Málaga",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (25/100).",
-    "last_checked": "2026-10-17",
-    "last_text_checked": "2026-10-17",
-    "confidence_score": 25,
-    "confidence_reasons": [
-      "actividad concreta",
-      "varias fechas: requiere contraste"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Recreación Histórica María Sagredo 1570",
-    "url": "https://mmalaga.es/agenda/recreacion-historica-maria-sagredo-alozaina/",
-    "source_name": "Más Málaga",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Gran éxito del Taller de Bisutería y Pizarra Musical - Malagaes",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSXBHUEdnYXdFQ3VMLU55YnlDOHB5NjY1bWIzejEyVWhhbk5iSnJsWV9aQWU1RmZNODlDd0lJMmFRLXdEbEJCVjB3b2FuaXFUMkpaUXAxeXMyaUpoMG14V0t2eW1VYVZVX0FjR2NRSmNqa1JtSDlFV1hOTkxPS0F2QzRLaUZHcXB2dUtFRmFXOWJUTUxvbE9oRXJIeGlHb1UtWmlxTFllVlM0QjlLWjVhT29IMHJiNzlZaE4wcW5GUHI?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-13",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Gran éxito del Taller de Bisutería y Pizarra Musical Malagaes",
-    "discovery_method": "rss",
-    "query": "\"Pizarra\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Sat, 10 Oct 2026 09:25:42 GMT"
-  },
-  {
-    "title": "Benalmádena invita a disfrutar y colaborar con la Fiesta Benéfica de Fin de Verano de ABAD - Radio Marca Málaga",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWi16OThYZmVoNVl5Q1ktc2U0eGFfcnppeWw3WGR0Sl81MlFZcGExRXVXd3h4Sm5oUUZiZGxydF9Ub01FYnlqb1BNeFVGV2xjRnNnWnlwcXhjRXdQRUFKb3hfUG9oRlJJalZoOEhxRERXMDNhc3ZIdUU4c3Q5ZnV2cW5VUDlxeGotOUdlWjkzVllXTnd2UWhFbWczT3J1NXJxUVFhRGNFYmpBbVVENHNYejlfTUtab2o0TmhPOGNpcl8?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-13",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Benalmádena invita a disfrutar y colaborar con la Fiesta Benéfica de Fin de Verano de ABAD Radio Marca Málaga",
-    "discovery_method": "rss",
-    "query": "\"Benalmádena\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Thu, 01 Oct 2026 11:18:57 GMT"
-  },
-  {
-    "title": "Benalmádena proyecta 6.200 horas anuales de talleres para mayores y refuerza la prevención de estafas - La Noción",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFpJLWZwQ1FKVGxpY1dHVWsxTDB1WUJPTXBUYmcxMnFGYmJhU0loa0wzaVJXRm1vMnJCbG94Tm1JVWZHa0Jwb01zVHlscjR6NkhDMm9tazVjZnhFSEZvWkRWeHl0bGFodkhCX0lIVlVBWEdHOUJMSGFOQVMtM1k5dVpoeDVmZnZkdVhraWNTaWFqU0sxTFoxc0E3dlBKLWZVOTJiM3VCZGw?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-13",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Benalmádena proyecta 6.200 horas anuales de talleres para mayores y refuerza la prevención de estafas La Noción",
-    "discovery_method": "rss",
-    "query": "\"Benalmádena\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Tue, 29 Sep 2026 07:54:36 GMT"
-  },
-  {
-    "title": "Benalmádena acoge este domingo una fiesta benéfica de ABAD para apoyar a personas con discapacidad - La Noción",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdEZUN2tzRThlVWZ6LV8yOElBSGE0TmJQdzJwRER1Wm1aY1h4Q1N3aVV4Wk1XUG5IekdHQ2pOS0U3UWhiaGtReVlRWW5tUE9tZHdOal9CNjJNZlBfQW9tYm5NbUtxS0lPNXFXNWNSay16eHpFaFIxdFkyS09weko2OW9lS082cXZGT3gydVFjelZoOWkyczJSUS13SkxBMkxPTTdiTmtSYm8tUQ?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-13",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Benalmádena acoge este domingo una fiesta benéfica de ABAD para apoyar a personas con discapacidad La Noción",
-    "discovery_method": "rss",
-    "query": "\"Benalmádena\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Thu, 01 Oct 2026 09:31:57 GMT"
-  },
-  {
-    "title": "‘Cuidando a quien Cuida’ imparte en octubre un taller gratuito sobre estrategias de descanso y recuperación - Torremolinos Cultura",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR1JlZG1BZ25oZTNmM0NSYTNFNjhIR0hCa0Y5dVltVGRyS1RHU1l1Z24ydlh5YllCdGg5Wk1nS2dYNkNIaTlBeDc3cUZHaE15R1c2RDY1bGtiNGdJY1VyZDhxdy1ydzBkRkx4WE9LT1o5RVdiUVR6RWtHbHg0LW9lc1A3Y28zQkF1MUctTTFoMGxnQ2M2WUI4R013Q1lPTXNFT25yZzFQeVUzUUQ4cTdmTkZjUTNFOVphNVBYTlIzQnZoeWg4WmpqdkN4a19MRUNzOWEtcVl0MGwycnRwME95YXoyVXNOMkVXQi1FM1ln?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-13",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "‘Cuidando a quien Cuida’ imparte en octubre un taller gratuito sobre estrategias de descanso y recuperación Torremolinos Cultura",
-    "discovery_method": "rss",
-    "query": "\"Torremolinos\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Wed, 07 Oct 2026 10:49:28 GMT"
-  },
-  {
-    "title": "A partir de octubre se celebrará un taller de escritura creativa - Torremolinos Cultura",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb0lkMUoyNE5GallPem53WmotWlhyLXBPcm1NLW5tdTRzSUtaS3dFQXhPQUQySEVlakpWWmFxdlZ5cTJJNHR4cXZEQmNNejZaNENGbFJ3c19qOVdvRmE5Sk5LSC1mSGhUMG5nZmVfYUx5djhsUVpzT1p4elBUbEhRQnFxVERsc2FLVXlYazBPYmU2REgwRTFycUtxNXpMWW9DakRNYU9tcHBCcmZ6S0JPTkdmTy1DeDQ?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-13",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "A partir de octubre se celebrará un taller de escritura creativa Torremolinos Cultura",
-    "discovery_method": "rss",
-    "query": "\"Torremolinos\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Wed, 07 Oct 2026 11:34:28 GMT"
-  },
-  {
-    "title": "La familia Gómez Quesada inaugura este viernes la Feria de San Miguel de Torremolinos con su pregón - Radio Marca Málaga",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmNmb1AzOUNFUVZocllQREQ3czVRMFFXWFhZRThwZFhZNnBMdktrdUdBNUlSeGdybDY1SHJuNS1nTDRmb2lCWVNRM3plOG9tSTg4SUJCMUsyRmphbURNaTNFc3d0S0FCS3hwNnlGRUJwTEZzYjdCVlpMVHhwcDJIZ2ptMmVmQXF5MUdMemRXOXJSWGg2dWNpbGhySEVYY0JFd1lQZU11d1VodU9waUkwVGNjeHJtX3lVd3F3ZnB0RzlBNVZvTGlRZTF3THg?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-13",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "La familia Gómez Quesada inaugura este viernes la Feria de San Miguel de Torremolinos con su pregón Radio Marca Málaga",
-    "discovery_method": "rss",
-    "query": "\"Torremolinos\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Taller arteterapia 'Da forma a lo que sientes' - Torremolinos Cultura",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXViUzVqaTFYdHc1VTVTT0dpcGhvSjJCYTNVdjRqQzE0WmU4NFdLQlZhWUNRQ0h5RU5zVlhRWlZSakZVRmhIalExNThYdU9Bd3dEZWo5SUhSeXlMbXNuQnlHT0RxNTZyVEx6N1V1SnVjQ1FUdmx1dHVQTmJIT3hHbU81MHVFd2x5bkM4SjRSWFlCMk9qeVVVdXFnTQ?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-13",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Taller arteterapia 'Da forma a lo que sientes' Torremolinos Cultura",
-    "discovery_method": "rss",
-    "query": "\"Torremolinos\" (niños OR infantil OR familia OR Halloween OR taller) when:30d",
-    "published_at": "Sun, 11 Oct 2026 20:28:28 GMT"
-  },
-  {
     "title": "Doers Talks 2026 llega a Torremolinos con una edición gratuita, inclusiva y familiar - El Español",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYmpKUjZOcGI1akhUd2Q2X0d5S2oxdzJCOXRZNDVfNF9GTVRxb0R4c0ZubmxZZ3JmbDg4RXMtWkxVQmtoNE4wRnRGSzBndUY5QWJBMk1JVGtnUzBiWWcwT3EtZjkyMjE3TUtpRXJGQUNkSDRDdTJ3SjZYU0l6X3IwSVl2T2pwcTU0S2NHcU9GcWRlOEdhWVhTMlBlNVFXdWw1OHl3ckdMN1pPTDVoaFlLWEw5WEhrakRxUHY3eVVaWldrRHRtd1JlSnZIekJsNmk5MHJkOXVRZ2VjUdIB3wFBVV95cUxQdVJQUGIxajdScTEtTUZzT0hJVHprQ3pTbEo1RDBNUXFlYTRpZjdfVndFc253bVJ0TjBmWGxfN3FzUnZtZklDQk5qdHZfemgzTzFZOGp1NzNUQ2k0THdVYWFycjZZWXhuYy1hV0o4cERRbW0tZllfQTg3Y1BjbnJnYkhyU1QwME9GVHctQUlZTTd0X0gyQzZTcjRKWjl4dXU2b041V0JkVThHNWRtNjVjVGplZjhmdHpvMUFDRzd4clRUNExZNHdjUVl3LWJ4VndjS2ZTc3RjbjItdTNRYzVZ?oc=5",
     "source_name": "Radar de noticias",
@@ -1622,8 +938,14 @@
     "source_name": "Área de Deporte del Ayuntamiento de Málaga",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "señales de actividad no familiar"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Actividades ???key.formatter.header.toggle.subsections???",
@@ -2081,8 +1403,14 @@
     "source_name": "Museo del Automóvil y la Moda",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "señales de actividad no familiar"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Artes del circo",
@@ -2357,8 +1685,14 @@
     "source_name": "Ayuntamiento Vélez-Málaga",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "regla de exclusión del catálogo"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Obras de Teatro",
@@ -2422,8 +1756,14 @@
     "source_name": "Ayuntamiento Antequera",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Fiesta en honor al Santo Cristo de la Salud - Visita Costa del Sol",
@@ -2556,8 +1896,14 @@
     "source_name": "Mijas · noticias y actividades municipales",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Seguimiento prioritario",
@@ -2749,8 +2095,14 @@
     "source_name": "Fuengirola · Agenda municipal de eventos",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "regla de exclusión del catálogo"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "La Caja Blanca, Espacio de Arte y Creación Joven Programación Auditorio Ficha Espectáculo - Ayuntamiento de Málaga",
@@ -10629,8 +9981,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-92319190E6",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"La Diversiva\" \"feria\" festival \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"La Diversiva\" \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Actividades para niños en la caseta de AVOI del Real de la Feria de Málaga - La Diversiva",
@@ -10642,8 +9996,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-92319190E6",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"La Diversiva\" \"feria\" festival \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"La Diversiva\" \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Grandes espectáculos para niños en el Real Teatro de Retiro",
@@ -10755,8 +10111,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Los mejores planes con niños en Málaga en diciembre: instalaciones luminosas, música y talleres navideños - Sapos y Princesas",
@@ -10768,8 +10126,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Los mejores planes con niños en Málaga en junio: teatro, circo y espectáculos familiares - Sapos y Princesas",
@@ -10781,8 +10141,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Los mejores planes con niños en Málaga en noviembre: Alice Christmas, Imagine, danza y magia - Sapos y Princesas",
@@ -10794,8 +10156,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Planes con niños en Málaga en mayo: teatro, musicales y espectáculos familiares - Sapos y Princesas",
@@ -10807,8 +10171,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Los mejores planes con niños en Málaga en marzo - Sapos y Princesas",
@@ -10833,8 +10199,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Espectáculos de títeres, historias para soñar y otros planes con niños en Málaga en febrero - Sapos y Princesas",
@@ -10846,8 +10214,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Planes y actividades con niños en Málaga - Sapos y Princesas",
@@ -10859,8 +10229,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Planes con niños en Málaga en abril: historias originales y música en directo - Sapos y Princesas",
@@ -10885,8 +10257,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Los mejores museos para visitar con niños - Sapos y Princesas",
@@ -10924,8 +10298,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Museos gratis para ir con niños en España | Plan cultural en familia - Sapos y Princesas",
@@ -11495,5 +10871,653 @@
     "case_id": "CASE-E3D5D410B0",
     "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
     "query": "\"Ayuntamiento Vélez-Málaga\" \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Festival Aéreo Internacional en Torre del Mar gratis para toda la familia - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNExCaGM2NkVNZ0tfYUFXSTFmQ0xVV3B5c2ppdjFLMTZGaHFsQ3VKakFUSjJqdFhIc0Y4Tmxhc3lWeUZWY1FpY2ZOakZad3dOc1JqTk11d0MtVVBWcUZITGVQM0JNX2VNeERwdHBWQ3h1MWNCdHM2b3A4NlRnUzVhVTdXTGxjZFdQbWdkdVFma1MydUMwVHpzR3F0dkxUNVE?oc=5",
+    "snippet": "Festival Aéreo Internacional en Torre del Mar gratis para toda la familia La Diversiva",
+    "published_at": "Thu, 16 Feb 2023 23:23:37 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-FDB703BEE9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+  },
+  {
+    "title": "AGENDA: Torre del Mar acoge este finde el IX Festival Aéreo Internacional - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaHYzOXZ2YU1ZSlo4bVN2eG40TW94d3d1XzNTNTFsVWJkMVgwcFY1VjJFNWhROWtvWVFoRUlscjljdEtFbVpvbnZneGNHbW00dGVmeFhxOV9iNTMxLUFtZnhWUkw5YWpwQ3JEeGxJTlpTZ05ybmZhRUYyeUdUSzdKQ2xuai11d1FoWjFreEVfMGV5UEx6V0sxLW4tR0VGNzFobTF1SjFuTVVyUU9vU2xwS1lTc1hobEJ3QkJUQUpUeERIY3c3SXFuTHlmc2ZjUQ?oc=5",
+    "snippet": "AGENDA: Torre del Mar acoge este finde el IX Festival Aéreo Internacional La Diversiva",
+    "published_at": "Fri, 06 Sep 2024 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-FDB703BEE9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+  },
+  {
+    "title": "Torre del Mar acoge este finde el X Festival Aéreo Internacional - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcldIOVpQdHVYRjRkZVluRmFsaFpRV05oankybTNpX1Z1djZYdXRSLXNnMk1FLUxYTUd1bmJuQUZRVW0tSUJTTnZtWEJPN1RvcmlTWjN2aWFETkpXeDJQSVEzNlhVYXlsa3VJVEkzdTRsSFRTeUNRSGxSV2pXbEN0bzVpa3AtQmQ2OFBsTFg4YjdQNUQ0R3JpZm40bUdmd3Z2UHdCVjhrZGtKMVV6dGw2ak9Valg?oc=5",
+    "snippet": "Torre del Mar acoge este finde el X Festival Aéreo Internacional La Diversiva",
+    "published_at": "Fri, 05 Sep 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-FDB703BEE9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+  },
+  {
+    "title": "Actividades gratis de Navidad para toda la familia en Torre del Mar - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0JuOW4tWmNHdnRkM3lSWDVrc0FDOEJIYV9wU3pDTEN4SUw3ckkwWjhZeGczeFNEUlNVakxVcDFrTDFaVW40aWhrTmdTbFJzRDhQSlRXMl9vUGNhZXUzTjZ0WmRRRjI3WHJPc0VYcDVBTWZzczg4OGNiVnhDd3lNMDFtQ0xqME5iM1htc3ZMUjZOYVVQRjdpVFEyaUItTTRzU0lV?oc=5",
+    "snippet": "Actividades gratis de Navidad para toda la familia en Torre del Mar La Diversiva",
+    "published_at": "Mon, 02 Dec 2024 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-FDB703BEE9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+  },
+  {
+    "title": "Talleres de cocina infantil en Torre del Mar todos los martes de julio y agosto - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHUtVi1LZGZXUmNJWTJxYVNRTFhCelZ0bGVnQVJyMWRoU3Q1RlVLTzRCdzJyM3pJa1g2WWxGRlBEZXltQk1KeTlxLVJyZExIRUVUT0NiZUVTaWdpalVubHlOUk04VFc2eXoxZlNCNnFpZ2prUTgwcjNXREp1MUNCM3RHNTVfT05YYzlQYnQwTWR4ZkZoa3BKSVdTRU9WRGZwY2hxUFlsYw?oc=5",
+    "snippet": "Talleres de cocina infantil en Torre del Mar todos los martes de julio y agosto La Diversiva",
+    "published_at": "Wed, 01 Jul 2026 14:13:02 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-FDB703BEE9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+  },
+  {
+    "title": "Descubre la Playa de la Infancia en Torre del Mar, un espacio especial para niños - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ3liSTlaNTVCSHgtZWlUNG1PbHQ2X0RiOUI0dW5jY2FBVG5MWnhDMlAzdDlCX0JYV3hCaEt5QV94RTdxaFJDSlduc1NjaGdrZTNfU2RSNkhReFpjVjROYzVWQnN1Z2VfeDhZdVVrWnM1UF9MV2IyTXY1Q1RGdW1Yb0hGaTY2Y0ozTUxFLUFGNmNrSmVWU1E?oc=5",
+    "snippet": "Descubre la Playa de la Infancia en Torre del Mar, un espacio especial para niños La Diversiva",
+    "published_at": "Fri, 14 Jul 2017 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-FDB703BEE9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+  },
+  {
+    "title": "Carrera solidaria de color para toda la familia en Torre del Mar - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWdFaG82Qkg2ZnBWanJQZUtDbW8zUkZrd3RZdVh1MlBmWS1jelcyaGZ3SDVEWVRrMUkyUVlCS2tHbklHYThTUU5RVnhIOGYxTXBoQS13endPeVlVbVUybUNSb3gwclhJdXVoR0N1VGdJSnA2Mm1WaHhPT2hnMV9TOGlIYTE2Nm8?oc=5",
+    "snippet": "Carrera solidaria de color para toda la familia en Torre del Mar La Diversiva",
+    "published_at": "Thu, 28 Apr 2022 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-FDB703BEE9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+  },
+  {
+    "title": "Parque Jumanji, un nuevo espacio de deporte para jóvenes en la playa de Torre del Mar - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkNOZ0NEd1B2YjRxd2FINGY1YWVWOHp5SmJYdTNTMDFwNkNEdE1kMkRaWk1Vb2hxVlZaNE1BNmpZSHNVLTdEbkhTVWF6NUNxVVBlRVprY2RYUy1xRXBvNUVZNE5FcjhnLTE4VUx4WGtvX3ZETUo2anRZQ0gwTWNUMG1nYTgwYkZVZ29RakpfTjhYN3JTaHdF?oc=5",
+    "snippet": "Parque Jumanji, un nuevo espacio de deporte para jóvenes en la playa de Torre del Mar La Diversiva",
+    "published_at": "Fri, 17 Feb 2023 13:58:24 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-FDB703BEE9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+  },
+  {
+    "title": "Cabalgata de Reyes Magos en Torre del Mar 2025 - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fVGdRb1QzRnctNV9VMi04WDFKMF9qQTk5NEQzeDJNeWxIVDJFS1gtd1hrMlAxcEdHWW4teXFWMkNNaGgxbGJVYzN5cUduLUJOWUpwWG8ydnlYRVZ5Q3NYYkY5V0hsck0zRnhfeWJvM1h5cEU0ejl2SmRRUQ?oc=5",
+    "snippet": "Cabalgata de Reyes Magos en Torre del Mar 2025 La Diversiva",
+    "published_at": "Mon, 30 Dec 2024 15:16:38 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-FDB703BEE9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+  },
+  {
+    "title": "Cuentacuentos gratis en la Biblioplaya de Torre del Mar durante este verano - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzFlaVVjTDRJYzdUWGs4eUlyS19GUkxFdGV1TXEyV0pGSXpmc2VZX3JZb05TeC11NTlNSmhuenAtMWxWd3dYTHZXTzFLUzlLQms5WGotU3VlektkMDZoY1VEc0M0dFJ1azFzYWFweFhYSWJqTjhQbjBKN09JLTRTaHBSTTR2ZERqYmNLS3B6SVc0OG1jeDhhRk0wUDN6RktPbWc?oc=5",
+    "snippet": "Cuentacuentos gratis en la Biblioplaya de Torre del Mar durante este verano La Diversiva",
+    "published_at": "Wed, 25 Jun 2025 09:04:51 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-FDB703BEE9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+  },
+  {
+    "title": "AGENDA: Visita teatralizada para niños y niñas en el Jardín Botánico Histórico La Concepción (Málaga) este verano - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSGZNdEV6X0JReU9oVHpTVDdsV25Qc1FrQUVIenp3cF8zYzBqSzJuUG93UjNpZzFkTnZMNHpSTXpncmlZbkc4ejYwMW5LRUJUdnA3OW4yRnpRY2tmcnFkTUlIWDQ2Y3JoSEs1UmE1YW5sUVdKUU0xOXJsTVplczZjelMtdERnZTgwV2E2V0xXQ1prRXVEUFc1Um5JQm9qUFVKTUJyOHZHSC1WSjRzNzFuVGM0UXZYNEl5dDMwb3ljY3NHM3YwYnZvOWdpNDJqSkgyQ2lmZ1JOMFNzV3ZJMXdMSzZsczBldmwyZTFWYQ?oc=5",
+    "snippet": "AGENDA: Visita teatralizada para niños y niñas en el Jardín Botánico Histórico La Concepción (Málaga) este verano La Diversiva",
+    "published_at": "Thu, 03 Sep 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-FDB703BEE9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+  },
+  {
+    "title": "AGENDA: Festival Aéreo Internacional en Torre del Mar gratis para toda la familia - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2RpSEp1cDZiSlN4UzFwUWFEMkZFcUE1aWZSc1I4Q3k2eGJrcHpiQTRabm1KWkZHWW90SlUyN1FneHFCVENHNFlnZEhsZDdicXM2bnRDS3VYalVFTTJBQ2F1aWFvRlR5ZlNBZFNlVzV6T3otZHpXSEZ2SFZhQ0dvbld0dVBoVnZhV2lSR0Zrek1tcERWT2xYVllXekNYci1tNmdaVl9IOVVXbUN2UmM1d1NGWndZa1Zz?oc=5",
+    "snippet": "AGENDA: Festival Aéreo Internacional en Torre del Mar gratis para toda la familia La Diversiva",
+    "published_at": "Fri, 04 Sep 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-FDB703BEE9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+  },
+  {
+    "title": "Ciclo de Teatro de Otoño 2023 en Alhaurín de la Torre para toda la familia - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXlmQkliSFBjeUlJRV9HYW15Rmo0dTQwbEhOM1NuTjYtMnVlSF81MkU5OERwMFlvQW1CbGFFa3ZWT2YyaFJGbVpibHdiZE92Y2xKZDJvZUFreUNOdktGMEVPY0E5dU1aSXgxbTNDU1VVb09HMWpRb0JVUHdiUmRpZTNGdFpoOWxEWlExSGpkTkRwRjFpQjB0YmhyRU8zQU5k?oc=5",
+    "snippet": "Ciclo de Teatro de Otoño 2023 en Alhaurín de la Torre para toda la familia La Diversiva",
+    "published_at": "Tue, 31 Oct 2023 16:21:24 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-FDB703BEE9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+  },
+  {
+    "title": "Biblioplaya para niños y cuentacuentos gratis este verano en Torre del Mar - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMkYxdmt4aERpQTNpaDk4NllYZFVJMnV0RWhhVWZteWNzSGlwWjFTdzBMS280ek45WUt5R1RVd04wX1hJSi1nM2lPMTc2UVJQYXZGQXRGV0ZsM05mU3dWOE1tRHhZTXl5NncwbUdoMU9QQUYxYVdvdHZmVHM4MzJta2huQnZJZTdERTVrLVF2YzQ4em8?oc=5",
+    "snippet": "Biblioplaya para niños y cuentacuentos gratis este verano en Torre del Mar La Diversiva",
+    "published_at": "Fri, 17 Feb 2023 08:13:23 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-FDB703BEE9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"La Diversiva\" \"torre\" festival \"Torre del Mar\""
+  },
+  {
+    "title": "SERPeques: Feria de Málaga, espectáculo y talleres para toda la familia - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONC1JXy1FUmR1NGlPMzRxN3c1ZENHVVdHcVZMQ05wWE9KYmk2M2hYTUpDdjlsbXotLURsbnV0RU51cV9HNEJyYllaeUN0bm9nZmpBNnJlVzB3VmRVSVJVSVk3LW5PYmM1NVN0NHR0QVhFb3BpU28xeXRYanBybmVCcGRSdjdXQjhiREpuSzhBY21mRE1rWURtMnVR?oc=5",
+    "snippet": "SERPeques: Feria de Málaga, espectáculo y talleres para toda la familia La Diversiva",
+    "published_at": "Fri, 14 Aug 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "Brisa Festival Málaga 2025 con entradas para los más peques - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmwzbUNrSWtObEYxT09aZDRmb193ZFNaWGdRN3pBZS1uR1ZkU0pmYnQ1UnpzMFBfYkFxa0llUUVuVXdZR2Z4MTBCME9rVE1zWV9UbUZYWExtSTA4MDZyTG1MS015dzlRYjVwcDNIUG1RNWZSSTBWSWlBNXhISGZqMmN5S1dITG45TXQ4Rw?oc=5",
+    "snippet": "Brisa Festival Málaga 2025 con entradas para los más peques La Diversiva",
+    "published_at": "Mon, 23 Dec 2024 11:10:32 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "Feria del Libro de Málaga: Actividades gratis para niños y firmas de novelas - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNblZoazZmTlVuMjJKOEtGbFg5aXl6djhVQ2lMZ1JOLTZ3eVNJYzUtcHBROXc2aFNxRWM2MGtHYWpYYXU5UG5VRjBQVVJwUVZoMnpUSi1hY0xkTnB0SjJOSXgyRnhGNGd0R212NjRMU2k3YUFWVVNreEdEUVRnUjBna0JrbFA1UzdOVmFZR3d1UWdLVXh5?oc=5",
+    "snippet": "Feria del Libro de Málaga: Actividades gratis para niños y firmas de novelas La Diversiva",
+    "published_at": "Thu, 18 Apr 2024 08:45:40 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "Festival Málaga - Actividades para niños en Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50WmtiX19qX3ZHek9WUmJfRElNRkJKSVAxWVBlUXFLVGZrRFZSUk8yZzRSUGNjbHhqbVZmR1FtOWp6QVRaa01PNnBFSm85bHM?oc=5",
+    "snippet": "Festival Málaga - Actividades para niños en Málaga La Diversiva",
+    "published_at": "Fri, 17 Feb 2023 07:32:55 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "Disfruta de la Feria del Juguete Moderno y de Coleccionismo en Málaga con La Máquina Imaginaria - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWkt5QlFHYTZYdUNsQW1lRmhSOTZFSzM2SnkwVkpGUU5XY1FnVEw1VFRHeGFEQmpjVWhscEFPbHp2enpFbFE5WmFNUklLOEVuVWQwUW5RMTh3bHM5TUdCcVNzRnZMUlpEc0RuRzZZNkNycGRuUnFnVHJsRnFRYzVFX1FlMGZLekdnRWpCZ295VW94UlUyRWl6NS1PenplcnRVbFBTM2Q3ekFkZ2IxSUUxOS1IUnp5aF80?oc=5",
+    "snippet": "Disfruta de la Feria del Juguete Moderno y de Coleccionismo en Málaga con La Máquina Imaginaria La Diversiva",
+    "published_at": "Mon, 20 Mar 2023 08:55:14 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "3º edición del BREIKI Electronic Festival para toda la familia en sala Santa Rita, Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQW16TmtubHUwRFRJRnpldFJoQno2UVlaOWdRNjdQWllmN19fTE12Q3NYaE5mTnZLZmY2MloxZGwyVUtVblM4VldPaVM1V2lqQllFT3VGZWpjZXJDNjhnamxqeXJvY2FzRlAtNTVSYWpuNHZJc1ZMUFdPelVHNmxTZTZTSXF6UGZYaUZUc2RLVHZYVTA4S1loTXVNWkh1eGg4UlJNSlkzSmFiLURJbk1nUkViYw?oc=5",
+    "snippet": "3º edición del BREIKI Electronic Festival para toda la familia en sala Santa Rita, Málaga La Diversiva",
+    "published_at": "Thu, 10 Sep 2026 10:03:26 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "Feria de Benalmádena pueblo con actividades para niños - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbnpDN1F6VF9FWEwtb2lNUWk0SGp4TzZSN2NHR29JWEZLbUtvNFc4a21MbGpYS0RsM2ZZZHZQbWhYMGpfYjFGd1B3bndPS3dBbWlzODJJZ1Q5RmEtSUJGanh3TEtjQ2VqODVlWTR2WVAtTkdQaUVZYnRnQkhhT1o5cDVrUU5KZw?oc=5",
+    "snippet": "Feria de Benalmádena pueblo con actividades para niños La Diversiva",
+    "published_at": "Fri, 13 Apr 2018 19:58:13 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "⇨ MIMA Málaga en Navidad: actividades y espectáculos para toda la familia - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORkQ4ZnJCZmpJYUhEbWs3RTJMdzFQLXdsSkE2d3hnQVBhWFZ3WTQtQVhZcE9hSmY5eFlfOHdsWjVxcWtQdXhqdlBScXI3c0RCdk9IT0pWR0NBeHZoa3QyenkwMUtGTTExcDg4UjJfVkJLRE1sYXRCajV5QkJvUXpPdGd6dw?oc=5",
+    "snippet": "⇨ MIMA Málaga en Navidad: actividades y espectáculos para toda la familia La Diversiva",
+    "published_at": "Fri, 17 Feb 2023 01:31:25 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "Feria del Juguete Moderno y de Colección en el CC Rosaleda Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONDZ4Q2UtWU53Y2Jpc2VTUDVxSk94cjJRSXZCQ0Zud3pQdnNZLUd0LURnNUpHMjRMQVhnOV9hUFluNkpkcUxYSjdnMWtVc2N4Ym5JVjBtQWtUcjhSZENjV0FYVDNHeUljcFR5MXpKOHNyUHhUSk9nNkJlVTFhQ01wLTBaT1JhQms1REI5WjhucERIck05?oc=5",
+    "snippet": "Feria del Juguete Moderno y de Colección en el CC Rosaleda Málaga La Diversiva",
+    "published_at": "Mon, 15 Dec 2025 09:36:07 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "Espectáculo para niños y para toda la familia con El Circo del Sol en Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdk9ZQk4yUUZzM0lzUzNUWGxrZUR6MDd3ZWhhdlBKOUlhNEdrai11YXpaX0FrSlZTZHRCcFVmQWhPaUxxRmNGUjRrbzZWeG5OcldOSW9mTGdnSXVyUUVWcFFhanRuSWQyQ19pTDlhTDItNEt6ZVY4Y1VnVmRPNEN3a08tTGhDd2hUWGh5Yy1oQUx6RUZyb1NrRHQxYXhhM1IwSzZR?oc=5",
+    "snippet": "Espectáculo para niños y para toda la familia con El Circo del Sol en Málaga La Diversiva",
+    "published_at": "Thu, 28 Sep 2023 10:02:56 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "¡Chocoland! El Festival de la Navidad del Muelle Uno - Actividades para niños en Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbU84N290bU5CdGFmSm5Ka1hHN0dUSkVHWlI1X3NJN0FmOGNBQXpuN3VNY213aEY1WUR6MnhFell0R0xDRDFoTVE3MFNzRFUwcGhNUmxsWkN5TjYyZV9tc3YydGlVYkpJM0plSC1YcTNSOTRBSzkwM3VZN3lkYzJJOA?oc=5",
+    "snippet": "¡Chocoland! El Festival de la Navidad del Muelle Uno - Actividades para niños en Málaga La Diversiva",
+    "published_at": "Fri, 15 Nov 2024 11:32:27 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "Festival de la Luna Mora 2018 de Guaro con niños - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvZXBNYi1SSGxTSW9jOFFWcFExNWNrSTN0ZzdzZEQzSDhOSUFHcnVzODlvbWdfQ281VlF4d0tKUjE3VFh1U2FWTV9WLUhYazF5SU11TGlRSUxSX1BGdHZ6TEl2WlhDVGdWQnBsTjIxMDI?oc=5",
+    "snippet": "Festival de la Luna Mora 2018 de Guaro con niños La Diversiva",
+    "published_at": "Fri, 17 Feb 2023 02:14:08 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "La XX Fiestas Marineras de Huelin 2026: todas las actividades para disfrutar en familia - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb2Q0c0FZWHdPZlB2WG1jdTVEZkctR3NmN1ZtQjRtTFcwOGdFVVJwb2JiQ1FHTmhmX2piN3JYdmVaazdaQml2cXlSX3FYUkR0S045WmhqWGF0ZUt3UktmQi1XWkstM0xmcDQ3QUFId1ROZWNQU1BQQmkwUkpvM25FR0dWT2gzTWloTzctRldYZS1oXzZyV2pLZmhtaWg1Ul92eFR2cm5hQm1FYmhlaU9mTg?oc=5",
+    "snippet": "La XX Fiestas Marineras de Huelin 2026: todas las actividades para disfrutar en familia La Diversiva",
+    "published_at": "Wed, 15 Jul 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "Cine de verano 2026 gratis en Málaga para toda la familia - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOalFwRFRPSXl1Ym5DYlpKdEc0VzF0ZTZjLXdCZk43bGZHLXJ0Y3BHczNXdGxFWER4Zmp2SVk5ZHhUWE12Nk9rMVJzVXlJLUVkUUFyczRMZlJLNEJNOHR6NVlFbFZQTS0tWC1pZW9GOVI0N1dLWVpDLWRtbWdkY290SHZzd1V3Y01TUnc?oc=5",
+    "snippet": "Cine de verano 2026 gratis en Málaga para toda la familia La Diversiva",
+    "published_at": "Wed, 17 Jun 2026 08:39:11 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "Cine de verano 2025 gratis en Málaga para toda la familia - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaThPZ051Qm1vLUVmWDhrcHhwY3p6blFsbzY1UEJzOTc5RGVZV0J4SnRVOHNMcjlKclZIQWJ0MHVDRzhIQkRBU1lFWG5lTGpuY0U5RWFzVVAybEI1NXBCcy10cHZXeTVoNm9weTZpSVo4T0M5aUs5SDk4R0FSczYtN0ZGaEp3WVBrR2c?oc=5",
+    "snippet": "Cine de verano 2025 gratis en Málaga para toda la familia La Diversiva",
+    "published_at": "Mon, 16 Jun 2025 12:36:16 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "Los domingos en el Eduardo Ocón: obras de teatro gratis para toda la familia en Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3FHWDZNMzFORlhLd2lKdFBqVGdCUXNzY01MNHBXZDlEbG9DcGh5UDAzVmVUSDNWRm5iR29JSlFmelplWWc3MlNYenpyeDRnM2hIbHotSktadkViLWIzQmMzYWctQ1FIS2NDYVM1WC0yM3ZEWkdDMjRVMTVmZl8zakJmT0hJaEM1Y1d2LWNVb01pcGJON0xGWEI3d3R4RmJFWHh2djBHU2ktcHlZcmdF?oc=5",
+    "snippet": "Los domingos en el Eduardo Ocón: obras de teatro gratis para toda la familia en Málaga La Diversiva",
+    "published_at": "Wed, 23 Apr 2025 14:36:31 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "Festival de la Luna Mora 2019 de Guaro con niños - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNWmhnUGFrUDRCZDFNRDFHcHNHLWtTb0F4a2Q3TGMyX2NwdHpSMmJkSzNhbExVMGxUSW9SVUNmWlNGcFE5MUFWSWt6V0UyVVM5cUg0REdJM1BsM0Y3OEN0Q1NxUDdvd3ptZGNsQm14by0?oc=5",
+    "snippet": "Festival de la Luna Mora 2019 de Guaro con niños La Diversiva",
+    "published_at": "Fri, 17 Feb 2023 05:16:25 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-64E2DD9270",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\""
+  },
+  {
+    "title": "👨‍👩‍👧 Teatro infantil",
+    "url": "https://teatromalaga.com/con-ninos",
+    "snippet": "📅 Agenda cultural 👨‍👩‍👧 Teatro infantil 🏘️ En los pueblos 🗺️ Mapa 🎪 Qué hacer este finde 💎 Joyas escondidas 🎭 Otros planes 🏨 Hoteles económicos",
+    "source_name": "Teatro Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-24A7590DD9",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "18 oct Teatro infantil Con Niños EL GRAN BAILARÍN Del 18 oct al 18 oct 2026 Teatro Echegaray · Málaga",
+    "url": "https://teatromalaga.com/cartelera/el-gran-bailarin-echegaray-malaga",
+    "snippet": "18 oct Teatro infantil Con Niños EL GRAN BAILARÍN Del 18 oct al 18 oct 2026 Teatro Echegaray · Málaga",
+    "source_name": "Teatro Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-24A7590DD9",
+    "first_seen": "2026-10-18",
+    "status": "verificada_con_fecha",
+    "review_reason": "Evento con fecha y lugar estructurados.",
+    "last_checked": "2026-10-18",
+    "review_priority": "resuelta",
+    "verification_method": "json-ld",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "evento estructurado con fecha y municipio"
+    ],
+    "verified_event_ids": [
+      "EVT-E47F419D6238"
+    ]
+  },
+  {
+    "title": "18 oct Teatro infantil Con Niños EL BAÚL DE LAS FÁBULAS Dom · 12:00 h La Cochera Cabaret · Málaga",
+    "url": "https://teatromalaga.com/cartelera/el-ba-ul-de-las-f-abulas-la-cochera-malaga",
+    "snippet": "18 oct Teatro infantil Con Niños EL BAÚL DE LAS FÁBULAS Dom · 12:00 h La Cochera Cabaret · Málaga",
+    "source_name": "Teatro Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-24A7590DD9",
+    "first_seen": "2026-10-18",
+    "status": "verificada_con_fecha",
+    "review_reason": "Evento con fecha y lugar estructurados.",
+    "last_checked": "2026-10-18",
+    "review_priority": "resuelta",
+    "verification_method": "json-ld",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "evento estructurado con fecha y municipio"
+    ],
+    "verified_event_ids": [
+      "EVT-A5EC6ABA8B9B"
+    ]
+  },
+  {
+    "title": "25 oct Teatro infantil Con Niños ÚNICOS Del 25 oct al 25 oct 2026 Teatro Echegaray · Málaga",
+    "url": "https://teatromalaga.com/cartelera/unicos-echegaray-malaga",
+    "snippet": "25 oct Teatro infantil Con Niños ÚNICOS Del 25 oct al 25 oct 2026 Teatro Echegaray · Málaga",
+    "source_name": "Teatro Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-24A7590DD9",
+    "first_seen": "2026-10-18",
+    "status": "verificada_con_fecha",
+    "review_reason": "Evento con fecha y lugar estructurados.",
+    "last_checked": "2026-10-18",
+    "review_priority": "resuelta",
+    "verification_method": "json-ld",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "evento estructurado con fecha y municipio"
+    ],
+    "verified_event_ids": [
+      "EVT-114B41ADBEC2"
+    ]
+  },
+  {
+    "title": "25 oct Teatro infantil Con Niños JABETÍN TEATRO LOS TRES CERDITOS Del 25 oct al 14 nov 2026 La Cochera Cabaret · Málaga",
+    "url": "https://teatromalaga.com/cartelera/jabet-in-teatro-los-tres-cerditos-la-cochera-malaga",
+    "snippet": "25 oct Teatro infantil Con Niños JABETÍN TEATRO LOS TRES CERDITOS Del 25 oct al 14 nov 2026 La Cochera Cabaret · Málaga",
+    "source_name": "Teatro Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-24A7590DD9",
+    "first_seen": "2026-10-18",
+    "status": "verificada_con_fecha",
+    "review_reason": "Evento con fecha y lugar estructurados.",
+    "last_checked": "2026-10-18",
+    "review_priority": "resuelta",
+    "verification_method": "json-ld",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "evento estructurado con fecha y municipio"
+    ],
+    "verified_event_ids": [
+      "EVT-9096077F0F92"
+    ]
+  },
+  {
+    "title": "Espectáculos y obras de teatro para ir con niños - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2pIUTBOR3hGWWg3TnNGdjVXU2lweGtiRUkxNmNmMnAtT05iV2hsMWVOd0NKUTBuOENYMFk4eUJRcHFxSlNkWHpadXZaMUo5ZWFRXzlaX3ZWZlM0MVRJeFVvSlFWZ3U3eHppbjBBalk5aVhJSDc3ZV9KTzFXVmtuaTk5Ri1BQQ?oc=5",
+    "snippet": "Espectáculos y obras de teatro para ir con niños Sapos y Princesas",
+    "published_at": "Sat, 31 Mar 2018 21:59:27 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-24A7590DD9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"ninos\" teatro \"Málaga\""
+  },
+  {
+    "title": "Centro de Interpretación del Teatro Romano de Málaga - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdEd6RlNzS0NPUmI4bnQ0TVEzRm1XUjlwYTJRNnNtN3BCaEdUcng4TXk4T21nNUFjN1VUOUhLVDRoOUx2ckZWTEcxdy1DTm4wQ1p6aEw4cldXVEkyeHNsTjd6Q1NPRTdLVFBJQ3QwdFJWUE5aZWI0UGRMQ3ZzY3pmTjd2SG5yejVIMGxLMHFrVUE1NGpPQnYtdWtVN0RXQUZTUEJaRlRKakNRa0twdHRhQWRHTE1JcnBJTVVBUlc2cmlzajVQc2c?oc=5",
+    "snippet": "Centro de Interpretación del Teatro Romano de Málaga Sapos y Princesas",
+    "published_at": "Mon, 17 Jun 2024 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-24A7590DD9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"ninos\" teatro \"Málaga\""
+  },
+  {
+    "title": "Los siete cabritillos | Teatro de títeres para niños en Málaga - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcW1NOUF6RkJpQ3FscnV1azdnQmRLRkdpd09uWlROU1hQVjl2RVBUZWEzZ3h1dF9iUTFDeXc0TWtLSmhjS3pfc1VvcDZkZllQVEs5WDBFXzFyZlhQOHVJTU54ODJhNmZ4RlZEV1J0cVB4V1hVMXhXZ3plZDBESUJEbzhncHJCa21MZTlJTnlJWWJBeENRaldvNkR0ZzVzUk90alRv?oc=5",
+    "snippet": "Los siete cabritillos | Teatro de títeres para niños en Málaga Sapos y Princesas",
+    "published_at": "Sun, 15 Jun 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-24A7590DD9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"ninos\" teatro \"Málaga\""
+  },
+  {
+    "title": "Roberto Enríquez vuelve al trabajo con la obra de teatro 'Málaga' tras ser padre de dos niños - Bekia",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3pxN3lvWWJZeVdxcnc2ZE9JeWh1aDBwRFJBZGItQURHWGhma2NxcUNIc2ZuQTJUS1hiMlJYajFYN0RhbVg2THNsbHdrdG80aENDM2NTSTQwU0F1ODJyeVRzb2ZYSkZGSGVzUEh0U1l0NHZveGk2OWNLWGRtMG9TN3Y1WEgydmFKd3hNeU94aE5EcEVuOFZoT3ViWEtTQ09TdS16WUdFVHk?oc=5",
+    "snippet": "Roberto Enríquez vuelve al trabajo con la obra de teatro 'Málaga' tras ser padre de dos niños Bekia",
+    "published_at": "Thu, 31 Jan 2013 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-24A7590DD9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Teatro Málaga\" \"ninos\" teatro \"Málaga\""
+  },
+  {
+    "title": "Planes con niños en Málaga: circo, teatro y talleres gratis - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWJfNTE3YVhJc2pFemZReWRGRUJXWGJyeE5IbVVkN1lMQmZVM21Qb2RpdmpkRFJVQmtFdGZ4cU1kNGN3VlpKWldEZW1OeFo4MjdzekoxbndMRWN2Z09uTkxNc18welU4amRucHpESy1yWU44NDZoYW5vUGZ4Z2VKVHpUODMzNXdZSW5ldWFtVzBZYnpVMTF5YzhjSzNsM01wN25QSlY0Ul94Y2vSAbABQVVfeXFMUEoyT0h1bUJvMXVyNmpfX2tlM29vQ0tCRXNnZldMVUFpTU9lNHNfOXJHMEdPRVJmQzZ5cTdCNFVZVjhpRXZ4X2dQMC1QR2FvdHlPUXppYlB1RmFib1pjaGJ5VTQ2QlQ5UjI3YW9Cd1ZhQzU2SXZndnhxS2kwRGRsakE3UzRXelRCYmliMDQ5S1Qxc0t3ZEthV0phVFpUTWJqb2hUMmRsSHBGeGE1YjIzSFA?oc=5",
+    "snippet": "Planes con niños en Málaga: circo, teatro y talleres gratis Diario Sur",
+    "published_at": "Fri, 19 Jun 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-24A7590DD9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"ninos\" teatro \"Málaga\""
+  },
+  {
+    "title": "El mejor plan para hacer con niños este fin de semana: teatro infantil con títeres, 'Yo, Tarzán' - Málaga Hoy",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0pNWFQ1SmVHa3hnUUd3cUdJWE0zcG45am4wNGJFQ2tJUlc4WGcyM0tPZ3NKaGpVdUswc0x4M3Nibk5jTGFXMVoxdnREODVZaEZJNDl5UVEwY2Z2QWtvOTVBUm5EelpNWElLZ29sVGRmWHpmdkZENU4zOGVmamMyb3dreWdjUHgzWlZSODB6SVFvOU8tU3ZDb3RqdnprVERBa0xHZGNjeTFJanPSAbABQVVfeXFMUF9idUtBek5VUGlfa0t2TlpoYVMwVk4zR2dRMDR0TzhNR2VPcGFtQlJZbmU3eUFDNkxMOERCNW9FOXJQSHlzdHh0RGxhdklRRVhvYWNieFBaUmI2bzhXeUZEQVMxTDY1OTd4SE9iZDVFWDhBUzlTZ1l2TVJaYjZoRVJ6NUpkTnJOejJoS0dUUF92SjhpTnppS0ttSGxabDBhRHV2R040QVc1a3pLNU12RW0?oc=5",
+    "snippet": "El mejor plan para hacer con niños este fin de semana: teatro infantil con títeres, 'Yo, Tarzán' Málaga Hoy",
+    "published_at": "Wed, 10 Dec 2025 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-24A7590DD9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"ninos\" teatro \"Málaga\""
+  },
+  {
+    "title": "Mucho teatro para disfrutar con niños del fin de semana en Málaga - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVlDNE00NVQtYVRlN0dWb0Y5clgyRWhicHVGWGRFelo3LW9aSEE4V3E5T0V4MTh3RDNDSlZHaFdqeEJMbUJsYmQ5SXZRN1I1NFBXcXFySHkzb0xvYzN3NDV5d3R3U2FjUDNZc2FVaE5PczNwQ2ZEZUtleXRwUkRhem01RDJoeWUwLWZBd0hZQ3VWdjFCd1Q5eTl3WXJqQdIBowFBVV95cUxQNzlSTnFqRWpjRWVJNEFJSS1sZHBlZDhmekNMMHFxNk1Tb2RvU0lVREdtdC1GR0FtWUNYVDgwSHdsaUxJREpDNE9TaktNQi1fSlJBLWZVUWZyU19qTmFMRXA5eGwzUEpjQXF6Vk1qLUdlUmFWQ3djbll2emVyaURwNEFZb1RXUzBMV0F3UDlUM2JHR2YtNTBZM1BMXzJKbl9oSWgw?oc=5",
+    "snippet": "Mucho teatro para disfrutar con niños del fin de semana en Málaga Diario Sur",
+    "published_at": "Thu, 07 May 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-24A7590DD9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"ninos\" teatro \"Málaga\""
+  },
+  {
+    "title": "Un nuevo espectáculo de circo y mucho teatro para niños este fin de semana en Málaga - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNjd6QkhWOFlSQzdWbmZqUVRsVVVLUExMdWRtLTBHbTBXbHVvTVBPM0wySGxmYUpUVW1pZHh3NF9NVXg4clB1V1dNWE81UEtpZEJ0NW9KMFVYZUxzT3oyZnRYVmM2UGxVMk9RVUFwUmZOX0I1SE5wWGpONkwwNmlhS1gwNHJxdFRSXzFyWEFldzFTekpoZjVzb3BVSGc4UdIBowFBVV95cUxOMXM5SmNla0gxZ2pHbFFScWV3Z1VLdWoyZDduTDNCQnJmZGs5d1JwUG95YXFoRDV2ZGJZY0tPb2xVaVRLZDQ1RHFIa1N3VnN3V2ZoanF0SE1wZzFOdXl3aHVvMzVKTTktZDhJcE5aSDVWYkZyWk9JRTRTVWhCbGVuWWxhdUxWQ2JRX2RSSEc1LThCVUtrc0dudGZkRGluN0c2ejY0?oc=5",
+    "snippet": "Un nuevo espectáculo de circo y mucho teatro para niños este fin de semana en Málaga Diario Sur",
+    "published_at": "Thu, 19 Feb 2026 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-24A7590DD9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"ninos\" teatro \"Málaga\""
+  },
+  {
+    "title": "'Teatro en Familia' ofrecerá actuaciones gratis para todos los públicos en el recinto Eduardo Ocón - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa2JyOUFMVWxLcS1hQUlOa0ltaEVIUFpWdEFRUGF6ZmJKT2JtNlU3WWhudTBSNWpKTV9kcHNEMV9RRGhxckNGXzdpOHJRS2xFRnpyWGxlSDRpay1pbUJ5M0hiaE5nNFctV29vYWx3WlhpcEQ2SUJ0d2t3alFSWko4NS1VdS1TQ0g2MGl5QjFZcm5YSi1oTW1mMTdNRVlXQUY2WVRr0gGoAUFVX3lxTE1RM2xpMG5ReThJSVBUWVhVUkpXYjAxZS1KcmFldXpYSnYyLUpObjlpM1RpSVJsRDlLVzZYMEhrdkhXYjlnOTVVWURLU1ZwZHZRRzhRY203czNabzdTN0FSNE0ybGotYURlMUtBbGJnU3hUcHVCM1MxZm5DTUxYb1ZZdEViQXQtQXdGWkZEUHVXZGpDUXd6T1ZMd28xTEc4aXUzZ2J1R3hTLQ?oc=5",
+    "snippet": "'Teatro en Familia' ofrecerá actuaciones gratis para todos los públicos en el recinto Eduardo Ocón Diario Sur",
+    "published_at": "Mon, 20 Apr 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-24A7590DD9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"ninos\" teatro \"Málaga\""
+  },
+  {
+    "title": "Actúa Emoción Escénica: clases de teatro para niños y niñas en Málaga para el curso 2025/26 - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUllJcnRXaTBuRFhlV1ZjSjE0bVZwNTdjcU1LYnMwLWlJaTd0dXNZRTY5ejlKckt6Xy1OYXRlaGt2S2RWQTJJMGl3SEdNanVBSldVTko2NjFtaGdqcWs0YThmOGZUaHktd2YxdWU4RTdWbXRuY2Z0bDhKNU82SU93MlpKWVlfRGZGU2lFZEVoX1VSTHliem9oMXNoMHVlTklhX19kelhlTVpyNXg5NWV6OXBwQQ?oc=5",
+    "snippet": "Actúa Emoción Escénica: clases de teatro para niños y niñas en Málaga para el curso 2025/26 La Diversiva",
+    "published_at": "Thu, 11 Sep 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-24A7590DD9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"ninos\" teatro \"Málaga\""
+  },
+  {
+    "title": "Teatro, dinosaurios y más planes con niños en Málaga en el ecuador de diciembre - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTElEUGNpa3pVOVhtcDdjZlZhQ0EwbnJXMkstbXhMdkJCUmdSY1QtdjBGM2JRSFoyY3hRTHhRNzJ0SndNQlFwajg1US1qaWZvT3hGZG9CRG94Nlh6UVc2V21lMkdCTGIyYTVOZ0xfTU5XbmZ0TThsQTV1emY1VjIxbndRbTV1MjB5SGtyN0Z1YnFlTm1Rbm5pTlBSQ1Z6bk9EMGtZ0gGoAUFVX3lxTFA0X3JMbFo0b3pGUE05NDdpdG1FYmxxaFE3ME1KT1RrY0Fza0Y0SnFDVEV1LUtaajdJOThDSXZBUUpiYnhUcE0xRkdWT19qMGIyX0V5aExfc0hWQU1yMkZ2UXFRVXRrOWpXRWg4T20tcXVDLVVEb1JGdWRkS0xsbS1HLUl6Y1dSV2RKdUNhY0xidGpaeXlLdmw3T0kwR0lpaFZucWVKc3hnSw?oc=5",
+    "snippet": "Teatro, dinosaurios y más planes con niños en Málaga en el ecuador de diciembre Diario Sur",
+    "published_at": "Thu, 11 Dec 2025 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-24A7590DD9",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"ninos\" teatro \"Málaga\""
   }
 ]

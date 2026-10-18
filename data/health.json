@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T02:07:43+00:00",
+  "generated_at": "2026-10-18T02:11:33+00:00",
   "level": "attention",
   "events": 96,
   "sources": 70,
@@ -8,8 +8,8 @@
     "events": 96,
     "sources": 64
   },
-  "discoveries_pending": 392,
-  "discoveries_unresolved": 723,
+  "discoveries_pending": 426,
+  "discoveries_unresolved": 726,
   "unverified_events": 3,
   "known_age": 31,
   "sources_never_checked": 6,
@@ -62,14 +62,14 @@
   ],
   "last_full_scan": "2026-10-15T10:06:50+00:00",
   "days_since_full_scan": 2.7,
-  "last_radar": "2026-10-18T02:04:44+00:00",
+  "last_radar": "2026-10-18T02:08:27+00:00",
   "days_since_radar": 0.0,
-  "last_verifier": "2026-10-18T02:06:26+00:00",
-  "cases_total": 387,
-  "cases_to_investigate": 117,
-  "cases_high_confidence": 34,
-  "cases_stale_high_confidence": 20,
-  "last_case_investigation": "2026-10-18T02:05:33+00:00",
+  "last_verifier": "2026-10-18T02:09:54+00:00",
+  "cases_total": 382,
+  "cases_to_investigate": 120,
+  "cases_high_confidence": 36,
+  "cases_stale_high_confidence": 16,
+  "last_case_investigation": "2026-10-18T02:09:23+00:00",
   "age_missing": 65,
   "municipalities_with_events": 14,
   "coverage_by_town": {
@@ -91,6 +91,6 @@
   "alerts": [
     "11 fuentes con error en su última consulta",
     "6 fuentes aún sin primera revisión",
-    "20 casos de alta confianza llevan más de 48 h sin resolverse"
+    "16 casos de alta confianza llevan más de 48 h sin resolverse"
   ]
 }
