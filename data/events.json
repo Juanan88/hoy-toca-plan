@@ -3867,6 +3867,45 @@
     "secondary_sources": []
   },
   {
+    "id": "EVT-6F675E1566E3",
+    "title": "Navidades mágicas. show familiar",
+    "start": "2026-12-26",
+    "end": "2026-12-26",
+    "time": "20:00",
+    "town": "Málaga",
+    "venue": "Sala Mirari",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "12 EUR",
+    "duration_minutes": null,
+    "address": "Calle Luis Carreras 7",
+    "reservation_url": "https://salamirari.com/reservar/?evento=543",
+    "field_sources": {
+      "address": {
+        "source_url": "https://salamirari.com/espectaculo/navidades-magicas-show-familiar/",
+        "quote": "Calle Luis Carreras 7",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      },
+      "reservation_url": {
+        "source_url": "https://salamirari.com/espectaculo/navidades-magicas-show-familiar/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Sala Mirari · magia familiar",
+    "source_url": "https://salamirari.com/espectaculo/navidades-magicas-show-familiar/",
+    "status": "publicada_en_fuente",
+    "details": "Navidades mágicas es un ciclo de espectáculos de magia para toda la familia en la sala Mirari.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T12:05:16+00:00",
+    "origin": "json-ld"
+  },
+  {
     "id": "EVT-TXT-6DCE98AF22",
     "title": "Talleres en Semana Blanca en el Museo Picasso | Agenda Cultural de Andalucía",
     "start": "2027-03-03",

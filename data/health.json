@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-18T11:50:37+00:00",
+  "generated_at": "2026-10-18T12:09:41+00:00",
   "level": "attention",
-  "events": 98,
+  "events": 99,
   "sources": 72,
   "catalog_drift": true,
   "last_scan_snapshot": {
-    "events": 98,
+    "events": 99,
     "sources": 64
   },
-  "discoveries_pending": 626,
-  "discoveries_unresolved": 748,
+  "discoveries_pending": 657,
+  "discoveries_unresolved": 727,
   "unverified_events": 2,
   "known_age": 32,
-  "sources_never_checked": 8,
-  "sources_failed": 11,
+  "sources_never_checked": 0,
+  "sources_failed": 13,
   "source_errors": [
     {
       "name": "La Diversiva",
@@ -58,22 +58,30 @@
     {
       "name": "La Térmica Mini · programación infantil (agenda oficial)",
       "detail": "521 Server Error: <none> for url: https://latermicamalaga.com/la-termica-mini/"
+    },
+    {
+      "name": "Entradas.com Málaga · espectáculos",
+      "detail": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "name": "AVV Teatinos Ciudad de la Justicia",
+      "detail": "robots.txt no permite o no pudo comprobarse"
     }
   ],
   "last_full_scan": "2026-10-15T10:06:50+00:00",
   "days_since_full_scan": 3.1,
-  "last_radar": "2026-10-18T11:47:18+00:00",
+  "last_radar": "2026-10-18T12:06:21+00:00",
   "days_since_radar": 0.0,
-  "last_verifier": "2026-10-18T11:48:45+00:00",
-  "cases_total": 434,
-  "cases_to_investigate": 25,
-  "cases_high_confidence": 23,
+  "last_verifier": "2026-10-18T12:07:58+00:00",
+  "cases_total": 412,
+  "cases_to_investigate": 27,
+  "cases_high_confidence": 24,
   "cases_stale_high_confidence": 0,
-  "last_case_investigation": "2026-10-18T11:48:33+00:00",
-  "age_missing": 66,
+  "last_case_investigation": "2026-10-18T12:07:37+00:00",
+  "age_missing": 67,
   "municipalities_with_events": 14,
   "coverage_by_town": {
-    "Málaga": 58,
+    "Málaga": 59,
     "Fuengirola": 10,
     "Benalmádena": 8,
     "Torremolinos": 4,
@@ -89,7 +97,6 @@
     "Mijas": 1
   },
   "alerts": [
-    "11 fuentes con error en su última consulta",
-    "8 fuentes aún sin primera revisión"
+    "13 fuentes con error en su última consulta"
   ]
 }

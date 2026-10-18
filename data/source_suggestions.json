@@ -25,5 +25,14 @@
     "approved": false,
     "status": "por_valorar",
     "first_seen": "2026-10-12"
+  },
+  {
+    "name": "Agenda Cultural Málaga Leer",
+    "domain": "agendaculturalmalaga.com",
+    "url": "https://www.agendaculturalmalaga.com/recomendamos",
+    "reason": "Enlace relevante detectado en salamirari.com",
+    "approved": false,
+    "status": "por_valorar",
+    "first_seen": "2026-10-18"
   }
 ]

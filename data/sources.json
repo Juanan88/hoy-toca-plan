@@ -919,7 +919,7 @@
     "priority": "Alta",
     "url": "https://salamirari.com/",
     "approved": true,
-    "status": "pendiente",
+    "status": "consultada",
     "notes": "Programación familiar de magia. Priorizar funciones marcadas «En familia» y páginas oficiales de reserva; comprobar edad mínima, precio, horario y estado de plazas.",
     "max_links": 12,
     "watch_urls": [
@@ -927,7 +927,9 @@
       "https://salamirari.com/reservar/?evento=527",
       "https://salamirari.com/reservar/?evento=546",
       "https://salamirari.com/reservar/?evento=532"
-    ]
+    ],
+    "last_checked": "2026-10-18T12:05:08+00:00",
+    "events_detected_this_run": 1
   },
   {
     "id": "SRC-066",
@@ -937,12 +939,14 @@
     "priority": "Alta",
     "url": "https://juventud.malaga.eu/es/la-caja-blanca/",
     "approved": true,
-    "status": "pendiente",
+    "status": "consultada",
     "notes": "Fuente oficial del Área de Juventud. Revisar programación mensual, auditorio y actividades familiares; no incluir automáticamente propuestas exclusivamente juveniles/adultas. Verificar fecha, público, precio y reserva.",
     "max_links": 12,
     "watch_urls": [
       "https://juventud.malaga.eu/es/la-caja-blanca/"
-    ]
+    ],
+    "last_checked": "2026-10-18T12:05:08+00:00",
+    "events_detected_this_run": 0
   },
   {
     "id": "SRC-067",
@@ -952,12 +956,14 @@
     "priority": "Media",
     "url": "https://www.entradas.com/city/malaga-490/musicales-y-shows-83/",
     "approved": true,
-    "status": "pendiente",
+    "status": "error",
     "notes": "Descubrir circo, magia, musicales y espectáculos familiares en Málaga. Filtrar propuestas adultas y contrastar público, fecha y recinto antes de publicar.",
     "max_links": 12,
     "watch_urls": [
       "https://www.entradas.com/artist/circo-quiros/circo-quiros-malaga-4233182/"
-    ]
+    ],
+    "last_checked": "2026-10-18T12:05:08+00:00",
+    "last_error": "robots.txt no permite o no pudo comprobarse"
   },
   {
     "id": "SRC-068",
@@ -967,12 +973,14 @@
     "priority": "Media",
     "url": "https://www.atrapalo.com/entradas/malaga/d43/",
     "approved": true,
-    "status": "pendiente",
+    "status": "consultada",
     "notes": "Fuente de descubrimiento de espectáculos con venta de entradas. Priorizar etiquetas Familiar, Para todas las edades y Teatro para niños; contrastar antes de publicar.",
     "max_links": 12,
     "watch_urls": [
       "https://www.atrapalo.com/entradas/circo-quiros-en-malaga_e4952675/"
-    ]
+    ],
+    "last_checked": "2026-10-18T12:05:08+00:00",
+    "events_detected_this_run": 0
   },
   {
     "id": "SRC-069",
@@ -982,12 +990,14 @@
     "priority": "Alta",
     "url": "https://www.malaga.eu/la-ciudad/juntas-municipales-de-distrito/junta-de-distrito-11-teatinos-universidad/",
     "approved": true,
-    "status": "pendiente",
+    "status": "consultada",
     "notes": "Fuente oficial hiperlocal. Buscar fiestas de barrio, talleres infantiles, actividades culturales, Navidad, Carnaval, pasacalles y programación familiar del Distrito 11.",
     "max_links": 12,
     "watch_urls": [
       "https://www.malaga.eu/la-ciudad/agenda/"
-    ]
+    ],
+    "last_checked": "2026-10-18T12:05:08+00:00",
+    "events_detected_this_run": 0
   },
   {
     "id": "SRC-070",
@@ -997,10 +1007,12 @@
     "priority": "Alta",
     "url": "https://www.instagram.com/avvteatinos/",
     "approved": true,
-    "status": "pendiente",
+    "status": "error",
     "notes": "Asociación vecinal registrada en el Ayuntamiento. Vigilar actividades culturales, ocio, fiestas y propuestas infantiles/familiares publicadas en redes; contrastar fecha y lugar antes de publicar.",
     "max_links": 4,
-    "watch_urls": []
+    "watch_urls": [],
+    "last_checked": "2026-10-18T12:05:08+00:00",
+    "last_error": "robots.txt no permite o no pudo comprobarse"
   },
   {
     "id": "SRC-071",
@@ -1010,13 +1022,15 @@
     "priority": "Alta",
     "url": "https://limon-loco.es/",
     "approved": true,
-    "status": "pendiente",
+    "status": "consultada",
     "strict_location": true,
     "notes": "Programación oficial de talleres y animaciones infantiles. Página multi-sede (Málaga, Sevilla, Barakaldo, Las Palmas): solo publicar actividades expresamente atribuidas al parque de Málaga (Calle Héroe de Sostoa 92). La página mezcla calendarios de varios parques; no importar por proximidad del texto ni inferir edad, precio o sede de otra ciudad. Revisar la sección Málaga al actualizar los anuncios del mes.",
     "max_links": 10,
     "watch_urls": [
       "https://limon-loco.es/"
-    ]
+    ],
+    "last_checked": "2026-10-18T12:05:08+00:00",
+    "events_detected_this_run": 0
   },
   {
     "id": "SRC-072",
@@ -1026,12 +1040,14 @@
     "priority": "Media",
     "url": "https://granjaescuelaelpato.com/",
     "approved": true,
-    "status": "pendiente",
+    "status": "consultada",
     "strict_location": true,
     "notes": "Organizador oficial en Cortijo La Rebanadilla, Campanillas (Málaga). Buscar jornadas familiares abiertas, talleres para público general, campamentos y eventos de fechas anunciadas. NO publicar visitas escolares ni excursiones privadas: la FAQ oficial dice que los padres/familiares no pueden acompañar al alumnado durante la visita escolar. Los talleres descritos sin fecha no constituyen un evento abierto; tampoco usar jornadas históricas como actuales. Verificar admisión de familias, fecha, horario, edad y condiciones en la web o canales oficiales antes de dar de alta.",
     "max_links": 8,
     "watch_urls": [
       "https://granjaescuelaelpato.com/"
-    ]
+    ],
+    "last_checked": "2026-10-18T12:05:08+00:00",
+    "events_detected_this_run": 0
   }
 ]
