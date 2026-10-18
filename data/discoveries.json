@@ -1,164 +1,5 @@
 [
   {
-    "title": "Event Pumpkin Carving & Decorating Workshop by Bola Boom Kids ? - ?",
-    "url": "https://littlefamilyhub.com/a/pumpkin-carving-decorating-workshop-bola-boom-kids/en",
-    "source_name": "Little Family Hub · eventos familiares Costa del Sol",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-17",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-17",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "« Taller: Arroces de autor",
-    "url": "https://picofinoescuelamalaga.com/reservas/taller-arroces-de-autor-2/",
-    "source_name": "Picofino Escuela Málaga · talleres infantiles",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Taller de cocina Tailandesa",
-    "url": "https://picofinoescuelamalaga.com/reservas/taller-cocina-tailandesa-malaga/",
-    "source_name": "Picofino Escuela Málaga · talleres infantiles",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Clases Clase de teatro musical por Squared Stage School San Pedro Alcántara 2 - 18",
-    "url": "https://littlefamilyhub.com/a/clase-de-teatro-musical-squared-stage-school-san-pedro-alcantara/es",
-    "source_name": "ScandiCandy Marbella · talleres temáticos",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-17",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-17",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Clases y talleres",
-    "url": "https://arterapiakids.com/es/clases-y-talleres/",
-    "source_name": "Arterapia Kids Studio · talleres creativos",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Actividades Infantiles",
-    "url": "https://deporte.malaga.eu/actividades/programas-actividad-fisica-infantil/",
-    "source_name": "Área de Deporte del Ayuntamiento de Málaga",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-17",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (40/100).",
-    "last_text_checked": "2026-10-17",
-    "confidence_score": 40,
-    "confidence_reasons": [
-      "público infantil/familiar",
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Talleres preventivos ante el ahogamiento",
-    "url": "https://deporte.malaga.eu/programas/programas-escolares/talleres-preventivos-ante-el-ahogamiento/",
-    "source_name": "Área de Deporte del Ayuntamiento de Málaga",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Actividades de Adultos",
-    "url": "https://deporte.malaga.eu/actividades/programas-de-condicion-fisica-adultos/",
-    "source_name": "Área de Deporte del Ayuntamiento de Málaga",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Actividades de Mayores",
-    "url": "https://deporte.malaga.eu/actividades/mayores/",
-    "source_name": "Área de Deporte del Ayuntamiento de Málaga",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "señales de actividad no familiar"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Actividades ???key.formatter.header.toggle.subsections???",
-    "url": "https://deporte.malaga.eu/actividades/",
-    "source_name": "Área de Deporte del Ayuntamiento de Málaga",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
     "title": "TALLER DE SEVILLANAS PARA JÓVENES",
     "url": "https://www.fuengirola.es/evento/taller-de-sevillanas-para-jovenes/",
     "source_name": "Fuengirola · Agenda municipal de eventos",
@@ -8518,11 +8359,7 @@
     "discovery_method": "case_rescue",
     "case_id": "CASE-ED6DC872B1",
     "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:giglon.com \"cenicienta\" \"Málaga\"",
-    "corroboration_count": 1,
-    "corroborating_urls": [
-      "https://juventud.malaga.eu/es/infojoven/agenda/detalle-de-agenda/index.html?id=149284&tipoVO=2"
-    ]
+    "query": "site:giglon.com \"cenicienta\" \"Málaga\""
   },
   {
     "title": "Torre del Mar repartirá más de 4.000 raciones de una tarta gigante por el Día del Turista - Andalucía Información",
@@ -10366,8 +10203,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-64E2DD9270",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Feria de Benalmádena pueblo con actividades para niños - La Diversiva",
@@ -10379,8 +10218,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-64E2DD9270",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "⇨ MIMA Málaga en Navidad: actividades y espectáculos para toda la familia - La Diversiva",
@@ -10392,8 +10233,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-64E2DD9270",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Feria del Juguete Moderno y de Colección en el CC Rosaleda Málaga - La Diversiva",
@@ -10418,8 +10261,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-64E2DD9270",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "¡Chocoland! El Festival de la Navidad del Muelle Uno - Actividades para niños en Málaga - La Diversiva",
@@ -10431,8 +10276,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-64E2DD9270",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Festival de la Luna Mora 2018 de Guaro con niños - La Diversiva",
@@ -10444,8 +10291,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-64E2DD9270",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "La XX Fiestas Marineras de Huelin 2026: todas las actividades para disfrutar en familia - La Diversiva",
@@ -10496,8 +10345,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-64E2DD9270",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Festival de la Luna Mora 2019 de Guaro con niños - La Diversiva",
@@ -10509,8 +10360,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-64E2DD9270",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "👨‍👩‍👧 Teatro infantil",
@@ -10650,8 +10503,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-24A7590DD9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"ninos\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"ninos\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Roberto Enríquez vuelve al trabajo con la obra de teatro 'Málaga' tras ser padre de dos niños - Bekia",
@@ -10663,21 +10518,36 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-24A7590DD9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"Teatro Málaga\" \"ninos\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"Teatro Málaga\" \"ninos\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Planes con niños en Málaga: circo, teatro y talleres gratis - Diario Sur",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWJfNTE3YVhJc2pFemZReWRGRUJXWGJyeE5IbVVkN1lMQmZVM21Qb2RpdmpkRFJVQmtFdGZ4cU1kNGN3VlpKWldEZW1OeFo4MjdzekoxbndMRWN2Z09uTkxNc18welU4amRucHpESy1yWU44NDZoYW5vUGZ4Z2VKVHpUODMzNXdZSW5ldWFtVzBZYnpVMTF5YzhjSzNsM01wN25QSlY0Ul94Y2vSAbABQVVfeXFMUEoyT0h1bUJvMXVyNmpfX2tlM29vQ0tCRXNnZldMVUFpTU9lNHNfOXJHMEdPRVJmQzZ5cTdCNFVZVjhpRXZ4X2dQMC1QR2FvdHlPUXppYlB1RmFib1pjaGJ5VTQ2QlQ5UjI3YW9Cd1ZhQzU2SXZndnhxS2kwRGRsakE3UzRXelRCYmliMDQ5S1Qxc0t3ZEthV0phVFpUTWJqb2hUMmRsSHBGeGE1YjIzSFA?oc=5",
+    "url": "https://www.diariosur.es/planes/ninos/talleres-gratis-malaga-circo-teatro-fin-semana-20260617135030-nt.html",
     "snippet": "Planes con niños en Málaga: circo, teatro y talleres gratis Diario Sur",
     "published_at": "Fri, 19 Jun 2026 07:00:00 GMT",
     "source_name": "Investigación por caso",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
+    "status": "sin_fecha_estructurada",
     "discovery_method": "case_rescue",
     "case_id": "CASE-24A7590DD9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"ninos\" teatro \"Málaga\""
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "query": "\"ninos\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWJfNTE3YVhJc2pFemZReWRGRUJXWGJyeE5IbVVkN1lMQmZVM21Qb2RpdmpkRFJVQmtFdGZ4cU1kNGN3VlpKWldEZW1OeFo4MjdzekoxbndMRWN2Z09uTkxNc18welU4amRucHpESy1yWU44NDZoYW5vUGZ4Z2VKVHpUODMzNXdZSW5ldWFtVzBZYnpVMTF5YzhjSzNsM01wN25QSlY0Ul94Y2vSAbABQVVfeXFMUEoyT0h1bUJvMXVyNmpfX2tlM29vQ0tCRXNnZldMVUFpTU9lNHNfOXJHMEdPRVJmQzZ5cTdCNFVZVjhpRXZ4X2dQMC1QR2FvdHlPUXppYlB1RmFib1pjaGJ5VTQ2QlQ5UjI3YW9Cd1ZhQzU2SXZndnhxS2kwRGRsakE3UzRXelRCYmliMDQ5S1Qxc0t3ZEthV0phVFpUTWJqb2hUMmRsSHBGeGE1YjIzSFA?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "El mejor plan para hacer con niños este fin de semana: teatro infantil con títeres, 'Yo, Tarzán' - Málaga Hoy",
@@ -10689,8 +10559,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-24A7590DD9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"ninos\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"ninos\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Mucho teatro para disfrutar con niños del fin de semana en Málaga - Diario Sur",
@@ -10917,5 +10789,140 @@
       "título sin actividad concreta"
     ],
     "review_priority": "normal"
+  },
+  {
+    "title": "La Fiesta en el Aire. Arriate - Diputación de Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM1JfNFBrODBYNXpiRDI4c25UZm9HRVhLUXRxc3FiY0FVeGtQZXlvdk5PVFFFdjdKTmtHR2hBeDFvTU1meTFnNzBCYXY5b0NJLWZXQ3pHdGdzRVNFaWhFbjIybFcxaWZXanhHLXpLLVN5Z2cya1JTMkJsQWZVNWR0ZTNHTHM3SEZp?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "La Fiesta en el Aire. Arriate Diputación de Málaga",
+    "discovery_method": "rss",
+    "query": "\"Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Fri, 09 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Circo, batalla de bandas y teatro para disfrutar del puente de octubre en Málaga con niños - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHhMZ290SUpZb1p2SnVaeHJlS0VURGJIT0JJb0VFd1ZocmxXYkpoU3RxbUl2cmdnbVpvRVNxVUU5UkZweE5GYzA2MzdUVzRsdU9sazB4bFBMWUIzaG0tV3I1TlhGWHVJVjdKWEo4LVBpbjk0YmhIMnZCZGJzQlozQ01DZG5IdnFGbHFxOS1ZSVQ3RGdfVXRuOWFId0ozMjBJdGwxY9IBqgFBVV95cUxNaUxLcjRCaUFIU0IydUZVTjBkdzhHREZjLTd4SlJLYUhxRlBqWnBablBsemlfZTJwT3BBS2VzNHJQT0t3WEJuMnFxZmdHU0ZmX19YOFlzUjF2S0NrdDQ3YnRzZmFmQ3Q5dTE1cjBPUTlyNlRpZjRtVGdObnJpT2FyT0FYdWRxc1RPSzlQbDFnblI4VzZJTEhqZjNvZnZMV0d2eWdSRGdPYmZlZw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Circo, batalla de bandas y teatro para disfrutar del puente de octubre en Málaga con niños Diario Sur",
+    "discovery_method": "rss",
+    "query": "\"Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Wed, 07 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Paula Echevarría y Miguel Torres abren su álbum más familiar: Marbella, espetos y días de playa tras su verano más complicado - HOLA",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDlzSjktWlpYLTBEY3J2bEQtTzFtNlV1bWg1S2VIN0JBY2VqUk8tRFpZSjBBbU5XV3RUd0FadU9PYmJKT1prcHVSdlAyN181Ym42cklBTmktTnNEYXVuV2FLOUhsMVlvQ0I4aFc5a0szYVNDRGVZV0QxeU90aEkxaWVaTUhUUm9RWEZmTlFhb1hjZkxjeGlvTFNWbGw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Paula Echevarría y Miguel Torres abren su álbum más familiar: Marbella, espetos y días de playa tras su verano más complicado HOLA",
+    "discovery_method": "rss",
+    "query": "\"Marbella\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 01 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Vuelve el Taller de Ajedrez a los Recreos Activos del IES Mediterráneo de Estepona - I.E.S. Mediterráneo",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdFVuZHhzVHI5bHp0M3lIVlhUSk81U3RwMlV1dXIweTJUUVBZdVhVa3lqeGYyQ21PUDMyTzBsTEMxZkJwbmZGWjZucHp3RHF2cUpBOGZ3QXJMaGRralhkLUhNbEJWTk9Ld1JmZC1FTlhrVy1GR0dyTjNRQUg4NXVsOFZNWFdveFMySEVVREFGaHZfOHJnRU96bkIxMW94UlI4ajBYQTFBV2ZrTWlVY0hBQ1ZKbF9Ea09OejBjOFdxTWdtWFhKeW1TeG1kTQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Vuelve el Taller de Ajedrez a los Recreos Activos del IES Mediterráneo de Estepona I.E.S. Mediterráneo",
+    "discovery_method": "rss",
+    "query": "\"Estepona\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Sun, 04 Oct 2026 08:17:35 GMT"
+  },
+  {
+    "title": "'Estepona Vive sus Calles' vuelve en otoño con Seguridad Social, atracciones infantiles y actividades culturales - https://tuperiodico.soy/",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjE5czN5Q2tvUWhoYlltclFwcFBoSjI4QXNnSi01ZklnTXFuendjVDN3Y1RTUkVteUxmNkRPa0ZQeG5wUHlOZHpqS01pRjdIeUl1NlF2bnloOGQ5RzNjX0lQdmdsaWxKSFVtT1RpS1lTQlhxd3o3QXpSSlRDYlVHaHc4NTJjdE9iX1VkZXZ2clA1c29mZ0hWY3ltVE5nakFfeWl2UDViRk9oVlJETGxyRHREZG1zZVk5b1o5eVBkUGhGajQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "'Estepona Vive sus Calles' vuelve en otoño con Seguridad Social, atracciones infantiles y actividades culturales https://tuperiodico.soy/",
+    "discovery_method": "rss",
+    "query": "\"Estepona\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Sun, 04 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Los mejores planes con niños en Málaga en octubre: danza, títeres y exposiciones para toda la familia - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVpPT21pRWluSVk1TXZRTmgxblFwejlya2NHQ1hYYkhvcVd1Y0w1a1U1UERjZDdkbXhPOF9qUGUwUl82TVhRYjVETHlybzZwckRCSUJJbkRXcWh5dm90aHg1WnI2a0RQcG1HcnBvOHc2LTQzWDhDckN1aDJSV0JiZUVfc0Vmb3U2MlE?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Los mejores planes con niños en Málaga en octubre: danza, títeres y exposiciones para toda la familia Sapos y Princesas",
+    "discovery_method": "rss",
+    "query": "Málaga Navidad niños actividades when:45d",
+    "published_at": "Mon, 28 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Títeres, talleres (gratis) y música para disfrutar del fin de semana con niños en Málaga - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSURkeEJ3MEZtRGJQQjN3djI5bnNpaV9QVGxmaXptSl93NUhKMlZBNGpiS2NSUFkxa3M1SkhZWjJnTWFSbzBYWTJTSlN4ZG0zRVg1c2xRR1RMcXRyQUJETUl3cVdwVFFCR2lIdmZ1aktocWFCSmtMdkdWb0dMV1NjZkVDQ0pCQTRqemVYbTdYRllkQktYVWNlUmZDVHJCaG91UklR0gGoAUFVX3lxTFBZajIwMWVvRm5Bd3JMU3psTmhQVEM3dVR1ZkZCZEVjMHRheXBpWmdDQ2JzMGlCRzhubW44UU44MkYtdzVlYmtoWUF1V1p2SFdqd19GV0F2NUxiQzV6YXk4Ty1jTW9CU3hwcGJXZjhPSzgzWHJqTUtUbHZuNXBqNGw1eURnWFhBWDNmZnhnOGh4cWpXTVZmbVNFMWpMcEd6SDZJdE5KUXZoUA?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Títeres, talleres (gratis) y música para disfrutar del fin de semana con niños en Málaga Diario Sur",
+    "discovery_method": "rss",
+    "query": "Málaga Navidad niños actividades when:45d",
+    "published_at": "Wed, 23 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "NUEVA LEY DE TRÁFICO 2022",
+    "url": "https://www.velezmalaga.es/index.php?mod=policia-local&tag=educacion-vial",
+    "snippet": "Policía Local NUEVA LEY DE TRÁFICO 2022",
+    "source_name": "Ayuntamiento Vélez-Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-667CCFC81E",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "INICIO | Ayuntamiento de Colmenar de Oreja",
+    "url": "https://aytocdo.es/",
+    "snippet": "Abierto plazo general para inscripciones!!!! 📅 Curso: del... Hoy hemos tenido el honor de recibir a la presidenta de la...",
+    "published_at": "vie, 16 oct 2026 04:08:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-667CCFC81E",
+    "query": "\"Ayuntamiento Vélez-Málaga\" \"dias\"  \"Torre del Mar\" 2026",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "El II Torneo de Fútbol Sala Ciudad de Vélez-Málaga congregará al talento local y provincial los días 4 y 5 de julio - InfoAxarquia",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMjNLdlFDelRPMVQ4QWNzdkI1MXpJXzBVc1BzNWMzZEtfeDYwWU5RWThJRmFVWnowQmFYQ2pHOExSbEl5NXh0cW5WYmVYanJHR2liVzRybjk5VWk4cVhMcExYTmhyWW5xNVNBTTVXV2Rndlo3ZWlZZHhORW1HWUx1ZndLd0hfV0VEcjIxeTZrdjJrM19QOEJweW1RWnNFU0tFMGxIY2E1Q0lUa3ZmMzdzcTNMYVdvUXdUZWJNZTQxdnJpZkQ1SDRYaXZ2ZWdjM05FMDNTV3h3ZVQwaUM2NlpFLTl5SS1Qdw?oc=5",
+    "snippet": "El II Torneo de Fútbol Sala Ciudad de Vélez-Málaga congregará al talento local y provincial los días 4 y 5 de julio InfoAxarquia",
+    "published_at": "Wed, 10 Jun 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-667CCFC81E",
+    "query": "\"dias\"  \"Torre del Mar\" infantil familiar 2026",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
   }
 ]
