@@ -326,8 +326,6 @@ function renderAdvanceBookings(){
  }
  // Las reservas son una vista independiente, nunca un acordeón sobre la agenda.
  section.hidden=activeView!=='reservas';
- $('advanceTeaser').hidden=activeView!=='agenda'||candidates.length===0;
- $('advanceTeaserButton').textContent='Ver '+candidates.length+' planes para reservar →';
  if(!candidates.length){
   $('advanceCards').innerHTML=age?'<div class="advance-empty">No hay actividades para reservar que coincidan con estos filtros'+
     ($('includeUnknownAge').checked?'. Comprueba otra edad o municipio.':'. Puedes activar «Incluir planes sin edad confirmada» para ampliar las opciones.')+
@@ -581,7 +579,6 @@ for(const tab of document.querySelectorAll('[data-explore]')){
   $({reservas:'tabReservas',agenda:'tabAgenda',cine:'tabCine'}[next]).focus({preventScroll:true});
  });
 }
-$('advanceTeaserButton').addEventListener('click',()=>chooseExplorerView('reservas',{push:true}));
 $('advanceBack').addEventListener('click',()=>chooseExplorerView('agenda',{push:true}));
 window.addEventListener('popstate',()=>chooseExplorerView(viewFromUrl()));
 
