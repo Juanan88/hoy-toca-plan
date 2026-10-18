@@ -8597,8 +8597,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"vuelve\" teatro \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"vuelve\" teatro \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "'Godspell' resucita en el Teatro del Soho CaixaBank de Málaga: El buen musical según San Antonio Banderas - Málaga Hoy",
@@ -8610,21 +8612,36 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"vuelve\" teatro \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"vuelve\" teatro \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Un fin de semana de planes gratis, festivales y teatro en Málaga - Diario Sur",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3FPZnVOeW02cGZvVkRERVdLZ3Z1RllqWXU2NUJBQ2ktXzlFUWt0M1pTcVlTT0QxeVVSdkh3Q3Zpd2ZkX2xUSXMzR3kzRXFhUU1GcHFuSGZ1WXM3dVdrSXRTblBJZVZtenNpMVF6TGUzMjdhUXN2dzdJamNEU3ZzRFhwRUpqVFgzM01xakFXZ0tfNWJrVTVLeE52d2NNWVHSAaQBQVVfeXFMTUVKQWV1bnAtVFFwTWdUTVBNbmVEWW5nSjVld1dmbnlNMDlmNWMzZE0xMGhxa1Rfei1GRl9qN2kzZDVhZ29NZEN2SzJBUGVlNEYwcXJIX1d1QlptOVpCM3RkTzJ2NjdpTHBMNFB3WG41MUpXSk9FNzBGWmxRdnJmTVFzaDRjUnF6NU1EdnR1ZkZGVnVLSWlPUVpacnRRalgzTUJ3OXg?oc=5",
+    "url": "https://www.diariosur.es/planes/malaga-festivales-ideas-gratis-teatro-julio-20260708173519-nt.html",
     "snippet": "Un fin de semana de planes gratis, festivales y teatro en Málaga Diario Sur",
     "published_at": "Thu, 09 Jul 2026 07:00:00 GMT",
     "source_name": "Investigación por caso",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
+    "status": "sin_fecha_estructurada",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"vuelve\" teatro \"Vélez-Málaga\""
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "query": "\"vuelve\" teatro \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3FPZnVOeW02cGZvVkRERVdLZ3Z1RllqWXU2NUJBQ2ktXzlFUWt0M1pTcVlTT0QxeVVSdkh3Q3Zpd2ZkX2xUSXMzR3kzRXFhUU1GcHFuSGZ1WXM3dVdrSXRTblBJZVZtenNpMVF6TGUzMjdhUXN2dzdJamNEU3ZzRFhwRUpqVFgzM01xakFXZ0tfNWJrVTVLeE52d2NNWVHSAaQBQVVfeXFMTUVKQWV1bnAtVFFwTWdUTVBNbmVEWW5nSjVld1dmbnlNMDlmNWMzZE0xMGhxa1Rfei1GRl9qN2kzZDVhZ29NZEN2SzJBUGVlNEYwcXJIX1d1QlptOVpCM3RkTzJ2NjdpTHBMNFB3WG41MUpXSk9FNzBGWmxRdnJmTVFzaDRjUnF6NU1EdnR1ZkZGVnVLSWlPUVpacnRRalgzTUJ3OXg?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "La Caja Blanca",
@@ -8679,16 +8696,29 @@
   },
   {
     "title": "Torre del Mar acoge este finde el IX Festival Aéreo Internacional - La Diversiva",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFR3UkxVNHYzZ0ZTOUlzc0tyMVpOWHM5a0JkX0VfRDZQMHg2TTJtSEhaM21Ib0M3NFk1UjNybFhuRThpcXhzUGgwU19FOU4wUUEwaXdfRDZLX1lRX2VPUC1KZlNxWFNvdVpYTW5POGZQLVhKUG4wam9vT3FINjVMNXU3OXI0bzQxMDBLY3pBUUc0aXJjTDYxc2xLMHZlSGI1ZnFBdGZEME1zTlVXamU0VVQzYzlnR1U?oc=5",
+    "url": "https://www.abc.es/economia/festival-aereo-internacional-llena-playas-torre-mar-20260907093940-nt.html",
     "snippet": "Torre del Mar acoge este finde el IX Festival Aéreo Internacional La Diversiva",
     "published_at": "Tue, 03 Sep 2024 14:09:10 GMT",
     "source_name": "Investigación por caso",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
+    "status": "sin_fecha_estructurada",
     "discovery_method": "case_rescue",
     "case_id": "CASE-92319190E6",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\""
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFR3UkxVNHYzZ0ZTOUlzc0tyMVpOWHM5a0JkX0VfRDZQMHg2TTJtSEhaM21Ib0M3NFk1UjNybFhuRThpcXhzUGgwU19FOU4wUUEwaXdfRDZLX1lRX2VPUC1KZlNxWFNvdVpYTW5POGZQLVhKUG4wam9vT3FINjVMNXU3OXI0bzQxMDBLY3pBUUc0aXJjTDYxc2xLMHZlSGI1ZnFBdGZEME1zTlVXamU0VVQzYzlnR1U?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Feria de Málaga con niños: programación infantil completa 2026 - La Diversiva",
@@ -9061,8 +9091,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Los mejores planes con niños en Málaga en septiembre: exposiciones, teatro y mucho más - Sapos y Princesas",
@@ -9231,16 +9263,28 @@
   },
   {
     "title": "Los mejores museos para visitar con niños - Sapos y Princesas",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wekNUWHR2a05jTmZ3eGxNMXNvdWpodjZrNlFSYzczNE5LQjRxckRzbTl2clBXYUVYX25yNkIzcTJqUmpmVU5pOWlNY0FPWlU1QVFRRzNoa2VmRmgwSXh1amRrSUpHU0ItMlQ3eTNBT1l3X2h1M3ZPakRaSkRUb00?oc=5",
+    "url": "https://www.europapress.es/ocio/noticia-mejores-museos-aire-libre-visitar-ninos-20210318131132.html",
     "snippet": "Los mejores museos para visitar con niños Sapos y Princesas",
     "published_at": "Sun, 25 Mar 2018 12:00:42 GMT",
     "source_name": "Investigación por caso",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
+    "status": "sin_fecha_estructurada",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wekNUWHR2a05jTmZ3eGxNMXNvdWpodjZrNlFSYzczNE5LQjRxckRzbTl2clBXYUVYX25yNkIzcTJqUmpmVU5pOWlNY0FPWlU1QVFRRzNoa2VmRmgwSXh1amRrSUpHU0ItMlQ3eTNBT1l3X2h1M3ZPakRaSkRUb00?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Los mejores festivales para ir con niños - Sapos y Princesas",
@@ -9738,8 +9782,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-E3D5D410B0",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Plazas Mercado Municipal Torre del Mar - Ayto. Vélez-Málaga",
@@ -9874,21 +9920,36 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-FDB703BEE9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Torre del Mar acoge este finde el X Festival Aéreo Internacional - La Diversiva",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcldIOVpQdHVYRjRkZVluRmFsaFpRV05oankybTNpX1Z1djZYdXRSLXNnMk1FLUxYTUd1bmJuQUZRVW0tSUJTTnZtWEJPN1RvcmlTWjN2aWFETkpXeDJQSVEzNlhVYXlsa3VJVEkzdTRsSFRTeUNRSGxSV2pXbEN0bzVpa3AtQmQ2OFBsTFg4YjdQNUQ0R3JpZm40bUdmd3Z2UHdCVjhrZGtKMVV6dGw2ak9Valg?oc=5",
+    "url": "https://www.abc.es/economia/festival-aereo-internacional-llena-playas-torre-mar-20260907093940-nt.html",
     "snippet": "Torre del Mar acoge este finde el X Festival Aéreo Internacional La Diversiva",
     "published_at": "Fri, 05 Sep 2025 07:00:00 GMT",
     "source_name": "Investigación por caso",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
+    "status": "sin_fecha_estructurada",
     "discovery_method": "case_rescue",
     "case_id": "CASE-FDB703BEE9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\""
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "query": "site:ladiversiva.com \"torre\" festival \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcldIOVpQdHVYRjRkZVluRmFsaFpRV05oankybTNpX1Z1djZYdXRSLXNnMk1FLUxYTUd1bmJuQUZRVW0tSUJTTnZtWEJPN1RvcmlTWjN2aWFETkpXeDJQSVEzNlhVYXlsa3VJVEkzdTRsSFRTeUNRSGxSV2pXbEN0bzVpa3AtQmQ2OFBsTFg4YjdQNUQ0R3JpZm40bUdmd3Z2UHdCVjhrZGtKMVV6dGw2ak9Valg?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Actividades gratis de Navidad para toda la familia en Torre del Mar - La Diversiva",
@@ -10131,8 +10192,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-64E2DD9270",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "3º edición del BREIKI Electronic Festival para toda la familia en sala Santa Rita, Málaga - La Diversiva",
@@ -10189,8 +10252,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-64E2DD9270",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Espectáculo para niños y para toda la familia con El Circo del Sol en Málaga - La Diversiva",
@@ -10439,8 +10504,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-24A7590DD9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"ninos\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"ninos\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Los siete cabritillos | Teatro de títeres para niños en Málaga - Sapos y Princesas",
