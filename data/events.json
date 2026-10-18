@@ -3438,6 +3438,32 @@
     "status": "publicada_en_fuente"
   },
   {
+    "id": "EVT-IA-F5B61E88D9",
+    "title": "Cuento musical Cenicienta",
+    "start": "2026-11-14",
+    "end": "2026-11-14",
+    "time": "12:30",
+    "town": "Málaga",
+    "venue": "Auditorio La Caja Blanca",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "Desde 7 € (sin gastos de gestión)",
+    "audience": "Infantil y familiar",
+    "source_name": "Giglon · entradas oficiales del espectáculo",
+    "source_url": "https://www.giglon.com/todos?idEvent=cuento-musical-cenicienta",
+    "secondary_sources": [
+      "https://juventud.malaga.eu/es/infojoven/agenda/detalle-de-agenda/index.html?idEvento=51528&mas=true&pageNum=2&tipoVO=3"
+    ],
+    "details": "Espectáculo musical de La Cajita Musical de Málaga basado en el cuento de Cenicienta, con canciones, baile y personajes infantiles. Función el 14 de noviembre a las 12:30 en el Auditorio La Caja Blanca. Edad recomendada no publicada; el requisito de entrada para mayores de 12 meses no es una recomendación de edad.",
+    "evidence": "Giglon confirma 'CUENTO MUSICAL CENICIENTA', Auditorio La Caja Blanca, Málaga, 14/11/2026 a las 12:30, con entradas desde 7 € y descripción infantil de un cuento musical. La agenda municipal de Juventud Málaga lista 'CENICIENTA' EL MUSICAL para el 14/11/2026 en La Caja Blanca. No interpretar la condición de entrada de mayores de 12 meses como edad recomendada.",
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T10:03:45+00:00",
+    "origin": "Investigación IA programada, con fuente",
+    "status": "publicada_en_fuente"
+  },
+  {
     "id": "EVT-CIRCO-NAV-20261114",
     "title": "La Fábrica de Papá Noel · Circo Escuela Fantasía",
     "start": "2026-11-14",
