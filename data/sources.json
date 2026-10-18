@@ -1001,5 +1001,37 @@
     "notes": "Asociación vecinal registrada en el Ayuntamiento. Vigilar actividades culturales, ocio, fiestas y propuestas infantiles/familiares publicadas en redes; contrastar fecha y lugar antes de publicar.",
     "max_links": 4,
     "watch_urls": []
+  },
+  {
+    "id": "SRC-071",
+    "name": "Limón Loco Málaga · talleres y animaciones oficiales",
+    "type": "Parque infantil / programación propia",
+    "area": "Málaga capital",
+    "priority": "Alta",
+    "url": "https://limon-loco.es/",
+    "approved": true,
+    "status": "pendiente",
+    "strict_location": true,
+    "notes": "Programación oficial de talleres y animaciones infantiles. Página multi-sede (Málaga, Sevilla, Barakaldo, Las Palmas): solo publicar actividades expresamente atribuidas al parque de Málaga (Calle Héroe de Sostoa 92). La página mezcla calendarios de varios parques; no importar por proximidad del texto ni inferir edad, precio o sede de otra ciudad. Revisar la sección Málaga al actualizar los anuncios del mes.",
+    "max_links": 10,
+    "watch_urls": [
+      "https://limon-loco.es/"
+    ]
+  },
+  {
+    "id": "SRC-072",
+    "name": "Granja Escuela El Pato · agenda oficial",
+    "type": "Granja escuela / educación ambiental",
+    "area": "Málaga capital · Campanillas",
+    "priority": "Media",
+    "url": "https://granjaescuelaelpato.com/",
+    "approved": true,
+    "status": "pendiente",
+    "strict_location": true,
+    "notes": "Organizador oficial en Cortijo La Rebanadilla, Campanillas (Málaga). Buscar jornadas familiares abiertas, talleres para público general, campamentos y eventos de fechas anunciadas. NO publicar visitas escolares ni excursiones privadas: la FAQ oficial dice que los padres/familiares no pueden acompañar al alumnado durante la visita escolar. Los talleres descritos sin fecha no constituyen un evento abierto; tampoco usar jornadas históricas como actuales. Verificar admisión de familias, fecha, horario, edad y condiciones en la web o canales oficiales antes de dar de alta.",
+    "max_links": 8,
+    "watch_urls": [
+      "https://granjaescuelaelpato.com/"
+    ]
   }
 ]

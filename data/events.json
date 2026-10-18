@@ -1431,46 +1431,6 @@
     "reservation_required": true
   },
   {
-    "id": "EVT-81B103087E9A",
-    "title": "Taller de Yoga Facial en Málaga: autocuidado, masaje facial y cosmética natural malagueña",
-    "start": "2026-10-24",
-    "end": "2026-10-31",
-    "time": "Horarios según sesión",
-    "town": "Málaga",
-    "venue": "KUMUI Cosmética Natural",
-    "category": "Talleres y aprendizaje",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Gratis",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": "https://mmalaga.es/agenda/taller-kumui-cosmetica-natural-malaga/",
-    "field_sources": {
-      "reservation_url": {
-        "source_url": "https://mmalaga.es/agenda/taller-kumui-cosmetica-natural-malaga/",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "Radar · mmalaga.es",
-    "source_url": "https://mmalaga.es/agenda/taller-kumui-cosmetica-natural-malaga/",
-    "status": "publicada_en_fuente",
-    "details": "¿Te apetece regalarte un momento para ti y aprender a cuidar tu piel de una forma natural y consciente? KUMUI Cosmética Natural organiza en Málaga un taller de Yoga Facial, gua sha y skincare natural, una experiencia práctica y relajante en la que aprenderás una rutina sencilla para cuidar tu rostro en casa y sacar el máximo partido a tus productos cosméticos. Durante el taller aprenderás a combinar ejercicios de yoga y fitness facial, automasaje",
-    "schedule_unconfirmed": false,
-    "occurrences": [
-      "2026-10-24",
-      "2026-10-31"
-    ],
-    "first_seen": "2026-10-18",
-    "last_checked": "2026-10-18T08:21:22+00:00",
-    "origin": "json-ld",
-    "interval_kind": "recurring_dates",
-    "schedule_note": "Horarios publicados por sesión: 24/10: 11:00; 31/10: 18:00",
-    "secondary_sources": []
-  },
-  {
     "id": "EVT-UNI-20261024",
     "title": "Taller de llaveros de madera decorados con miniaturas",
     "start": "2026-10-24",
