@@ -565,6 +565,46 @@
     }
   },
   {
+    "id": "EVT-ED5CBD2B1F1A",
+    "title": "Festival ‘Entre dos tierras’ España y Argentina",
+    "start": "2026-10-17",
+    "end": "2026-10-18",
+    "time": "12:00",
+    "town": "Torremolinos",
+    "venue": "Plaza de Toros de Torremolinos",
+    "category": "Fiestas y eventos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/fiesta-criolla-argentina-torremolinos/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/fiesta-criolla-argentina-torremolinos/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/fiesta-criolla-argentina-torremolinos/",
+    "status": "publicada_en_fuente",
+    "details": "15 al 18 octubre 2026Plaza de toros. Torremolinos Festival 'Entre dos tierras'La Plaza de Toros acoge el I festival ‘Entre dos tierras. Dos orillas, un mismo sentimiento’ La Plaza de Toros de Torremolinos acoge el I festival ‘Entre dos tierras. Dos orillas, un mismo sentimiento’. Se celebrará del jueves 15 al domingo 18 de octubre, de 12:00 a 00:00 horas. Los asistentes podrán disfrutar de música en directo, dj’s, entretenimiento infantil y gastr",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-10-17",
+      "2026-10-18"
+    ],
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T02:06:12+00:00",
+    "origin": "json-ld",
+    "interval_kind": "recurring_dates",
+    "schedule_note": "Solo los días concretos indicados.",
+    "secondary_sources": []
+  },
+  {
     "id": "EVT-391FE1D10",
     "title": "Picasso en familia · Taller de los sábados",
     "start": "2026-10-17",
@@ -1982,6 +2022,45 @@
     }
   },
   {
+    "id": "EVT-E283FDD21F21",
+    "title": "FERIA DEL JUGUETE",
+    "start": "2026-10-31",
+    "end": "2026-11-01",
+    "time": "11:00",
+    "town": "Fuengirola",
+    "venue": "Castillo Sohail",
+    "category": "Fiestas y eventos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "Calle Tartesios. Castillo Sohail. Parque del Castillo. Recinto del Marenostrum.",
+    "reservation_url": "https://www.fuengirola.es/evento/feria-del-juguete/",
+    "field_sources": {
+      "address": {
+        "source_url": "https://www.fuengirola.es/evento/feria-del-juguete/",
+        "quote": "Calle Tartesios. Castillo Sohail. Parque del Castillo. Recinto del Marenostrum.",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      },
+      "reservation_url": {
+        "source_url": "https://www.fuengirola.es/evento/feria-del-juguete/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · www.fuengirola.es",
+    "source_url": "https://www.fuengirola.es/evento/feria-del-juguete/",
+    "status": "pendiente",
+    "details": "Una alianza estratégica de coleccionistas, artesanos y profesionales del sector en Andalucía trabajan para recuperar el valor del juguete tradicional como herramienta didáctica, vehículo de cultura […]",
+    "schedule_unconfirmed": true,
+    "occurrences": null,
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T02:06:08+00:00",
+    "origin": "json-ld"
+  },
+  {
     "id": "EVT-MIRAMAR-HALLOWEEN-2026",
     "title": "Fiesta de Halloween · Miramar Kids",
     "start": "2026-10-31",
@@ -2336,6 +2415,61 @@
       }
     },
     "reservation_required": true
+  },
+  {
+    "id": "EVT-TXT-E60E94B4A0",
+    "title": "Torre del Mar celebrará Halloween con un gran pasacalles, talleres infantiles y un renovado pasaje del terror",
+    "start": "2026-10-31",
+    "end": "2026-10-31",
+    "time": "Por confirmar",
+    "town": "Torre del Mar",
+    "venue": "Por confirmar",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {
+      "start": {
+        "source_url": "https://www.velezmalaga.es/index.php?mod=noticias&id=8865",
+        "quote": "hostelera de la localidad. Torre del Mar se prepara para celebrar una nueva edición de Halloween el próximo sábado 31 de octubre, con una programación de actividades que incluye un",
+        "evidence": "Fecha futura explícita vinculada al evento."
+      },
+      "town": {
+        "source_url": "https://www.velezmalaga.es/index.php?mod=noticias&id=8865",
+        "quote": "Torre del Mar",
+        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
+      },
+      "audience": {
+        "source_url": "https://www.velezmalaga.es/index.php?mod=noticias&id=8865",
+        "quote": "infantil/familiar",
+        "evidence": "El evento se presenta explícitamente como infantil o familiar."
+      },
+      "corroboration": {
+        "source_url": "https://www.benalmadena.es/noticias/N13619/Benalmdena-celebrar-Halloween-con-fiestas-infantiles-pasacalles-y-diferentes-espacios-de-terror.html",
+        "quote": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror",
+        "evidence": "Segunda fuente independiente con varias palabras relevantes coincidentes."
+      }
+    },
+    "audience": "Infantil y familiar",
+    "source_name": "Ayuntamiento Vélez-Málaga",
+    "source_url": "https://www.velezmalaga.es/index.php?mod=noticias&id=8865",
+    "status": "publicada_en_fuente",
+    "details": "Torre del Mar celebrará Halloween con un gran pasacalles, talleres infantiles y un renovado pasaje del terror",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "interval_kind": null,
+    "schedule_note": null,
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T02:05:49+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 100,
+    "verification_method": "evidencia textual fuerte",
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
   },
   {
     "id": "EVT-3309B82F055F",

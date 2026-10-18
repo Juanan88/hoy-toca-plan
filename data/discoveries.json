@@ -105,8 +105,14 @@
     "source_name": "Turismo Marbella",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-16",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Publica tu evento",
@@ -146,8 +152,14 @@
     "source_name": "Museo Carmen Thyssen (web cultural)",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-16",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Educativas Infantil. Un ser vivo Del 14 de octubre de 2026 al 28 de mayo de 2027",
@@ -373,8 +385,14 @@
     "source_name": "Ayuntamiento Benalmádena",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-15",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Agenda Urbana",
@@ -382,8 +400,14 @@
     "source_name": "Ayuntamiento Benalmádena",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-15",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Agenda 21 Local",
@@ -391,8 +415,14 @@
     "source_name": "Ayuntamiento Mijas",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-15",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "40 Festival de Teatro Villa de Mijas.",
@@ -447,8 +477,14 @@
     "source_name": "Ayuntamiento Nerja",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-15",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Infancia, Familia, Mayores y Equidad",
@@ -456,8 +492,14 @@
     "source_name": "Ayuntamiento Antequera",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-15",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "señales de actividad no familiar"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Políticas de Empleo, Actividades y Polígonos Industriales",
@@ -2118,8 +2160,14 @@
     "source_name": "CC Miramar Fuengirola",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Tarde de Halloween en Rosaleda",
@@ -2173,8 +2221,14 @@
     "source_name": "Ayuntamiento Fuengirola",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Bienestar Social y Familiar",
@@ -2197,8 +2251,14 @@
     "source_name": "Ayuntamiento Benalmádena",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Granja Escuela Albergue",
@@ -2206,8 +2266,14 @@
     "source_name": "Ayuntamiento Mijas",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Mercadillo Internacional de Navidad",
@@ -2315,9 +2381,9 @@
     "url": "https://www.velezmalaga.es/index.php?mod=agendadeactividades",
     "source_name": "Ayuntamiento Vélez-Málaga",
     "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "status": "sin_acceso_automatico",
+    "last_checked": "2026-10-18",
+    "review_reason": "Fuente no disponible para lectura automática: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   {
     "title": "Se amplía el plazo para inscribirse en el Estudio de Pintura Infantil y la Ludoteca",
@@ -2378,19 +2444,34 @@
     "source_name": "Más Málaga",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
     "discovery_method": "quality_review",
     "published_at": null,
-    "last_checked": "2026-10-13"
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "« Todos los Eventos",
     "url": "https://www.fuengirola.es/agenda/",
     "source_name": "Bibliotecas Fuengirola · programación octubre",
     "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "status": "verificada_con_fecha",
+    "last_checked": "2026-10-18",
+    "review_reason": "Evento con fecha y lugar estructurados.",
+    "review_priority": "resuelta",
+    "verification_method": "json-ld",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "evento estructurado con fecha y municipio"
+    ],
+    "verified_event_ids": [
+      "EVT-E283FDD21F21"
+    ]
   },
   {
     "title": "La magia de las palabras",
@@ -2484,8 +2565,15 @@
     "source_name": "Ayuntamiento Vélez-Málaga",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "RSS de Agenda de actividades",
@@ -2540,8 +2628,14 @@
     "source_name": "Ayuntamiento Vélez-Málaga",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Talleres BIJ Banco de Iniciativas Juveniles",
@@ -2590,9 +2684,19 @@
     "url": "https://mmalaga.es/eventos-gastronomia-malaga/",
     "source_name": "Más Málaga",
     "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "status": "verificada_con_fecha",
+    "last_checked": "2026-10-18",
+    "review_reason": "Evento con fecha y lugar estructurados.",
+    "review_priority": "resuelta",
+    "verification_method": "json-ld",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "evento estructurado con fecha y municipio"
+    ],
+    "verified_event_ids": [
+      "EVT-ED5CBD2B1F1A",
+      "EVT-CC9737BA22C5"
+    ]
   },
   {
     "title": "Visita Teatralizada Halloween en La Concepción. 31 octubre",
@@ -3431,8 +3535,14 @@
     "source_name": "Ayuntamiento Vélez-Málaga",
     "first_seen": "2026-10-14",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-14",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "señales de actividad no familiar"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "El Centro Comercial La Verónica acoge la exposición fotográfica 'Callejeando, un lugar, un momento…', de África Márquez de la Rubia",
@@ -10210,5 +10320,1180 @@
     "case_id": "CASE-AD55788C33",
     "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
     "query": "\"vuelve\" teatro \"Vélez-Málaga\""
+  },
+  {
+    "title": "La Caja Blanca",
+    "url": "https://juventud.malaga.eu/es/la-caja-blanca/",
+    "snippet": "La Caja Blanca Contacto y Ubicación Exposiciones Temporales Sala de Exposiciones Primera Planta Programación Caja Blanca Solicitud de espacios Los Jueves del Ocón Estudio de Grabación Bienal de jóvenes creadores",
+    "source_name": "La Caja Blanca · programación oficial",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-ED6DC872B1",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Programación Caja Blanca",
+    "url": "https://juventud.malaga.eu/es/la-caja-blanca/programacin/",
+    "snippet": "Programación Caja Blanca",
+    "source_name": "La Caja Blanca · programación oficial",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-ED6DC872B1",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Campamentos de verano para niños en Vélez-Málaga y Torre del Mar - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQTdyanVwZDJVTThjX2pTRElpdDdyU3pHeURtaldfd0ZHUG5MVEI0N0NEWVM3V1o4TjNjSklaTnEzQ18wdlNITGo4dmVUcXVoVDBqMXUyTFhRSTVVMUI3UVlOSDhuUlJWT0gxMVZrOXdFZmJXY1B3Y1hBYTVQUDBybEVmcG8yeHJiSTNEOEx5eXhGc1k?oc=5",
+    "snippet": "Campamentos de verano para niños en Vélez-Málaga y Torre del Mar La Diversiva",
+    "published_at": "Thu, 27 Apr 2023 14:17:17 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\""
+  },
+  {
+    "title": "Torre del Mar acoge este finde el IX Festival Aéreo Internacional - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFR3UkxVNHYzZ0ZTOUlzc0tyMVpOWHM5a0JkX0VfRDZQMHg2TTJtSEhaM21Ib0M3NFk1UjNybFhuRThpcXhzUGgwU19FOU4wUUEwaXdfRDZLX1lRX2VPUC1KZlNxWFNvdVpYTW5POGZQLVhKUG4wam9vT3FINjVMNXU3OXI0bzQxMDBLY3pBUUc0aXJjTDYxc2xLMHZlSGI1ZnFBdGZEME1zTlVXamU0VVQzYzlnR1U?oc=5",
+    "snippet": "Torre del Mar acoge este finde el IX Festival Aéreo Internacional La Diversiva",
+    "published_at": "Tue, 03 Sep 2024 14:09:10 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\""
+  },
+  {
+    "title": "Feria de Málaga con niños: programación infantil completa 2026 - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzc0cm9zNVY1UUFrQ3gzMi1nLWpIZnFZSzlpcXFjVDlybHJVY3Zmd1hsa2VjUkFON0NZNnI2M21rMlJzY3l1a3RSb2N4VUVkb3BManJST1hOaFdLWXZRcm5tVGlSeTRtYnlqV0s1a05NdWdXcU1wSG9qS2lqLXAxRzB2OHBvNTlS?oc=5",
+    "snippet": "Feria de Málaga con niños: programación infantil completa 2026 La Diversiva",
+    "published_at": "Thu, 08 Aug 2024 13:01:29 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Eventos en 3 octubre, 2026 – Actividades para niños en Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3N0QkVLcGI5SGRrT3JDeWVTaHNsbEQxSG81dFM5RUFmUXZoU0tBSHFQc1pPWXZaamRHaHFoUXFTMHg5TmRlRGYxWWJscFczZDhua0c1MUFUOHdmcU90X1NFcU9TS3ZoTjlrdW9RTTM4c21PdjV5QjkzejdpRmZmdlI2YXRTWHlQN3ZUQWRlSjNEbVJ5UWZFNjN2c2dOTkgxcTlfcVd3?oc=5",
+    "snippet": "Eventos en 3 octubre, 2026 – Actividades para niños en Málaga La Diversiva",
+    "published_at": "Sat, 03 Oct 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Feria del Libro de Málaga para niños: programación infantil 2023 - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1UyV3VEUFNXXzlzREZERGoxV0dGcnpNZnhoWWk1WUFMX3FpaVJLSEtoY0lLUkpwOGlxRXV6UmNMTWtwMkltWjZGaUdacUpfVDJ3UGNJQy15X1pBR2FOeENZdWh6Q1RvdExrYXluZWV3eGo1T0U2eFVmNFVxR1pqT01UYkk?oc=5",
+    "snippet": "Feria del Libro de Málaga para niños: programación infantil 2023 La Diversiva",
+    "published_at": "Thu, 27 Apr 2023 15:10:11 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "⇨ Teatro de títeres gratis en Vélez-Málaga con Peneque el Valiente - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFUyNGJwSGFDcU1ieHBfWUZ5dEtlUlRLV2l3WlN0bmowdTNQZkpzbXd4ZlBRZW10MkJMV1NFU2t3V1JZMHl2Z1FLenYtRzVZRi1ncDNZQ0R6ekl0QXBDTDg0YkdNTFdUTU1HTFpBTFR4Y0Rlc3FQOHgtOWpmQWpleDgyX0NRYlhqcm00a201UXBmVUU?oc=5",
+    "snippet": "⇨ Teatro de títeres gratis en Vélez-Málaga con Peneque el Valiente La Diversiva",
+    "published_at": "Thu, 16 Feb 2023 20:29:01 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "⇨ Vélez-Málaga - Etiquetas | La Diversiva - Guía de ocio infantil y familiar - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fMG9oRjdqeElxZmtDbmt4TzZOQ1psTFdQclBKX2RUVDZvZVFvZFJTNGlBaWtLZ3JXeDE5TzMyaXdTSVlXVjdYTEhJQk9YaU12d2VENQ?oc=5",
+    "snippet": "⇨ Vélez-Málaga - Etiquetas | La Diversiva - Guía de ocio infantil y familiar La Diversiva",
+    "published_at": "Sun, 25 Mar 2018 09:29:36 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\""
+  },
+  {
+    "title": "Actividades para niños gratis en agosto del Centro Comercial El Ingenio de Vélez-Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjRpblVNOW9BUnhuX05IT2xrdFl0WXRYM0ZScXNmZXhqQ3dDZnhhbFJURk1CcW93YUhnNjJpcXFUNkpWLXZFU2tKeklqdzM5OFk2OUoySTFwXzl6cTBtalROTnU2aDViU3NJcm5XZ0FWZ0h1T2d3SDItQnFkMkNsVzRhdkFFY1p0QU1la1k2a3E1a29xdGFqX0U4Nm1XWkptZkFUNUlqNFIyNFZ0YV9vY0RB?oc=5",
+    "snippet": "Actividades para niños gratis en agosto del Centro Comercial El Ingenio de Vélez-Málaga La Diversiva",
+    "published_at": "Mon, 04 Aug 2025 10:22:56 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Cabalgata de Reyes Magos en Vélez-Málaga 2026 - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtUjd6bmlIY2JSMnhrZFdIQk5BSzNDQXRUYmR4eVNpSk9CenMyNE9LZDZxam5QWFVZTk9aeFNDVW9TSF9oM25BZkRZOHpzNVRjOFhkenNSZzRhcTJJSW9VSE1TQkZOTjhVWk1BZzlLX0dGQTZuN3c1SkR3?oc=5",
+    "snippet": "Cabalgata de Reyes Magos en Vélez-Málaga 2026 La Diversiva",
+    "published_at": "Sun, 04 Jan 2026 20:06:35 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\""
+  },
+  {
+    "title": "VI Feria del Libro para toda la familia el 17 de octubre en el Parque del Oeste, Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWdLY09WaDEwa0dldE9Lc3d6YzBfVkU5a2tiT3FXdG5CWk5wOE9rcllsVzdWcHZUbDkwbFF2TV96YXlncDBuTHVLS29zMlFUQURFLXU0REhUMFIxWHdtS3laMjh3M21hM0h1Um1makt3aEdhRmhvQ2ZabUhVUExEUXZjTW9GZzZrNjRGdGk5Q3RIUmFrSkotX3RReFRSTkVZUmVzU29ZNU92dmFZWkk3Yw?oc=5",
+    "snippet": "VI Feria del Libro para toda la familia el 17 de octubre en el Parque del Oeste, Málaga La Diversiva",
+    "published_at": "Thu, 08 Oct 2026 11:10:38 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Taller gratis de arqueología infantil en Vélez-Málaga con ArqueoRutas - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbHlfSUJjNGE0VUN0bXM4Y2IxRHlDQ1RzeWUzbW45LVVqTGVLWmZwZ3oxcVZYM1pwZm1rSUZjMnU5NlVick12SnhickY3Mzc3QnZSQXFGWjVFZzQ0WExxeUJfR2Qybl8tNld4U0JHXzY1Y0dzbVNZTDdhVVF6bV9WdE4yNWcxNzZoS1FwZlMtYXNFTS03ajFXSjRR?oc=5",
+    "snippet": "Taller gratis de arqueología infantil en Vélez-Málaga con ArqueoRutas La Diversiva",
+    "published_at": "Mon, 01 Dec 2025 11:58:33 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Festival Aéreo Internacional en Torre del Mar gratis para toda la familia - La Diversiva",
+    "url": "https://www.laopiniondemalaga.es/axarquia/2025/09/03/festival-aereo-torre-del-mar-121204732.html",
+    "snippet": "Festival Aéreo Internacional en Torre del Mar gratis para toda la familia La Diversiva",
+    "published_at": "Thu, 16 Feb 2023 23:23:37 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "sin_acceso_automatico",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Fuente no disponible para lectura automática: 406 Client Error: WAF Forbidden for url: https://www.laopiniondemalaga.es/axarquia/2025/09/03/festival-aereo-torre-del-mar-1212047",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNExCaGM2NkVNZ0tfYUFXSTFmQ0xVV3B5c2ppdjFLMTZGaHFsQ3VKakFUSjJqdFhIc0Y4Tmxhc3lWeUZWY1FpY2ZOakZad3dOc1JqTk11d0MtVVBWcUZITGVQM0JNX2VNeERwdHBWQ3h1MWNCdHM2b3A4NlRnUzVhVTdXTGxjZFdQbWdkdVFma1MydUMwVHpzR3F0dkxUNVE?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18"
+  },
+  {
+    "title": "Actividades para niños en la Feria del Libro de Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUG5WWmJrOWZYTUJnTXlUQ0NuVTNZX2h5Z3dEUk8tVjB2a3lzMFFHQUk1c2RidFhVV3AtbjhVeDg0SFJ3bUVRWDZ3MlhoNG5mNW1HQmgwejJmUGx5bmp6VWpVZHdfQ1dPcmhpaGF1N2lTYmJicE5mMUtnVjFpbUxobWcyWGtNdw?oc=5",
+    "snippet": "Actividades para niños en la Feria del Libro de Málaga La Diversiva",
+    "published_at": "Sun, 25 Mar 2018 09:38:27 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Feria de El Palo 2026: todas las actividades para disfrutar en familia - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWUwTnI4Sm0yUE9XeW5FZW9vQmJiYWRueHZuTUNwemk1VGhuMThaOHE5YnhKZVczMzNHeENteUk5YS0xX2FWMDhTVU5hTVVfalFyTlpybDVTeWoxRERtUjB5Z1lRZGNTSjZJWldEZEExX0xDcFRYc2VWUmdCcnVSXzEwMGxGRTZWWVVQZGhkRHhlZ1JacGU5a3B3?oc=5",
+    "snippet": "Feria de El Palo 2026: todas las actividades para disfrutar en familia La Diversiva",
+    "published_at": "Wed, 08 Jul 2026 11:30:20 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\""
+  },
+  {
+    "title": "Planes y rutas para hacer con niños en Vélez-Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3NMdFhLNXpjQnBUNnpNOXJYOUEwVlp1MGNjS0ZMUHlKaC1WT2tsRG5SRHVTem9MbGJpQjRmdjVVa2NGUWpDbTBxN2xZVjFwTkV1OGk2YjhUNEwtTnd4Z3RzZk5hSzdEdGJSWW8tY0k5cDBsTUlRNUxIQ0M1R05JZkl3?oc=5",
+    "snippet": "Planes y rutas para hacer con niños en Vélez-Málaga La Diversiva",
+    "published_at": "Wed, 27 Mar 2024 16:58:52 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\""
+  },
+  {
+    "title": "Mini Feria del Mar: actividades gratis para niños y niñas en el Muelle Uno para celebrar la Feria de Málaga 2026 - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVE9PQktxMUlMaTE2R1hseHA1VXh0Yk5DVVFVamJTQW5JUEIyNFFRUlNtOVo5dUxONTRKd082YTFKUlV6cFNNemU0NVVaUUdqcDdQSFRiZFpZbFViN1dnT3VnZkxxTTlYNmZwdkg5bS1mNHVFcmhkV2E2OG1HM081WFh1QXVGN0J4U0JRYUpLQ09pOVZ5djZLeG93U09KNHZzZkxYOWhUM2xiTUVON1AwTkFMcGF4eVlxempxMUFZMlJRRnhRbjJZalpTQQ?oc=5",
+    "snippet": "Mini Feria del Mar: actividades gratis para niños y niñas en el Muelle Uno para celebrar la Feria de Málaga 2026 La Diversiva",
+    "published_at": "Tue, 11 Aug 2026 10:52:37 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Ludoteca con actividades gratis para niños y niñas en el CC El Ingenio Vélez-Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmk4aE51Mm1Pa0U3ek5mLVJ3NEFVaVJoUjVtc1JiQ3dNSHhrR0NZMURXSzlvbnJwVkhwcjlFVDhBZm5oNHFPZlZVSUlSd0dwZHZ3MDRZQ0Z5dERxaE13SWJSSVg5aVk5NlJYV3VwWE03YW1HbjN4YUhrMDJkdkg1RlkzM1JmV1FvSGI2eHdpWkh3Vl96RUdwT2hoeDA5eVpWUkcyYm5JOXI0R0Vk?oc=5",
+    "snippet": "Ludoteca con actividades gratis para niños y niñas en el CC El Ingenio Vélez-Málaga La Diversiva",
+    "published_at": "Sat, 18 Feb 2023 03:50:14 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Campamento de Semana Santa infantil este 2026 en el Jardín Botánico Histórico La Concepción de Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdGJ5UUJMNU1vRkhfT181QU10R2NVM3FFTjZyTno2SWFnRWxpaGxZZXNxMEtoQTJDdndMQ0hjaWhmT2dSaTJDN08tZFFZVHRpQkM3eldPSGkxWUxqQjVYNjZqRERpd0xSMWttX3RVNmFDNEhOVXA2aGJUOXpsQW04Z016UjdOUVRIcGtDRWxacE84ejdCdWFnanZwc21heEJ4WjczZG1pTFhnSGQ1?oc=5",
+    "snippet": "Campamento de Semana Santa infantil este 2026 en el Jardín Botánico Histórico La Concepción de Málaga La Diversiva",
+    "published_at": "Wed, 06 Mar 2024 13:17:34 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Escape room infantil gratis en el CC Rosaleda, Málaga durante todo julio - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFFDNzdDeVNWRl9JYnhpNE1BQkRyNVd0elRISDBGSl92aE04Rmdnblp2ZUNjZnJKXzRlUUxwRk8xU2xFc0k1dTlBMHd3R01ObDhsNHJPbHRGeFlDUHh4ZXZBcDVWMk1DaTFPOXk3NV9KcjdNalVxX3U4QkVQVGx0OWFlZjFhSUNnREFIODlYSjN3UUE4bDU0R3lla18?oc=5",
+    "snippet": "Escape room infantil gratis en el CC Rosaleda, Málaga durante todo julio La Diversiva",
+    "published_at": "Mon, 13 Jul 2026 09:17:55 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"La Diversiva\" \"feria\" festival \"Vélez-Málaga\""
+  },
+  {
+    "title": "Actividades para niños en la caseta de AVOI del Real de la Feria de Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWFNQUVhbVktYlllRkx1TlhIWUo2UlJmSmJHOXNLUVVuSTBPODBtX0Fud3ZZaWZvVjdTU1JTOUw0TjVZbUE5dFZEQjhPbUV1NTdZWWtrcUtJTmN3czhPeDJ2dV84N0NUS2pwWXpkY2xpQ2hKNVJxZWRCdTB4UFRtWmRzdmJ0aWROMlE?oc=5",
+    "snippet": "Actividades para niños en la caseta de AVOI del Real de la Feria de Málaga La Diversiva",
+    "published_at": "Fri, 17 Feb 2023 01:46:34 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-92319190E6",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"La Diversiva\" \"feria\" festival \"Vélez-Málaga\""
+  },
+  {
+    "title": "Grandes espectáculos para niños en el Real Teatro de Retiro",
+    "url": "https://saposyprincesas.elmundo.es/actividades-ninos/madrid/espectaculos/teatro/real-teatro-de-retiro",
+    "snippet": "Grandes espectáculos para niños en el Real Teatro de Retiro",
+    "source_name": "Sapos y Princesas — Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-4C38A9963B",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (25/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 25,
+    "confidence_reasons": [
+      "actividad concreta",
+      "varias fechas no atribuibles con seguridad al mismo evento"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Museos gratis para ir con niños",
+    "url": "https://saposyprincesas.elmundo.es/actividades-ninos/mejores/museos-gratis-para-ir-con-ninos",
+    "snippet": "Museos gratis para ir con niños",
+    "source_name": "Sapos y Princesas — Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-4C38A9963B",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Halloween en el Parque de Atracciones de Madrid: aventuras, monstruos y diversión para toda la familia",
+    "url": "https://saposyprincesas.elmundo.es/actividades-ninos/madrid/aire-libre/atracciones/halloween-parque-de-atracciones",
+    "snippet": "Halloween en el Parque de Atracciones de Madrid: aventuras, monstruos y diversión para toda la familia",
+    "source_name": "Sapos y Princesas — Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-4C38A9963B",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Beyu Pen, una ruta encantada para los niños en Asturias",
+    "url": "https://saposyprincesas.elmundo.es/actividades-ninos/asturias/aire-libre/rutas-y-excursiones/beyu-pen",
+    "snippet": "Beyu Pen, una ruta encantada para los niños en Asturias",
+    "source_name": "Sapos y Princesas — Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-4C38A9963B",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Sapos y Princesas: Artículos, actividades y planes en familia - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oVGszWFg0LWV6RmoyTmpSRU9pZFo2TjFNUTJGVmdyME9iM3ZCbHdaRzNzLWt3dEhLb2lseTNDdTlvSkxpRHJ0aTl2VQ?oc=5",
+    "snippet": "Sapos y Princesas: Artículos, actividades y planes en familia Sapos y Princesas",
+    "published_at": "Wed, 21 Mar 2018 09:19:07 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Los mejores espectáculos para niños y bebés - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFUVc2Y1lZbmwtd1lQd1M3YUItTEJLVTdTNkNIMWRIM1pCVmN3MzJOM0VPTUpZZExybGtrLWl2X3c0b2p3N3ZpLVJ3NXlNMGotZk9nWnYwTF9QdGlfNEFITldNcDVnRzdYQW5JQ2lmRnM5elpIX3QwcGFUd0U?oc=5",
+    "snippet": "Los mejores espectáculos para niños y bebés Sapos y Princesas",
+    "published_at": "Sun, 25 Mar 2018 21:41:30 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Los mejores planes con niños en Málaga en septiembre: exposiciones, teatro y mucho más - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGFzRUdYTUQwc0tRaDZpWGVyQm9WWFB0bFlPTkJnQjNIcjd6M1pKbEpUX05adGJhR1NnOGFhNUhSb2ZtVmhfOVB5Y3cxQW8wYlJ3UUZvVmpyWTE4aTBnY05QWWRoY1JTQ29pNDIwbU1XMldfWmdRZzZWcDlmUEdtLUJKd0E5M1hUVHRHZEJR?oc=5",
+    "snippet": "Los mejores planes con niños en Málaga en septiembre: exposiciones, teatro y mucho más Sapos y Princesas",
+    "published_at": "Tue, 01 Sep 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Los mejores planes con niños en Málaga en diciembre: instalaciones luminosas, música y talleres navideños - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR2FYVEc0TzR3dERpaGhnYXV6Ul9SNzBJYW9qVHVPbi1IYUV6dkZqR1dpS1F6NXByMFNXMmh3a3pNQXhqcTBSN2x0MmtLbTE1QVV3MThUWFdONUk5VXhFeUFMRFJYVmhBTEdpSFlEdDI5elVJWHhKU2hrUTBBbXRRdEpPTmhmY3Q0NXpWSw?oc=5",
+    "snippet": "Los mejores planes con niños en Málaga en diciembre: instalaciones luminosas, música y talleres navideños Sapos y Princesas",
+    "published_at": "Mon, 22 Dec 2025 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Los mejores planes con niños en Málaga en junio: teatro, circo y espectáculos familiares - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdXJZSWE3ckRnWm5XN1hkVTNPT0FyOHJXYWhGLTRBUENHN0hZZXlzWXdraWFrVGFtR0R0UDA2YjN5cGJUeUhZZHYxLTdWYTI4S1FhWG9odGVGSkV5R2ktdEM3STJLRXFNLWZTRWcxQVE1SFlKT08xUGdLLXZtZjVaaUxaMVdzVTA?oc=5",
+    "snippet": "Los mejores planes con niños en Málaga en junio: teatro, circo y espectáculos familiares Sapos y Princesas",
+    "published_at": "Fri, 29 May 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Los mejores planes con niños en Málaga en noviembre: Alice Christmas, Imagine, danza y magia - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVpta1YzTDBfU2hOQmpyWms2QnpBOWVtZmZnM28zSVd0ODd6X0NDdzVfU0JnQk5TblJVb25hNWp1ZjRoQTlsbDBxM2tpd1FnOWJxM1FNcE85dlBhanU4a01wZFB6cDV2NmRDQ1dxVGlKY2VVUE5pWG9UWDBRdUlZeDR6VDNLdGVnRlA3aA?oc=5",
+    "snippet": "Los mejores planes con niños en Málaga en noviembre: Alice Christmas, Imagine, danza y magia Sapos y Princesas",
+    "published_at": "Wed, 29 Oct 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Planes con niños en Málaga en mayo: teatro, musicales y espectáculos familiares - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUplengxNUw2cHBjVDhRTUpycFlpc2ptM1FiVEU0UWRad3N1dE50RnJuaHlWdlFhT0NOUl9veUtTUFFxRmc0QmpwbXpTX2t0cGxOVFpkZjU1dmFBYWlwQWhEUGxUaG9EM0pQT25NV0Z5eGZ0ekVoUW1IMzFxUTlzVzRURWpVdw?oc=5",
+    "snippet": "Planes con niños en Málaga en mayo: teatro, musicales y espectáculos familiares Sapos y Princesas",
+    "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Los mejores planes con niños en Málaga en marzo - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ0JydzFSa2FYOURBNnNOTVpxMVVPYmxobGJiZzg3aEtiMkpSUzhBdWtYbjZxUm1lbkl1X2RDZC01NUhKaEFDVmRzWmpLb1VRbGpmelNKNXRkN2dBRUo2d3NFUGp4SlktblRndG42dkNHX0JySXd1RXJMTDVtNUY0ZndHWVM5NFE?oc=5",
+    "snippet": "Los mejores planes con niños en Málaga en marzo Sapos y Princesas",
+    "published_at": "Mon, 02 Mar 2026 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Planes con niños en Málaga en enero: experiencias inmersivas y musicales emocionantes para vivir en familia - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMmtTMFppcnA3Nzg2dERXTUlydnBXVWgyUUJsM1U0aWQ1dVR4QlJKVWoxZ2JsNXQtN2hMNC1aWk8tMDlrcFBMV1NMT2k0RjF6bm1Lb3dHRXFXUUhjRHBsOVRhd1ZLaE5sai05ZzZTaHEwa2UxbE1DQ0FndW41bE9neFJFOTBNRkU?oc=5",
+    "snippet": "Planes con niños en Málaga en enero: experiencias inmersivas y musicales emocionantes para vivir en familia Sapos y Princesas",
+    "published_at": "Fri, 23 Jan 2026 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Espectáculos de títeres, historias para soñar y otros planes con niños en Málaga en febrero - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFh0bzh0c1RxQXlTWVphczg5MGRWemNtbks2Mldsc2hEY3dnZTF6bnp4RFNVV2otdXRBU3h4R1N5V3B6MjBqdm1veUNwRmcxQlhWREFnNTdacnZrdHFvZGJ0NVFBNy1IQlhINV8tTGlTQWdScFlrbDZyMGpuVjZuWDJkbW5aZm90RWc?oc=5",
+    "snippet": "Espectáculos de títeres, historias para soñar y otros planes con niños en Málaga en febrero Sapos y Princesas",
+    "published_at": "Mon, 26 Jan 2026 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Planes y actividades con niños en Málaga - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OXzE5NkpHLU1PQ3lMS2EzbUV1eEpURUt4ZGhqdHVTWXBUbjhpbHl5cWJRTmFWOHJpTVRuTjBlZjlVNEdfZVhfSWdZRFNjMHFTRUl5Z2VxWVYxMVJvMnFtb2RHWmZ5SEIwTXFF?oc=5",
+    "snippet": "Planes y actividades con niños en Málaga Sapos y Princesas",
+    "published_at": "Wed, 17 Apr 2024 07:03:22 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Planes con niños en Málaga en abril: historias originales y música en directo - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONlJIQWg0bnp4eU42SksySE1DbzI4YVJtX3JaQ0pRSmt6ZEM4TzBIZDdkNWNuNGJxZWlXWUpiWUk0dFhBci1jSGZpZDJBUmtndlM2dFlMazRRLU1GelR6NTlBSlFFaldMNnJKTlpIUVYwRGxmSFBYS21ZWUZKazJ2UjhsS29tdDQ?oc=5",
+    "snippet": "Planes con niños en Málaga en abril: historias originales y música en directo Sapos y Princesas",
+    "published_at": "Tue, 31 Mar 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Los mejores planes con niños en Málaga en julio: instalaciones inmersivas, exposiciones y musicales - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1ZvbkZTRDdzZ0JjemVHclREWUtieGtJWmVKbEFta3UyU0dLMVJBM3FTeFdpbnd3Q2g5MVlUWlBuRXJKZVRoT1JmYnVoU2F5bVBnY0M3LUhxSWxFdG8waWtYZzZSWnNabEIwSTE0UlU4UHdvZEVzVm1taGwtb1dMVlYzZW1TUHM?oc=5",
+    "snippet": "Los mejores planes con niños en Málaga en julio: instalaciones inmersivas, exposiciones y musicales Sapos y Princesas",
+    "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Los mejores museos para visitar con niños - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wekNUWHR2a05jTmZ3eGxNMXNvdWpodjZrNlFSYzczNE5LQjRxckRzbTl2clBXYUVYX25yNkIzcTJqUmpmVU5pOWlNY0FPWlU1QVFRRzNoa2VmRmgwSXh1amRrSUpHU0ItMlQ3eTNBT1l3X2h1M3ZPakRaSkRUb00?oc=5",
+    "snippet": "Los mejores museos para visitar con niños Sapos y Princesas",
+    "published_at": "Sun, 25 Mar 2018 12:00:42 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Los mejores festivales para ir con niños - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSkU2VnJmcjY0dGpqVFhwWTVtemZja1ZvbDZtMzk1UjF5VkVKa2xObGN2bHVJZ2MxenViNjZYeGlwRjNfMFhBdUtsdjNZdXItOTZGNnJoNTJYajFIZjlzQUlkbzgweUc2U2FQSFRaeWgxU2c5TmZQSFl6aHl5X0tKQm9SWjg?oc=5",
+    "snippet": "Los mejores festivales para ir con niños Sapos y Princesas",
+    "published_at": "Mon, 26 Mar 2018 07:48:26 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Los mejores planes con niños en Málaga en agosto: exposiciones, espectáculos y actividades al aire libre - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRDc1Xzh6bVo4Q2pZQk0wU25NM3ZmM28xbDJhN0kyRXBuU05rdU1UNTVzRE42YUVKRzdWb3NPLTA5bjVlRkRHZnFMbFA0X1pNZndlS2lqbXpSMHVCVkY3eTdpNWlQNlEtUm1wOG5MNlk0VkxaUm1WVE5NQ3FxbVFxUXZEeUlNWkd4?oc=5",
+    "snippet": "Los mejores planes con niños en Málaga en agosto: exposiciones, espectáculos y actividades al aire libre Sapos y Princesas",
+    "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Museos gratis para ir con niños en España | Plan cultural en familia - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR19Gc3ZxUE1kVllSenI5WU5HM0luNElwdkR1NmxsRWpQU2E4RXFYNjZlZERlazhmaktHWW5jN2QxQkFnOTk3RFBSeE1OSVFWS041OGtlRlJ4VjY0VFVFVkNGd215Um1NcGNmcWpNOWlCQldmbURGT2JfVEwtMmprNjgtRi15VC1HZmQ3STVPd2xDM3hIQTRV?oc=5",
+    "snippet": "Museos gratis para ir con niños en España | Plan cultural en familia Sapos y Princesas",
+    "published_at": "Fri, 22 Oct 2021 23:09:08 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Los mejores planes con niños en Madrid en septiembre: exposiciones, musicales y aventuras en familia - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOU5pQmd0b1d6Ym5QWmtCZTRKY1lfdzJwUWFBcGg3bjhCaEl0d282cVNlWWN5T1dpczFQSS1kVFNobkxwbXRmVjBLTXpxTTNoV01hOHpyUXFzeWtVSGd4T2xOb1VSbVJQaFZFc0RLVFdmaHlXZVpIcnpKeGZxb3lpMGRzekJNSm1zWVMxcWZn?oc=5",
+    "snippet": "Los mejores planes con niños en Madrid en septiembre: exposiciones, musicales y aventuras en familia Sapos y Princesas",
+    "published_at": "Wed, 02 Sep 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Títeres y motores: los mejores planes con niños en Zaragoza en septiembre - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTHdmcFlQRUFyaEs4TVVCUE13cWRvbXNwdDBpbW9oQzRQUDJWTUsyUHgweENEbmFPSFlkV2otTERJaEZwYUx2OERNejBhRzZsdGZBUmt6TnZWS3dlQmloM01NUHhLa2tKM2RBTlMxeW1hZ1VJTHdUODBqRmlWel91NG9RTDBRTlNFVDhSZWFSY0k?oc=5",
+    "snippet": "Títeres y motores: los mejores planes con niños en Zaragoza en septiembre Sapos y Princesas",
+    "published_at": "Tue, 01 Sep 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Los mejores planes con niños en Sevilla en junio: exposiciones, musicales y mucho más - Sapos y Princesas",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYmVPWU01RXJYb290MjBCWWVPc2p0Si0yajlJTnFyNHAwbzhSR2pJYm9nNks4eFBaZkZiOUlGNWdBQTVTaFlTbDI1MFZQME4wWkF6QkJtRWZlX1ljbEZmTmJmWXh5VmJLRGFaNzlPV2xVQ0V6QnBOMVlDREFTNGMyRVBmWFpTdUg5?oc=5",
+    "snippet": "Los mejores planes con niños en Sevilla en junio: exposiciones, musicales y mucho más Sapos y Princesas",
+    "published_at": "Fri, 29 May 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-4C38A9963B",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+  },
+  {
+    "title": "Tenencia de Alcaldía de Torre del Mar",
+    "url": "https://www.velezmalaga.es/index.php?mod=tenencia-alcaldia-torre-del-mar",
+    "snippet": "Tenencia de Alcaldía de Torre del Mar",
+    "source_name": "Ayuntamiento Vélez-Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-E3D5D410B0",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Vélez-Málaga cierra una nueva edición de la Real Feria de San Miguel con la ciudad volcada en sus calles",
+    "url": "https://www.velezmalaga.es/index.php?mod=noticias&id=8858",
+    "snippet": "Vélez-Málaga cierra una nueva edición de la Real Feria de San Miguel con la ciudad volcada en sus calles",
+    "source_name": "Ayuntamiento Vélez-Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-E3D5D410B0",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Torre del Mar celebrará Halloween con un gran pasacalles, talleres infantiles y un renovado pasaje del terror",
+    "url": "https://www.velezmalaga.es/index.php?mod=noticias&id=8865",
+    "snippet": "Torre del Mar celebrará Halloween con un gran pasacalles, talleres infantiles y un renovado pasaje del terror",
+    "source_name": "Ayuntamiento Vélez-Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-E3D5D410B0",
+    "first_seen": "2026-10-18",
+    "status": "verificada_con_fecha",
+    "review_reason": "Actividad publicada por evidencia textual de alta confianza.",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "público infantil/familiar",
+      "municipio malagueño explícito",
+      "fuente aprobada del catálogo",
+      "titular coherente con la pista"
+    ],
+    "review_priority": "resuelta",
+    "verification_method": "texto",
+    "verified_event_ids": [
+      "EVT-TXT-E60E94B4A0"
+    ]
+  },
+  {
+    "title": "Vélez-Málaga reafirma su apuesta por el sector del automóvil con una nueva edición de la Feria del Motor",
+    "url": "https://www.velezmalaga.es/index.php?mod=noticias&id=8861",
+    "snippet": "Vélez-Málaga reafirma su apuesta por el sector del automóvil con una nueva edición de la Feria del Motor",
+    "source_name": "Ayuntamiento Vélez-Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-E3D5D410B0",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Nuestras playas en directo Imagen en directo de Torre del Mar",
+    "url": "http://turismo.velezmalaga.es/index.php?mod=eventos&id=21",
+    "snippet": "Nuestras playas en directo Imagen en directo de Torre del Mar",
+    "source_name": "Ayuntamiento Vélez-Málaga",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-E3D5D410B0",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Centro de Día de Torre del Mar - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tQjFxMnlid0gtYnZsNlRnZVZIbDlDZVpGa0M1T0tCRmtTUTVnN1hadlIzQ0ZRTmViREFiLWZwd002VnVvUkR6dGJCcnNYeS1ONnBaQWdQYTluTHBkblBMblpWTE1Zb00?oc=5",
+    "snippet": "Centro de Día de Torre del Mar Ayto. Vélez-Málaga",
+    "published_at": "Sat, 06 Oct 2018 18:23:27 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "PLANEAMIENTO: EXP 3/20 PLAN INNOVACION PGOU \"FUERTE DE TORRE DEL MAR (INNOVACION AFECTANTE A LA UE.T-9, UE.T-11 Y SL.T-5 )TORRE DEL MAR - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSHNTenRpTW5jSU5IYi00dDI3Yll5YjQtaVVvVWhDNnNyYzFwdnlFdGM4Smk1YnhjZlRSVUFvT3BMUXJ1M2VkOC1PSTlzMUVzZDY2ZEZYS0dseU1RSjlfVGhta3hpaXk4aV8tcWM3Mlc3bFp6NE15V08xZnRBUl9IX3dIbElVcm55b21ySUhB?oc=5",
+    "snippet": "PLANEAMIENTO: EXP 3/20 PLAN INNOVACION PGOU \"FUERTE DE TORRE DEL MAR (INNOVACION AFECTANTE A LA UE.T-9, UE.T-11 Y SL.T-5 )TORRE DEL MAR Ayto. Vélez-Málaga",
+    "published_at": "Thu, 04 Jul 2024 22:54:39 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Apartamentos Turísticos - Turismo - Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVZktERXc1bEJ6Q0VrZGg3ZUNtdFh2OW04LWF4MS1BS2tVWXlYTGNmS1F4SFNDY1lDNFpTaHpqNHRLXzRDQ1ZZejNUeFB4ZWNUVjdkbEdIVi1rc3RrcWhTeGhKRDhWYWs1bC1MVzI4MkpZQUhMb1E?oc=5",
+    "snippet": "Apartamentos Turísticos Turismo - Vélez-Málaga",
+    "published_at": "Wed, 01 Jul 2026 08:03:27 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Torre del Mar proyecta rehabilitar un edificio que albergará el centro de interpretación de su Castillo - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QVDdCTXJKUEdCVkFXM1V4RGtieUUwMmR2cUx5aVEwNlVZcW1wbTlPTUpMMFM4X0QzUFBCblRiYkRtdTAyQTlXQ0F1bjliSEMwYnhqOEJnRlB3TE5zRVFtY2hn?oc=5",
+    "snippet": "Torre del Mar proyecta rehabilitar un edificio que albergará el centro de interpretación de su Castillo Ayto. Vélez-Málaga",
+    "published_at": "Thu, 18 Mar 2021 11:27:05 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Torre del Mar - Turismo - Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lbzJxbVA0SjF6UGZmUmNFR21HMkI5YmVLc2FfNU1keTFRdHhhTFQ2RzE4OGJXbGV6QjNfUW03d3hJOW9SM3A4WURIVGhuYjZTSDBrbEduN0VpSHVmM21WcHZXc0x3ajVs?oc=5",
+    "snippet": "Torre del Mar Turismo - Vélez-Málaga",
+    "published_at": "Wed, 01 Jul 2026 08:02:48 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Torre del Mar - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IRHVrYTlSUGZPcDV1amNwRlVaZGhqTUFCOV9IZE56Q2s2OWxCalJ1ZVBzNHF3Tzk2eHp1ZzNxTmppbk52ZWdnNEdVUGRtOE51NHN6T0RrNjhtUmNQRjdlSU5DeHI1SUZhYndTb2xzdlpQdw?oc=5",
+    "snippet": "Torre del Mar Ayto. Vélez-Málaga",
+    "published_at": "Mon, 30 May 2022 00:05:45 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Torre del Mar - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM00yMldqZ2QzR3laX1BrQmJMQ0tjbUZQQXVFTUFQT0JWbUtlcllBdThJNUY1UlV4ZmUza19lQk9RSmZTV05iemRNWEk3X0V4WnZ5d3FhdlNGYzRWZEJRbXFXSHJMTnhBWE1xdVdld3RERXJXZW1NYzNuQmgxRm9kdDlsXzg2UQ?oc=5",
+    "snippet": "Torre del Mar Ayto. Vélez-Málaga",
+    "published_at": "Sat, 10 Nov 2018 03:17:02 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "El Paseo Marítimo de Torre del Mar ya luce con el nombre de la 'Virgen del Carmen' - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5reVRPOHNuZlBlNXc2QllWMW9tcGdhTGZDVXVSUk1IQ25BaWgwUzV2WS1HZ3dKSXg5MTlqcmtLbjVERV9kQm5WRWtpQmF6UnVBbzVvQzFfNjdOaVN5d1BBSGNPZw?oc=5",
+    "snippet": "El Paseo Marítimo de Torre del Mar ya luce con el nombre de la 'Virgen del Carmen' Ayto. Vélez-Málaga",
+    "published_at": "Wed, 16 Jun 2021 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Torre del Mar muestra este mes de agosto su legado histórico con una exposición en calle del Mar - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53UXNydzlQdnVkR1RQeDdIS1VvNHlmT2pweFI0aGdkMGg3Z0xia2VQMy0xVnVwYlBTNUw4bkstel8wTWFPWlRwaDAtRE94UDktbTBma0g2WVFwTlZON3RDRlVSQQ?oc=5",
+    "snippet": "Torre del Mar muestra este mes de agosto su legado histórico con una exposición en calle del Mar Ayto. Vélez-Málaga",
+    "published_at": "Thu, 22 Aug 2024 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Torre del Mar - Turismo - Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWeGJEQVBXaDB2OGo3MHBaUVM3RDRDNEZhYmY0YVE3S0NmdndGU3BJSUN4aW5jWHp6YXB4blphYVRYS2tjU2hyNGlLR3M2Slh1RnF3T2NkSHB5MTNyMmF3ZndraFlHajhlQ0t5cg?oc=5",
+    "snippet": "Torre del Mar Turismo - Vélez-Málaga",
+    "published_at": "Wed, 01 Jul 2026 05:42:52 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Torre del Mar - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1od2VMZmxfX1NCSm5nb2FlaVB1R3hHbkdVSzFXLVpYMFdjOTBuclRpT1lTY00tR285VmV4Uzc1RGdnMUhvQXdCMDBVaDVyUTNoZXpiN3ZGeHVoeEdjNmcxMjM1dXAwT0xFQmc?oc=5",
+    "snippet": "Torre del Mar Ayto. Vélez-Málaga",
+    "published_at": "Fri, 05 Oct 2018 23:33:51 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Asociación Alma Torre del Mar 2025 - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZcVN4UVpJVUtYVEtWNGpOSkdFeE5NTXp4U1dOVXcwa1JsaFk4UkxWdVdTRzd1MFhqalJhdmd3QTdpaUQxY2pmREY1c3kyNWtiSWhfOVEwWm9WRVc0dlFXWi1PLWFoMkl5RUJSTDV4ZjdaWTV0bHdkSUpnaw?oc=5",
+    "snippet": "Asociación Alma Torre del Mar 2025 Ayto. Vélez-Málaga",
+    "published_at": "Sun, 25 Jan 2026 00:37:24 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Torre del Mar acoge una exposición de propuestas de proyectos de transformación del Hogar Virgen de la Victoria - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uV0RrcmxOX1VTdENEMVFibHhOV0Q3TDlBSUY2S2YtVnE0OGVGNzBiQmFGX2cxbkdmVUVkVGw4RWJJVkpIS1N5UGlnMlhLalhOV2MyQU5scWNHRmR1QXFlRlZkcDRFQ1dy?oc=5",
+    "snippet": "Torre del Mar acoge una exposición de propuestas de proyectos de transformación del Hogar Virgen de la Victoria Ayto. Vélez-Málaga",
+    "published_at": "Thu, 06 Mar 2025 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Torre del Mar celebrará el VIII Día del Turista con una tarta gigante de casi 9 metros de largo - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CS2pBRXdkdkhWRUQyZUphNVo0ampOTXJIemZaQVJpNk9EaFUtbmZERHI3WEVpcFFHV0hVY1VRN3F2cS05aElTX2ZnS2hGMkhRWjdFOE5ZU0xhR3RYcXM1OU90ZldfN0d0?oc=5",
+    "snippet": "Torre del Mar celebrará el VIII Día del Turista con una tarta gigante de casi 9 metros de largo Ayto. Vélez-Málaga",
+    "published_at": "Fri, 08 Aug 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "El Castillo de Torre del Mar será restaurado y convertido en un Centro de Interpretación financiado al 100% por la Unión Europea - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuZEZRRHlHbXhMV2pGc2hfeS1wRzFrTnV2X3VuNzFmVS1KRnM4dC1VNlgxeUY1R3F5WnhpSDMxajVLdjFnZzV4ejlBR3pqcDVfWXpaNlMwU0tCbUltbVRKNTduLWJIVGs4?oc=5",
+    "snippet": "El Castillo de Torre del Mar será restaurado y convertido en un Centro de Interpretación financiado al 100% por la Unión Europea Ayto. Vélez-Málaga",
+    "published_at": "Mon, 08 Sep 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Torre del Mar - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05dVdOMk0xM2ZRVWkzTWJIWUEzOERvQkV6M0NvcTlCRXIwVFZHc3dhQjRObkd2cVVWVGl1Z2tDcFZzUjFhZzBJd2NSMVFwbzc5Y1VYUTQybDNxV0hsenFJWDVMNEVhS1dTd3Z0b2ZuQXpGekZvV3c?oc=5",
+    "snippet": "Torre del Mar Ayto. Vélez-Málaga",
+    "published_at": "Mon, 05 Nov 2018 10:02:05 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Escultura Torre del Mar - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92cF95dFNCYmxIMnJ4aGZNRUtvUUw1UjJhWEh4OWpGR2dIbDJQQjR1amd1MXB6bmYyZ3o5bmwwN3hrVm5qR1pHYjgzanQzcDB6RGpKdVRZRXlWOW1abjhTVHk5UQ?oc=5",
+    "snippet": "Escultura Torre del Mar Ayto. Vélez-Málaga",
+    "published_at": "Wed, 22 Feb 2017 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Torre del Mar implanta dos aseos con accesibilidad mejorada en sus playas para la temporada 2023 - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XVmJ6M3M0TGNpOGRDZDNSUGZZZjhUSmZSc3RhaDJxUnM5X1hHRXdqT05JNzI3eHpfd3lQcUpUeUFaUVhKSWxCb2xaTlVUcWg4c204QzdUSjktWTkzS2lpSTk5dw?oc=5",
+    "snippet": "Torre del Mar implanta dos aseos con accesibilidad mejorada en sus playas para la temporada 2023 Ayto. Vélez-Málaga",
+    "published_at": "Fri, 31 Mar 2023 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Turismo Vélez-Málaga - Turismo Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UcFlQZW5BZ29UeWR3MVdSVW9DbnI2VTFqUDU2QkhmVjFhbDZDOW9YOUNhWGx1cEctdDlfVzdfRF9aZV9fLWc?oc=5",
+    "snippet": "Turismo Vélez-Málaga Turismo Vélez-Málaga",
+    "published_at": "Tue, 20 Nov 2018 02:04:17 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "La Romería en honor a la Virgen del Carmen de Torre del Mar ya tiene nueva fecha: 25 de mayo - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pclE0NWtVdjN0clU0WFBsWjBBbmFDTmtGNVZlUFdWSnY2d01FWXFGX0QzSHZfaTJCTm5OdWJJZWZmYWVkT1dnNkY5THMzbjFVNm5OV3VjWGJjVFB0U2p6VlFkbw?oc=5",
+    "snippet": "La Romería en honor a la Virgen del Carmen de Torre del Mar ya tiene nueva fecha: 25 de mayo Ayto. Vélez-Málaga",
+    "published_at": "Wed, 23 Apr 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Torre del Mar marca el símbolo de la paz en sus playas en solidaridad con el pueblo ucraniano - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tN2ZBNXZQUHl1SE9ReUx3ang2UHBYVzN4czFYaWs0RGRRbWFFWVBjczMzWmx6WjRnMGh2VENVaDRpMDNTVnNMcXBZZllDVUx2US1pUjJCbm5Ia0tKcG1IeGFXeGNPY2l0?oc=5",
+    "snippet": "Torre del Mar marca el símbolo de la paz en sus playas en solidaridad con el pueblo ucraniano Ayto. Vélez-Málaga",
+    "published_at": "Thu, 03 Mar 2022 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Se disparan las búsquedas de ‘Torre del Mar’ y sus eventos en Google Trends con datos que ya son históricos - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EQWgzb0k0cUxYeEpULTVKanZaaG1zY0hRakNpY05selB0a1puRjkycEFzay1QalpXWWlsSmctbjQ5dGtNZ1NpZzlIVFEtWlNQTERWYWw1QnVYQ2dsckQ4VTU1WUQ4U2Yz?oc=5",
+    "snippet": "Se disparan las búsquedas de ‘Torre del Mar’ y sus eventos en Google Trends con datos que ya son históricos Ayto. Vélez-Málaga",
+    "published_at": "Thu, 11 Sep 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Tenencia de Alcaldía de Torre del Mar - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uNHJPOWY3cFp4eDZraDVPWHpPZ0JEUmhaRWVKMU9HOWdGb1d4d2lnQ294QjFpeDlTa0lFWVhBRXVfUXYzdGdfNTRXTExTSnRZVTU3LTZybndYSl95Q0FBeVRha0hIRFcyamhTTHBXaUFlSFpyTlhFU0I5VXc?oc=5",
+    "snippet": "Tenencia de Alcaldía de Torre del Mar Ayto. Vélez-Málaga",
+    "published_at": "Sat, 20 Oct 2018 03:09:42 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Listado de actividades de Torre del Mar - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqS050TXlwdmJkX0ZZdjRpeVItSzNmRnk5b3JILXRMUEtKN1Y0cFBfRmJPSGVULUhTSXJ5ODYyTzZ6UE0tRVVGSjN0STdnc3ZMbS1QZU9EV3NCVjlKT0ZZRDh2eUp2UlNJU0lDOXpqa01Wb1BLcTdlR20tQVJjamc?oc=5",
+    "snippet": "Listado de actividades de Torre del Mar Ayto. Vélez-Málaga",
+    "published_at": "Thu, 20 Nov 2025 02:01:49 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Plazas Mercado Municipal Torre del Mar - Ayto. Vélez-Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lbzB3Vi1uWnQ5c05nWW4xYVNkOU52dnRkWmRheTZVMS1fNHZIamJfdGlRZExKLTNZR1dudmJWREFBZzlTYWt4cXNydzJMTVB4b05FLTJnb1kwZHZ2RkRQb1cxYw?oc=5",
+    "snippet": "Plazas Mercado Municipal Torre del Mar Ayto. Vélez-Málaga",
+    "published_at": "Wed, 03 Jun 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:velezmalaga.es \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Tragedia en una residencia de Vélez: una fallecida y cinco heridos al caer un ascensor - Andalucía Información",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdjB0bVlfcXlvRHFhR2lBeTBTbHQwZzZWeUJab3JmNU5tdWlkUkE4QXNuZVIxUkU3aUduLU5lTEdtcGJpcHhIVklnM0lsVFBIX3RjbzZjWDN6dDk4UEVRU3p4ZlpzVzBMRHBKSmI2RUFqOFB3bTIySmhkcFEzWWRVYUJIdE9pMFZmZEZkTTlFaUx3RFdMTk1OU2RCb0psQzc4RUJNcXVUWjRybnNILVNiNTk1c0NxUzNWdXBDS01DMmk3aXhqU1FSTFJrLWludl83ZmRZRnBrQ3RBajhSUUlGdUxR0gHnAUFVX3lxTE4wNjJ6dUFDd3R6UVZVMjJjQ1lKWFJXZjNOOWlNeFFiVzlhZG5KRXBFVjZQSUVmeFdObllhczNCYktZV01feVowTDNaM3BxTEdhRmRJR2tlby1YSlpFTTEwUmcwUzFPdUVydlY0YVhxRDRpZHNwaUhuczZkUWNOU0NHMlZfY1R2d0dqaWo2am1NZ2dFOHFyZUgzYnBCQ0JQUGhOd2pRWUpmMDBuMk5GNmNqamZTaXlzaVV4T21EVlhTOF9wSzFULUxqcHJqUUY3Z0dnOFh3S3lOTEFCWTExNFBFWXhsV1ZOWQ?oc=5",
+    "snippet": "Tragedia en una residencia de Vélez: una fallecida y cinco heridos al caer un ascensor Andalucía Información",
+    "published_at": "Thu, 15 Oct 2026 06:20:51 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento Vélez-Málaga\" \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "El SAS traslada las urgencias de Torre del Mar a Vélez-Sur durante cuatro días - Andalucía Información",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZTdNdW5sMGhxdE9yRnp6YVdweWljYUZpTGNRX3lhY191NmJ2bDI0WW51VVBUcmZLbHFLZURpV1Q5eHBCQl9PRmtKZXdmVXNzTmFvcVcyRlRCV1lHTVdPTXRIaGxpVFZVQm10Y0lHb2hGT0NhQktSb2hUbF9yTG4zUVZsemFmMXpYaGphWHZ5MHV2eW95OERQRHFPaFl1Mi1XMVZUd1BpZGgtd0o5YldIWUcwaG5RWkVxelJ0NGhOSGF3UUdMMDhpV2pnbnFWR0pfbGttdE5nTGV1TlBOWXBiWFNUZ3rSAeoBQVVfeXFMT1JYOEhIYWhCcmllbFJjVEFiVkU5SWhud2x5VllYbDVwbFZKaUJtNHNsRXNVU0MxS0NuWm85bWk3UnlXejJoR25wQWpOLTZZWmhjN0NvMlhtU3ZJbDFmWWNEZEYzbFIzRDR3Ni1GT29RSWxBTEdOb0RFUktqZUNmWG41bWdxRkN5Nk96SjMyaHY2S1lQdEs2dHNBYXhFOE5NSFdKQUtUdWtFQWNsak5pUEVxZjBzNm1YYjFyc0VhTWRacUZEUGUxdlc4UXZSb3hXZlZXb01KcFlLa2o2bW53eEV2T0VMYjhsQ2Rn?oc=5",
+    "snippet": "El SAS traslada las urgencias de Torre del Mar a Vélez-Sur durante cuatro días Andalucía Información",
+    "published_at": "Fri, 09 Oct 2026 13:16:46 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento Vélez-Málaga\" \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Detenido por incendiar hamacas en Torre del Mar: investigan si está tras la oleada de incendios de Vélez-Málaga - El Español",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN1puZVFKUk4zUTgyZjJ0WEhHQms2T2RnVWYycjQ2TmJUTVJtclozeVhnN2hkOXRJZlEyNXZPaTFhQnRMOTlOYk96aXItak5zNTFCbndjX3d0ZzF4OGx4UW40SzNkT2Fjb3FqTng4ZEYtSnkyXzhrd1RUY08tX3h5Q2VXVGJPTWJHVHZsT3lObWhyRkF4TzNEcHR3OEhucXh4QmRDOTF3NjZtdmFHbEhhbjh5ZklTSWNvcW4wM1lNdFoxbXZmQ3VsZEtoQXl1Vk1lTkFHWkhhTlNOVzVpQTNaUEliWkdmTndWVmxXNHhULTRMSDR0NWtaNdIB_gFBVV95cUxQVVVZT2hnRjV5YllQSW5VQlg1Wl9NZG9wNXBLS0dJUF9yZHUyV0tpdjFuYU9xcmlGSXNoQjduaXdSbUhjRGVuSGVfYkJyQ3MtV2VKRnFNRnhVeW92RVpUUVVJWTg5NnNtSmliTXJVZmdabnhQSDZROHl6SGN1VnpXNE8zcHJLVHpqWUJNN280LXdfWHA3V3R0ZS02ZWdZbjVKQ2FWUndVdHA5YllVaUxnZWxvVWVvbzQtcFNxaGpKZFdwVFhOUjlhZkFKdElaak1JUDR1c0JuNndHV0ljWXZKUmhMUVg3MjczUFA0UmxKd0JnZ3ctMnBKeWpFYTI3dw?oc=5",
+    "snippet": "Detenido por incendiar hamacas en Torre del Mar: investigan si está tras la oleada de incendios de Vélez-Málaga El Español",
+    "published_at": "Tue, 14 Jul 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento Vélez-Málaga\" \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "El Ayuntamiento Vélez-Málaga asume la subida del 40% en el precio del agua para que no llegue al recibo de los vecinos - 101TV",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWm5NbDlJbGtYVFpSUk1DQXp6Z0l5dHA0cHNpOURVajdrWjVpNUZnNWc0R2N6Q2N3X1ZhR1A5RkNONjBoQ0hkeWJCVDBreXpneEdSTDlmNjE0a18wSkVNejcwMEZzeGJYRnVsdms2aUR0RjdqOGgtVWVWalhnLWFMTjRfRHBGaDVSUVZWbHJWdnM1NTFMZk5FMVhmaE1GUzN4XzhTYjZXZTZldXBFU3ZmX0F1R2V6SEhYQ3J4ZkJ5ZjlINmtNMVNXR1dEZ1ROVjRydkxnM3o3QVltX3ZWWEd5WGZoM1Z6bzU1ZTlyNQ?oc=5",
+    "snippet": "El Ayuntamiento Vélez-Málaga asume la subida del 40% en el precio del agua para que no llegue al recibo de los vecinos 101TV",
+    "published_at": "Mon, 01 Jun 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento Vélez-Málaga\" \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "El Ayuntamiento de Vélez-Málaga y la Junta de Andalucía se unen ante el cierre de aulas en el CEIP Custodio Puga - La Opinión de Málaga",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzRSQkZWVTEyVTVJMTFJOC1OTENHX0YxR2NtYTlCc3ZZMEdTeml4MU8ybnFDMTY0RnJqRjRkYjN2dE92MFVLakFrdm5ROTZ2NndzdXpNMHVRUUxlX2swa3lNOXFyUVlPOEx2YUg2NDBqLTA5cXlwUGV3aDBHYmE2ZDhzZ0UxTURycVJMOTNmVTFJZXBqRUZ1ekF4MGMtUFc5OE9PTEtDUl9USzBWeWfSAbMBQVVfeXFMTm5wcDdOYm10eVZwVklHdjY4MWM0T2Vta2hCMGRJOF9uUHltMzh6U2tfNlpqeGl5WVhIUWVna3VBb0prUFRDZG1ZNUNWdmpmSkwwOE5Uc3BPMXpsbHB0cWJFbTc3RkZHbUNGazlUOHJDNUxrVFd3VzBKSk00SnJUVUFsdTNZbUI0Zzl0S0JjSU1YN05YZktsNDV5dmF0MU9qenJCNklKWkhSYkxLeWdvT2hDZVk?oc=5",
+    "snippet": "El Ayuntamiento de Vélez-Málaga y la Junta de Andalucía se unen ante el cierre de aulas en el CEIP Custodio Puga La Opinión de Málaga",
+    "published_at": "Sat, 06 Jun 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento Vélez-Málaga\" \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "Vélez-Málaga aclara los plazos de pago de la nueva tasa de residuos - Andalucía Información",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdi1sOTI1ejctY1hDXzVtYk5fNlFBZFV6WGdvelotd2lVOVNadFJMQ09hQ0NCWFdpNEZnZ1RZZzlRUFZPalhydkhkSXhEYTI2RWNnTF96cC03WVJMTHFzU2tFVmllU1JITXE0WnM4TkRxenpJamxjVFJweXV0SExZbjNlRWg0dE5qRmk4b2RQRHhURFVMT3Jzd2RkTng3SWFCSW1CNjNLWHJKbDhwUm44R3drV1dUR1AwY3dYY3RHVW4zWGFuZVZqOVYxSVdzUGtNelHSAdcBQVVfeXFMT3R6NUtINDBiZHlLczlmNWhkYVpLdHV2Y25sVWRSeThIWTJxdEZjeks0VnlGWXk2REVVa01KVTRCMEdwZ3Z3ZzM2bm5uN0NIRmxFOVZFZGVJZGRFRnBfY1Z4T1NjekpvNTdoNWhaaFF1Vl9xZW5oZ09PVXBpT3ZLNXdNcXZRLWVWYXJXLXZUVU9FQWlrLUZXak9sWUNrRTg5VktJbk5RWDlfVm1CVnlyZm9yc3RuSkJNQ1dEajlKblBNWndXMkZmbXUwcG1MVzAxdHNPR005STg?oc=5",
+    "snippet": "Vélez-Málaga aclara los plazos de pago de la nueva tasa de residuos Andalucía Información",
+    "published_at": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento Vélez-Málaga\" \"torre\"  \"Torre del Mar\""
+  },
+  {
+    "title": "El Ayuntamiento asegura la apertura continua de sus bibliotecas con nuevas contrataciones - Andalucía Información",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQV0RKVHFieFBsQ2RLVnZseEFfT2VwLXFmNlZUZUVQNXpKVlYxTjNnem02TzIxZGZhZktuUGJwMHlVRG90blZETWt1U1NhRV9aMkFLN0ZldGh5cXBIZkYwOFNNT2g3NUt2SzR4NFYzTWNaN1I4YnJrdGFwVjZkaWNxdnRVQ0NuYmRjbTNaOTVJS0I4OUpLTWo2UndfZW52TVdQcGFCcXFKS1plaG1McUc2MlhnSl9xTWdGQXVzQ1JfNTlhd3BuSU5BQWxqcEZyYUdyZjZLcVpYYWRtRi1oT0Y2Z0FReVFlZzloNDlYYlpjZ1BnR3hYX0HSAfsBQVVfeXFMUDVWUmJMSF9ybmU1NGUzM2ZHZlVpRGlfaUUxWnRObWJXVHdyYjVOV0RQUVZ1QTVpOWF4WE56NjJwRTVaclRYNXludVYwOVlmWWZiTWpGT204VXZ2Z3V5YmdyOGJYcDFpdFh5SVBmTnNYdFhVa1VpWDI5d0dHbE9ZcVhZTk1YVDF1OHJDVUhRaGJRMXJmcnl4RjFDQndLRGlOaUxhWDZhS1h0d2pWb1RGRlMteVJFNGlpSTJ6MUxGb25qRG5RZS1hVGZtUmVrZXFmLWtDaFMxekVUcTBOT05JZkdmdFZGZVV4OW41Njl3WTJaQnZKWmdSQkhfOFE?oc=5",
+    "snippet": "El Ayuntamiento asegura la apertura continua de sus bibliotecas con nuevas contrataciones Andalucía Información",
+    "published_at": "Thu, 27 Nov 2025 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E3D5D410B0",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento Vélez-Málaga\" \"torre\"  \"Torre del Mar\""
   }
 ]
