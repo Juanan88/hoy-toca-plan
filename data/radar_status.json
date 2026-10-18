@@ -1,11 +1,11 @@
 {
-  "last_run": "2026-10-18T10:17:40+00:00",
+  "last_run": "2026-10-18T10:33:26+00:00",
   "queries": 40,
-  "items_examined": 955,
-  "new_candidates": 3,
+  "items_examined": 946,
+  "new_candidates": 1,
   "candidates_discarded_for_quality": 0,
-  "feeds_google": 35,
-  "feeds_bing_web": 26,
+  "feeds_google": 36,
+  "feeds_bing_web": 22,
   "total_discoveries": 700,
   "warnings": [],
   "method": "RSS público sin API; municipios grandes diarios, refuerzo por huecos de cobertura, fuentes conocidas y corroboración entre pistas"

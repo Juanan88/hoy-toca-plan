@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:21:10+00:00",
+  "generated_at": "2026-10-18T10:36:11+00:00",
   "level": "attention",
   "events": 100,
   "sources": 70,
@@ -8,10 +8,10 @@
     "events": 100,
     "sources": 64
   },
-  "discoveries_pending": 545,
-  "discoveries_unresolved": 768,
+  "discoveries_pending": 543,
+  "discoveries_unresolved": 721,
   "unverified_events": 2,
-  "known_age": 32,
+  "known_age": 31,
   "sources_never_checked": 6,
   "sources_failed": 11,
   "source_errors": [
@@ -62,19 +62,19 @@
   ],
   "last_full_scan": "2026-10-15T10:06:50+00:00",
   "days_since_full_scan": 3.0,
-  "last_radar": "2026-10-18T10:17:40+00:00",
+  "last_radar": "2026-10-18T10:33:26+00:00",
   "days_since_radar": 0.0,
-  "last_verifier": "2026-10-18T10:19:14+00:00",
-  "cases_total": 432,
+  "last_verifier": "2026-10-18T10:34:43+00:00",
+  "cases_total": 413,
   "cases_to_investigate": 14,
   "cases_high_confidence": 12,
-  "cases_stale_high_confidence": 1,
-  "last_case_investigation": "2026-10-18T10:18:59+00:00",
-  "age_missing": 68,
+  "cases_stale_high_confidence": 0,
+  "last_case_investigation": "2026-10-18T10:34:26+00:00",
+  "age_missing": 69,
   "municipalities_with_events": 14,
   "coverage_by_town": {
-    "Málaga": 60,
-    "Fuengirola": 10,
+    "Málaga": 59,
+    "Fuengirola": 11,
     "Benalmádena": 8,
     "Torremolinos": 4,
     "Marbella": 4,
@@ -90,7 +90,6 @@
   },
   "alerts": [
     "11 fuentes con error en su última consulta",
-    "6 fuentes aún sin primera revisión",
-    "1 casos de alta confianza llevan más de 48 h sin resolverse"
+    "6 fuentes aún sin primera revisión"
   ]
 }
