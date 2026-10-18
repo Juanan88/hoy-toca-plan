@@ -500,51 +500,6 @@
     "schedule_change_pending_review": true
   },
   {
-    "id": "EVT-77100C1BB182",
-    "title": "Semana de la Proximidad de Málaga 2026: más de 260 actividades gratuitas en los barrios",
-    "start": "2026-10-16",
-    "end": "2026-10-22",
-    "time": "Por confirmar",
-    "town": "Málaga",
-    "venue": "Distritos de Málaga",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Gratis",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": "https://mmalaga.es/agenda/programa-semana-de-la-proximidad-malaga/",
-    "field_sources": {
-      "reservation_url": {
-        "source_url": "https://mmalaga.es/agenda/programa-semana-de-la-proximidad-malaga/",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "Radar · mmalaga.es",
-    "source_url": "https://mmalaga.es/agenda/programa-semana-de-la-proximidad-malaga/",
-    "status": "publicada_en_fuente",
-    "details": "Málaga celebra del 16 al 22 de octubre la III Semana de la Proximidad, una iniciativa que llevará más de 260 actividades a los 11 distritos de la ciudad, organizadas por unas 110 asociaciones, comercios, instituciones y otros establecimientos. La mayoría de las propuestas son gratuitas. Ficha rápida Cuándo: del 16 al 22 de octubre de 2026. Dónde: diferentes espacios de los 11 distritos de Málaga. Actividades: más de 260. Participan: unas 110 orga",
-    "schedule_unconfirmed": false,
-    "occurrences": [
-      "2026-10-16",
-      "2026-10-17",
-      "2026-10-18",
-      "2026-10-19",
-      "2026-10-20",
-      "2026-10-21",
-      "2026-10-22"
-    ],
-    "first_seen": "2026-10-18",
-    "last_checked": "2026-10-18T08:21:22+00:00",
-    "origin": "json-ld",
-    "interval_kind": "recurring_dates",
-    "schedule_note": "Solo los días concretos indicados.",
-    "secondary_sources": []
-  },
-  {
     "id": "EVT-MIRAMAR-SPACE-2026",
     "title": "Viaje al espacio · Miramar Kids",
     "start": "2026-10-16",
@@ -649,47 +604,6 @@
         "last_verified": "2026-10-17"
       }
     }
-  },
-  {
-    "id": "EVT-994424D0B126",
-    "title": "Picasso en familia 2026-2027",
-    "start": "2026-10-17",
-    "end": "2026-10-31",
-    "time": "11:00",
-    "town": "Málaga",
-    "venue": "Fundación Picasso. Museo Casa Natal",
-    "category": "Otros planes familiares",
-    "age_min": 3,
-    "age_max": 12,
-    "age_label": "3–12 años",
-    "price_label": "Gratis",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": "https://mmalaga.es/agenda/talleres-infantiles-casa-natal-picasso/",
-    "field_sources": {
-      "reservation_url": {
-        "source_url": "https://mmalaga.es/agenda/talleres-infantiles-casa-natal-picasso/",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "Radar · mmalaga.es",
-    "source_url": "https://mmalaga.es/agenda/talleres-infantiles-casa-natal-picasso/",
-    "status": "publicada_en_fuente",
-    "details": "Todos los sábados, de septiembre a junio, el Museo Casa Natal Picasso ofrece una propuesta lúdica y formativa sobre las diversas facetas de la creatividad picassiana. Lugar: Aula Didáctica del Museo Casa Natal PicassoDirección: Plaza de la Merced, 13Inicio: 19 de septiembre de 2026Finalización: 19 de junio de 2027Horario: De 11:00 a 12:30hDirigido a familias con menores de 3 a 12 añosTalleres gratuitosInscripciones hasta cada viernes a las 15h, e",
-    "schedule_unconfirmed": false,
-    "occurrences": [
-      "2026-10-17",
-      "2026-10-24",
-      "2026-10-31"
-    ],
-    "first_seen": "2026-10-18",
-    "last_checked": "2026-10-18T08:21:22+00:00",
-    "origin": "json-ld",
-    "interval_kind": "recurring_dates",
-    "schedule_note": "Solo los días concretos indicados.",
-    "secondary_sources": []
   },
   {
     "id": "EVT-391FE1D10",
@@ -834,88 +748,6 @@
     }
   },
   {
-    "id": "EVT-4DEF300ADEBE",
-    "title": "Sábados Creativos del Museo del Automóvil: Actividades infantiles en Málaga",
-    "start": "2026-10-17",
-    "end": "2026-10-31",
-    "time": "11:00",
-    "town": "Málaga",
-    "venue": "Museo del Automóvil y la Moda de Málaga",
-    "category": "Talleres y aprendizaje",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "18 EUR",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": "https://mmalaga.es/agenda/talleres-infantiles-museo-automovilistico-malaga/",
-    "field_sources": {
-      "reservation_url": {
-        "source_url": "https://mmalaga.es/agenda/talleres-infantiles-museo-automovilistico-malaga/",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "Radar · mmalaga.es",
-    "source_url": "https://mmalaga.es/agenda/talleres-infantiles-museo-automovilistico-malaga/",
-    "status": "publicada_en_fuente",
-    "details": "Talleres EN FAMILIAMuseo del Automóvil y la Moda de MálagaLos sábados de 11:00 a 14:00h. ¿Buscas actividades infantiles en Málaga para que los peques aprendan, experimenten y se diviertan? Los Sábados Creativos del Museo del Automóvil y la Moda de Málaga proponen talleres para niños y niñas con temáticas diferentes a lo largo del año.Cada taller está diseñado para que puedan aprender mientras participan en actividades prácticas y creativas. La pr",
-    "schedule_unconfirmed": false,
-    "occurrences": [
-      "2026-10-17",
-      "2026-10-24",
-      "2026-10-31"
-    ],
-    "first_seen": "2026-10-18",
-    "last_checked": "2026-10-18T08:21:22+00:00",
-    "origin": "json-ld",
-    "interval_kind": "recurring_dates",
-    "schedule_note": "Solo los días concretos indicados.",
-    "secondary_sources": []
-  },
-  {
-    "id": "EVT-CED3E54F4027",
-    "title": "Sábados en Familia. Museo Ruso de Málaga",
-    "start": "2026-10-17",
-    "end": "2026-10-31",
-    "time": "11:30",
-    "town": "Málaga",
-    "venue": "Museo Ruso Málaga",
-    "category": "Talleres y aprendizaje",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Gratis",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": "https://mmalaga.es/agenda/museo-ruso-malaga-taller-infantil/",
-    "field_sources": {
-      "reservation_url": {
-        "source_url": "https://mmalaga.es/agenda/museo-ruso-malaga-taller-infantil/",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "Radar · mmalaga.es",
-    "source_url": "https://mmalaga.es/agenda/museo-ruso-malaga-taller-infantil/",
-    "status": "publicada_en_fuente",
-    "details": "Talleres infantiles y familiares Sábados a las 11:30AM - 1:00PM / 5:00PM - 6:30PMColección del Museo Ruso, San Petersburgo / Málaga.Inscripción gratuita, previa reserva (aforo limitado a 20 personas).Más Información y reservas: educacion.coleccionmuseoruso@malaga.eu Cada semana, la Colección del Museo Ruso se transforma en un espacio ideado para que los más pequeños y pequeñas experimenten con el arte y la creatividad desde un punto de vista lúdi",
-    "schedule_unconfirmed": false,
-    "occurrences": [
-      "2026-10-17",
-      "2026-10-24",
-      "2026-10-31"
-    ],
-    "first_seen": "2026-10-18",
-    "last_checked": "2026-10-18T08:21:22+00:00",
-    "origin": "json-ld",
-    "interval_kind": "recurring_dates",
-    "schedule_note": "Solo los días concretos indicados.",
-    "secondary_sources": []
-  },
-  {
     "id": "EVT-843836A02062",
     "title": "Taller de cerámica infantil",
     "start": "2026-10-17",
@@ -994,48 +826,6 @@
     "age_source_url": "https://latermicamalaga.com/taller-de-ceramica-infantil-28noviembre/",
     "age_quote": "De 10:30 a 13:00 horas | De 6 a 12 años",
     "schedule_change_pending_review": true
-  },
-  {
-    "id": "EVT-720C7B4FBE4A",
-    "title": "Talleres en familia. Museo Thyssen Málaga",
-    "start": "2026-10-17",
-    "end": "2026-10-25",
-    "time": "Horarios según sesión",
-    "town": "Málaga",
-    "venue": "Museo Thyssen Málaga",
-    "category": "Talleres y aprendizaje",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Gratis",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": "https://mmalaga.es/agenda/taller-familiar-museo-thyssen-malaga/",
-    "field_sources": {
-      "reservation_url": {
-        "source_url": "https://mmalaga.es/agenda/taller-familiar-museo-thyssen-malaga/",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "Radar · mmalaga.es",
-    "source_url": "https://mmalaga.es/agenda/taller-familiar-museo-thyssen-malaga/",
-    "status": "publicada_en_fuente",
-    "details": "El Museo Thyssen Málaga consolida su oferta de ocio educativo con una variada programación de talleres infantiles. Dentro de la guía de planes con niños en Málaga, esta actividad destaca por acercar las grandes obras de la colección a un público familiar, fomentando el desarrollo artístico de los niños en un entorno privilegiado. Consulta las próximas fechas y no te pierdas estas visitas-taller diseñadas para disfrutar en familia. AGENDA DE TALLE",
-    "schedule_unconfirmed": false,
-    "occurrences": [
-      "2026-10-17",
-      "2026-10-18",
-      "2026-10-24",
-      "2026-10-25"
-    ],
-    "first_seen": "2026-10-18",
-    "last_checked": "2026-10-18T08:21:22+00:00",
-    "origin": "json-ld",
-    "interval_kind": "recurring_dates",
-    "schedule_note": "Horarios publicados por sesión: 17/10: 11:00; 18/10: 12:00; 24/10: 11:00; 25/10: 12:00",
-    "secondary_sources": []
   },
   {
     "id": "EVT-921917EDD8E2",
@@ -1196,47 +986,6 @@
     "last_checked": "2026-10-17T21:34:23+00:00",
     "origin": "Investigación IA programada, con fuente",
     "status": "publicada_en_fuente"
-  },
-  {
-    "id": "EVT-28744029A408",
-    "title": "Programa Infantil. Teatro Echegaray",
-    "start": "2026-10-18",
-    "end": "2026-11-01",
-    "time": "11:00",
-    "town": "Málaga",
-    "venue": "Teatro Echegaray",
-    "category": "Teatro y espectáculos",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Gratis",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": "https://mmalaga.es/agenda/programa-teatro-infantil-echegaray/",
-    "field_sources": {
-      "reservation_url": {
-        "source_url": "https://mmalaga.es/agenda/programa-teatro-infantil-echegaray/",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "Radar · mmalaga.es",
-    "source_url": "https://mmalaga.es/agenda/programa-teatro-infantil-echegaray/",
-    "status": "publicada_en_fuente",
-    "details": "Teatro Echegaray / Temporada 2026-27Domingos a las 11.00 y 13.00hPrecio 8€ (único) El ciclo de Teatro Infantil ofrece cada domingo en Málaga centro, una generosa y variada programación de espectáculos destinados a niñas y niños. El Teatro Echegaray se convierte cada domingo en el refugio favorito de las familias malagueñas. Su ciclo de Teatro Infantil ofrece una programación cuidada y ecléctica con magia, títeres, payasos, fábulas, danza, audiovi",
-    "schedule_unconfirmed": false,
-    "occurrences": [
-      "2026-10-18",
-      "2026-10-25",
-      "2026-11-01"
-    ],
-    "first_seen": "2026-10-18",
-    "last_checked": "2026-10-18T08:21:22+00:00",
-    "origin": "json-ld",
-    "interval_kind": "recurring_dates",
-    "schedule_note": "Solo los días concretos indicados.",
-    "secondary_sources": []
   },
   {
     "id": "EVT-LIB-20261019-PO",
@@ -1952,28 +1701,6 @@
     "status": "publicada_en_fuente"
   },
   {
-    "id": "EVT-F65FD34D4",
-    "title": "Actividades de otoño en Jardín Botánico La Concepción",
-    "start": "2026-10-25",
-    "end": "2026-10-25",
-    "time": "11:00-14:00",
-    "town": "Málaga",
-    "venue": "Jardín Botánico La Concepción",
-    "category": "Naturaleza y animales",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "No indicada",
-    "price_label": "Por confirmar",
-    "audience": "Familiar",
-    "source_name": "La Diversiva",
-    "source_url": "https://ladiversiva.com/calendario-actividades-malaga/lista/?tribe-bar-date=2026-10-25",
-    "status": "pendiente",
-    "details": "Consultar programa del día, reserva y coste | Estado previo: Publicado en agenda; confirmar",
-    "first_seen": "2026-10-12",
-    "last_checked": null,
-    "origin": "importación inicial"
-  },
-  {
     "id": "EVT-9096077F0F92",
     "title": "JABETÍN TEATRO LOS TRES CERDITOS",
     "start": "2026-10-25",
@@ -2113,40 +1840,6 @@
     "interval_kind": "recurring_dates",
     "schedule_note": "Horarios publicados por sesión: 25/10: 13:00–14:00; 30/10: 17:00–18:00; 31/10: 13:00–14:00",
     "secondary_sources": []
-  },
-  {
-    "id": "EVT-5E114C02DF73",
-    "title": "Teatro en familia",
-    "start": "2026-10-25",
-    "end": "2026-10-25",
-    "time": "12:00",
-    "town": "Málaga",
-    "venue": "Aud. Eduardo ocón",
-    "category": "Teatro y espectáculos",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Gratis",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": "https://mmalaga.es/agenda/teatro-en-familia-malaga/",
-    "field_sources": {
-      "reservation_url": {
-        "source_url": "https://mmalaga.es/agenda/teatro-en-familia-malaga/",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "Radar · mmalaga.es",
-    "source_url": "https://mmalaga.es/agenda/teatro-en-familia-malaga/",
-    "status": "publicada_en_fuente",
-    "details": "escena / música / letrasRecinto Eduardo Ocón (Paseo del Parque)Entrada libre Teatro familiar destinado al público Infantil, con la finalidad de hacer disfrutar tanto a pequeños como adultos.PROGRAMA POR FECHAS26 / 04 / 2026 | Los domingos en el Ocón31 / 05 / 2026 | Los domingos en el Ocón25 / 06 / 2026 | Festival Títeres26 / 06 / 2026 | Festival Títeres27 / 06 / 2026 | Festival Títeres28 / 06 / 2026 | Festival Títeres27 / 09 / 2026 | Los domingos",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-10-18",
-    "last_checked": "2026-10-18T08:21:22+00:00",
-    "origin": "json-ld"
   },
   {
     "id": "EVT-114B41ADBEC2",
