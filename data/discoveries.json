@@ -1,71 +1,5 @@
 [
   {
-    "title": "Presentado el nuevo proyecto de terminación, rehabilitación y modernización con el que el Teatro Torcal recuperará su actividad cultural",
-    "url": "https://cultura.antequera.es/presentado-el-nuevo-proyecto-de-terminacion-rehabilitacion-y-modernizacion-con-el-que-el-teatro-torcal-recuperara-su-actividad-cultural/",
-    "source_name": "Cultura Antequera · talleres municipales 2026/27",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Teatro en Navidad",
-    "url": "https://cultura.malaga.eu/es/actividades-culturales/actividades-escenicas/teatro-en-navidad/",
-    "source_name": "Agenda Cultura Málaga",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Festival de títeres",
-    "url": "https://cultura.malaga.eu/es/actividades-culturales/actividades-escenicas/festival-de-titeres/",
-    "source_name": "Agenda Cultura Málaga",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-17",
-    "review_reason": "Evidencia insuficiente para publicación automática (60/100). Se exige actividad familiar concreta, fecha futura, municipio y fuente aprobada o corroborada.",
-    "priority_score": 67,
-    "confidence_score": 60,
-    "confidence_reasons": [
-      "público infantil/familiar explícito",
-      "actividad concreta",
-      "fuente aprobada",
-      "titular coherente con la página"
-    ],
-    "last_text_checked": "2026-10-17"
-  },
-  {
-    "title": "Actividades musicales",
-    "url": "https://cultura.malaga.eu/es/actividades-culturales/actividades-musicales/",
-    "source_name": "Agenda Cultura Málaga",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
     "title": "Actividades de fomento de la lectura",
     "url": "https://bibliotecas.malaga.eu/es/servicios/actividades-de-fomento-de-la-lectura/",
     "source_name": "Bibliotecas Málaga",
@@ -8218,16 +8152,29 @@
   },
   {
     "title": "Planes para el puente de octubre en Málaga: cervezas, ferias, teatro o bandoleros - Diario Sur",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWVhHWDAyTXZmZTFuc3ZXd2k4TmxJcWN3LUs0SWxUODVSY1A2Vjd5RlhFaWh4bGcxZDFlTHRBZk5ScWhxQXJaZzdrMXJJLUw5ZV9aNVlOX0d4bkVPbkhiV3oxcjFIaVRrZkVXaUV2Z1BkbUNLQl83UURZNlgzUE9UcEZwZU1HaDlUZl9IQUxReDRST0NPZDBDc2RQNlUxV2E3cm1RQVpR0gGrAUFVX3lxTE1FakoxVFFIV2dNQ3N0alY1SkhRcDFMRExIZ25STkU2cGpiMGNxY1R6VDBpTE9DUW9SY2YzT3doNlc2S2h4T3diSVUtUGNHaWxOR2p3YXo1RENIby13T3Y2MFM1YzZocGx6R0hCRjVBV3VuRFN2UXVqSXRMakxydS1nd1BPcFR2MXBOTnVwendFYUZVVXJGTzdzbGlLbGFTNEg4V1BvWGVoRURNNA?oc=5",
+    "url": "https://www.diariosur.es/planes/malaga-puente-octubre-cervezas-ferias-conciertos-20261007131505-nt.html",
     "snippet": "Planes para el puente de octubre en Málaga: cervezas, ferias, teatro o bandoleros Diario Sur",
     "published_at": "Wed, 07 Oct 2026 07:00:00 GMT",
     "source_name": "Investigación por caso",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
+    "status": "sin_fecha_estructurada",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "disfrutar diario batalla circo Málaga"
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "query": "disfrutar diario batalla circo Málaga",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWVhHWDAyTXZmZTFuc3ZXd2k4TmxJcWN3LUs0SWxUODVSY1A2Vjd5RlhFaWh4bGcxZDFlTHRBZk5ScWhxQXJaZzdrMXJJLUw5ZV9aNVlOX0d4bkVPbkhiV3oxcjFIaVRrZkVXaUV2Z1BkbUNLQl83UURZNlgzUE9UcEZwZU1HaDlUZl9IQUxReDRST0NPZDBDc2RQNlUxV2E3cm1RQVpR0gGrAUFVX3lxTE1FakoxVFFIV2dNQ3N0alY1SkhRcDFMRExIZ25STkU2cGpiMGNxY1R6VDBpTE9DUW9SY2YzT3doNlc2S2h4T3diSVUtUGNHaWxOR2p3YXo1RENIby13T3Y2MFM1YzZocGx6R0hCRjVBV3VuRFN2UXVqSXRMakxydS1nd1BPcFR2MXBOTnVwendFYUZVVXJGTzdzbGlLbGFTNEg4V1BvWGVoRURNNA?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "🎈 ¡UN PUEBLO DE MÁLAGA QUE SE LLENA DE MAGIA DURANTE TRES DÍAS! ✨ 📍 Estamos en Arriate @ayuntamientodearriate Málaga, un precioso pueblo muy cerquita de Ronda que estos días celebra su famosa Fiesta en el Aire. ❤️ @fiest",
@@ -8291,8 +8238,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-ED6DC872B1",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:giglon.com \"cenicienta\" \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:giglon.com \"cenicienta\" \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Torre del Mar repartirá más de 4.000 raciones de una tarta gigante por el Día del Turista - Andalucía Información",
@@ -8309,16 +8258,29 @@
   },
   {
     "title": "Torre del Mar presenta el cartel del XXXI Certamen Gastronómico de su Feria - Andalucía Información",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZU8wUjNyTGdlU204OFd0RXJfMENoYl9NampNQ2JSNU1XWE1ocmxWWk1RTmZMWi1oUDJyZ2ltNW1SNnNQNXY1WllJX1pKNkhWVnJjREFZTHRLLVR0VHNJOEowZHJZRVZXeUc3RXZlQ1hrYjZRaGZxTnVTanp0aVBFY2lyY0lTcVl0OWdHSzl3clg5OUwxZGRIN1ZkVUszLWN2VXJwT3l4bkFiRDB1aW5NbFlkel9kcFBsaWFZNnNKZVVFSGE5amN0VzAxbDhVRGUwLWpWM2xNY18wRE3SAeABQVVfeXFMTTBRX2JZdDJCS3BpbDhtYXlIbnNsaWZobE1kTTJLODZrT1VsN2NiX0dsaHNONTMyanhJTjJDeHV6ZXE1S01yTHJBZ19SZTZ5QUR3S0VrM3Z5MFRDVTNvNEc5OHM0cjhBZllXZ1N3UElNcU5jRVZTanhTdHRUTTYwY3A1ektOUUZoVWZDcUJCWmpWT3dEVXFpdUZOWG5YamlFVlM2V01aMTBJUW9LLWxYc3NlYVplbTZxWEdlVTd1emdfaUtRNnZrTWhkcVFTRDd6UVpjZ2RFQWZlUmN6SHVQT1g?oc=5",
+    "url": "https://www.diariosur.es/axarquia/velez-malaga/torre-mar-celebra-feria-xxxi-certamen-gastronomico-20260720170113-nt.html",
     "snippet": "Torre del Mar presenta el cartel del XXXI Certamen Gastronómico de su Feria Andalucía Información",
     "published_at": "Tue, 21 Jul 2026 07:00:00 GMT",
     "source_name": "Investigación por caso",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
+    "status": "sin_fecha_estructurada",
     "discovery_method": "case_rescue",
     "case_id": "CASE-FD9BCE7123",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"torre\" halloween \"Torre del Mar\""
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "query": "\"torre\" halloween \"Torre del Mar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZU8wUjNyTGdlU204OFd0RXJfMENoYl9NampNQ2JSNU1XWE1ocmxWWk1RTmZMWi1oUDJyZ2ltNW1SNnNQNXY1WllJX1pKNkhWVnJjREFZTHRLLVR0VHNJOEowZHJZRVZXeUc3RXZlQ1hrYjZRaGZxTnVTanp0aVBFY2lyY0lTcVl0OWdHSzl3clg5OUwxZGRIN1ZkVUszLWN2VXJwT3l4bkFiRDB1aW5NbFlkel9kcFBsaWFZNnNKZVVFSGE5amN0VzAxbDhVRGUwLWpWM2xNY18wRE3SAeABQVVfeXFMTTBRX2JZdDJCS3BpbDhtYXlIbnNsaWZobE1kTTJLODZrT1VsN2NiX0dsaHNONTMyanhJTjJDeHV6ZXE1S01yTHJBZ19SZTZ5QUR3S0VrM3Z5MFRDVTNvNEc5OHM0cjhBZllXZ1N3UElNcU5jRVZTanhTdHRUTTYwY3A1ektOUUZoVWZDcUJCWmpWT3dEVXFpdUZOWG5YamlFVlM2V01aMTBJUW9LLWxYc3NlYVplbTZxWEdlVTd1emdfaUtRNnZrTWhkcVFTRDd6UVpjZ2RFQWZlUmN6SHVQT1g?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "El futuro centro de salud de Torre del Mar ya tiene convenio y financiación asegurada - Andalucía Información",
@@ -8483,8 +8445,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"vuelve\" teatro \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"vuelve\" teatro \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Vélez-Málaga comienza una nueva etapa de vida e ilusión con la reapertura del emblemático Teatro Lope de Vega - InfoAxarquia",
@@ -8496,8 +8460,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"vuelve\" teatro \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"vuelve\" teatro \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "El Teatro Lope de Vega de Vélez-Málaga encara el final de 2026 con espectáculos musicales, conciertos y humor - Teleprensa",
@@ -8509,8 +8475,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"vuelve\" teatro \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"vuelve\" teatro \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "El teatro Lope de Vega de Vélez-Málaga vuelve a alzar el telón tras 24 años de silencio - Diario Sur",
@@ -8522,8 +8490,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"vuelve\" teatro \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"vuelve\" teatro \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Teatro benéfico en apoyo a Eti, el menor de Vélez-Málaga con una severa enfermedad rara - Cadena SER",
@@ -8535,8 +8505,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"vuelve\" teatro \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"vuelve\" teatro \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Ferias, teatro y música para el último finde de mayo en Málaga - Malaguear",
@@ -8548,21 +8520,29 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"vuelve\" teatro \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"vuelve\" teatro \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Así es el teatro romano de Antequera que vuelve a salir a la luz 35 años después: 52 metros y grandes sillares - El Español",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTlRGUlpnSGdoUnd5dWdsQU1HRXhLZUZKY0o4aV9LX2dBUWFpTkNEZEhXNG5wYVFSOVFRYkw3bHpOYlBxRlRDbUdyV2E3Y1g4dU0wWDdrNWxrSVgyN2wxTjM3VTdWOExvZDFib3ZZajkyZkRmXzFjWGE4R29ObnlLakh2c3M0WkI1cXZRRVNZc3hfcDk2NnlTVGtBRGstaGNGZUU3WGViM2ljdVJwOVZab1hKYml5WnRqMVByd2RvdE1NLWFPWU9XZ3RTQ3FIZDdOZ3BPYlR5TVFUSVo2MlVHTTZheUnSAeoBQVVfeXFMTnhzZlRiQmpHNHVRd0Y0eFJUdUVqS3V4cW5GTFdicTBFZ1hYSnoxQVpXZlgyRzA2aERUMXVrRk5OQ2llRmlvQzdIazUwQlpCYTROM0dGUmhmSnhZTVJoY0V3eWNNSXNEYVJBOVBYOWFlU0tSM05nSzU2SXBIOXo5NFRQaUxLUi1aWU5FTnFDRnJBWE9KUnhyVnh2Ung0ejlYaGRjTDNQYzJubkV0V0RpODNFNklRYmNhemlOUWpwME1xdE82LTBZQS1zWXBwYmFwTGt3V3ZVLWVwWUs1V3A4TWVPQXBhN2JvWU1R?oc=5",
+    "url": "https://www.msn.com/es-es/news/other/así-es-el-teatro-romano-de-antequera-que-vuelve-a-salir-a-la-luz-35-años-después-52-metros-y-grandes-sillares/ar-AA2cM8b2",
     "snippet": "Así es el teatro romano de Antequera que vuelve a salir a la luz 35 años después: 52 metros y grandes sillares El Español",
     "published_at": "Tue, 22 Sep 2026 07:00:00 GMT",
     "source_name": "Investigación por caso",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
+    "status": "sin_acceso_automatico",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"vuelve\" teatro \"Vélez-Málaga\""
+    "review_reason": "Fuente no disponible para lectura automática: 404 Client Error: Not Found for url: https://www.msn.com/es-es/news/other/as%C3%AD-es-el-teatro-romano-de-antequera-que-vuelve-a-s",
+    "query": "\"vuelve\" teatro \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTlRGUlpnSGdoUnd5dWdsQU1HRXhLZUZKY0o4aV9LX2dBUWFpTkNEZEhXNG5wYVFSOVFRYkw3bHpOYlBxRlRDbUdyV2E3Y1g4dU0wWDdrNWxrSVgyN2wxTjM3VTdWOExvZDFib3ZZajkyZkRmXzFjWGE4R29ObnlLakh2c3M0WkI1cXZRRVNZc3hfcDk2NnlTVGtBRGstaGNGZUU3WGViM2ljdVJwOVZab1hKYml5WnRqMVByd2RvdE1NLWFPWU9XZ3RTQ3FIZDdOZ3BPYlR5TVFUSVo2MlVHTTZheUnSAeoBQVVfeXFMTnhzZlRiQmpHNHVRd0Y0eFJUdUVqS3V4cW5GTFdicTBFZ1hYSnoxQVpXZlgyRzA2aERUMXVrRk5OQ2llRmlvQzdIazUwQlpCYTROM0dGUmhmSnhZTVJoY0V3eWNNSXNEYVJBOVBYOWFlU0tSM05nSzU2SXBIOXo5NFRQaUxLUi1aWU5FTnFDRnJBWE9KUnhyVnh2Ung0ejlYaGRjTDNQYzJubkV0V0RpODNFNklRYmNhemlOUWpwME1xdE82LTBZQS1zWXBwYmFwTGt3V3ZVLWVwWUs1V3A4TWVPQXBhN2JvWU1R?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18"
   },
   {
     "title": "El Teatro Lope de Vega de Vélez-Málaga reabre tras una renovación integral: cómo conseguir invitaciones gratis para la gala - La Opinión de Málaga",
@@ -8574,8 +8554,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"vuelve\" teatro \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"vuelve\" teatro \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Un fin de semana de Comic-Con, quesos, teatro y ferias en Málaga - Diario Sur",
@@ -8587,8 +8569,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-AD55788C33",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"vuelve\" teatro \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"vuelve\" teatro \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Paco Ibáñez enciende un faro de resistencia contra la barbarie en el Teatro Real - Vivir Ediciones",
@@ -10994,5 +10978,64 @@
       "título sin actividad concreta"
     ],
     "review_priority": "normal"
+  },
+  {
+    "title": "Agenda cultural Málaga 2026 (Música, teatro, ocio) | Más Málaga",
+    "url": "https://mmalaga.es/",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "verificada_con_fecha",
+    "review_reason": "Evento con fecha y lugar estructurados.",
+    "snippet": "Descubre la agenda cultural de Málaga más completa: conciertos, teatro, exposiciones, talleres y planes para hoy y este fin de semana. ¡Actualizada a diario!",
+    "discovery_method": "rss",
+    "query": "Málaga Navidad niños actividades when:45d",
+    "published_at": "sáb, 17 oct 2026 18:54:00 GMT",
+    "last_checked": "2026-10-18",
+    "review_priority": "resuelta",
+    "verification_method": "json-ld",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "evento estructurado con fecha y municipio"
+    ],
+    "verified_event_ids": [
+      "EVT-81B103087E9A",
+      "EVT-6DB1935C6952",
+      "EVT-9572CABFFFD3",
+      "EVT-994424D0B126",
+      "EVT-4DEF300ADEBE",
+      "EVT-720C7B4FBE4A",
+      "EVT-CED3E54F4027",
+      "EVT-921917EDD8E2",
+      "EVT-77100C1BB182",
+      "EVT-CBDE05B8AA17",
+      "EVT-BD29B13B4E77",
+      "EVT-702120EEB1C1",
+      "EVT-ED5CBD2B1F1A",
+      "EVT-0A20594901A8",
+      "EVT-02C376397469",
+      "EVT-28744029A408",
+      "EVT-8C668ACFA95D",
+      "EVT-CC9737BA22C5",
+      "EVT-5BF966FBADE5",
+      "EVT-A64C7DEACFA5",
+      "EVT-C147D79D9608",
+      "EVT-156BF8D646CF",
+      "EVT-B52B9C0771D2",
+      "EVT-F7A2519410C7",
+      "EVT-9471907A9315",
+      "EVT-F0CAC4E920E6",
+      "EVT-C76732D93C8D",
+      "EVT-0A0B89F5D9C6",
+      "EVT-020A393BE98E",
+      "EVT-5E114C02DF73",
+      "EVT-93D612E8D24C",
+      "EVT-02351DF0F751",
+      "EVT-C55FBBBD91EC",
+      "EVT-E8DC958F4ECA",
+      "EVT-AFC4C2C9F5E9",
+      "EVT-DB37383E9CEB",
+      "EVT-8B0BFA505D6F",
+      "EVT-441B45A4BB26"
+    ]
   }
 ]

@@ -403,6 +403,47 @@
     "secondary_sources": []
   },
   {
+    "id": "EVT-BD29B13B4E77",
+    "title": "Festival ‘Entre dos tierras’ España y Argentina",
+    "start": "2026-10-16",
+    "end": "2026-10-18",
+    "time": "12:00",
+    "town": "Torremolinos",
+    "venue": "Plaza de Toros de Torremolinos",
+    "category": "Fiestas y eventos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/fiesta-criolla-argentina-torremolinos/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/fiesta-criolla-argentina-torremolinos/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/fiesta-criolla-argentina-torremolinos/",
+    "status": "publicada_en_fuente",
+    "details": "15 al 18 octubre 2026Plaza de toros. Torremolinos Festival 'Entre dos tierras'La Plaza de Toros acoge el I festival ‘Entre dos tierras. Dos orillas, un mismo sentimiento’ La Plaza de Toros de Torremolinos acoge el I festival ‘Entre dos tierras. Dos orillas, un mismo sentimiento’. Se celebrará del jueves 15 al domingo 18 de octubre, de 12:00 a 00:00 horas. Los asistentes podrán disfrutar de música en directo, dj’s, entretenimiento infantil y gastr",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-10-16",
+      "2026-10-17",
+      "2026-10-18"
+    ],
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T08:21:22+00:00",
+    "origin": "json-ld",
+    "interval_kind": "recurring_dates",
+    "schedule_note": "Solo los días concretos indicados.",
+    "secondary_sources": []
+  },
+  {
     "id": "EVT-CBDE05B8AA17",
     "title": "Imaginamalaga 2026: salón del cómic, ilustración y fantasía",
     "start": "2026-10-16",
@@ -421,7 +462,7 @@
     "status": "publicada_en_fuente",
     "details": "16, 17 y 18 de Octubre de 2026Caja Blanca de Málaga.Actividades gratuitas relacionadas con la cultura pop y la literatura fantástica ImaginaMálaga: salón del cómic, ilustración y fantasía ImaginaMálaga es una cita imprescindible para los amantes del cómic, la ilustración, la literatura fantástica y la cultura pop en Málaga. Un encuentro donde autores, ilustradores, editoriales, artistas y aficionados comparten espacio durante varios días con una",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:09:08+00:00",
+    "last_checked": "2026-10-18T08:21:22+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -457,6 +498,51 @@
     "interval_kind": "recurring_dates",
     "schedule_note": "Actividades oficiales el 16, 17 y 18 de octubre, con horarios diferentes cada jornada.",
     "schedule_change_pending_review": true
+  },
+  {
+    "id": "EVT-77100C1BB182",
+    "title": "Semana de la Proximidad de Málaga 2026: más de 260 actividades gratuitas en los barrios",
+    "start": "2026-10-16",
+    "end": "2026-10-22",
+    "time": "Por confirmar",
+    "town": "Málaga",
+    "venue": "Distritos de Málaga",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/programa-semana-de-la-proximidad-malaga/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/programa-semana-de-la-proximidad-malaga/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/programa-semana-de-la-proximidad-malaga/",
+    "status": "publicada_en_fuente",
+    "details": "Málaga celebra del 16 al 22 de octubre la III Semana de la Proximidad, una iniciativa que llevará más de 260 actividades a los 11 distritos de la ciudad, organizadas por unas 110 asociaciones, comercios, instituciones y otros establecimientos. La mayoría de las propuestas son gratuitas. Ficha rápida Cuándo: del 16 al 22 de octubre de 2026. Dónde: diferentes espacios de los 11 distritos de Málaga. Actividades: más de 260. Participan: unas 110 orga",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-10-16",
+      "2026-10-17",
+      "2026-10-18",
+      "2026-10-19",
+      "2026-10-20",
+      "2026-10-21",
+      "2026-10-22"
+    ],
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T08:21:22+00:00",
+    "origin": "json-ld",
+    "interval_kind": "recurring_dates",
+    "schedule_note": "Solo los días concretos indicados.",
+    "secondary_sources": []
   },
   {
     "id": "EVT-MIRAMAR-SPACE-2026",
@@ -565,40 +651,41 @@
     }
   },
   {
-    "id": "EVT-ED5CBD2B1F1A",
-    "title": "Festival ‘Entre dos tierras’ España y Argentina",
+    "id": "EVT-994424D0B126",
+    "title": "Picasso en familia 2026-2027",
     "start": "2026-10-17",
-    "end": "2026-10-18",
-    "time": "12:00",
-    "town": "Torremolinos",
-    "venue": "Plaza de Toros de Torremolinos",
-    "category": "Fiestas y eventos",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
+    "end": "2026-10-31",
+    "time": "11:00",
+    "town": "Málaga",
+    "venue": "Fundación Picasso. Museo Casa Natal",
+    "category": "Otros planes familiares",
+    "age_min": 3,
+    "age_max": 12,
+    "age_label": "3–12 años",
     "price_label": "Gratis",
     "duration_minutes": null,
     "address": null,
-    "reservation_url": "https://mmalaga.es/agenda/fiesta-criolla-argentina-torremolinos/",
+    "reservation_url": "https://mmalaga.es/agenda/talleres-infantiles-casa-natal-picasso/",
     "field_sources": {
       "reservation_url": {
-        "source_url": "https://mmalaga.es/agenda/fiesta-criolla-argentina-torremolinos/",
+        "source_url": "https://mmalaga.es/agenda/talleres-infantiles-casa-natal-picasso/",
         "quote": "Enlace de oferta para la sesión",
         "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
       }
     },
     "audience": "Consultar organizador",
     "source_name": "Radar · mmalaga.es",
-    "source_url": "https://mmalaga.es/agenda/fiesta-criolla-argentina-torremolinos/",
+    "source_url": "https://mmalaga.es/agenda/talleres-infantiles-casa-natal-picasso/",
     "status": "publicada_en_fuente",
-    "details": "15 al 18 octubre 2026Plaza de toros. Torremolinos Festival 'Entre dos tierras'La Plaza de Toros acoge el I festival ‘Entre dos tierras. Dos orillas, un mismo sentimiento’ La Plaza de Toros de Torremolinos acoge el I festival ‘Entre dos tierras. Dos orillas, un mismo sentimiento’. Se celebrará del jueves 15 al domingo 18 de octubre, de 12:00 a 00:00 horas. Los asistentes podrán disfrutar de música en directo, dj’s, entretenimiento infantil y gastr",
+    "details": "Todos los sábados, de septiembre a junio, el Museo Casa Natal Picasso ofrece una propuesta lúdica y formativa sobre las diversas facetas de la creatividad picassiana. Lugar: Aula Didáctica del Museo Casa Natal PicassoDirección: Plaza de la Merced, 13Inicio: 19 de septiembre de 2026Finalización: 19 de junio de 2027Horario: De 11:00 a 12:30hDirigido a familias con menores de 3 a 12 añosTalleres gratuitosInscripciones hasta cada viernes a las 15h, e",
     "schedule_unconfirmed": false,
     "occurrences": [
       "2026-10-17",
-      "2026-10-18"
+      "2026-10-24",
+      "2026-10-31"
     ],
     "first_seen": "2026-10-18",
-    "last_checked": "2026-10-18T02:06:12+00:00",
+    "last_checked": "2026-10-18T08:21:22+00:00",
     "origin": "json-ld",
     "interval_kind": "recurring_dates",
     "schedule_note": "Solo los días concretos indicados.",
@@ -747,6 +834,88 @@
     }
   },
   {
+    "id": "EVT-4DEF300ADEBE",
+    "title": "Sábados Creativos del Museo del Automóvil: Actividades infantiles en Málaga",
+    "start": "2026-10-17",
+    "end": "2026-10-31",
+    "time": "11:00",
+    "town": "Málaga",
+    "venue": "Museo del Automóvil y la Moda de Málaga",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "18 EUR",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/talleres-infantiles-museo-automovilistico-malaga/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/talleres-infantiles-museo-automovilistico-malaga/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/talleres-infantiles-museo-automovilistico-malaga/",
+    "status": "publicada_en_fuente",
+    "details": "Talleres EN FAMILIAMuseo del Automóvil y la Moda de MálagaLos sábados de 11:00 a 14:00h. ¿Buscas actividades infantiles en Málaga para que los peques aprendan, experimenten y se diviertan? Los Sábados Creativos del Museo del Automóvil y la Moda de Málaga proponen talleres para niños y niñas con temáticas diferentes a lo largo del año.Cada taller está diseñado para que puedan aprender mientras participan en actividades prácticas y creativas. La pr",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-10-17",
+      "2026-10-24",
+      "2026-10-31"
+    ],
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T08:21:22+00:00",
+    "origin": "json-ld",
+    "interval_kind": "recurring_dates",
+    "schedule_note": "Solo los días concretos indicados.",
+    "secondary_sources": []
+  },
+  {
+    "id": "EVT-CED3E54F4027",
+    "title": "Sábados en Familia. Museo Ruso de Málaga",
+    "start": "2026-10-17",
+    "end": "2026-10-31",
+    "time": "11:30",
+    "town": "Málaga",
+    "venue": "Museo Ruso Málaga",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/museo-ruso-malaga-taller-infantil/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/museo-ruso-malaga-taller-infantil/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/museo-ruso-malaga-taller-infantil/",
+    "status": "publicada_en_fuente",
+    "details": "Talleres infantiles y familiares Sábados a las 11:30AM - 1:00PM / 5:00PM - 6:30PMColección del Museo Ruso, San Petersburgo / Málaga.Inscripción gratuita, previa reserva (aforo limitado a 20 personas).Más Información y reservas: educacion.coleccionmuseoruso@malaga.eu Cada semana, la Colección del Museo Ruso se transforma en un espacio ideado para que los más pequeños y pequeñas experimenten con el arte y la creatividad desde un punto de vista lúdi",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-10-17",
+      "2026-10-24",
+      "2026-10-31"
+    ],
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T08:21:22+00:00",
+    "origin": "json-ld",
+    "interval_kind": "recurring_dates",
+    "schedule_note": "Solo los días concretos indicados.",
+    "secondary_sources": []
+  },
+  {
     "id": "EVT-843836A02062",
     "title": "Taller de cerámica infantil",
     "start": "2026-10-17",
@@ -825,6 +994,89 @@
     "age_source_url": "https://latermicamalaga.com/taller-de-ceramica-infantil-28noviembre/",
     "age_quote": "De 10:30 a 13:00 horas | De 6 a 12 años",
     "schedule_change_pending_review": true
+  },
+  {
+    "id": "EVT-720C7B4FBE4A",
+    "title": "Talleres en familia. Museo Thyssen Málaga",
+    "start": "2026-10-17",
+    "end": "2026-10-25",
+    "time": "Horarios según sesión",
+    "town": "Málaga",
+    "venue": "Museo Thyssen Málaga",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/taller-familiar-museo-thyssen-malaga/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/taller-familiar-museo-thyssen-malaga/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/taller-familiar-museo-thyssen-malaga/",
+    "status": "publicada_en_fuente",
+    "details": "El Museo Thyssen Málaga consolida su oferta de ocio educativo con una variada programación de talleres infantiles. Dentro de la guía de planes con niños en Málaga, esta actividad destaca por acercar las grandes obras de la colección a un público familiar, fomentando el desarrollo artístico de los niños en un entorno privilegiado. Consulta las próximas fechas y no te pierdas estas visitas-taller diseñadas para disfrutar en familia. AGENDA DE TALLE",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-10-17",
+      "2026-10-18",
+      "2026-10-24",
+      "2026-10-25"
+    ],
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T08:21:22+00:00",
+    "origin": "json-ld",
+    "interval_kind": "recurring_dates",
+    "schedule_note": "Horarios publicados por sesión: 17/10: 11:00; 18/10: 12:00; 24/10: 11:00; 25/10: 12:00",
+    "secondary_sources": []
+  },
+  {
+    "id": "EVT-921917EDD8E2",
+    "title": "Visita-taller familiar. el ritmo de las cosas",
+    "start": "2026-10-17",
+    "end": "2026-10-31",
+    "time": "11:30",
+    "town": "Málaga",
+    "venue": "MUCAC La Coracha",
+    "category": "Talleres y aprendizaje",
+    "age_min": 5,
+    "age_max": 12,
+    "age_label": "5–12 años",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/taller-infantil-familiar-mucac-malaga/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/taller-infantil-familiar-mucac-malaga/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/taller-infantil-familiar-mucac-malaga/",
+    "status": "publicada_en_fuente",
+    "details": "Visita-taller para público familiar. «Ruido visual: el ritmo de las cosas» Fecha: sábados de octubre de 11:30 a 13:00 horasDestinatarios: familias con niños entre 5 y 12 añosInscripción gratuita: mediacion.mucaclacoracha@malaga.eu / 951928710 ¿A qué suena un cuadro? ¿Puede una obra de arte tener su propia música? En este taller conectaremos la vista con el oído para descubrir el ritmo que se esconde detrás de las formas y los colores del MUCAC. R",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-10-17",
+      "2026-10-24",
+      "2026-10-31"
+    ],
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T08:21:22+00:00",
+    "origin": "json-ld",
+    "interval_kind": "recurring_dates",
+    "schedule_note": "Solo los días concretos indicados.",
+    "secondary_sources": []
   },
   {
     "id": "EVT-A5EC6ABA8B9B",
@@ -944,6 +1196,47 @@
     "last_checked": "2026-10-17T21:34:23+00:00",
     "origin": "Investigación IA programada, con fuente",
     "status": "publicada_en_fuente"
+  },
+  {
+    "id": "EVT-28744029A408",
+    "title": "Programa Infantil. Teatro Echegaray",
+    "start": "2026-10-18",
+    "end": "2026-11-01",
+    "time": "11:00",
+    "town": "Málaga",
+    "venue": "Teatro Echegaray",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/programa-teatro-infantil-echegaray/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/programa-teatro-infantil-echegaray/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/programa-teatro-infantil-echegaray/",
+    "status": "publicada_en_fuente",
+    "details": "Teatro Echegaray / Temporada 2026-27Domingos a las 11.00 y 13.00hPrecio 8€ (único) El ciclo de Teatro Infantil ofrece cada domingo en Málaga centro, una generosa y variada programación de espectáculos destinados a niñas y niños. El Teatro Echegaray se convierte cada domingo en el refugio favorito de las familias malagueñas. Su ciclo de Teatro Infantil ofrece una programación cuidada y ecléctica con magia, títeres, payasos, fábulas, danza, audiovi",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-10-18",
+      "2026-10-25",
+      "2026-11-01"
+    ],
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T08:21:22+00:00",
+    "origin": "json-ld",
+    "interval_kind": "recurring_dates",
+    "schedule_note": "Solo los días concretos indicados.",
+    "secondary_sources": []
   },
   {
     "id": "EVT-LIB-20261019-PO",
@@ -1443,6 +1736,46 @@
     "language": "Ruso"
   },
   {
+    "id": "EVT-81B103087E9A",
+    "title": "Taller de Yoga Facial en Málaga: autocuidado, masaje facial y cosmética natural malagueña",
+    "start": "2026-10-24",
+    "end": "2026-10-31",
+    "time": "Horarios según sesión",
+    "town": "Málaga",
+    "venue": "KUMUI Cosmética Natural",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/taller-kumui-cosmetica-natural-malaga/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/taller-kumui-cosmetica-natural-malaga/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/taller-kumui-cosmetica-natural-malaga/",
+    "status": "publicada_en_fuente",
+    "details": "¿Te apetece regalarte un momento para ti y aprender a cuidar tu piel de una forma natural y consciente? KUMUI Cosmética Natural organiza en Málaga un taller de Yoga Facial, gua sha y skincare natural, una experiencia práctica y relajante en la que aprenderás una rutina sencilla para cuidar tu rostro en casa y sacar el máximo partido a tus productos cosméticos. Durante el taller aprenderás a combinar ejercicios de yoga y fitness facial, automasaje",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-10-24",
+      "2026-10-31"
+    ],
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T08:21:22+00:00",
+    "origin": "json-ld",
+    "interval_kind": "recurring_dates",
+    "schedule_note": "Horarios publicados por sesión: 24/10: 11:00; 31/10: 18:00",
+    "secondary_sources": []
+  },
+  {
     "id": "EVT-UNI-20261024",
     "title": "Taller de llaveros de madera decorados con miniaturas",
     "start": "2026-10-24",
@@ -1689,6 +2022,40 @@
     }
   },
   {
+    "id": "EVT-0A0B89F5D9C6",
+    "title": "Mercado Urbano del Soho Málaga: Fechas, Horarios y Qué comprar en 2026",
+    "start": "2026-10-25",
+    "end": "2026-10-25",
+    "time": "11:00",
+    "town": "Málaga",
+    "venue": "C/ Tomás Heredia",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/mercado-urbano-soho-malaga/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/mercado-urbano-soho-malaga/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/mercado-urbano-soho-malaga/",
+    "status": "publicada_en_fuente",
+    "details": "Organiza: La Chistera Comunicación 📅 PRÓXIMAS EDICIONES 2026: Domingo 11 y 25 de octubreDomingo 8 y 22 noviembreDomingo 13 y 27 diciembre⏰Horario: 11:00 a 19:00h📍Dónde: C/ Tomás Heredia (Barrio del Soho Málaga) Como llegar Si crees que todos los mercados artesanos son iguales, el Mercado Urbano del Soho viene a romperte los esquemas. 😄✨Ubicado en pleno corazón del Barrio del Soho (Málaga), este evento se ha convertido en una cita imprescindible p",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T08:21:22+00:00",
+    "origin": "json-ld"
+  },
+  {
     "id": "EVT-01BAD1C17",
     "title": "PeketubeFest",
     "start": "2026-10-25",
@@ -1746,6 +2113,40 @@
     "interval_kind": "recurring_dates",
     "schedule_note": "Horarios publicados por sesión: 25/10: 13:00–14:00; 30/10: 17:00–18:00; 31/10: 13:00–14:00",
     "secondary_sources": []
+  },
+  {
+    "id": "EVT-5E114C02DF73",
+    "title": "Teatro en familia",
+    "start": "2026-10-25",
+    "end": "2026-10-25",
+    "time": "12:00",
+    "town": "Málaga",
+    "venue": "Aud. Eduardo ocón",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/teatro-en-familia-malaga/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/teatro-en-familia-malaga/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/teatro-en-familia-malaga/",
+    "status": "publicada_en_fuente",
+    "details": "escena / música / letrasRecinto Eduardo Ocón (Paseo del Parque)Entrada libre Teatro familiar destinado al público Infantil, con la finalidad de hacer disfrutar tanto a pequeños como adultos.PROGRAMA POR FECHAS26 / 04 / 2026 | Los domingos en el Ocón31 / 05 / 2026 | Los domingos en el Ocón25 / 06 / 2026 | Festival Títeres26 / 06 / 2026 | Festival Títeres27 / 06 / 2026 | Festival Títeres28 / 06 / 2026 | Festival Títeres27 / 09 / 2026 | Los domingos",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T08:21:22+00:00",
+    "origin": "json-ld"
   },
   {
     "id": "EVT-114B41ADBEC2",
@@ -2371,6 +2772,40 @@
         "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
       }
     }
+  },
+  {
+    "id": "EVT-C55FBBBD91EC",
+    "title": "Las villas y hotelitos del Limonar",
+    "start": "2026-10-31",
+    "end": "2026-10-31",
+    "time": "11:00",
+    "town": "Málaga",
+    "venue": "Villa Onieva",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/las-villas-y-hotelitos-del-limonar/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/las-villas-y-hotelitos-del-limonar/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/las-villas-y-hotelitos-del-limonar/",
+    "status": "publicada_en_fuente",
+    "details": "Próxima fecha:Sábado 31 octubre - 11:00h El Limonar es uno de los barrios más bonitos de Málaga, situado junto a la playa y dividido por un arroyo, se convirtió a finales del siglo XIX en el barrio burgués por excelencia. Sus «hotelitos» nacieron como residencias de veraneo y lugares de descanso para escapar de las grandes ciudades y su ambiente viciado. Muchas de estas villas, como el Limonar 40 o Villa Fernanda, fueron residencias veraniegas de",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T08:21:22+00:00",
+    "origin": "json-ld"
   },
   {
     "id": "EVT-BE50F5EF64CA",
