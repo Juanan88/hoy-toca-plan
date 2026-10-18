@@ -1,47 +1,5 @@
 [
   {
-    "title": "TALLER DE SEVILLANAS PARA JÓVENES",
-    "url": "https://www.fuengirola.es/evento/taller-de-sevillanas-para-jovenes/",
-    "source_name": "Fuengirola · Agenda municipal de eventos",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "AGENDA OCTUBRE",
-    "url": "https://www.fuengirola.es/evento/agenda-octubre/",
-    "source_name": "Fuengirola · Agenda municipal de eventos",
-    "first_seen": "2026-10-13",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "EXPOSICIÓN «DEL JUEGO DE CONSTRUCCIÓN TENTE»",
-    "url": "https://www.fuengirola.es/evento/exposicion-del-juego-de-construccion-tente/",
-    "source_name": "Fuengirola · Agenda municipal de eventos",
-    "first_seen": "2026-10-13",
-    "status": "verificada_con_fecha",
-    "verified_event_ids": [
-      "EVT-FUEN-TENTE-2026"
-    ],
-    "review_reason": "Pista ya incorporada a la agenda; se conserva el vínculo de la fuente."
-  },
-  {
     "title": "Actividades y talleres",
     "url": "https://www.bioparcfuengirola.es/prepara-tu-visita/actividades-y-talleres/",
     "source_name": "Bioparc Fuengirola · agenda de actividades",
@@ -8946,8 +8904,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-92319190E6",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ladiversiva.com \"feria\" festival \"Vélez-Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Planes y rutas para hacer con niños en Vélez-Málaga - La Diversiva",
@@ -9121,8 +9081,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Los mejores espectáculos para niños y bebés - Sapos y Princesas",
@@ -9362,8 +9324,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Títeres y motores: los mejores planes con niños en Zaragoza en septiembre - Sapos y Princesas",
@@ -9375,8 +9339,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Los mejores planes con niños en Sevilla en junio: exposiciones, musicales y mucho más - Sapos y Princesas",
@@ -9388,8 +9354,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-4C38A9963B",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"mejores\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Tenencia de Alcaldía de Torre del Mar",
@@ -10306,8 +10274,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-64E2DD9270",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"La Diversiva\" \"feria\" festival \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Cine de verano 2026 gratis en Málaga para toda la familia - La Diversiva",
@@ -10477,8 +10447,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-24A7590DD9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "site:saposyprincesas.elmundo.es \"ninos\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:saposyprincesas.elmundo.es \"ninos\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Centro de Interpretación del Teatro Romano de Málaga - Sapos y Princesas",
@@ -10566,16 +10538,29 @@
   },
   {
     "title": "Mucho teatro para disfrutar con niños del fin de semana en Málaga - Diario Sur",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVlDNE00NVQtYVRlN0dWb0Y5clgyRWhicHVGWGRFelo3LW9aSEE4V3E5T0V4MTh3RDNDSlZHaFdqeEJMbUJsYmQ5SXZRN1I1NFBXcXFySHkzb0xvYzN3NDV5d3R3U2FjUDNZc2FVaE5PczNwQ2ZEZUtleXRwUkRhem01RDJoeWUwLWZBd0hZQ3VWdjFCd1Q5eTl3WXJqQdIBowFBVV95cUxQNzlSTnFqRWpjRWVJNEFJSS1sZHBlZDhmekNMMHFxNk1Tb2RvU0lVREdtdC1GR0FtWUNYVDgwSHdsaUxJREpDNE9TaktNQi1fSlJBLWZVUWZyU19qTmFMRXA5eGwzUEpjQXF6Vk1qLUdlUmFWQ3djbll2emVyaURwNEFZb1RXUzBMV0F3UDlUM2JHR2YtNTBZM1BMXzJKbl9oSWgw?oc=5",
+    "url": "https://www.diariosur.es/planes/ninos/teatro-gratis-malaga-fin-semana-mayo-20260506150555-nt.html",
     "snippet": "Mucho teatro para disfrutar con niños del fin de semana en Málaga Diario Sur",
     "published_at": "Thu, 07 May 2026 07:00:00 GMT",
     "source_name": "Investigación por caso",
     "first_seen": "2026-10-18",
-    "status": "por_revisar",
+    "status": "sin_fecha_estructurada",
     "discovery_method": "case_rescue",
     "case_id": "CASE-24A7590DD9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"ninos\" teatro \"Málaga\""
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "query": "\"ninos\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVlDNE00NVQtYVRlN0dWb0Y5clgyRWhicHVGWGRFelo3LW9aSEE4V3E5T0V4MTh3RDNDSlZHaFdqeEJMbUJsYmQ5SXZRN1I1NFBXcXFySHkzb0xvYzN3NDV5d3R3U2FjUDNZc2FVaE5PczNwQ2ZEZUtleXRwUkRhem01RDJoeWUwLWZBd0hZQ3VWdjFCd1Q5eTl3WXJqQdIBowFBVV95cUxQNzlSTnFqRWpjRWVJNEFJSS1sZHBlZDhmekNMMHFxNk1Tb2RvU0lVREdtdC1GR0FtWUNYVDgwSHdsaUxJREpDNE9TaktNQi1fSlJBLWZVUWZyU19qTmFMRXA5eGwzUEpjQXF6Vk1qLUdlUmFWQ3djbll2emVyaURwNEFZb1RXUzBMV0F3UDlUM2JHR2YtNTBZM1BMXzJKbl9oSWgw?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Un nuevo espectáculo de circo y mucho teatro para niños este fin de semana en Málaga - Diario Sur",
@@ -10587,8 +10572,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-24A7590DD9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"ninos\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"ninos\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "'Teatro en Familia' ofrecerá actuaciones gratis para todos los públicos en el recinto Eduardo Ocón - Diario Sur",
@@ -10600,8 +10587,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-24A7590DD9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"ninos\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"ninos\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Actúa Emoción Escénica: clases de teatro para niños y niñas en Málaga para el curso 2025/26 - La Diversiva",
@@ -10613,8 +10602,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-24A7590DD9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"ninos\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"ninos\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "Teatro, dinosaurios y más planes con niños en Málaga en el ecuador de diciembre - Diario Sur",
@@ -10626,8 +10617,10 @@
     "status": "por_revisar",
     "discovery_method": "case_rescue",
     "case_id": "CASE-24A7590DD9",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
-    "query": "\"ninos\" teatro \"Málaga\""
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"ninos\" teatro \"Málaga\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
   },
   {
     "title": "LA CAJA BLANCA - Auditorio 2026 / \"CENICIENTA\" EL MUSICAL. ASOCIACIÓN LA CAJITA MUSICAL DE MÁLAGA",
@@ -10924,5 +10917,23 @@
     "first_seen": "2026-10-18",
     "status": "por_revisar",
     "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "IV Certamen Literario AFAM",
+    "url": "https://www.mijas.es/portal/iv-certamen-literario-afam/",
+    "snippet": "IV Certamen Literario AFAM",
+    "source_name": "Mijas · noticias y actividades municipales",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-0A3E11923C",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   }
 ]
