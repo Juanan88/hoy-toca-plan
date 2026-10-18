@@ -297,7 +297,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en La Térmica, Málaga, el 16 de octubre a las 17:00.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:25+00:00",
+    "last_checked": "2026-10-18T13:26:59+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -353,7 +353,8 @@
     "session_count": 1,
     "schedule_unconfirmed": false,
     "secondary_sources": [
-      "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-16"
+      "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-16",
+      "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-30"
     ],
     "schedule_change_pending_review": true,
     "duration_minutes": null,
@@ -442,6 +443,43 @@
     "interval_kind": "recurring_dates",
     "schedule_note": "Solo los días concretos indicados.",
     "secondary_sources": []
+  },
+  {
+    "id": "EVT-67B1DA9BA68A",
+    "title": "ImaginaMálaga: segunda edición de jornadas de cultura pop",
+    "start": "2026-10-16",
+    "end": "2026-10-18",
+    "time": "16:00",
+    "town": "Málaga",
+    "venue": "La Caja Blanca",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://informalaga.es/agenda/imaginamalaga-segunda-edicion-de-jornadas-de-cultura-pop-tdsel",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://informalaga.es/agenda/imaginamalaga-segunda-edicion-de-jornadas-de-cultura-pop-tdsel",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · informalaga.es",
+    "source_url": "https://informalaga.es/agenda/imaginamalaga-segunda-edicion-de-jornadas-de-cultura-pop-tdsel",
+    "status": "pendiente",
+    "details": "Jornadas de cultura pop, literatura fantástica y cómic con firmas, talleres, juegos y conciertos.",
+    "schedule_unconfirmed": true,
+    "occurrences": null,
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T13:27:07+00:00",
+    "origin": "json-ld",
+    "secondary_sources": [
+      "https://informalaga.es/agenda/imaginamalaga-segunda-edicion-de-jornadas-de-cultura-pop-tdsel"
+    ]
   },
   {
     "id": "EVT-CBDE05B8AA17",
@@ -678,7 +716,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en La Térmica, Málaga, el 17 de octubre a las 10:00.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:25+00:00",
+    "last_checked": "2026-10-18T13:26:59+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -940,7 +978,8 @@
     "origin": "json-ld",
     "secondary_sources": [
       "https://teatromalaga.com/cartelera?familia=Infantil+y+familiar",
-      "https://teatromalaga.com/cartelera/el-gran-bailarin-echegaray-malaga"
+      "https://teatromalaga.com/cartelera/el-gran-bailarin-echegaray-malaga",
+      "https://informalaga.es/agenda/el-gran-bailarin-de-la-cia-manolo-supertramp-ofmeh"
     ],
     "age_source_url": "https://teatromalaga.com/cartelera/el-gran-bailarin-echegaray-malaga",
     "age_evidence": "La ficha del espectáculo indica expresamente «A partir de 3 años».",
@@ -964,6 +1003,90 @@
     }
   },
   {
+    "id": "EVT-C74E50BAC0A0",
+    "title": "ImaginaMálaga 2026 · Salón del cómic (domingo)",
+    "start": "2026-10-18",
+    "end": "2026-10-18",
+    "time": "11:00",
+    "town": "Málaga",
+    "venue": "La Caja Blanca",
+    "category": "Fiestas y eventos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": "Avenida Editor Ángel Caffarena, 8",
+    "reservation_url": "https://informalaga.es/agenda/imaginamalaga-2026-salon-del-comic-domingo-2026-10-18",
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/imaginamalaga-2026-salon-del-comic-domingo-2026-10-18",
+        "quote": "Avenida Editor Ángel Caffarena, 8",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      },
+      "reservation_url": {
+        "source_url": "https://informalaga.es/agenda/imaginamalaga-2026-salon-del-comic-domingo-2026-10-18",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · informalaga.es",
+    "source_url": "https://informalaga.es/agenda/imaginamalaga-2026-salon-del-comic-domingo-2026-10-18",
+    "status": "publicada_en_fuente",
+    "details": "Programa del domingo en el salón ImaginaMálaga 2026: 11:30 Zona de Proyectos · Mesa redonda de vampiros: De la literatura al cine (Házael González, Carlos Sisi, Álex Romero y Erik Cruz) 13:15 Zona de Proyectos · Encuentro con el autor (Andrew Wildman) 16:30 Zona de Proyectos · Mesa redonda sobre el...",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T13:27:07+00:00",
+    "origin": "json-ld",
+    "secondary_sources": [
+      "https://informalaga.es/agenda/imaginamalaga-2026-salon-del-comic-domingo-2026-10-18"
+    ]
+  },
+  {
+    "id": "EVT-138B5D4FFD9D",
+    "title": "Las K-Pop",
+    "start": "2026-10-18",
+    "end": "2026-10-18",
+    "time": "17:00",
+    "town": "Málaga",
+    "venue": "Teatro ESAD Málaga",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "18 EUR",
+    "duration_minutes": null,
+    "address": "Calle Bela Bartok 2",
+    "reservation_url": "https://www.giglon.com/evento/las-guerreras-k-pop-en-concierto---malaga",
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/las-k-pop-2026-10-18",
+        "quote": "Calle Bela Bartok 2",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      },
+      "reservation_url": {
+        "source_url": "https://informalaga.es/agenda/las-k-pop-2026-10-18",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · informalaga.es",
+    "source_url": "https://informalaga.es/agenda/las-k-pop-2026-10-18",
+    "status": "publicada_en_fuente",
+    "details": "Infantil en Teatro ESAD Málaga, el 18 de octubre a las 17:00.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T13:27:07+00:00",
+    "origin": "json-ld",
+    "secondary_sources": [
+      "https://informalaga.es/agenda/las-k-pop-2026-10-18"
+    ]
+  },
+  {
     "id": "EVT-IA-14055FDF02",
     "title": "Picnic Solidario de la AECC de Benalmádena",
     "start": "2026-10-18",
@@ -979,13 +1102,69 @@
     "audience": "Infantil y familiar",
     "source_name": "Ayuntamiento de Benalmádena",
     "source_url": "https://www.benalmadena.es/noticias/N13616/La-AECC-de-Benalmdena-presenta-las-actividades-del-Mes-de-Sensibilizacin-sobre-el-Cncer-de-Mama.html",
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://informalaga.es/agenda/picnic-solidario-de-la-aecc-de-benalmadena-mvlzq"
+    ],
     "details": "Jornada familiar y solidaria con marcha recreativa de unos 1.200 metros, talleres infantiles, ejercicio físico y música. Inscripción de 8 € con camiseta incluida.",
     "evidence": "El Ayuntamiento confirma el Picnic Solidario el domingo 18 de octubre de 10:00 a 16:00 en el Parque de la Paloma, como jornada familiar con talleres infantiles, marcha, ejercicio físico y música.",
     "first_seen": "2026-10-17",
     "last_checked": "2026-10-17T21:34:23+00:00",
     "origin": "Investigación IA programada, con fuente",
     "status": "publicada_en_fuente"
+  },
+  {
+    "id": "EVT-TXT-457476F096",
+    "title": "Cuentos al Aire",
+    "start": "2026-10-19",
+    "end": "2026-10-21",
+    "time": "Por confirmar",
+    "town": "Málaga",
+    "venue": "Por confirmar",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {
+      "start": {
+        "source_url": "https://informalaga.es/agenda/club-de-lectura-para-adultos-bpm-jorge-guillen-2026-10-19",
+        "quote": "Cuentos al Aire Cuentos al Aire en Parque del Oeste, Málaga, del 19 de octubre al 21 de octubre. CUENTOS AL AIRE Dirigido a: Público infantil y familiar. ENTRADA LIBRE. Cuentos al ",
+        "evidence": "Fecha futura explícita vinculada al evento."
+      },
+      "town": {
+        "source_url": "https://informalaga.es/agenda/club-de-lectura-para-adultos-bpm-jorge-guillen-2026-10-19",
+        "quote": "Málaga",
+        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
+      },
+      "audience": {
+        "source_url": "https://informalaga.es/agenda/club-de-lectura-para-adultos-bpm-jorge-guillen-2026-10-19",
+        "quote": "infantil/familiar",
+        "evidence": "El evento se presenta explícitamente como infantil o familiar."
+      }
+    },
+    "audience": "Infantil y familiar",
+    "source_name": "InforMálaga",
+    "source_url": "https://informalaga.es/agenda/club-de-lectura-para-adultos-bpm-jorge-guillen-2026-10-19",
+    "status": "publicada_en_fuente",
+    "details": "Cuentos al Aire en Parque del Oeste, Málaga, del 19 de octubre al 21 de octubre. CUENTOS AL AIRE Dirigido a: Público infantil y familiar. ENTRADA LIBRE.",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-10-19",
+      "2026-10-20",
+      "2026-10-21"
+    ],
+    "interval_kind": "continuous_days",
+    "schedule_note": "Se celebra únicamente en las fechas indicadas.",
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T13:27:01+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 95,
+    "verification_method": "evidencia textual fuerte",
+    "evidence": "actividad concreta · evento multidía con fechas explícitas · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo"
   },
   {
     "id": "EVT-LIB-20261019-PO",
@@ -1039,7 +1218,9 @@
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://informalaga.es/agenda/cuentacuentos-en-ingles-2026-10-20"
+    ],
     "duration_minutes": null,
     "address": null,
     "reservation_url": null,
@@ -1068,7 +1249,9 @@
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-23"
+    ],
     "duration_minutes": null,
     "address": "Calle de la Cruz, 42",
     "reservation_url": "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-23",
@@ -1305,7 +1488,9 @@
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://informalaga.es/agenda/pequenos-monstruitos-2026-10-24"
+    ],
     "duration_minutes": null,
     "address": "C. Cenit, 2, Puerto de la Torre",
     "reservation_url": "https://www.enterticket.es/eventos/pequenos-monstruitos-679096",
@@ -1502,7 +1687,9 @@
     "audience": "Infantil y familiar",
     "source_name": "Ayuntamiento de Benalmádena",
     "source_url": "https://www.benalmadena.es/noticias/N13617/Benalmdena-acoger-el-24-de-octubre-la-segunda-edicin-de-los-Workout-to-Help-Games-a-beneficio-de-AVOI.html",
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://informalaga.es/agenda/workout-to-help-games-jornada-deportiva-y-solidaria-a-beneficio-de-av-asbvd"
+    ],
     "details": "Jornada infantil y familiar con skate, ajedrez, Cross Kids, medio ambiente, yoga y capoeira. Inscripción de 15 € con camiseta y pasaporte de actividades o 20 € incluyendo comida.",
     "evidence": "El Ayuntamiento confirma que el sábado 24 de octubre, desde las 10:00, el edificio Innova acoge una jornada deportiva y solidaria dirigida a niños y familias con seis retos y talleres.",
     "first_seen": "2026-10-17",
@@ -1838,6 +2025,56 @@
         "last_verified": "2026-10-13"
       }
     }
+  },
+  {
+    "id": "EVT-TXT-63A0A94938",
+    "title": "Cita con el Tablero. Taller de Ajedrez Infantil. B.P.M. Cristóbal Cuevas",
+    "start": "2026-10-28",
+    "end": "2026-10-28",
+    "time": "Por confirmar",
+    "town": "Málaga",
+    "venue": "Por confirmar",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {
+      "start": {
+        "source_url": "https://informalaga.es/agenda/taller-de-poesia-bpm-manuel-altolaguirre-2026-10-07",
+        "quote": "lero. Taller de Ajedrez Infantil. B.P.M. Cristóbal Cuevas en PLAZA DE EDUARDO DATO, 1, Málaga, del 7 de octubre al 28 de octubre. Cita con el Tablero. Taller de Ajedrez Infantil. B",
+        "evidence": "Fecha futura explícita vinculada al evento."
+      },
+      "town": {
+        "source_url": "https://informalaga.es/agenda/taller-de-poesia-bpm-manuel-altolaguirre-2026-10-07",
+        "quote": "Málaga",
+        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
+      },
+      "audience": {
+        "source_url": "https://informalaga.es/agenda/taller-de-poesia-bpm-manuel-altolaguirre-2026-10-07",
+        "quote": "infantil/familiar",
+        "evidence": "El evento se presenta explícitamente como infantil o familiar."
+      }
+    },
+    "audience": "Infantil y familiar",
+    "source_name": "InforMálaga",
+    "source_url": "https://informalaga.es/agenda/taller-de-poesia-bpm-manuel-altolaguirre-2026-10-07",
+    "status": "publicada_en_fuente",
+    "details": "Cita con el Tablero. Taller de Ajedrez Infantil. B.P.M. Cristóbal Cuevas en PLAZA DE EDUARDO DATO, 1, Málaga, del 7 de octubre al 28 de octubre.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "interval_kind": null,
+    "schedule_note": null,
+    "first_seen": "2026-10-18",
+    "last_checked": "2026-10-18T13:26:56+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 100,
+    "verification_method": "evidencia textual fuerte",
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
   },
   {
     "id": "EVT-UNICORN-20261029",

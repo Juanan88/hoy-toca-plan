@@ -172,7 +172,8 @@
     "events_detected_this_run": 25,
     "broad_discovery": true,
     "broad_max_links": 20,
-    "broad_url": "https://informalaga.es/agenda/"
+    "broad_url": "https://informalaga.es/agenda/",
+    "last_broad_checked": "2026-10-18T13:25:23+00:00"
   },
   {
     "id": "SRC-013",
@@ -213,7 +214,8 @@
     "notes": "Explicaciones educativas",
     "events_detected_this_run": 0,
     "broad_discovery": true,
-    "broad_max_links": 14
+    "broad_max_links": 14,
+    "last_broad_checked": "2026-10-18T13:25:23+00:00"
   },
   {
     "id": "SRC-016",
@@ -267,7 +269,8 @@
     "notes": "Talleres y actividades puntuales de la provincia",
     "events_detected_this_run": 14,
     "broad_discovery": true,
-    "broad_max_links": 20
+    "broad_max_links": 20,
+    "last_broad_checked": "2026-10-18T13:25:23+00:00"
   },
   {
     "id": "SRC-020",
@@ -282,7 +285,8 @@
     "notes": "Programación municipal consolidada",
     "events_detected_this_run": 0,
     "broad_discovery": true,
-    "broad_max_links": 14
+    "broad_max_links": 14,
+    "last_broad_checked": "2026-10-18T13:25:23+00:00"
   },
   {
     "id": "SRC-021",
@@ -297,7 +301,8 @@
     "notes": "Eventos municipales y fiestas infantiles",
     "events_detected_this_run": 0,
     "broad_discovery": true,
-    "broad_max_links": 14
+    "broad_max_links": 14,
+    "last_broad_checked": "2026-10-18T13:25:23+00:00"
   },
   {
     "id": "SRC-022",
@@ -325,7 +330,8 @@
     "notes": "Títeres, espectáculos, festivales",
     "events_detected_this_run": 0,
     "broad_discovery": true,
-    "broad_max_links": 14
+    "broad_max_links": 14,
+    "last_broad_checked": "2026-10-18T13:25:23+00:00"
   },
   {
     "id": "SRC-024",
@@ -1073,7 +1079,7 @@
     "watch_urls": [
       "https://limon-loco.es/"
     ],
-    "last_checked": "2026-10-18T13:12:47+00:00",
+    "last_checked": "2026-10-18T13:24:36+00:00",
     "events_detected_this_run": 0,
     "daily_crawl": true
   },
@@ -1114,7 +1120,7 @@
       "https://gtmmalaga.com/evento/a_57059-canta-juegos-en-malaga",
       "https://gtmmalaga.com/evento/a_56679-momonsters-mi-primer-musical-en-malaga"
     ],
-    "last_checked": "2026-10-18T13:12:47+00:00",
+    "last_checked": "2026-10-18T13:24:36+00:00",
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14
