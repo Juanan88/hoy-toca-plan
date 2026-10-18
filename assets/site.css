@@ -205,6 +205,8 @@
 .project-info-content>p{font-size:12px;color:var(--muted)}
 .project-subsection{border-top:1px solid var(--line);padding:3px 0}
 .project-subsection>summary{cursor:pointer;min-height:44px;padding:11px 0;font-weight:760;font-size:13px;color:var(--ink)}
+.project-subsection>summary{scroll-margin-top:22px}
+.project-subsection>summary:focus-visible{outline:3px solid #edb95b;outline-offset:2px;border-radius:6px}
 .project-subsection>summary span{font-weight:450;color:var(--muted)}
 .project-subsection .section-intro{margin:10px 0}
 .project-subsection .section-intro h2{font-size:22px}

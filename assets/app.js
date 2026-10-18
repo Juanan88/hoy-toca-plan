@@ -538,6 +538,21 @@ for(const id of ['town','age','category','price','verifiedOnly','newOnly','inclu
   cardsShown=36;renderEvents();renderAdvanceBookings();syncExplorerView();renderCalendar();
  });
 $('clearDate').addEventListener('click',resetSharedDate);
+// El enlace del pie no puede limitarse a #projectInfo: <details> no se abre
+// al navegar por una ancla, y las fuentes están en un segundo <details> cerrado.
+function showSourcesAndTransparency(){
+ const project=$('projectInfo'),sources=$('sourcesDetails');
+ project.open=true;
+ sources.open=true;
+ renderSources();renderHealth();
+ const summary=sources.querySelector('summary');
+ summary.scrollIntoView({block:'start',behavior:'auto'});
+ summary.focus({preventScroll:true});
+}
+$('footerSourcesLink').addEventListener('click',event=>{
+ event.preventDefault();
+ showSourcesAndTransparency();
+});
 $('projectInfo').addEventListener('toggle',()=>{if($('projectInfo').open){renderSources();renderHealth();renderDiscoveries();}});
 $('sourcesDetails').addEventListener('toggle',()=>{if($('sourcesDetails').open){renderSources();renderHealth();}});
 $('discoveryDetails').addEventListener('toggle',()=>{if($('discoveryDetails').open)renderDiscoveries();});
