@@ -40,8 +40,14 @@
     "source_name": "Bibliotecas Málaga",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-16",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Talleres en Familia. B.P.M. Manuel Altolaguirre",
@@ -68,8 +74,14 @@
     "source_name": "Ayuntamiento de Marbella",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-16",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Otros eventos",
@@ -118,8 +130,15 @@
     "source_name": "Juventud Málaga",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-16",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Museo en acción Música clásica en la Colección 2026 14 de noviembre de 2026",
@@ -166,8 +185,14 @@
     "source_name": "Sapos y Princesas — Málaga",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-16",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Rutas fáciles para hacer con niños",
@@ -208,8 +233,15 @@
     "source_name": "Agenda Cultura Ayuntamiento Málaga",
     "first_seen": "2026-10-12",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-16",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Actividades de gobierno",
@@ -1566,8 +1598,15 @@
     "source_name": "Agenda Cultura Málaga",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Festival de títeres",
@@ -1593,8 +1632,15 @@
     "source_name": "Agenda Cultura Málaga",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Actividades de fomento de la lectura",
@@ -1602,8 +1648,15 @@
     "source_name": "Bibliotecas Málaga",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Exposición El Quijote en Málaga. B.P.M. Vicente Espinel",
@@ -1656,8 +1709,15 @@
     "source_name": "Turismo Marbella",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Ocio Diviértete en familia o con amigos",
@@ -1680,8 +1740,15 @@
     "source_name": "Turismo Marbella",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "14 mar Teatro infantil Con Niños ETERNAS Del 14 mar al 14 mar 2027 Teatro Echegaray · Málaga",
@@ -1707,8 +1774,14 @@
     "source_name": "Museo Carmen Thyssen (web cultural)",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Educativas Bebecuentos. Por arte de magia 18 de octubre de 2026",
@@ -1716,8 +1789,14 @@
     "source_name": "Museo Carmen Thyssen (web cultural)",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Visitas guiadas Visitas guiadas exposición \"Olé\" 16 de octubre de 2026",
@@ -1755,8 +1834,16 @@
     "source_name": "Sapos y Princesas — Málaga",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Un día en la granja",
@@ -1817,8 +1904,14 @@
     "source_name": "Teatro Cánovas",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Teatro familiar",
@@ -1836,8 +1929,14 @@
     "source_name": "Teatro Cánovas",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "MAROMA TEATRO",
@@ -1845,8 +1944,14 @@
     "source_name": "Teatro Cánovas",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Moda y ocio infantil",
@@ -1878,8 +1983,14 @@
     "source_name": "CC Rosaleda",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Ideas para vestir en Navidad",
@@ -1887,8 +1998,15 @@
     "source_name": "CC Rosaleda",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Kiabi: ¡Promo Kids: 3 por el precio de 2!",
@@ -1953,8 +2071,14 @@
     "source_name": "Ayuntamiento Mijas",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Familia, infancia",
@@ -1977,8 +2101,14 @@
     "source_name": "Ayuntamiento Mijas",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Escuelas Infantiles",
@@ -2026,8 +2156,15 @@
     "source_name": "Ayuntamiento Vélez-Málaga",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Agenda de actividades",
@@ -2059,8 +2196,15 @@
     "source_name": "Ayuntamiento Antequera",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "El Paseo Real acoge la I Feria de la Salud con actividades sobre prevención y hábitos saludables",
@@ -2110,8 +2254,15 @@
     "source_name": "Cultura Antequera · agenda de actividades",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Taller Intercambio Idiomas",
@@ -2119,8 +2270,14 @@
     "source_name": "Mijas · noticias y actividades municipales",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "TALLERES DE ENVEJECIMIENTO ACTIVO",
@@ -2128,8 +2285,14 @@
     "source_name": "Mijas · noticias y actividades municipales",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Familia e Igualdad de Oportunidades",
@@ -2186,8 +2349,14 @@
     "source_name": "Ayuntamiento Vélez-Málaga",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "PROGRAMACIÓN TEATRO LOPE DE VEGA",
@@ -2195,8 +2364,15 @@
     "source_name": "Ayuntamiento Vélez-Málaga",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Imanol Arias y María Barranco actuarán en Vélez-Málaga por primera vez en la historia en la programación trimestral del Teatro del Carmen",
@@ -2307,8 +2483,17 @@
     "source_name": "Fundación Unicaja — agenda cultural",
     "first_seen": "2026-10-13",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-13",
-    "review_reason": "No contiene evento infantil con fecha y lugar estructurados: pendiente de contraste."
+    "last_checked": "2026-10-18",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (60/100).",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 60,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "público infantil/familiar",
+      "municipio malagueño no demostrado"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "TEATRO: «LA DOBLE VIDA DE VIRGINIA WOOLF»",
@@ -8675,5 +8860,742 @@
     "discovery_method": "rss",
     "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
     "published_at": "Fri, 25 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "CUENTO MUSICAL CENICIENTA | Auditorio La Caja Blanca | Málaga",
+    "url": "https://www.giglon.com/todos?idEvent=cuento-musical-cenicienta",
+    "source_name": "Pista aportada por usuario",
+    "first_seen": "2026-10-18",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: robots.txt no permite o no pudo comprobarse",
+    "snippet": "Cuento musical en Auditorio La Caja Blanca. Giglon anuncia sesión el 14/11/2026 a las 12:30; espectáculo dirigido a pequeños y no tan pequeños.",
+    "discovery_method": "user_seed",
+    "published_at": null,
+    "last_checked": "2026-10-18"
+  },
+  {
+    "title": "El pueblo de Málaga que celebra este fin de semana su famosa 'Fiesta en el Aire' con mercadillo, talleres infantiles y catas gratuitas: programación completa - La Opinión de Málaga",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWmJYMjY1R2wxWHUxSTkzODlaN25ob0ZlM3dtaWoxLVEtNE4tb1U1SEV3NnRtTk1tWXNuODg5MWtaY0JGMkN4YXg5VDg1TmIyS3ZTSExSTFZDZUljQUgwaFNrVEllNTJ2NHV6QjRoUmp1dWZSbnlPQTFRQlVJUFNhSXlvS2k5T091czdBbmJMaFY0M3RrZDF4YXZVWEUwZVlHcVhVaW5ndTh2SlJDU0E0alBRTTh2RnVLNlR4QnBrVmhxTm9kNkh6UHZqY09IWXoyNVVYNF9KRkYxSEHSAeABQVVfeXFMTXY1bUNkY3VXVVBlbnkxQXlCQ1RRbDdZMmtFN2xtN0VjWXhmSG9ieUlsMVA5aVFiZkpITTNLQ1lOYWI2YUZqemNTT0dZRnpjLWtjS3dSQlY1SG9YSDFDREpUdzBRY3VabWNsRkZqNnF6ckR0UEVoSzFqalBLTzRXM0lIbi1LbWhXc2E0eFpQU1dBVFdJbUFCMm44SEVDZVMzY3RyVlAxMlhpZFQybEVlcU9vcXVTTXQzZW1yWm1MYkw2eExuY04wRHZNVFFTVXBwdzVmSzYwUmk4TXFPT3hXOXg?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "El pueblo de Málaga que celebra este fin de semana su famosa 'Fiesta en el Aire' con mercadillo, talleres infantiles y catas gratuitas: programación completa La Opinión de Málaga",
+    "discovery_method": "rss",
+    "query": "\"Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Fri, 09 Oct 2026 10:37:14 GMT"
+  },
+  {
+    "title": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror - Guía de Benalmádena",
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUkZxcVlsdHBhT050R3VRa09RYXl1czRxTVpBZWcxcXlwVzRJMXNTVUpteFlHbElUWVRXbmxndVFRWFc4anlsN1BmVlJaMnBpeEtGYVZqM0ZXaTFjc2FZTHhEWElvdXBwNjNqRzRUZzBaZVJPVGt6d2JyUE40U2NhcmpJeGs2TlppRW5zbFBqRXBNU3ltQ1hRTjVRakRBbjJqcHI3Si1veWNWVEtTaE1mWWlRUWZ2bklsMFo2R0JBNDV6NjhFZ3NtQm1va3RocEZwdTJ0b01RODRmLWdyNkRIVjNXYnp0T3lwMlg4ZmRzbXBXY2NXMTNHLS1YWXlqRE1tN25MNjFPTmNEaTNh0gGMAkFVX3lxTE1SRnFxWWx0cGFPTnRHdVFrT1FheXVzNHFNWkFlZzFxeXBXNEkxc1NVSm14WUdsSVRZVFdubGd1UVFYVzhqeWw3UGZWUloycGl4S0ZhVmozRldpMWNzYVlMeERYSW91cHA2M2pHNFRnMFplUk9Ua3p3YnJQTjRTY2Fyakl4azZOWmlFbnNsUGpFcE1TeW1DWFFONVFqREFuMmpwcjdKLW95Y1ZUS1NoTWZZaVFRZnZuSWwwWjZHQkE0NXo2OEVnc21CbW9rdGhwRnB1MnRvTVE4NGYtZ3I2REhWM1dienRPeXAyWDhmZHNtcFdjY1cxM0ctLVhZeWpETW03bkw2MU9OY0RpM2E?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Benalmádena celebrará Halloween con fiestas infantiles, pasacalles y diferentes espacios de terror Guía de Benalmádena",
+    "discovery_method": "rss",
+    "query": "\"Benalmádena\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 15 Oct 2026 18:45:14 GMT"
+  },
+  {
+    "title": "Cerca de 2.300 alumnos inician el curso 2026-27 en los Cursos y Talleres Municipales y en la Escuela Municipal de Música, Danza y Teatro de Benalmádena - Ayuntamiento de Benalmádena",
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNWmdRWXFlN2t0UDRmekxWcENVT180eHNRdXVlN3RqcUd1X0NMU2taXy16ajB2QUdCOHN0VGFVR2VLQmNWTS1JaVA3LS1NRjNvcWVhaEE0bXowRldkb2NuNmFSU1hrVmZnYUZEU0x5cGpwTUhXQXZ1TDM2dUF6aEpnUklMQmpGUklhdGdkYUx3MFZ1M1hQQlZWNlhhUlFfZldSZ3ROVWtSd2RjLVZsaEdVZDNaaG1oRjVIUld1NFNIWTZXOXY2OHlPZkRTVTcyWGdyVmxBcEhlU0RSd0lPdHFvcjNMcGxQRzNlTUxNSWljLXlMU21oeXliOC1PeldNbEZMNnpBRklQR25kZkFqaW5LcE1sdzZKOEhNbDk3MXZYX0Q?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Cerca de 2.300 alumnos inician el curso 2026-27 en los Cursos y Talleres Municipales y en la Escuela Municipal de Música, Danza y Teatro de Benalmádena Ayuntamiento de Benalmádena",
+    "discovery_method": "rss",
+    "query": "\"Benalmádena\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 08 Oct 2026 07:33:13 GMT"
+  },
+  {
+    "title": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia - Ayuntamiento de Benalmádena",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjNDT2hmREp1bS1td2Iwb0J6SVlHSGswbWZhSHEtX1I2LUJ0RGdhSUhXNjJCUzdrajdQR0Y2RXYxcVNEVTZQOEpVQnk3cTNXYVY3YjYxX0N0NWhDWFJZNTRyVEtBUFc0Y01rbzRYejhQOC1KSDNnSXdkbWVza2NaSnpYZFE5RWpqbC1rSXo5MVNFOUNhbkNyUzhoRk16SEtRX3NVSENkTFA1RGRwYjU0eFFjWGtWTXZSV00tS0NZcDg1Qnl1c0lpRGZYLWt6ZHZfSF92c0d1b2o0a2h0TTBvWUZ6QUlycEIyemhrdjBsNjVNWjk4R3A3MDBFTVduUmw1YTh3dnlWNWU?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "La Pista de Hielo de Benalmádena comienza una nueva temporada el 23 de octubre con una jornada de actividades para toda la familia Ayuntamiento de Benalmádena",
+    "discovery_method": "rss",
+    "query": "\"Benalmádena\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Tue, 13 Oct 2026 11:09:17 GMT"
+  },
+  {
+    "title": "Benalmádena prepara Halloween con pasacalles, fiestas infantiles y dos espacios de terror hasta la madrugada - La Noción",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVE9sMElkeC14TmM2RTVBR0tyYUhBODVqRHBPTjd4cVlEWVhEWU9sNGZGeUMwM3pMZ1JQaHlWYktPRmpaQ3YybHFURERZQjVjNGtYbW5XNmNXWEpkOVRHeG5uTlZBNFdXR01RanhuVHJKU0o1X2MzRGZmdzlpUTFuMVkyamZRdmJwV2dENHhMVXlVNnBPVG81YmZ3TVJ4N3ljVWk3OVdqVFo?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Benalmádena prepara Halloween con pasacalles, fiestas infantiles y dos espacios de terror hasta la madrugada La Noción",
+    "discovery_method": "rss",
+    "query": "\"Benalmádena\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 15 Oct 2026 09:57:32 GMT"
+  },
+  {
+    "title": "El teatro vuelve a ser herramienta de inclusión para familias con TDAH en Vélez-Málaga - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSW8wamJqRW10enprcUVJZDJqYjVQd19qTTRBWjdnVTUwbG40WTBaYlYwLVkyUFBTTjhKQWJUOTJqTXpMUkdsNkx4WFhIdzZnelFwb2xXWmhidEFlSUZSZWc5ZmJ2TURqM2h0dlRvdVcyMnl1VmtFRWNfQWVGaDEyamlmRG5VTDU1TTFHSEJMcFFwWjRsemJCaVlaM2t4bTNEVU81QVRUYUtxVXUtczdGRDJ1RzdnREdjU2tISzNBR0tKbHZNc29jMVY5a9IB0AFBVV95cUxQdExZeldVNXdmSUFGVUpwZ1o0QVhObWxXdmNTbHZVaUVudmdCOXlnSUpieWIySEtQOGFUeW9hQ0FsNXhFN3NWWExzbHJLZGcxWkpnOFVHWUt5N09RZUZfVXE5TFhQQ1dmM21qUGwySDZFTmFLOEdldW5iQk9YbGF0Q1U2WmsyTkk3dnl0ZDRXVWVvZDdVTGI3QjBwX1BTdVFibUNpdDhkZW5NRkVPLUxVdnpaUHI1VEw3VUQtdl9xal9Ic0pKQmprLWstMXFQUXM0?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "El teatro vuelve a ser herramienta de inclusión para familias con TDAH en Vélez-Málaga Diario Sur",
+    "discovery_method": "rss",
+    "query": "\"Vélez-Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "El Área de Cultura presenta la oferta de talleres y escuelas municipales para el curso 2026-2027 - Ayuntamiento de Antequera",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOFM2dW1tampNc1NRYjJUNHpMOVlual9OcnVINzJJUFlPT2JCQUwtRE1uQnhzMVJWYXBsMUF0aDdObTdWRVFGTTg5QXZYOWpsM3ktY3A5WGRraVpHeFpsbUdEVXoycmVxN2RjQjJra3FydURwTEc0TjdlUmhYa25URkJjbXlWZHJKbVVrZnlWNVE0NDNid2ZWTGR3ODVQQkM0WWY5Y0lfOHQ1SkY3dnY0cUZpeUtZNEowVFMtSXhjbkJfZnBNd2N5ZGVHenBrZjNXZUNPblBIRnYtcmNHZGt4TEFUa1NJeFE?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "El Área de Cultura presenta la oferta de talleres y escuelas municipales para el curso 2026-2027 Ayuntamiento de Antequera",
+    "discovery_method": "rss",
+    "query": "\"Antequera\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 24 Sep 2026 08:44:27 GMT"
+  },
+  {
+    "title": "Antequera adjudica las obras para renovar el parque infantil de Los Remedios - Cadena SER",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOejZyZ2dBVl9sRWpZd3h4NXhzbkYwOU1kSU1ReFFjYVFSMjdydTVKVnFsdEJ5bzdqa25tUDFSMkV6YjFFbEVoTXl0ZWxrWHRYbkY1Y3JKN2ZtNGc0NG9DdkpONkFETEpFeS1yUzFfcW9HMGRvQ1RnWEl2Q3g4ZWFLc1V4MVBqZkdES2NzQ3k1X0hBSTBpb1VZb2M3TjFNdTJhSUlpQXBhSHJqUGhGekZoZ0dpWUhEdVN3ejlqTjVzRnZMM3dIbk0yU01XNm9HSlXSAeMBQVVfeXFMTWNvVDhnUDByREd4LUlTWlN4X3lMNEs3dW10cnMzQXRWRHN4V1NZSFQtalYzR2xJTTVtTno5TC1kVGdjNXNaYWFLelFtWHJvbHBEMkNUVm5Ndml1RG1iRXBRZUpsZm8tWGx3M3hKMDAxSm9XWjI2eXhjcThnc2JaTllvQlprWkpjbmtnWFV0VVdXMVhjMVpoTVEyRnhjRkg0aVRLeTl1Wklqd1Y3RU05Qk9XX2xVWm50NW5YVlJLRlNyeG9qRk9FMkR1Uk9uZFlJQy1TSUZzRll3VkhZMlI2VmVsbXM?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Antequera adjudica las obras para renovar el parque infantil de Los Remedios Cadena SER",
+    "discovery_method": "rss",
+    "query": "\"Antequera\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 15 Oct 2026 04:06:21 GMT"
+  },
+  {
+    "title": "Torre del Mar celebrará Halloween con un gran pasacalles, talleres infantiles y un renovado pasaje del terror - AxarquiaPlus",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGltQ09lYl9EakxvbFlVN0ZWREhKQ3pLSEZDa2E5TmVIU1R2Ykx2LV80eS1rR05ObmFzNTlSMnZlZDgwbzdVOGFjQUNBakJzWGlONTdBMDdRMVlBZFE3a3JCVjJ5cVNpYnFleDBEQi1EQjRGM3ByMEIxa0VXSzVQcmFaNndqTmkzbXpXcEhTcVZUUzlaeWxJaGlUMWVKVF9GQ2k5OXcwd3hpOTI1Mm4yUF9RWEFUOUp6S0JmTmotV2RXWmJRTmIteTdQeUYzSTh5MVpr?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Torre del Mar celebrará Halloween con un gran pasacalles, talleres infantiles y un renovado pasaje del terror AxarquiaPlus",
+    "discovery_method": "rss",
+    "query": "\"Torre del Mar\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Thu, 15 Oct 2026 10:52:20 GMT"
+  },
+  {
+    "title": "Torre del Mar celebrará los días 10 y 11 de octubre una nueva edición del Oktoberfest con música y actividades para todos los públicos - AxarquiaPlus",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbEJFNlBZSFgtdlp0Q2hxVTFZWmJHZE1iWjdDb3RwcVB5ZzRoZlkyS0x1ZDdIQ3dvUFpMb3VWRFc4cmxTa2czdUhGZUxUdHRTZURtUjZrcGhCSE5nZEJtZHdHYTdIM21pSFV0b0hWdl9GYktmekRHVHpCdUNZVmtrT2d1QUxHeEltLTlBcjYwdXZOU09MQmdTeV9kLTlnZTI4bzF1bWpKMVNaX1ZCUnVlaWN4V2hvcm1acUd3Q1E1cVJvczk2ZlB1YS1BYkZQOXotXzItNnRreUUySnd5cUVxODVNVTJWdzIyWjlGX0dtSDFvZHloSlE?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Torre del Mar celebrará los días 10 y 11 de octubre una nueva edición del Oktoberfest con música y actividades para todos los públicos AxarquiaPlus",
+    "discovery_method": "rss",
+    "query": "\"Torre del Mar\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Mon, 28 Sep 2026 10:25:52 GMT"
+  },
+  {
+    "title": "Taller de cerámica para niños este sábado 26 de septiembre de 11h a 13h. Una experiencia sensorial y creativa con arcilla. Plazas muy limitadas. #malagaconniños #tallerceramicaniños #malagaforkids #niñoscreativos #malaga",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01Wms1Y3N0ZDBUN0REZ1JSdWgwWTJTN1IzOERfRlBsZUtyc2txempIdC1OM0Y2VUpTNjRCLXlZb20xUHUwdmJCRUNKRjhPZVFTZmFtTUl3?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Taller de cerámica para niños este sábado 26 de septiembre de 11h a 13h. Una experiencia sensorial y creativa con arcilla. Plazas muy limitadas. #malagaconniños #tallerceramicaniños #malagaforkids #niñoscreativos #malagaceramicworkshop Instagram",
+    "discovery_method": "rss",
+    "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
+    "published_at": "Tue, 22 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "ImaginaMálaga reúne cómic, talleres y encuentros gratuitos en La Caja Blanca - Málaga Hoy",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVJuX2dNcTNVX1c1U0hTN0g5c2N2QlRVdWtyVzd0YXJSUktDSXozZ0wtU3dqQTA3UnpGVkxLbjJzNU1fN1Z5YmdRU3JCcVc5aHdUQk9CeHR0NU8xd3VTLTQtSGFRMy1PcENsSjRWemlKWWVUcGxpem0yaEI2elNHWnZTN1BFaTBfLWNtWWg1ZlBfZHhSZnNLaGdFZm9zeDdBbk9BUtIBpAFBVV95cUxNVVJuX2dNcTNVX1c1U0hTN0g5c2N2QlRVdWtyVzd0YXJSUktDSXozZ0wtU3dqQTA3UnpGVkxLbjJzNU1fN1Z5YmdRU3JCcVc5aHdUQk9CeHR0NU8xd3VTLTQtSGFRMy1PcENsSjRWemlKWWVUcGxpem0yaEI2elNHWnZTN1BFaTBfLWNtWWg1ZlBfZHhSZnNLaGdFZm9zeDdBbk9BUg?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "ImaginaMálaga reúne cómic, talleres y encuentros gratuitos en La Caja Blanca Málaga Hoy",
+    "discovery_method": "rss",
+    "query": "\"La Caja Blanca\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Málaga\" when:90d",
+    "published_at": "Fri, 16 Oct 2026 06:12:35 GMT"
+  },
+  {
+    "title": "El Barrio de Santa Teresa celebra sus fiestas los días 15, 17 y 18 de octubre - Ayuntamiento de Colmenar Viejo",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOFJCS0xaWm1JYndEX3ZQXzYtLWtJYjlucDlEenMxd3dycG5mUVU5QjFqWXVGNzJPM29SdnVfd2t5eHpubXJPZnU2cTladUMyMkdscGE0Vm44YmlRdEJvakVJdGNXcGFWcnM4QWdsMUptb1FZdVNTY3F6MmlCM2R1UmxuZmQ3QzdKejdiNk03djJPUGJqd1pxeEJTbFJpaFlSRC1zdGJQNl9FVHJBTEwyODdsMXpLVG5xMHRxMWVzX2lUQQ?oc=5",
+    "snippet": "El Barrio de Santa Teresa celebra sus fiestas los días 15, 17 y 18 de octubre Ayuntamiento de Colmenar Viejo",
+    "published_at": "Thu, 08 Oct 2026 10:58:50 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-19D1210B71",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento de Colmenar\" festival \"Colmenar\""
+  },
+  {
+    "title": "Fiestas de Santa Teresa en Colmenar Viejo: fechas, horarios y programa completo - Cronica Norte",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW90WlR1aUxHN3R1V1RqZWd3UFpNSVcyS0g5RXpBODc3Vjd5eTV0TWFoZlpzSFp6bGxaUnFQNnk5cFFBMUd4UWxDVzI3bHFLaW1qRURROWNBY1MtZkdWTGN3OExwU19pdjZINDIyMl9BYnQteDZORFJZUkdUaEV6SlVJVmdGbThKT2hZejBkak5DOXVpLTNjclRPcEgyU3ZraHQzZ3EyVEtTSkpteDdHcWdn0gG3AUFVX3lxTE9ZeUEzYmx5V0xHT0pncW93amU4MHpyaV80QmRWYWU2R3U2dUFiUDQ0OFBSbzlzcXRUczlNRTZVVVhXZjJrRGxZZ1B6eFIxTkFUY3E4bEZOeVo1c1dIQmFUWW5ZRXV5ckdOOGk4bG1vMjNHa1F4WV9tdUZpYVRsN1pZN3M3X3h6blVfRmJEXzhRSWs5c0VlNVdWU3Y5Vkx5NzlUNThvS1dWeUZINlBtUjIxM0twNDU3UQ?oc=5",
+    "snippet": "Fiestas de Santa Teresa en Colmenar Viejo: fechas, horarios y programa completo Cronica Norte",
+    "published_at": "Thu, 08 Oct 2026 17:42:30 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-19D1210B71",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento de Colmenar\" festival \"Colmenar\""
+  },
+  {
+    "title": "Colmenar Viejo presenta la programación de las Fiestas Patronales de 2026 en Honor a la Virgen de Los Remedios - Ayuntamiento de Colmenar Viejo",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVFd3NnhDSjFUTUY4bU9TOGF0MHhLazVfaEdUMWJWeDY3d0pCbHpwaldaSmVWRWdYVkhlT21LWHFvNERqWHpUeDlZTlFyTUd6aDdzSGJPYTJpaUZiWHJxc19xb2ctRHEyaUcxMEF0Q2t1cU1ZQl9XTzRiTk5aLTd4TFZhRXJUU3BIbDNZT2NfSFpHeDhYYmNqbHl5OXpYeVE3Y0NLVjRRVW42dEk2Uk8yV0hldjVmWTA3RWRjdEVzOTdVQ3lGRVMySDMyXzFxYUdsb1IxN3RtZnZMNEwtZDlQQUFERmFiTjZJV0lKMjhQOA?oc=5",
+    "snippet": "Colmenar Viejo presenta la programación de las Fiestas Patronales de 2026 en Honor a la Virgen de Los Remedios Ayuntamiento de Colmenar Viejo",
+    "published_at": "Wed, 29 Jul 2026 09:28:07 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-19D1210B71",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento de Colmenar\" festival \"Colmenar\""
+  },
+  {
+    "title": "Fiestas de San Isidro en Colmenar Viejo - Ayuntamiento de Colmenar Viejo",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmhDNDJvVWd2Qm5Zc3FONmNyQ0VyZFE2UWU4U2lSTEprYXM2RGpGcUJjbG94bGFSVU55VUxQRWxabEczWXRTU1NoLU84cXFhS2ladUk5UHFzWkhieGJlbEFTU3JIT3YtYzJFS0ZCenNieWpJMy1XdDZGa2plZWt6UGduRzVPYW5aYjIwWXNuOEo?oc=5",
+    "snippet": "Fiestas de San Isidro en Colmenar Viejo Ayuntamiento de Colmenar Viejo",
+    "published_at": "Mon, 04 May 2026 06:32:57 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-19D1210B71",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento de Colmenar\" festival \"Colmenar\""
+  },
+  {
+    "title": "Este fin de semana se celebra la Fiesta de la Maya - Ayuntamiento de Colmenar Viejo",
+    "url": "https://diariotrescantos.com/index.php/actualidad/este-fin-de-semana-se-celebra-la-fiesta-de-la-maya-en-colmenar-viejo",
+    "snippet": "Este fin de semana se celebra la Fiesta de la Maya Ayuntamiento de Colmenar Viejo",
+    "published_at": "Thu, 30 Apr 2026 09:53:09 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "sin_fecha_estructurada",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-19D1210B71",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "query": "\"Ayuntamiento de Colmenar\" festival \"Colmenar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOTNVUnY3QUxreGNjckNXS0pSR3ZncWRzS3VkSW9SRzl3UlNwcXJybDRUSG1xWEdya3RIM3MzeTNCZmVOaWZDN1FKbGNPN2pxSDZoZ0poLWJnOUpEbU1nQ25qc2xNamc4eC1TZS1Md2JySTBucHpNQ0Y0bzRUSkt4WjRtZzl5d2lOdXFlMWlSLU40ZWJLc2hvb1UwVFAzVVk?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-18",
+    "last_text_checked": "2026-10-18",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Este fin de semana: Presentación del programa religioso de las Fiestas Patronales, Frank Motor Show y dos sesiones del Cine de Verano - Ayuntamiento de Colmenar Viejo",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOOFNVUm9SblI5dk9GSUM0TmI0dFRWVWdnRlNWRE0xMENRWkNJNWd5bExPbEcxRzh1a2tZVEQ3VmVBS2lZOW9jazczdUVfYTRQenhPZUQ2YzNnMGxyTk1kd2FtZ09TQ29XZUR3ZmliQlp5QVltcWZQVkVEbUI2UEhNdjlqTHVaSXB2SWZ5NmIwR0t5NUE0MVNmbXRtbVNfUFZBbVo1LXpyWDhjdlFXQkxHQzVnOFJNU2hTTzRKWFFoZVc5MVNSM0JJT0RETE51OFBHV1BfcG1VSXFLTFhrbFNrZTFiQThOQ3g2NE9pVmwzWTlSZTNvSjZpVTBPcFNuREFydGU3cjZ5SmNWazQ?oc=5",
+    "snippet": "Este fin de semana: Presentación del programa religioso de las Fiestas Patronales, Frank Motor Show y dos sesiones del Cine de Verano Ayuntamiento de Colmenar Viejo",
+    "published_at": "Fri, 31 Jul 2026 08:38:32 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-19D1210B71",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento de Colmenar\" festival \"Colmenar\""
+  },
+  {
+    "title": "Este fin de semana, Colmenar Viejo celebra el Día de Andalucía - Ayuntamiento de Colmenar Viejo",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONGZLa2xQSVpiT1hSSWwxRVlzM0JPcE95ZHJEbUZCbU94bF9ja0gyZ1RzajFkQk5Bdzh6akcxcldyNDhJQVEwNjJDbGRUZnpscXZIblZUdVJpSG9lZlVGeEF0VmtxMzFWeFZBSDNiZVJQb2ZKRlpvdUZfMEcwTVNIdERtYkVWYm5l?oc=5",
+    "snippet": "Este fin de semana, Colmenar Viejo celebra el Día de Andalucía Ayuntamiento de Colmenar Viejo",
+    "published_at": "Fri, 27 Feb 2026 10:54:20 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-19D1210B71",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento de Colmenar\" festival \"Colmenar\""
+  },
+  {
+    "title": "Este fin de semana, Colmenar Viejo celebra la Fiesta de La Vaquilla - Ayuntamiento de Colmenar Viejo",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMTRDVmlvLTRaYmw3TDRpOS1DdGlXOWl1dk5SVTRVVDVHdWhlQ1RWTnJsMVNsbmhrN2w4VTNfdGZqZ29nQ3RMR1hteF9venRSanlzQURhUzZoVkJ2dHc5b3pncnVybm9xdEpZSlpiTVlod1hBTEhDcVV3WGNzNzNHUUFnaFlSdGR6TmhlZWwyekMwd3EzcWNtUVoxajU2a1RUYVFNTlNHZ3dEcU5sOUhGWkIxZjM?oc=5",
+    "snippet": "Este fin de semana, Colmenar Viejo celebra la Fiesta de La Vaquilla Ayuntamiento de Colmenar Viejo",
+    "published_at": "Fri, 30 Jan 2026 10:03:03 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-19D1210B71",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"Ayuntamiento de Colmenar\" festival \"Colmenar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Colmenar Viejo presenta la programación de las Fiestas Patronales 2026 en honor a la Virgen de los Remedios - Diario Colmenar",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaExJQ29kMzVJbVQzbG9DaExjX284Q0FzamYtNmpwSEhVWlZNRFhyTjJyRDFWaVJkR3J3QXNPNTlFUXlXVVNucktfb0hEZU1wVjhJYW5TNldISHJEaEJfWkh5WEhNbjQ1dkltdUxXY01zQzlqNWJuZ1NlZ2VabjJxTnJudmJ5UXZoenB4MFE4ekZBOHJGaXZsTkNob0c?oc=5",
+    "snippet": "Colmenar Viejo presenta la programación de las Fiestas Patronales 2026 en honor a la Virgen de los Remedios Diario Colmenar",
+    "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-19D1210B71",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento de Colmenar\" festival \"Colmenar\""
+  },
+  {
+    "title": "Vuelve el Festival de Circo en la Calle de Colmenar Viejo, Saltimbanqui, del 16 de mayo al 6 de junio - Madrid Norte 24 horas",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUTQyV1NMRE1WR2tWN2FlYWVCdUh5RDhLeUMxcDVOamZQMmtxWEpWSWtQMmpta3ZFOGtZY3BscW1vV0haRWN6bHdseVE0SFhTUzFIdFdyclRWLUloc2dUbGd4VVRPQ1g5N2c5bUdRRkVmQ2MxNThUc3BsRm42NFJKaDQ5cXR5c2xTdWkwckI5TDhQMl9kVFZlajNOR0dfRmhGVUlCY2hPVXByQ0l4ZEJ6SkhfN0ZEVjJ5TVV5elpLTmUyd1NEZUVqYTdDdDFiNllUdk1DRllvbGtMUVdIcUlBLUFVa09hM0puOTZMdNIB8gFBVV95cUxPYVpMMERKa3ZFS1pXeThFVUp1Y0dtZG5rY2dySm9ob1BORHluWm90bk8wbUxJZmk2MnpnUlJtNnIxRHV2S1MyWDFvV0xFNlpFRUZoWEdiVGVaTHVLU0Z1SWlEZzBETll4TjFTYWR3UWp6N2dvN05RNS0yYmdUSldGRFBnSUtCMWZHRm8zeVFWaGtHdXhkc1FFLWFnOTVSNHktNkVvbWZvZjlheWN6WnhiWjh0WW0waGpHdXNieFAzMmdUVS1sb1U1ZGJjazJ1QWVUS0REZTVsWFg2TVFJYzBYRTc5V1JYNFFWeHZuNm5FZzNQQQ?oc=5",
+    "snippet": "Vuelve el Festival de Circo en la Calle de Colmenar Viejo, Saltimbanqui, del 16 de mayo al 6 de junio Madrid Norte 24 horas",
+    "published_at": "Fri, 15 May 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-19D1210B71",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"Ayuntamiento de Colmenar\" festival \"Colmenar\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Maldita Nerea, La La Love You y Camela, conciertos confirmados para las fiestas de Colmenar Viejo en 2026 - Cronica Norte",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wOUdzN0lCOUpLRjRSLU5ZMVlLRzBZZUVMTzZGZklJd0trcWxSbkZ4RkJUNUJxQ3VwSFA4dmlVVmZmaEJWbUtvR2w1RUE5eXZidGpFLUg3bGc3b045eDVRVkdidzk5eWxZSm1YSzJvQdIBdEFVX3lxTE1FR21CR09SdDk4MU1nd29pV096LVFmR3VuelpteXdJUl9VNWtjbmdZRnpKR3phLS05YmtZY1FoYWp1akdheGl3eDdIa3E2a2MwWEJ3MTN0eUo5bGtIa2FNYnhYWWFRM3ZHUXYyVDI0eC1wRDNl?oc=5",
+    "snippet": "Maldita Nerea, La La Love You y Camela, conciertos confirmados para las fiestas de Colmenar Viejo en 2026 Cronica Norte",
+    "published_at": "Mon, 18 May 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-19D1210B71",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento de Colmenar\" festival \"Colmenar\""
+  },
+  {
+    "title": "Colmenar Viejo se llena de actividades este fin de semana con La Despensa de Madrid, Santa Teresa, teatro y deporte solidario - Diario Colmenar",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXVVQkdjQXFzRE1EU1lRcWVFVkY5MnlxTjdSYmFxWHRWM3ctRmp2bF9MM2l1NllqazZIU2xIZmd4MjhoWVFnanN0Ry1ENnRBZFZSVmpHcTFndER0Mmphc2Q3X0d2V1Mzemh4bmsxZHBnRnJhV1dncjhYYjZKMG1BUGVnWkU4UWFMaUwtZmo2eHZkQmJBaWJ6cFRSVEFwdkFMcVJNOA?oc=5",
+    "snippet": "Colmenar Viejo se llena de actividades este fin de semana con La Despensa de Madrid, Santa Teresa, teatro y deporte solidario Diario Colmenar",
+    "published_at": "Fri, 16 Oct 2026 21:30:23 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-19D1210B71",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "paella teresa solidaria diario Colmenar",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "ESTEPONA VIVE SUS CALLES - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBUNUlQb0NKN1J1c0ZpSnRoXzAwNnBHQ2loLW5TVUU4WmJqemdzdlFYRHg5ckxkdDFXQjRyQmxGZE0tWjQ5UG5QTVcwZjRFdk4xbHR1akhwRklzVzBaV25YYU1ranhHY0VKOF9MWlJzU2pkbGhuUl9mdmYwbVhJV09yRjI?oc=5",
+    "snippet": "ESTEPONA VIVE SUS CALLES Ayuntamiento de Estepona",
+    "published_at": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ayuntamiento.estepona.es seguridad https vuelve Estepona"
+  },
+  {
+    "title": "El Ayuntamiento destina 7,6 millones de euros a programas de protección social y ayudas a colectivos vulnerables - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV0x3ZXRFbmdLNHFMSkpZRmpGdjI4Y21oTnp0TXVPUXZQbWR1RWxkWlVLRWdHRHRQTGh3dFBhRF9VbV9QWUhoTzhXeV9nMFd1dGxKN0xlTUx3bmQxeXBXWnl6bHdEY1VlMGpRQ29LRzZPYVdMRFoxYmFFQnN2Mm81U0gwaXdsZW1FZUtuYUdJby01eHVvcjVqcUNLY256Ym0yTnpwYVNSUkUtU1RLNFRBM1lYMnA2UFB6cTJpcV9hUmllZHY2UzhSR2lHZ0tYSGNqQmNRSnZpR2JWR2JOYTZBSllZQlhGNUI2T3c?oc=5",
+    "snippet": "El Ayuntamiento destina 7,6 millones de euros a programas de protección social y ayudas a colectivos vulnerables Ayuntamiento de Estepona",
+    "published_at": "Thu, 27 Nov 2025 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ayuntamiento.estepona.es seguridad https vuelve Estepona"
+  },
+  {
+    "title": "‘Anastasia, Tributo Musical’ vuelve al Auditorio Felipe VI de Estepona - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnNqOEZoakVmOVk3MmhzM0lBa1dVcmVDU0lTOEhlT2tzeFNkNTVJSElVWGFXRnZXWkR3X1dteFh4SEo1X3ZMX1dqNk5wcVFUajlsQ2pEODdKRW1ILTJrd1lENGp3NzBmZ3puV2VJTlM2NU1ZMExvVEQ5d3p1S3hKSGFmTDVKVXdDTTU5Q1NoeFpWTzJxRGx3Y2x3VnFzWnNNSVhlTjVjNzdlZ1NJNlk0?oc=5",
+    "snippet": "‘Anastasia, Tributo Musical’ vuelve al Auditorio Felipe VI de Estepona Ayuntamiento de Estepona",
+    "published_at": "Thu, 04 Apr 2024 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ayuntamiento.estepona.es seguridad https vuelve Estepona",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "El Centro Dramático Universal vuelve al Centro Cultural Padre Manuel con un musical Tributo a Frozen, inspirado en La Reina de las Nieves - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxONzVZQW5LYUFSdEJuLW1tQkVMeVNEYTV2bzYtR0hSSGJmRW9GbXpsUl9aS2hyUXZ3ay1COFdNM19oeDNnSVc3cnZjaG9FMENkcmNMWHdCNzYxQlE4ZUlUdEYtcmh1QzR4aHVWNUZiSHRZNG4yRXdwVjh3TUFVSUk3T3BLek1fdTRaTGQ0T1dYTy1aU0JWYXZPYndybTdtVE0wODVTVDBPQTg5bUxEQkRBb1d0SHctRlJKdUpzUzlJTEI1Ym5rcUFqbGdRY1RRMXBjejZPd0c5N2s2OFZaSTBrVjdXQUoyeUQ1LU5lenptcExzT0NhWjBFWjBLdmp2Y1RsY2Zuc0JLdEpPQQ?oc=5",
+    "snippet": "El Centro Dramático Universal vuelve al Centro Cultural Padre Manuel con un musical Tributo a Frozen, inspirado en La Reina de las Nieves Ayuntamiento de Estepona",
+    "published_at": "Tue, 16 Sep 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ayuntamiento.estepona.es seguridad https vuelve Estepona",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "El mejor espectáculo homenaje al Rey del Pop, Michael Jackson, vuelve al Auditorio Felipe VI de Estepona - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQmV6NEREQ1c5YWtEeUVvU0xaUHBMUmh5U1ZXVkVmSzlHd2ExcU94cGlxN0RSSktlOGJ0cTlPelFVUGNyU3c0YVhYby1SQVBPcjdzTFp3a2lrQmcxSnRrbUdBeUtKekJnRlNDWGZCMHQxT2VKa3Jwd0k3UVNybktxazY3Rzh2dldsVE9jdEFWYVVqdmU0bl80d2pqdWJlSk5mNzFiRWo2SnVhZ1A4ZlFWQy1IZWFSVUg5eTMwUnVnZXJ5Z1IzYmxSRkpDMERUcEZMck1odkxJeXpEYUNC?oc=5",
+    "snippet": "El mejor espectáculo homenaje al Rey del Pop, Michael Jackson, vuelve al Auditorio Felipe VI de Estepona Ayuntamiento de Estepona",
+    "published_at": "Wed, 06 Mar 2024 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ayuntamiento.estepona.es seguridad https vuelve Estepona",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Estepona vuelve a acercar la alfabetización mediática a las personas mayores con el proyecto ‘Prensa sin Edad’ - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa01lUWppeEFsUElEQ0M4MlYwTGwwTnZzMExhenhON0RqaFd6QUZXLURHT3BxaHNkc3lCaThXejhIRTA3R3Z1TFlxdTF6VnVHajNHTjRtYVFlb2hqMHNjRnItMkp5RWFpdlo4UDBhSU1Jd1Z4MXdCalZnbDI5akpLeUhuX0pzMWx1c3oxTW9fVFVCcmZPU0lZOTI0UzM5MFdJcDhEd213dGJFNlFlbnkwTWZobFFHMGcwa1l0S0xmaTdNaTZmNXczdFpPV00yVHk3WG5WRHlSX0dSZG5qQ1F1N2xtdmU?oc=5",
+    "snippet": "Estepona vuelve a acercar la alfabetización mediática a las personas mayores con el proyecto ‘Prensa sin Edad’ Ayuntamiento de Estepona",
+    "published_at": "Thu, 17 Sep 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ayuntamiento.estepona.es seguridad https vuelve Estepona"
+  },
+  {
+    "title": "La Orquesta de Cámara de la Filarmónica de Colonia vuelve al Centro Cultural Padre Manuel - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdElmajE5TERiZzBwZlFwMXhFNFBQR2ZlaDZwam9xNUgtMHFTYU9TSDBiSGNOLVZzSEhDZ21uWDljQldsemk5WGtFampHQk9BMVhxOUEwazg0Z1FBWWJLcHgzbm84Zl9QSTlmV0lVVk4tSWh5amtGSUJ1eW82N3QyVFFXUlYxNWFIRTNFaTRXbnRVMXMzV050NVZyUUJtdnhRTFI4UFp3TnF4MEJxbFZwbmpqZ1Y5VFdBR3JEUU1PYWRMYWpOTVF4cHI2Yw?oc=5",
+    "snippet": "La Orquesta de Cámara de la Filarmónica de Colonia vuelve al Centro Cultural Padre Manuel Ayuntamiento de Estepona",
+    "published_at": "Mon, 22 Jul 2019 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ayuntamiento.estepona.es seguridad https vuelve Estepona"
+  },
+  {
+    "title": "El artista algecireño José Luís Biedma vuelve a la Casa de las Tejerinas con ‘Metrópolis’, su nueva muestra escultórica - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUDNfVWxuVUZRSVZ0N01IaG5YUHVhLURHSHlOUHZFcXlrOWVXTlBxcEhzS1Z4R2d3Z3dwbHR5dU44UnRJWHJSTUxlYmhzSkw2WUIxV0c5MzlsTjNqRjI1akNTTXNDVDQwdWJDRnJ5RUxvM2l1bW9Wa1RTRVNwQXlnZFBkLUFHWVlERzNQOURQYzU5VDJ4TzVPcDZfN2FmdFJwN1BWd1IxQXNmSDF4QUJaZFN1WXpLSVp0RVlUUnczM2wtelpEd25EVXg5WDEwTHpYNHhJUnpfT3RfN3dJYWdzbS1rZGZxOVVzNV9yLVYyOA?oc=5",
+    "snippet": "El artista algecireño José Luís Biedma vuelve a la Casa de las Tejerinas con ‘Metrópolis’, su nueva muestra escultórica Ayuntamiento de Estepona",
+    "published_at": "Wed, 13 May 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ayuntamiento.estepona.es seguridad https vuelve Estepona"
+  },
+  {
+    "title": "Estepona vuelve a ser el punto de salida del Rally Automovilístico Solidario ‘Oasis Raid’ 2024 - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT0xENGNURTI1WWpEOWJ1MzBLNXZReTNIckxCeFE5MzRqOWVuUWJPS1FxNUE2SHptZ1dQNFJ3QndYRWZabzBzdW1CQXJidFlQSld5NV93OEI4bW9DYlN4RFNVbUxwS25yRG9vVlVSZ0JWY3hMM2NacUVnMlV5QllCczlqNEdjbTVNRjhPbUVvOUxhczhNSkFyTEJVbGJJVUdXakxqSmJhWllvU1lVLW5RWkVLNVB2STF1SHlkakM4dHVFeVVWY0k5MnpQYkFDQm8?oc=5",
+    "snippet": "Estepona vuelve a ser el punto de salida del Rally Automovilístico Solidario ‘Oasis Raid’ 2024 Ayuntamiento de Estepona",
+    "published_at": "Mon, 21 Oct 2024 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ayuntamiento.estepona.es seguridad https vuelve Estepona"
+  },
+  {
+    "title": "Vuelve a Estepona el Circo Berlín con un espectáculo clásico con toques de modernidad y tecnología - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcFhUMmt2SnlDb2JIZ05OVlMtVVhrTVZBdzBpcTlfR012djNfN2xwb0xrd2YzeFY0UGtaOVRFV0pUUjdZYjhwS3dqbWhBOXpYRkZqZTFHYlBsUi1mSEkwV3ZUTmFFclZjMFJCVVI2Tk1YU05QOXNnNGJ6cm83VEJSMEN6VTFlOHdQVGlWYndnLXNyS2V3Wm5iZGF6aWNjdGdVU1FVdFZKVlZObW5rclY2NTd2RGQtbHpxRTNHc1g1T3I3SGIwUTNCbXBzMV9aWUNfZHBNaTl0MA?oc=5",
+    "snippet": "Vuelve a Estepona el Circo Berlín con un espectáculo clásico con toques de modernidad y tecnología Ayuntamiento de Estepona",
+    "published_at": "Fri, 20 Sep 2024 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "site:ayuntamiento.estepona.es seguridad https vuelve Estepona",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "La artista plástica Marta Bernad vuelve a la Casa de las Tejerinas con la muestra ‘Bravura’ - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSDE0NHpTUmx6VnlYYi1nNVRWWmNlTWJqRmdGUXpnbWdTR0xHYmNJZDVTdG82d2xrMENGby1LNUtpcTBfR2t3UGgyVk1XWEhya1VicF9TX1Z6UU54OS1OZWRwVnlwR19TSXF2SHN6ZFdhN09Vc21HcFVyVi1GMFIyekpZdGJ3V2ZaRmw5cWp2bGlOZ3k2UFdLZWpnM3FwRVl3VkJZZWdwQVViWW9OVVVhRGpnSm93YlhERHpYbkYwZVE4SVVaS21Vek9ka0I?oc=5",
+    "snippet": "La artista plástica Marta Bernad vuelve a la Casa de las Tejerinas con la muestra ‘Bravura’ Ayuntamiento de Estepona",
+    "published_at": "Tue, 06 Sep 2022 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ayuntamiento.estepona.es seguridad https vuelve Estepona"
+  },
+  {
+    "title": "El Ayuntamiento vuelve a obtener resultados económicos históricos con un superávit de más de 40 millones de euros - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcTR3OThDLVJfU2ZIMnA2WmNXSE1RNlJFejhCZDEzOVA0MnhyNFFxX0x2OEx3SE45TVdTVFdaSXktaDNNZjMyOWZqSjdtbmxzME9qR1NjX3YyWTJNTkliVEZ0b2dZSHNOc0FnZXQtU2ZZejJURGZfNGVUMFU0QXo3VENZNWpuWW5LX1N4ODNselhtVTdJckJ0N1h0bGhFajRjZk9oYU9RZUlDVVJ1N2xBZjM3UEVpN3V3bHBZb3FZZUhiU1dxWXcxeEVUbV8zS1JfV3p4YkpjQ01IV1lodzU2VXhCYXM3WTV2Mm84?oc=5",
+    "snippet": "El Ayuntamiento vuelve a obtener resultados económicos históricos con un superávit de más de 40 millones de euros Ayuntamiento de Estepona",
+    "published_at": "Fri, 13 Mar 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "site:ayuntamiento.estepona.es seguridad https vuelve Estepona"
+  },
+  {
+    "title": "Exposición Fin de Curso del taller de Corte y Confección de la delegación de Cultura en Cancelada - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUzhKT3dROWNua0FjeVJsc1VYdW9YelRTaUVsT3ZfVVlybVowN2NBZnRFbVBUaDNCYWJiQlhYTEFaeUNfV0tzNG40UUlibV9NMGZBa3czQkVBZ1JEMVotVlpLdmpuSjZ2RlNNMmhyNjlrSjhjLTNWbURQVVVEMzFDNWcwcFZQUlZVZzRyTF9CUjB4WUVkRk9ZcFBQbkh4YkVJeXJsYTdoeVVKOHdDek14UjExR0MwbVFPZlFNd0xWVTFpWmZlLXVZaXFJS0ZIRmhGRzFEaEpn?oc=5",
+    "snippet": "Exposición Fin de Curso del taller de Corte y Confección de la delegación de Cultura en Cancelada Ayuntamiento de Estepona",
+    "published_at": "Sun, 27 Sep 2026 06:20:18 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"Ayuntamiento de Estepona\" taller \"Estepona\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "El Ayuntamiento abre la inscripción para el segundo ciclo de los talleres gratuitos de Jardinería, Electricidad, Fontanería y Albañilería - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOREZhNVUyS3ZzTHlSb1BQUmU2V0NHUzZYSkZ2RmgzdzVTWnJWalFfeVpzWXFOOURIUDFXRXlrbFVkRVg5SGhnQ1hIQmYyMlRvLUpiOUllcWo2cmxvNmRnMFlwLV84RFZBV19ITkRhaUpuU1k3ckRWbkJfM2kwVHpxQXNBVWxreW9UdktnZnVzODV4bF9TaEZaN2t1RXFlTTBSQUpDOGZMaTJTdzg3Wm5WOGFFNXUtdE02TGdVX1ZlVkFyb0tQc3VqcXhNVnoxQWpubV90dGNLODVTM1lwLTQ4dEdnY2F1cm9YZEdNUkctblFmQTB6RUZwdzRBdElZc2JEeFBJSUtqNXM?oc=5",
+    "snippet": "El Ayuntamiento abre la inscripción para el segundo ciclo de los talleres gratuitos de Jardinería, Electricidad, Fontanería y Albañilería Ayuntamiento de Estepona",
+    "published_at": "Tue, 12 May 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"Ayuntamiento de Estepona\" taller \"Estepona\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "INSCRIPCION CURSOS Y TALLERES DE CULTURA VERANO 2024 - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1o0NEI0RnBXckpKVmZQejNsOVlkNGw0cFFWYXdBMktBcGlELXZWa2tfRC05ZmpPR0VvaENNbjgyTHowOWUwVllxdmJISlZWMDJGVXhrRGpaMUd5STFVWDBRVVZKbXhPbFltczB3dzRXRmc2Zi0tRWtmVFhpRFVPQzVEcVBPVC1PVWdqUzZabXJHdzNCTE84?oc=5",
+    "snippet": "INSCRIPCION CURSOS Y TALLERES DE CULTURA VERANO 2024 Ayuntamiento de Estepona",
+    "published_at": "Fri, 18 Sep 2026 19:44:01 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "\"Ayuntamiento de Estepona\" taller \"Estepona\"",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "La jerezana Leonor Leal imparte en Estepona el taller de expresión corporal ‘De voz, un cuerpo’ - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd0Z2b3ZyVGRXZVhpSTQyY0hHcEw1QjZYMURnSGh0Sl96bTQ5NS1URGtFdWZzR05wcVdKRVI3TWUxWTIxa3lObDJtYkF1OXRrZEZzNEdjbnJTbGNzY25fN3lFbjZlaTY4TnNleUhaOEdEVHN0RXkyYjI2RWV0UUZ6UTZMMWU3NWpzd3c5ZGF0bFg0eFNSYU1tR0E0ZnZtcnU3ZXB5S25FbXJacFdpNmxxaUtSNnZiVjE1djg5bmZMTGtrLS1NMURvMnRUQmFnQWlS?oc=5",
+    "snippet": "La jerezana Leonor Leal imparte en Estepona el taller de expresión corporal ‘De voz, un cuerpo’ Ayuntamiento de Estepona",
+    "published_at": "Mon, 23 Mar 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento de Estepona\" taller \"Estepona\""
+  },
+  {
+    "title": "Estepona acoge el taller ‘Diseño masculino. Tendencia, técnica y trayectoria’ con el diseñador Daniel Yuste - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQ0RTaERpU2s5OTJJaWxZM0hJOW8xNlAyRkpNNmoyREJMVGsyeE5odUhEeXhLMGZwMVhxUFVxQWJGOVNOY1J0VDd4UjdHb0VlWHRLQ2stUUFRbVZ1T3kwT1RUVDRDbUowMDNlNWRUejhtOGoxaVY4OFYycDY0UFdQcW11TkdLLXM0ME4zTm41RDJXMnJNaWd1cHJvbG5ZWC14MWc0RFdLd216cTBERTZHNW44VFhibnpzQ3hmNm5fNzZlS1RtZTItZmlwLWpDaDdnS2VXYkk3d0F5cUF3M2x4a3FBREVjOVAxeGUzMHNxbk8taHFOTm5CeXZlaVBzMWM?oc=5",
+    "snippet": "Estepona acoge el taller ‘Diseño masculino. Tendencia, técnica y trayectoria’ con el diseñador Daniel Yuste Ayuntamiento de Estepona",
+    "published_at": "Thu, 05 Mar 2026 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento de Estepona\" taller \"Estepona\""
+  },
+  {
+    "title": "El Ayuntamiento pone en marcha los talleres preventivos contra el absentismo escolar y evalúa su desarrollo en la Comisión Municipal de Absentismo - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNazFQdy1kekNQaHBBY3lDUG80VkV4eWVHQkdSajNqNFhjV2NBUXJuWk80RmhTdFRWRjNkZ0ZWajh0Z3VaTF9ndW01ZEtsMkNvWUpoMjVkUG5HZndmbDlseVRVUDB1ZVhnSmxROFg5X0s4WDg5SlFnaUtLeENfUlNiVG1CcFZPV19jX1BNT0JKUmRDVGtpbmRwQ21VX1JiWk9DUXJaNEtBOTZPTjBYc3VqNGxUQzlkRklFbVdfVldFRGUxMkl2c1dPRkVLUV9ta1NuRG8xREVhZjBsZldtcW5vTTVBTmg3eTYweDhfWUJza0ZBMFpyVXlLQzl4ZDVtOWpxQUkzSktyTHhiUXROT2V1WmRPd1JRZnc?oc=5",
+    "snippet": "El Ayuntamiento pone en marcha los talleres preventivos contra el absentismo escolar y evalúa su desarrollo en la Comisión Municipal de Absentismo Ayuntamiento de Estepona",
+    "published_at": "Mon, 16 Feb 2026 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento de Estepona\" taller \"Estepona\""
+  },
+  {
+    "title": "El programa municipal ‘Mayores Activos: Vida Saludable’ continúa sus actividades enfocadas a mejorar la calidad de vida de este colectivo - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTThMUmtCUUhCSkZvMzZOME94NTVFX3JuWW1yYktVWUJDOGlnV25UTWNFTjlCZ3A5TE5MTVhCSFg0UGFfbDhiaVpVb1VZZG1wRXRuMVlIYThCUXNSaFdrRUU0MUdaNGp1YXlQNUJzUXpGSWlpU2xxUVlNX0ItZEFXMnpLVWlDcG1uUXZ5dkVpQnd1U2ZkdFdIanZ3Y2VZVkg4NWVtNlNIMHZiamVYZ1pYLXdFczBxMUJadkUzMVdGTFRsTEU5c3IzR20yTFZlQ0tfbVRTZlNVTG1lSzhHOWJjam5HRklCUGotODFxZ1N5TDZGTFFFRkF6RnBmcTlXSmNGVjdrUUl2QQ?oc=5",
+    "snippet": "El programa municipal ‘Mayores Activos: Vida Saludable’ continúa sus actividades enfocadas a mejorar la calidad de vida de este colectivo Ayuntamiento de Estepona",
+    "published_at": "Wed, 25 Feb 2026 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento de Estepona\" taller \"Estepona\""
+  },
+  {
+    "title": "La tenencia de alcaldía de Cancelada celebra un nuevo Taller de Croché gratuito - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTXczYTZ4aG5FeXZQQjkwRFgzbDZKbUdBWng0VGFoNk9OUC1lbFc1bjZJdkxEbDhtVmJuNkQzNC1jY3JBZFhZQnByekJqbkt1MFVLSlpudnhxMUlYdXJVOVVpVFhFbFJzel9KTTU0aHd0dmduSHF2Z3JWTkNFT0tIYkFjNGxUUXVUUzJXTXFRSGFpbGVnQjJCMGJ0VUFTZW5NNUd3YUE1LXBYRmZOZG1Rc0ZEb0xWYXJiY0JZYWR3?oc=5",
+    "snippet": "La tenencia de alcaldía de Cancelada celebra un nuevo Taller de Croché gratuito Ayuntamiento de Estepona",
+    "published_at": "Fri, 06 Feb 2026 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento de Estepona\" taller \"Estepona\""
+  },
+  {
+    "title": "Estepona abre el plazo de inscripción para los Cursos y Talleres de Cultura 2026/2027 - La Noción",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS1V1OHRBRFd0VVBLN1d3emgwRWtOc1Jyd3VKalp4WTFKb3hjT05rN1pMTnFyNTFudDRJT1l2ZUVsQmM5QVdtWHRRU0Z6MzZfUGRla1c4SlZRYWtWb1J0N3ZUdEJ6TUQ0NDZWdm5uZmRYeGVXUHJUcjAtZjBYMF9FM2RGZlV1YmpNSE44NEFtc1VzU0dTWTRlQ1l4cWxwcVZwX1U4LUVn?oc=5",
+    "snippet": "Estepona abre el plazo de inscripción para los Cursos y Talleres de Cultura 2026/2027 La Noción",
+    "published_at": "Fri, 28 Aug 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Ayuntamiento de Estepona\" taller \"Estepona\""
+  },
+  {
+    "title": "El Teatro Auditorio Felipe VI abrirá la temporada de otoño con el humorista gallego Miguel Lago y su monólogo más reciente: ‘Miserable’ (Parte II) - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdXdMMHdwSzZkZUJIS09HTE9TVHcxZUtyaG4wVEJIUGhUSkJLZ1dsUmJPSG4taTljSGNMWFU4dXhTMW90T1NwSGRFdE9RMl9iNnVkQU9Sai01dmNvQ3RuZXBhakk4WjZVN2hUbmxtMnltMEVTa2Jqb1JBeG51ZTExdlpGZmdVMkxUeTVMbjFMOHh3VUViSDBXTmdiQWFHeTlsa1Y3M2dDVkhvd2JncXdQT2Jxcmg3a3FiaWVqSmVJZzZzZWk5UXhQRE4wN3lTY0hET1FCeEFlMHZsOGlOQU91OGtvVXpheDF0dkJsdmxfWmNTX3FtbHhNb2FNajVqYzl3R1JuVzlNSENSUWpLTG43RQ?oc=5",
+    "snippet": "El Teatro Auditorio Felipe VI abrirá la temporada de otoño con el humorista gallego Miguel Lago y su monólogo más reciente: ‘Miserable’ (Parte II) Ayuntamiento de Estepona",
+    "published_at": "Tue, 22 Sep 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "seguridad https vuelve infantiles Estepona"
+  },
+  {
+    "title": "El Ayuntamiento organiza una nueva edición de ‘Estepona vive sus calles’ con la XIII Ruta de la Tapa y los conciertos de ‘Dreadsistance’ y ‘Las Migas’ - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNcnUtZFRUUTNCM1hEMGoycVBhYUlzUGZscXBWdlVldmUxWGVFalZJdE8zajZBUnpXa3hKdzFSSklsc25vN2xDQWlrTHNrbFZHcURDNFFhSTRUZEhRMmhLTEJJbHZoNGs2ZVlhTW9lY1ozOC1PbURxdlg1c2h1dWNObjFwWFNMVjQtVDk5UEVONTlmdjZtcnpRTEhTZjZtYnhfNU1oeVBmTXZaeEFDWjFmMGlEaGhoWXJQbTlJZmNVQXRfRGVQVjNOWWtob0pvM1JsWThUUWdoakEwZ19sR0s3dzJMMXZZZnVNM2E5NlZOZGlqSWpaVXRGMFQySFdWTUJMOWVvY3FpOUlPNS1LZDcxVDhLdmJnUQ?oc=5",
+    "snippet": "El Ayuntamiento organiza una nueva edición de ‘Estepona vive sus calles’ con la XIII Ruta de la Tapa y los conciertos de ‘Dreadsistance’ y ‘Las Migas’ Ayuntamiento de Estepona",
+    "published_at": "Tue, 02 Apr 2024 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "seguridad https vuelve infantiles Estepona"
+  },
+  {
+    "title": "El Ayuntamiento abre el plazo de inscripción en los cursos y talleres de Cultura 2025/2026 - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTE1LVFFualhWbDYyOUxCQ1FLbERISWJLYXhsQ0VPS1ZQUVdtY0RZTU9hZ1RhNG1veHFuLWNvOHJPel9DNlRINkU4WXVSS3hkeWl6NnZUVXJRLXF1T1V0cG14YU02VnBnUEhQM0NOSW8yaEJCY0xQaXdVLTFndUdnck9mZC1vSlFldWNBOEVyTnpZTzlvT3lnTThWT2swYTJXSFNieGl5aG1RelNUMllHeVZWMnZHeG9ySFRmTkxQR2EzVDdTZXBIdXhVWTg?oc=5",
+    "snippet": "El Ayuntamiento abre el plazo de inscripción en los cursos y talleres de Cultura 2025/2026 Ayuntamiento de Estepona",
+    "published_at": "Mon, 01 Sep 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "seguridad https vuelve infantiles Estepona"
+  },
+  {
+    "title": "Taller gratuito ‘Aprendiendo valores en familia’ y presentación del canal educativo YUPI TV - Ayuntamiento de Estepona",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQXzYwRUFyOHFUeWlTa1ItY1FqX3Itck0wVWpWR0J1bm9PVjZhbVVTdGVBbGZzRktwcGpsc0F2M3dtbFEtSTNLQmNHUkx3Q3hVUFFmOXhWOGZBMlNJeWFaM2pFYjYxaG52TzJyRmp6OFNzOHdMdzhPWmZpVVM1TFNKb0d0ODBsV3p6RnlPdDdaeTNsZ2RFOGEtZEtYX2stUUJTQy1UM2lCYlVDWEJFX1R0OUFyTWU0ejJiVU9FWjlWODR6LTVZOUZKUGJtUQ?oc=5",
+    "snippet": "Taller gratuito ‘Aprendiendo valores en familia’ y presentación del canal educativo YUPI TV Ayuntamiento de Estepona",
+    "published_at": "Tue, 24 Sep 2019 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-300C13F1E3",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "query": "seguridad https vuelve infantiles Estepona",
+    "resolution_checked": "2026-10-18",
+    "resolution_version": 2
+  },
+  {
+    "title": "Teatros Cervantes y Echegaray presentan su temporada 2026-2027 con 151 espectáculos - Cinemagavia",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGNhckhtNlpneDlzbXpoN2V4R091NzZLNko4R3J4VFllaEg3S0hVMHFERzZiNnlqTjhVN2N6QTVaUGlsS2pkZnh3RnBYanRlVmlKVzZFY1FZX2ptLWRTZXJGODcwd2w3bllCRWlJci1MY0ozUHZ0YzBUZnJNQ2QyNXlnVQ?oc=5",
+    "snippet": "Teatros Cervantes y Echegaray presentan su temporada 2026-2027 con 151 espectáculos Cinemagavia",
+    "published_at": "Sun, 23 Aug 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-AD55788C33",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Teatro Cervantes y Echegaray\" teatro \"Málaga\""
+  },
+  {
+    "title": "Alejandro Jodorowsky abre la temporada 2025-26 del Teatro Cervantes de Málaga - Málaga Hoy",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVowZDZmcXBPNy1GemRITk96UmpFaVQtUGN1Rk84WFg2RF96UFJhZG80Zk9ZOFFPQ2VFLXZLSUxqanRteEpKYVRYd1ZjLU1obU1aMGg1VTg4R2c4QVhXOFc4Y1hER2lKMXlSY3Vmd1ZkLURnMG1sTHNDc2dpOUhCZ0pOVmM1c2xVeXFCclhVUXcxM1l6VzNWdkdnTUNQVEIyaTFnREM1Yjh1RnI4dkJz0gG0AUFVX3lxTE5kWTRKX0NubmdRRzJENGtNVEp5UEpKY3g0ekZRMVZpZmFsdTlzV08zLXRCRnl6LXR2S1hTNEVrNk0zQ1JnYTl2aUtqRVFWeGJ4Z3ZBMTUxMWl3czhjUjI4WU5HcUh6RmNSdTBEdzBZZEZ3TUdITDRIMkliX3AtTWtaRFJSU3FGSnJ4OGh2UUNHNGJJS25RSFZHc1JRX0g0NDl1VkdKWFZwWmV1NEpGZGE2aHpMcg?oc=5",
+    "snippet": "Alejandro Jodorowsky abre la temporada 2025-26 del Teatro Cervantes de Málaga Málaga Hoy",
+    "published_at": "Thu, 28 Aug 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-AD55788C33",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Teatro Cervantes y Echegaray\" teatro \"Málaga\""
+  },
+  {
+    "title": "Consulta la programación completa del 40 Festival de Teatro de Málaga: obras, horarios y entradas - Málaga Hoy",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNG55RW1DNTBtck1VQmx6UGlLMlptTGJIaHR1OGdQcEtqa2lEUXVGbHBjbE1LMnBpeERtbV85VG9kd1JIaUpfb3dLeEpqZXJvOHE2Y240WHE1a3YyY2U3WDE3QXF0NzRzeVJmT2FFN1c2OTlSV0ZSWkMtYjVpQXdkWtIBhgFBVV95cUxQMnVxejBraFp3LTVzc3ROX3J4TlBYR3FkQWsxVWFOc3ZNbTk1X1NhaTZaa09GZjA3YWJPNy0zZUlhTjNySDBfNE5CQ0VqS0c2VHExczd3SjFkdlhBSHJ2aU44MEpzTGdvTVJfSjM0cUtSYllaX09qUDRzLU5lRkdvWWYxZmxyUQ?oc=5",
+    "snippet": "Consulta la programación completa del 40 Festival de Teatro de Málaga: obras, horarios y entradas Málaga Hoy",
+    "published_at": "Wed, 21 Dec 2022 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-AD55788C33",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Teatro Cervantes y Echegaray\" teatro \"Málaga\""
+  },
+  {
+    "title": "Los Premios Lorca del Teatro Andaluz rinden homenaje al autor Jesús Domínguez - Huelva Buenas Noticias",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU25WX0pubE14ZnA2aWlHTURVV2xXNDRyYjZSdnVyQWxWMXNzSTRNQk5vYktqcy1CQWYwd29aYUk3Z29PVDhMYms3V2EweklmY2JRN2tZSWhGS2dtRHhOcjdpN0dUbWZza3RvM3N5SklRbURHZmdDQy1kWVhYZlMyQ0ZjdnlWd2dGOW11djhqTVliOGZBRjJYY2JuQTFvc3Q5WXhBVXVFMk5GNDJLWFdKQ2JZRWhnTzVCQzlEcUZ1dw?oc=5",
+    "snippet": "Los Premios Lorca del Teatro Andaluz rinden homenaje al autor Jesús Domínguez Huelva Buenas Noticias",
+    "published_at": "Wed, 17 May 2017 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-AD55788C33",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "\"Teatro Cervantes y Echegaray\" teatro \"Málaga\""
+  },
+  {
+    "title": "Planes para el puente de octubre en Málaga: cervezas, ferias, teatro o bandoleros - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWVhHWDAyTXZmZTFuc3ZXd2k4TmxJcWN3LUs0SWxUODVSY1A2Vjd5RlhFaWh4bGcxZDFlTHRBZk5ScWhxQXJaZzdrMXJJLUw5ZV9aNVlOX0d4bkVPbkhiV3oxcjFIaVRrZkVXaUV2Z1BkbUNLQl83UURZNlgzUE9UcEZwZU1HaDlUZl9IQUxReDRST0NPZDBDc2RQNlUxV2E3cm1RQVpR0gGrAUFVX3lxTE1FakoxVFFIV2dNQ3N0alY1SkhRcDFMRExIZ25STkU2cGpiMGNxY1R6VDBpTE9DUW9SY2YzT3doNlc2S2h4T3diSVUtUGNHaWxOR2p3YXo1RENIby13T3Y2MFM1YzZocGx6R0hCRjVBV3VuRFN2UXVqSXRMakxydS1nd1BPcFR2MXBOTnVwendFYUZVVXJGTzdzbGlLbGFTNEg4V1BvWGVoRURNNA?oc=5",
+    "snippet": "Planes para el puente de octubre en Málaga: cervezas, ferias, teatro o bandoleros Diario Sur",
+    "published_at": "Wed, 07 Oct 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "first_seen": "2026-10-18",
+    "status": "por_revisar",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-AD55788C33",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa.",
+    "query": "disfrutar diario batalla circo Málaga"
   }
 ]
