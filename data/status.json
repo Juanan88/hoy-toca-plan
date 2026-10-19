@@ -81,10 +81,10 @@
   "scan_partial": false,
   "scan_elapsed_seconds": 669.1,
   "sources_pending_next_cycle": 0,
-  "total_events": 105,
+  "total_events": 106,
   "total_sources": 74,
   "method": "rastreo prudente por fuentes, enlaces estacionales y JSON-LD con validación geográfica",
   "caveat": "No se garantizan plazas ni exhaustividad; comprobar organizador.",
-  "last_expiration_check": "2026-10-19T20:45:13+00:00",
+  "last_expiration_check": "2026-10-19T20:45:34+00:00",
   "expired_removed_this_run": 0
 }

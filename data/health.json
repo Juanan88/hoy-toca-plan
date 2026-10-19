@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-19T20:45:13+00:00",
+  "generated_at": "2026-10-19T20:45:35+00:00",
   "level": "attention",
-  "events": 105,
+  "events": 106,
   "sources": 74,
   "catalog_drift": false,
   "last_scan_snapshot": {
-    "events": 105,
+    "events": 106,
     "sources": 74
   },
   "discoveries_pending": 671,
   "discoveries_unresolved": 850,
   "unverified_events": 3,
-  "known_age": 30,
+  "known_age": 31,
   "sources_never_checked": 0,
   "sources_failed": 13,
   "source_errors": [
@@ -95,12 +95,12 @@
   "broad_scout_new_leads": 0,
   "ai_hunt_brief_generated": "2026-10-19T20:44:14+00:00",
   "ai_hunt_broad_candidates": 22,
-  "ai_independent_published": 0,
+  "ai_independent_published": 1,
   "ai_case_published": 0,
   "age_missing": 75,
   "municipalities_with_events": 14,
   "coverage_by_town": {
-    "Málaga": 63,
+    "Málaga": 64,
     "Fuengirola": 10,
     "Benalmádena": 8,
     "Estepona": 4,
