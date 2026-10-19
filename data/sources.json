@@ -86,7 +86,7 @@
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14,
-    "last_broad_checked": "2026-10-18T17:22:41+00:00"
+    "last_broad_checked": "2026-10-19T20:38:51+00:00"
   },
   {
     "id": "SRC-007",
@@ -102,7 +102,7 @@
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14,
-    "last_broad_checked": "2026-10-18T17:22:41+00:00"
+    "last_broad_checked": "2026-10-19T20:38:51+00:00"
   },
   {
     "id": "SRC-008",
@@ -118,7 +118,7 @@
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14,
-    "last_broad_checked": "2026-10-18T17:22:41+00:00"
+    "last_broad_checked": "2026-10-19T20:38:51+00:00"
   },
   {
     "id": "SRC-009",
@@ -174,7 +174,7 @@
     "broad_discovery": true,
     "broad_max_links": 20,
     "broad_url": "https://informalaga.es/agenda/",
-    "last_broad_checked": "2026-10-18T17:22:41+00:00"
+    "last_broad_checked": "2026-10-19T20:38:51+00:00"
   },
   {
     "id": "SRC-013",
@@ -250,12 +250,11 @@
     "type": "Medio especializado",
     "area": "Provincia",
     "priority": "Alta",
-    "url": "https://cadenaser.com/andalucia/ser-malaga/",
+    "url": "https://cadenaser.com/ser-malaga/hoy-por-hoy-malaga/",
     "approved": true,
-    "status": "error",
+    "status": "pendiente",
     "last_checked": "2026-10-19T19:59:54+00:00",
-    "notes": "Recopilaciones semanales de planes familiares",
-    "last_error": "404 Client Error: Not Found for url: https://cadenaser.com/andalucia/ser-malaga/"
+    "notes": "Página de Hoy por Hoy Málaga con sección semanal SERpeques; enlace antiguo /andalucia/ser-malaga/ devolvía 404. Comprobar accesibilidad en próximo rastreo."
   },
   {
     "id": "SRC-019",
@@ -1089,7 +1088,7 @@
     "watch_urls": [
       "https://limon-loco.es/"
     ],
-    "last_checked": "2026-10-19T20:11:04+00:00",
+    "last_checked": "2026-10-19T20:37:56+00:00",
     "events_detected_this_run": 0,
     "daily_crawl": true
   },
@@ -1130,11 +1129,11 @@
       "https://gtmmalaga.com/evento/a_57059-canta-juegos-en-malaga",
       "https://gtmmalaga.com/evento/a_56679-momonsters-mi-primer-musical-en-malaga"
     ],
-    "last_checked": "2026-10-19T20:11:04+00:00",
+    "last_checked": "2026-10-19T20:37:56+00:00",
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14,
-    "last_broad_checked": "2026-10-18T16:48:40+00:00"
+    "last_broad_checked": "2026-10-19T20:38:51+00:00"
   },
   {
     "id": "SRC-074",
@@ -1151,8 +1150,8 @@
     "broad_max_links": 14,
     "max_links": 12,
     "notes": "Auditorio Sohrlin Andalucía, C/ Almonte 6, 29004 Málaga. Su programación WordPress muestra parte de los espectáculos como imágenes y enlaces externos a sohrlinandalucia.janto.es (y otras taquillas), no como fichas con JSON-LD ni enlaces del mismo dominio. Extraer títulos de rutas /es/espectaculo/ y remitirlos a investigación; NO asumir que son infantiles por celebrar allí, ni inventar horarios por las condiciones de venta. Contrastar cada pase y público en la productora oficial (p. ej., Theatre Properties para Annie), en la web del recinto y en la taquilla. Sohrlin NO es el Teatro del Soho CaixaBank. Anuncios históricos se excluyen.",
-    "last_checked": "2026-10-19T20:11:04+00:00",
+    "last_checked": "2026-10-19T20:37:56+00:00",
     "events_detected_this_run": 0,
-    "last_broad_checked": "2026-10-18T16:48:40+00:00"
+    "last_broad_checked": "2026-10-19T20:38:51+00:00"
   }
 ]

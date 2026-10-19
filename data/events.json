@@ -777,6 +777,64 @@
     "secondary_sources": []
   },
   {
+    "id": "EVT-TXT-C33575C2FA",
+    "title": "Antequera repite este viernes su taller de fotografía para familias",
+    "start": "2026-10-19",
+    "end": "2026-10-23",
+    "time": "Por confirmar",
+    "town": "Antequera",
+    "venue": "Por confirmar",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {
+      "start": {
+        "source_url": "https://cadenaser.com/andalucia/2026/10/19/antequera-repite-este-viernes-su-taller-de-fotografia-para-familias-ser-antequera/",
+        "quote": "dena SER Te ofrecemos una mejor experiencia de audio y video El plazo de inscripción está abierto desde hoy, lunes 19 de octubre, hasta el jueves 22. Las personas interesadas puede",
+        "evidence": "Fecha futura explícita vinculada al evento."
+      },
+      "town": {
+        "source_url": "https://cadenaser.com/andalucia/2026/10/19/antequera-repite-este-viernes-su-taller-de-fotografia-para-familias-ser-antequera/",
+        "quote": "Antequera",
+        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
+      },
+      "audience": {
+        "source_url": "https://cadenaser.com/andalucia/2026/10/19/antequera-repite-este-viernes-su-taller-de-fotografia-para-familias-ser-antequera/",
+        "quote": "infantil/familiar",
+        "evidence": "El evento se presenta explícitamente como infantil o familiar."
+      },
+      "corroboration": {
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWWNtMXZELWdWVHhZTWpiWWhzMzA1OXU4Wmpick1tTFBLTEhFaVZ2OWdyTTNXempUTTFpVUZ5R1RSYTR0eWpHSGlrdm9ITElWNzluOUdKVVhjYWlBUGtsQmw2a2gwQ0lIS09kTVhfTGdyTkUzN3dIeE5id0tSbmNCa242QWdOdzk2a1ppZjVxbUV6eERlamcxQksycUIyQUpISkY0VGdULUVTM0pKVUNSVHllSHJkRkdCdFZJdHNIQUQ1OXfSAdcBQVVfeXFMUFhIaWx2eGRxckt3WWl6d0xoeGh5R2FjbmJyM3lNNEc4RW5wZ1U2OUN2RUk2c2R6a3NwNkxaOEg1bVlXaXVibjY5TWhWZFJkYV9EcEktTmpxWFh6UDVJdHNNMmpxbGJJSEZ6LWY4NVptbDBhQTFaY1hfZEc5MThJaS1HbHQ4ZTJqbjRseXdWYnlmOXdjU3F4RER4dFlzcjQwNVFXR1hfQXdpQ0NQank5bDdkVTM5WkljVS1SZDB3NWs4UE1BVno4RnVfRHpDN09WRktKS1RQNE0?oc=5",
+        "quote": "Antequera repite este viernes su taller de fotografía para familias - Cadena SER",
+        "evidence": "Segunda fuente independiente con varias palabras relevantes coincidentes."
+      }
+    },
+    "audience": "Infantil y familiar",
+    "source_name": "SERpeques / Cadena SER Málaga",
+    "source_url": "https://cadenaser.com/andalucia/2026/10/19/antequera-repite-este-viernes-su-taller-de-fotografia-para-familias-ser-antequera/",
+    "status": "publicada_en_fuente",
+    "details": "La actividad, gratuita y con plazas limitadas, parte de la plaza de San Sebastián a las 18:00 horas",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-10-19",
+      "2026-10-23"
+    ],
+    "interval_kind": "recurring_dates",
+    "schedule_note": "Se celebra únicamente en las fechas indicadas.",
+    "first_seen": "2026-10-19",
+    "last_checked": "2026-10-19T20:42:34+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 100,
+    "verification_method": "evidencia textual fuerte",
+    "evidence": "actividad concreta · evento multidía con fechas explícitas · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
+  },
+  {
     "id": "EVT-TXT-457476F096",
     "title": "Cuentos al Aire",
     "start": "2026-10-19",

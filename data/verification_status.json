@@ -1,14 +1,14 @@
 {
-  "last_run": "2026-10-19T20:15:13+00:00",
+  "last_run": "2026-10-19T20:43:01+00:00",
   "examined": 30,
   "new_published_events": 1,
   "jsonld_published": 0,
   "text_published": 1,
   "published_event_ids": [
-    "EVT-TXT-D1A5E11E52"
+    "EVT-TXT-C33575C2FA"
   ],
   "high_priority_pending": 0,
-  "inaccessible": 0,
-  "total_events": 111,
+  "inaccessible": 3,
+  "total_events": 105,
   "method": "JSON-LD preferente + evidencia textual ≥90/100 con fuente aprobada o corroboración independiente; respeta robots.txt"
 }

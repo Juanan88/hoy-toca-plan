@@ -1,94 +1,103 @@
 {
-  "generated_at": "2026-10-19T20:17:10+00:00",
+  "generated_at": "2026-10-19T20:45:13+00:00",
   "level": "attention",
-  "events": 104,
+  "events": 105,
   "sources": 74,
-  "catalog_drift": true,
+  "catalog_drift": false,
   "last_scan_snapshot": {
     "events": 105,
     "sources": 74
   },
-  "discoveries_pending": 696,
-  "discoveries_unresolved": 851,
+  "discoveries_pending": 671,
+  "discoveries_unresolved": 850,
   "unverified_events": 3,
   "known_age": 30,
   "sources_never_checked": 0,
-  "sources_failed": 14,
+  "sources_failed": 13,
   "source_errors": [
     {
       "name": "La Diversiva",
-      "detail": "robots.txt no permite o no pudo comprobarse"
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     },
     {
       "name": "Bibliotecas Málaga",
-      "detail": "robots.txt no permite o no pudo comprobarse"
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     },
     {
       "name": "Teatro Cervantes y Echegaray",
-      "detail": "robots.txt no permite o no pudo comprobarse"
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     },
     {
       "name": "Teatro Echegaray",
-      "detail": "robots.txt no permite o no pudo comprobarse"
-    },
-    {
-      "name": "SERpeques · Cadena SER Málaga",
-      "detail": "404 Client Error: Not Found for url: https://cadenaser.com/andalucia/ser-malaga/"
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     },
     {
       "name": "CC Vialia Málaga",
-      "detail": "robots.txt no permite o no pudo comprobarse"
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     },
     {
       "name": "Turismo Costa del Sol",
-      "detail": "405 Client Error: Not Allowed for url: https://www.visitacostadelsol.com/"
+      "detail": "405 Client Error: Not Allowed for url: https://www.visitacostadelsol.com/",
+      "category": "method_not_allowed"
     },
     {
       "name": "Ayuntamiento Torremolinos",
-      "detail": "robots.txt no permite o no pudo comprobarse"
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     },
     {
       "name": "Museo Unicaja Artes y Costumbres Populares",
-      "detail": "500 Server Error: Internal Server Error for url: https://www.fundacionunicaja.com/museoartespopulares/agenda/"
+      "detail": "500 Server Error: Internal Server Error for url: https://www.fundacionunicaja.com/museoartespopulares/agenda/",
+      "category": "server_error"
     },
     {
       "name": "Laberintus Park · eventos y Halloween",
-      "detail": "robots.txt no permite o no pudo comprobarse"
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     },
     {
       "name": "Ayuntamiento de Colmenar · Cultura y fiestas",
-      "detail": "405 Client Error: Not Allowed for url: https://www.colmenar.es/"
+      "detail": "405 Client Error: Not Allowed for url: https://www.colmenar.es/",
+      "category": "method_not_allowed"
     },
     {
       "name": "Agenda Axarquía · propuestas comarcales",
-      "detail": "403 Client Error: Forbidden for url: https://agendaaxarquia.com/agenda/este-mes"
+      "detail": "403 Client Error: Forbidden for url: https://agendaaxarquia.com/agenda/este-mes",
+      "category": "access_denied"
     },
     {
       "name": "Entradas.com Málaga · espectáculos",
-      "detail": "robots.txt no permite o no pudo comprobarse"
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     },
     {
       "name": "AVV Teatinos Ciudad de la Justicia",
-      "detail": "robots.txt no permite o no pudo comprobarse"
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     }
   ],
   "last_full_scan": "2026-10-19T19:59:54+00:00",
   "days_since_full_scan": 0.0,
-  "last_radar": "2026-10-19T20:11:56+00:00",
+  "last_radar": "2026-10-19T20:38:51+00:00",
   "days_since_radar": 0.0,
-  "last_verifier": "2026-10-19T20:15:13+00:00",
-  "cases_total": 423,
-  "cases_to_investigate": 38,
-  "cases_high_confidence": 34,
+  "last_verifier": "2026-10-19T20:43:01+00:00",
+  "cases_total": 405,
+  "cases_to_investigate": 39,
+  "cases_high_confidence": 35,
   "cases_stale_high_confidence": 0,
-  "last_case_investigation": "2026-10-19T20:14:22+00:00",
-  "last_broad_scout": "2026-10-19T20:11:56+00:00",
-  "broad_scout_new_leads": 2,
-  "ai_hunt_brief_generated": "2026-10-19T20:16:31+00:00",
+  "last_case_investigation": "2026-10-19T20:40:48+00:00",
+  "last_broad_scout": "2026-10-19T20:38:51+00:00",
+  "broad_scout_new_leads": 0,
+  "ai_hunt_brief_generated": "2026-10-19T20:44:14+00:00",
   "ai_hunt_broad_candidates": 22,
   "ai_independent_published": 0,
   "ai_case_published": 0,
-  "age_missing": 74,
+  "age_missing": 75,
   "municipalities_with_events": 14,
   "coverage_by_town": {
     "Málaga": 63,
@@ -97,7 +106,7 @@
     "Estepona": 4,
     "Marbella": 4,
     "Torremolinos": 3,
-    "Antequera": 2,
+    "Antequera": 3,
     "Vélez-Málaga": 2,
     "Ronda": 2,
     "Colmenar": 2,
@@ -107,6 +116,6 @@
     "Mijas": 1
   },
   "alerts": [
-    "14 fuentes con error en su última consulta"
+    "13 fuentes con error en su última consulta"
   ]
 }
