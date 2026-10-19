@@ -282,7 +282,7 @@
     "id": "EVT-B87BC39E5A7D",
     "title": "Animación, arte y diseño gráfico para manga, anime y videojuegos. Con EducaGamer",
     "start": "2026-10-16",
-    "end": "2026-10-30",
+    "end": "2026-11-06",
     "time": "17:00",
     "town": "Málaga",
     "venue": "La Térmica",
@@ -297,17 +297,19 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en La Térmica, Málaga, el 16 de octubre a las 17:00.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-18T13:26:59+00:00",
+    "last_checked": "2026-10-19T20:01:45+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
       "2026-10-16",
       "2026-10-23",
-      "2026-10-30"
+      "2026-10-30",
+      "2026-11-06"
     ],
     "secondary_sources": [
       "https://informalaga.es/agenda/animacion-arte-y-diseno-grafico-para-manga-anime-y-videojuegos-con-educagamer-2026-10-23",
-      "https://informalaga.es/agenda/animacion-arte-y-diseno-grafico-para-manga-anime-y-videojuegos-con-educagamer-2026-10-30"
+      "https://informalaga.es/agenda/animacion-arte-y-diseno-grafico-para-manga-anime-y-videojuegos-con-educagamer-2026-10-30",
+      "https://informalaga.es/agenda/animacion-arte-y-diseno-grafico-para-manga-anime-y-videojuegos-con-educagamer-2026-11-06"
     ],
     "duration_minutes": null,
     "address": "avenida de los Guindos, 48",
@@ -567,7 +569,7 @@
     "id": "EVT-2D35DB554D7E",
     "title": "Programación de videojuegos con roblox y unity",
     "start": "2026-10-17",
-    "end": "2026-10-31",
+    "end": "2026-11-07",
     "time": "10:00",
     "town": "Málaga",
     "venue": "La Térmica",
@@ -582,17 +584,19 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en La Térmica, Málaga, el 17 de octubre a las 10:00.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-18T13:26:59+00:00",
+    "last_checked": "2026-10-19T20:01:45+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
       "2026-10-17",
       "2026-10-24",
-      "2026-10-31"
+      "2026-10-31",
+      "2026-11-07"
     ],
     "secondary_sources": [
       "https://informalaga.es/agenda/programacion-de-videojuegos-con-roblox-y-unity-2026-10-24",
-      "https://informalaga.es/agenda/programacion-de-videojuegos-con-roblox-y-unity-2026-10-31"
+      "https://informalaga.es/agenda/programacion-de-videojuegos-con-roblox-y-unity-2026-10-31",
+      "https://informalaga.es/agenda/programacion-de-videojuegos-con-roblox-y-unity-2026-11-07"
     ],
     "duration_minutes": null,
     "address": "avenida de los Guindos, 48",
@@ -874,13 +878,11 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en Biblioteca de Arroyo de la Miel, Benalmádena, el 20 de octubre a las 17:30.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:25+00:00",
+    "last_checked": "2026-10-19T20:01:45+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
-    "secondary_sources": [
-      "https://informalaga.es/agenda/cuentacuentos-en-ingles-2026-10-20"
-    ],
+    "secondary_sources": [],
     "duration_minutes": null,
     "address": null,
     "reservation_url": null,
@@ -905,13 +907,11 @@
     "status": "publicada_en_fuente",
     "details": "Club de lectura para niños de 7 a 11 años, impartido por Olga Fernández, en la sala infantil de la biblioteca. Gratis con inscripción previa en la app Torremolinos Despega o en el 952 385 182.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:25+00:00",
+    "last_checked": "2026-10-19T20:01:46+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
-    "secondary_sources": [
-      "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-23"
-    ],
+    "secondary_sources": [],
     "duration_minutes": null,
     "address": "Calle de la Cruz, 42",
     "reservation_url": "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-23",
@@ -1203,13 +1203,11 @@
     "status": "publicada_en_fuente",
     "details": "👻🎃 TALLER SENSORIAL “PEQUEÑOS MONSTRUITOS” 🎃👻¡Este Halloween, los más peques también tienen su propia fiesta! 🧡✨En Pequeños Monstruitos, AWA Kids se llena de magia de Halloween para ofrecer una experiencia sensorial especialmente dise...",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:25+00:00",
+    "last_checked": "2026-10-19T20:01:45+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
-    "secondary_sources": [
-      "https://informalaga.es/agenda/pequenos-monstruitos-2026-10-24"
-    ],
+    "secondary_sources": [],
     "duration_minutes": null,
     "address": "C. Cenit, 2, Puerto de la Torre",
     "reservation_url": "https://www.enterticket.es/eventos/pequenos-monstruitos-679096",
@@ -1288,7 +1286,7 @@
     "title": "Sábados en familia | Notas románticas",
     "start": "2026-10-24",
     "end": "2026-10-24",
-    "time": "11:30 y 17:00",
+    "time": "11:30",
     "town": "Málaga",
     "venue": "Colección Museo Ruso",
     "category": "Otros planes familiares",
@@ -1321,15 +1319,15 @@
         "evidence": "La programación publicada exige reserva previa."
       }
     },
-    "audience": "Infantil y familiar",
+    "audience": "Consultar organizador",
     "source_name": "Colección Museo Ruso — mediación familiar",
     "source_url": "https://www.coleccionmuseoruso.es/event/sabados-en-familia-notas-romanticas/",
     "status": "publicada_en_fuente",
-    "details": "Taller familiar «Notas románticas». Sesiones en español a las 11:30 y 17:00. Actividad gratuita para familias con menores de 5 a 12 años; requiere inscripción previa.",
+    "details": "¿Y si volvemos a nuestras raíces a través de la mirada de un foráneo, conocido por hacer posible que esas tradiciones fueran compartidas por todo el mundo?",
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-13",
-    "last_checked": "2026-10-15T10:12:18+00:00",
+    "last_checked": "2026-10-19T20:06:37+00:00",
     "origin": "json-ld",
     "secondary_sources": [],
     "reservation_required": true
@@ -1387,8 +1385,9 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-15",
-    "last_checked": "2026-10-15T10:08:25+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-10-19T20:01:46+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-IA-A10BB5DC03",
@@ -1531,7 +1530,7 @@
     "status": "publicada_en_fuente",
     "details": "Tod@s los niñ@s mayores de 2 años tienen que sacar su entrada. Menores de 2 años únicamente cuando ocupen un asiento. Los Tres Cerditos, una adaptación del cuento clásico dentro de la Colección de Los Cuentos del Conejo Blanco de la compañía malagueña Jabetín Teatro. Já, já,já…si supiera el pobre lo · Fechas de programación: consultar los días concretos de función.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:35+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-10-25"
@@ -1541,9 +1540,7 @@
     "schedule_checked_at": "2026-10-13",
     "session_count": 1,
     "schedule_unconfirmed": true,
-    "secondary_sources": [
-      "https://teatromalaga.com/cartelera/jabet-in-teatro-los-tres-cerditos-la-cochera-malaga"
-    ],
+    "secondary_sources": [],
     "duration_minutes": null,
     "address": "Av. de los Guindos, 19",
     "reservation_url": "https://lacocheracabaret.com/evento/jabetin-teatro-los-tres-cerditos-5/",
@@ -1613,7 +1610,7 @@
     "status": "publicada_en_fuente",
     "details": "Musical familiar con los éxitos de Youtube Kids.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:25+00:00",
+    "last_checked": "2026-10-19T20:01:45+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -1655,7 +1652,7 @@
   },
   {
     "id": "EVT-114B41ADBEC2",
-    "title": "Únicos, de DA.TE. Danza",
+    "title": "ÚNICOS",
     "start": "2026-10-25",
     "end": "2026-10-25",
     "time": "11:00",
@@ -1667,15 +1664,15 @@
     "age_label": "Desde 6 años",
     "price_label": "8 EUR",
     "audience": "Consultar organizador",
-    "source_name": "InforMálaga",
-    "source_url": "https://informalaga.es/agenda/unicos-de-date-danza-vxcrl",
+    "source_name": "Teatro Málaga",
+    "source_url": "https://teatromalaga.com/cartelera/unicos-echegaray-malaga",
     "status": "publicada_en_fuente",
-    "details": "Espectáculo de danza para público familiar dirigido por Omar Meza, con Raúl Durán y Álvaro G. Copado; Premio FETEN 2026 al mejor espectáculo de danza.",
+    "details": "Inspirado en la obra de Alexander Calder, Únicos es una exploración poética sobre la identidad y sobre los cuerpos y su singularidad a través de la danza contemporánea. Una propuesta sobre la construcción de nuestro yo interno como si de una obra de arte se tratara. Dos niños se encuentran y se reconocen como lo que son: únicos. ¿Cuándo dejamos de ser quienes somos? ¿Cuánto peso tiene nuestra identidad social, política o cultural? ¿Somos lo que o",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:25+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "secondary_sources": [
-      "https://teatromalaga.com/cartelera/unicos-echegaray-malaga",
+      "https://informalaga.es/agenda/unicos-de-date-danza-vxcrl",
       "https://teatromalaga.com/cartelera?familia=Infantil+y+familiar",
       "https://saposyprincesas.elmundo.es/actividades-ninos/malaga"
     ],
@@ -1873,8 +1870,9 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-15",
-    "last_checked": "2026-10-15T10:08:15+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-10-19T20:01:35+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-8E7D2E26ADA0",
@@ -1897,7 +1895,7 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-13",
-    "last_checked": "2026-10-15T10:13:23+00:00",
+    "last_checked": "2026-10-19T20:07:36+00:00",
     "origin": "json-ld",
     "secondary_sources": [],
     "duration_minutes": 90,
@@ -2010,18 +2008,16 @@
       }
     },
     "audience": "Consultar organizador",
-    "source_name": "Radar · www.fuengirola.es",
+    "source_name": "Bibliotecas Fuengirola · programación octubre",
     "source_url": "https://www.fuengirola.es/evento/feria-del-juguete/",
     "status": "pendiente",
     "details": "Una alianza estratégica de coleccionistas, artesanos y profesionales del sector en Andalucía trabajan para recuperar el valor del juguete tradicional como herramienta didáctica, vehículo de cultura […]",
     "schedule_unconfirmed": true,
     "occurrences": null,
     "first_seen": "2026-10-18",
-    "last_checked": "2026-10-18T02:06:08+00:00",
+    "last_checked": "2026-10-19T20:09:10+00:00",
     "origin": "json-ld",
-    "secondary_sources": [
-      "https://www.fuengirola.es/evento/feria-del-juguete/"
-    ]
+    "secondary_sources": []
   },
   {
     "id": "EVT-MIRAMAR-HALLOWEEN-2026",
@@ -2064,6 +2060,76 @@
         "last_verified": "2026-10-13"
       }
     }
+  },
+  {
+    "id": "EVT-323CDB4A9429",
+    "title": "Fiesta infantil de Halloween en la plaza de las Tres Culturas",
+    "start": "2026-10-31",
+    "end": "2026-10-31",
+    "time": "18:00",
+    "town": "Benalmádena",
+    "venue": "Plaza de las Tres Culturas",
+    "category": "Lectura y cuentos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "Plaza de las Tres Culturas",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/fiesta-infantil-de-halloween-en-la-plaza-de-las-tres-culturas-jc1zo",
+        "quote": "Plaza de las Tres Culturas",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "InforMálaga",
+    "source_url": "https://informalaga.es/agenda/fiesta-infantil-de-halloween-en-la-plaza-de-las-tres-culturas-jc1zo",
+    "status": "publicada_en_fuente",
+    "details": "Fiesta infantil con cuentacuentos y concursos para los más pequeños.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-19",
+    "last_checked": "2026-10-19T20:01:45+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
+  },
+  {
+    "id": "EVT-C8F314EED53E",
+    "title": "Halloween",
+    "start": "2026-10-31",
+    "end": "2026-10-31",
+    "time": "Por confirmar",
+    "town": "Ronda",
+    "venue": "Por confirmar",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://ayuntamientoronda.es/eventos/halloween/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://ayuntamientoronda.es/eventos/halloween/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Ayuntamiento Ronda",
+    "source_url": "https://ayuntamientoronda.es/eventos/halloween/",
+    "status": "publicada_en_fuente",
+    "details": "🎃👻 ¡RONDA SE PREPARA PARA VIVIR UN HALLOWEEN DE MIEDO! 🧛‍♂️🕷️ El próximo sábado 31 de octubre, Ronda se llenará de terror, diversión y actividades para disfrutar de una noche de Halloween inolvidable. 🦇🕸️ 📅 PROGRAMACIÓN DE HALLOWEEN 2026 🎭 PASACALLES INFANTIL 👻 🕔 A las 17:00 h 📍 Desde la avenida Martínez Astein hasta la plaza del Socorro, pasando por la carrera Espinel. ¡Los más pequeños podrán disfrutar de un pasacalles terroríficamente divertid",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-19",
+    "last_checked": "2026-10-19T20:06:13+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-CIRCOHALLOWEEN-20261031",
@@ -2125,7 +2191,10 @@
     "details": "Taller de decoración de Halloween, yoga infantil y brunch; confirmar edad y plaza.",
     "first_seen": "2026-10-13",
     "last_checked": "2026-10-13",
-    "origin": "agenda especializada"
+    "origin": "agenda especializada",
+    "secondary_sources": [
+      "https://littlefamilyhub.com/a/halloween-workshops-art-yoga-brunch-arterapia-kids-studio-marbella/en"
+    ]
   },
   {
     "id": "EVT-TXT-D302F06BB9",
@@ -2315,7 +2384,7 @@
     "status": "publicada_en_fuente",
     "details": "🎃👻 ¡ESTE HALLOWEEN, AWA KIDS SE LLENA DE MAGIA, SUSTOS Y AVENTURAS! 👻🎃Prepárate para vivir un Halloween en familia que los peques recordarán durante mucho tiempo. 🕷️🕸️Hemos preparado una experiencia pensada especialmente para niños, don...",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:25+00:00",
+    "last_checked": "2026-10-19T20:01:45+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2341,7 +2410,7 @@
     "title": "Sábados en familia | ¡Mueve el esqueleto!",
     "start": "2026-10-31",
     "end": "2026-10-31",
-    "time": "11:30 y 17:00",
+    "time": "17:00",
     "town": "Málaga",
     "venue": "Colección Museo Ruso",
     "category": "Otros planes familiares",
@@ -2349,15 +2418,15 @@
     "age_max": 12,
     "age_label": "5–12 años",
     "price_label": "Gratis",
-    "audience": "Infantil y familiar",
+    "audience": "Consultar organizador",
     "source_name": "Colección Museo Ruso — mediación familiar",
     "source_url": "https://www.coleccionmuseoruso.es/event/sabados-en-familia-mueve-el-esqueleto/",
     "status": "publicada_en_fuente",
-    "details": "Taller familiar «¡Mueve el esqueleto!», con coreografías y juego creativo. Sesiones en español a las 11:30 y 17:00. Actividad gratuita para familias con menores de 5 a 12 años; requiere inscripción previa.",
+    "details": "No pierdas el ritmo porque tenemos preparadas unas coreografías terriblemente divertidas y que te dejaran con la mandíbula temblando…",
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-13",
-    "last_checked": "2026-10-15T10:12:18+00:00",
+    "last_checked": "2026-10-19T20:06:37+00:00",
     "origin": "json-ld",
     "secondary_sources": [
       "https://www.coleccionmuseoruso.es/event/sabados-en-familia-mueve_el_esqueleto/"
@@ -2437,32 +2506,37 @@
     "origin": "evidencia textual automatizada",
     "confidence_score": 100,
     "verification_method": "evidencia textual fuerte",
-    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista",
+    "secondary_sources": [
+      "https://www.velezmalaga.es/index.php?mod=noticias&id=8865"
+    ]
   },
   {
     "id": "EVT-3309B82F055F",
-    "title": "Coco, tributo musical",
+    "title": "Coco, Tributo Musical",
     "start": "2026-11-01",
     "end": "2026-11-01",
     "time": "19:00",
     "town": "Málaga",
-    "venue": "Teatro ESAD",
+    "venue": "Teatro ESAD Málaga",
     "category": "Teatro y espectáculos",
     "age_min": null,
     "age_max": null,
     "age_label": "No indicada",
-    "price_label": "19.85 EUR",
+    "price_label": "15 EUR",
     "audience": "Consultar organizador",
-    "source_name": "Teatro Málaga",
-    "source_url": "https://teatromalaga.com/cartelera/coco-tributo-musical-malaga",
+    "source_name": "InforMálaga",
+    "source_url": "https://informalaga.es/agenda/coco-tributo-musical-2026-11-01",
     "status": "publicada_en_fuente",
-    "details": "Tributo musical a «Coco» para toda la familia, en el Teatro ESAD de Málaga el domingo 1 de noviembre de 2026 a las 19:00 h (el horario se ha cambiado desde las 17:00 h; las entradas ya compradas siguen siendo válidas). En los espectáculos infantiles los niños pagan entrada a partir de los 12 meses.",
+    "details": "Infantil en Teatro ESAD Málaga, el 1 de noviembre a las 19:00.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:45+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://teatromalaga.com/cartelera/coco-tributo-musical-malaga"
+    ],
     "duration_minutes": null,
     "address": "Calle Béla Bartók, 2",
     "reservation_url": "https://www.awin1.com/cread.php?awinmid=13034&awinaffid=2915561&ued=https%3A%2F%2Fwww.elcorteingles.es%2Fentradas%2Fteatro%2Fentradas-coco-tributo-musical-malaga-26906269061796%2F",
@@ -2498,7 +2572,7 @@
     "status": "publicada_en_fuente",
     "details": "En un mundo rodeado de pantallas y dominado por las redes sociales y los videojuegos, Alicia se encuentra atrapada en el ciberespacio mientras su vida pasa volando entre likes, notificaciones y haters. Pero todo cambia cuando llega a sus manos un misterioso libro que le enseñará a vivir el presente",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:35+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2538,7 +2612,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en Teatro Lope de Vega, Vélez-Málaga, el 1 de noviembre a las 17:30.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:25+00:00",
+    "last_checked": "2026-10-19T20:01:45+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2556,7 +2630,7 @@
   },
   {
     "id": "EVT-B57FBC5D81D6",
-    "title": "PEDRO Y EL LOBO, un cuento musical",
+    "title": "Pedro y el lobo, un cuento musical",
     "start": "2026-11-01",
     "end": "2026-11-01",
     "time": "11:00",
@@ -2568,16 +2642,18 @@
     "age_label": "No indicada",
     "price_label": "8 EUR",
     "audience": "Consultar organizador",
-    "source_name": "Teatro Málaga",
-    "source_url": "https://teatromalaga.com/cartelera/pedro-y-el-lobo-un-cuento-musical-echegaray-malaga",
+    "source_name": "InforMálaga",
+    "source_url": "https://informalaga.es/agenda/pedro-y-el-lobo-un-cuento-musical-64tgy",
     "status": "publicada_en_fuente",
-    "details": "La NS Danza lleva a escena la célebre obra de Serguéi Prokófiev (1936) creada para acercar a los niños los sonidos de los diferentes instrumentos de la orquesta. Pedro es un niño que vive en el bosque con su abuelo y que, junto a sus amigos los animales, se enfrenta al temido lobo. A diferencia de",
+    "details": "Versión para público infantil del cuento musical, a cargo de International BPM con la compañía NS Danza, dentro de Danza Málaga 2026. Dos pases.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:45+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://teatromalaga.com/cartelera/pedro-y-el-lobo-un-cuento-musical-echegaray-malaga"
+    ],
     "duration_minutes": null,
     "address": "C. Echegaray, 6",
     "reservation_url": "https://www.teatrocervantes.com/es/genero/teatro-infantil/temporada-2026-27/pedro-y-el-lobo-un-cuento-musical-2149",
@@ -2722,7 +2798,7 @@
     "reservation_required": true,
     "reservation_url": "https://docs.google.com/forms/d/e/1FAIpQLSdb5plTEetFDBDdGflPYxHvMMhMF03vGwTNg9_mnw4q7HI0iQ/viewform?usp=header",
     "origin": "programación oficial y formulario del organizador",
-    "last_checked": "2026-10-14",
+    "last_checked": "2026-10-19T20:01:45+00:00",
     "interval_kind": "recurring_dates",
     "schedule_unconfirmed": false,
     "schedule_verification": "fechas_contrastadas_en_fuente",
@@ -2775,7 +2851,10 @@
     "source_url": "https://latermicamalaga.com/campamento-tecnologico-de-videojuegos-con-roblox-con-educagamer-2026-2-julio-31-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
     "schedule_note": "Entrega 2: 7, 14 y 21 de noviembre; inscripción al bloque de tres sábados.",
     "first_seen": "2026-10-14",
-    "secondary_sources": []
+    "secondary_sources": [
+      "https://informalaga.es/agenda/taller-de-robotica-educativa-de-fin-de-semana-galilei-kids-noviembre-2026-2026-11-07"
+    ],
+    "schedule_change_pending_review": true
   },
   {
     "id": "EVT-UNI-20261107",
@@ -2818,7 +2897,7 @@
     "status": "publicada_en_fuente",
     "details": "¿Qué pasaría si los Beatles hicieran canciones para peques? En Cuentitis Musiquitis hemos querido responder a esa pregunta, y hemos adaptado las canciones más famosas del cuarteto de Liverpool a lenguaje y temática infantil. Su LADY MADONNA se convierte en un canto de amor a nuestra “Mami mandona”;",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2858,7 +2937,7 @@
     "status": "publicada_en_fuente",
     "details": "DADADá es un espectáculo pensado para plasmar el mundo de los bebés desde que nacen hasta los tres años. Experiencias desordenadas, impulsivas, aleatorias…, envueltas en la sonoridad, el color y las sensaciones propias de los bebés. Al igual que los dadaístas, nos olvidamos de la palabra, de las nor · Fechas de programación: consultar los días concretos de función.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "age_source_url": "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/dadada-1",
     "age_evidence": "Agenda Cultural de Andalucía: espectáculo pensado para bebés desde que nacen hasta los tres años.",
@@ -2934,7 +3013,7 @@
     "status": "publicada_en_fuente",
     "details": "Espectáculo familiar que rinde tributo a Frozen combinando teatro, música y magia sobre el hielo. Una reinterpretación del universo de Elsa y Anna pensada para disfrutar en familia, en el Teatro ESAD de Málaga el 8 de noviembre de 2026.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2957,7 +3036,7 @@
   },
   {
     "id": "EVT-5B93A8F20F63",
-    "title": "NERA. VIAJE A ISLA MADRE",
+    "title": "Nera. Viaje a Isla Madre, de In-Pulso",
     "start": "2026-11-08",
     "end": "2026-11-08",
     "time": "11:00",
@@ -2969,16 +3048,18 @@
     "age_label": "No indicada",
     "price_label": "8 EUR",
     "audience": "Consultar organizador",
-    "source_name": "Teatro Málaga",
-    "source_url": "https://teatromalaga.com/cartelera/nera-viaje-a-isla-madre-echegaray-malaga",
+    "source_name": "InforMálaga",
+    "source_url": "https://informalaga.es/agenda/nera-viaje-a-isla-madre-de-in-pulso-8uchm",
     "status": "publicada_en_fuente",
-    "details": "Nera. Viaje a Isla madre es un viaje sensitivo, sin palabras, en el que la danza se integra con la manipulación de una marioneta de 18 hilos y algunos objetos llenos de magia. En su velero Nera se dirige hacia la Isla Madre para avisar a la gran ballena de la desaparición de los seres marinos y la",
+    "details": "Espectáculo de danza para público infantil de la compañía In-Pulso, dentro de Danza Málaga 2026. Dos pases.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:45+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://teatromalaga.com/cartelera/nera-viaje-a-isla-madre-echegaray-malaga"
+    ],
     "duration_minutes": null,
     "address": "C. Echegaray, 6",
     "reservation_url": "https://www.teatrocervantes.com/es/genero/teatro-infantil/temporada-2026-27/nera-viaje-a-isla-madre-2150",
@@ -2994,6 +3075,40 @@
         "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
       }
     }
+  },
+  {
+    "id": "EVT-50A8C5C94B75",
+    "title": "Robin Hood",
+    "start": "2026-11-08",
+    "end": "2026-11-08",
+    "time": "12:00",
+    "town": "Estepona",
+    "venue": "Teatro Auditorio Felipe VI",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "13.2 EUR",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://www.giglon.com/evento/robin-hood-estepona",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://informalaga.es/agenda/robin-hood-2026-11-08",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "InforMálaga",
+    "source_url": "https://informalaga.es/agenda/robin-hood-2026-11-08",
+    "status": "publicada_en_fuente",
+    "details": "Infantil en Teatro Auditorio Felipe VI, Estepona, el 8 de noviembre a las 12:00.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-19",
+    "last_checked": "2026-10-19T20:01:45+00:00",
+    "origin": "json-ld"
   },
   {
     "id": "EVT-IA-A1CB10DC8F",
@@ -3132,7 +3247,7 @@
     "status": "publicada_en_fuente",
     "details": "En este concierto vamos a descubrir un Nuevo Mundo, tan desconocido para la mayoría de los jóvenes oyentes como lo fue en su día América para Dvořák: la música sinfónica. Además de acercarnos a los ritmos, folclore y leyendas que dieron lugar a la música de Dvorák, quien quería sentar con su obra la",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-11-14",
@@ -3179,7 +3294,7 @@
     "status": "publicada_en_fuente",
     "details": "Tod@s los niñ@s mayores de 2 años tienen que sacar su entrada. Menores de 2 años únicamente cuando ocupen un asiento. Jabetin Teatro presenta “Robin Hood”, una adaptación teatral musical en tono de comedia adaptada a todos los públicos. Personajes divertidos que salen del mismo cuento como Robin y L · Fechas de programación: consultar los días concretos de función.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-11-15",
@@ -3226,7 +3341,7 @@
     "status": "publicada_en_fuente",
     "details": "Tres elementos nos acompañan en este recorrido: una calabaza, un bigote y una maleta. Una vida, un camino; como todas las sendas, con un destino, alcanzar la sonrisa de un niño. Miguelito viene a este mundo el segundo mes del año. Sus primeros años se nutren con lo que va a ser su más poderosa herr",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "age_source_url": "https://www.teatroechegaray.com/es/genero/teatro-infantil/temporada-2026-27/peneque-cien-por-cien-valiente-2152",
     "age_quote": "Títeres y actores. A partir de 3 años",
@@ -3272,7 +3387,7 @@
     "status": "publicada_en_fuente",
     "details": "Pleno de romanticismo, misterio y belleza, «El lago de los cisnes» es una de las obras más admiradas del repertorio clásico. El Imperial Heritage Ballet da vida a la historia de Odette, una joven condenada por un hechizo a ser cisne, y del príncipe Siegfried, un amor capaz de desafiar a Rothbart y a",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -3307,7 +3422,7 @@
     "status": "publicada_en_fuente",
     "details": "Espectáculo en vivo que rinde homenaje a la película de Disney «El Rey León», con actuaciones en directo, música enérgica y coloridos vestuarios. Simba, Timón, Pumba, Scar y Rafiki cobran vida en la sabana africana con las canciones de la película, como «El Ciclo de la Vida» y «Hakuna Matata», númer · Fechas de programación: consultar los días concretos de función.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-11-20"
@@ -3422,7 +3537,7 @@
     "status": "publicada_en_fuente",
     "details": "En un mundo donde los sonidos están desapareciendo, oímos los ecos tres antiguas historias que nos ayudan a devolver la armonía: Orfeo demuestra que la sensibilidad y el arte pueden superar todos los obstáculos; una Musa traviesa enseña a descubrir la música escondida en los sonidos cotidianos; y el",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -3462,7 +3577,7 @@
     "status": "publicada_en_fuente",
     "details": "Espectáculo en vivo que rinde homenaje a la película de Disney «El Rey León», con actuaciones en directo, música, baile y coloridos vestuarios, para toda la familia. En el Teatro Vicente Espinel de Ronda (Málaga), el sábado 28 de noviembre de 2026 a las 17:00 h. Organiza La Máscara Producciones.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -3497,7 +3612,7 @@
     "status": "publicada_en_fuente",
     "details": "Sinopsis: ¿Qué ocurriría si un explorador y un investigador intercambiaran sus maletas por error? ¿Y qué pasaría si cayeran en la cuenta de que quizá uno de ellos no debía estar allí? Bueno… ¿y si, al final, un bailaor contemporáneo, DJ y aparentemente desordenado retase a un músico clásico, tan rig",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -3631,7 +3746,7 @@
     "status": "publicada_en_fuente",
     "details": "En las nubes es la historia de mi amigo. Mi amigo a veces se siente diferente. Mi amigo a veces saldría volando como un globo y se colaría en el universo. Mi amigo tiene un amigo que es una nube. Mi amigo está muy solo y, al mismo tiempo, le salen los amigos sin darse cuenta. En las nubes es una hi",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -3671,7 +3786,7 @@
     "status": "publicada_en_fuente",
     "details": "Descripción incompleta: consultar el programa original.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-11-29",
@@ -3718,7 +3833,7 @@
     "status": "publicada_en_fuente",
     "details": "Actores Ángel Casanova, Emma Torrecillas, Rocío Belmonte, Verónica Sánchez, Paula Paz y Amparo Izquierdo Letra y música Andrés Meseguer Guión La pandilla de Drilo Producción musical y arreglos Jesús Mondéjar Coreografías Amparo Izquierdo 1.00 h (s/i) Teatro musical. Toda la familia lapandilladedrilo.com Drilo organiza un gran concierto y, para la ocasión, llama a todos sus amigos de la pandilla. Montará una banda con Guau a la batería, Peligre al",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -3758,7 +3873,7 @@
     "status": "publicada_en_fuente",
     "details": "Un espectáculo coproducido con la colaboración de la Agencia Andaluza de Instituciones Culturales de la Junta de Andalucía y La Nave del Duende TRAS 10 AÑOS TRABAJANDO COMO THE NOSE THEATER, CHEMA CABALLERO Y ÁNGELA BODEGA SE REINVENTAN COMO LA BUENA COMPAÑÍA, UN NUEVO VEHÍCULO PARA PONER EN PRÁCTIC",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-12-12",
@@ -3805,7 +3920,7 @@
     "status": "publicada_en_fuente",
     "details": "Nova, una niña alegre e imaginativa a la que le encanta leer, se ve sumergida en un profundo sueño durante la lectura de su libro favorito. Pero ese sueño, no es un sueño cualquiera, pues la transporta hasta el mundo de la imaginación. Allí se encontrará con Lecturita, la guardiana de los libros, qu",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-14T14:30:09+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-12-15",
@@ -3834,6 +3949,45 @@
     }
   },
   {
+    "id": "EVT-5E36CB506FDD",
+    "title": "ÑAM-ÑAM. UN CUENTO PARA COMÉRSELO",
+    "start": "2026-12-18",
+    "end": "2026-12-20",
+    "time": "18:00",
+    "town": "Málaga",
+    "venue": "Teatro Echegaray",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "8 EUR",
+    "duration_minutes": null,
+    "address": "C. Echegaray, 6",
+    "reservation_url": "https://www.teatrocervantes.com/es/genero/teatro-infantil/temporada-2026-27/nam-nam-un-cuento-para-comerselo-2164",
+    "field_sources": {
+      "address": {
+        "source_url": "https://teatromalaga.com/cartelera/nam-nam-un-cuento-para-comerselo-echegaray-malaga",
+        "quote": "C. Echegaray, 6",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      },
+      "reservation_url": {
+        "source_url": "https://teatromalaga.com/cartelera/nam-nam-un-cuento-para-comerselo-echegaray-malaga",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Teatro Málaga",
+    "source_url": "https://teatromalaga.com/cartelera/nam-nam-un-cuento-para-comerselo-echegaray-malaga",
+    "status": "pendiente",
+    "details": "La Reina Zanahoria, que empieza a madurar y ya no se siente tan fresca como antes, comprende que es necesario elegir un nuevo gobernante para su reino. La elección no será sencilla: no puede ser cualquier alimento, sino aquél que sea más saludable y completo. Verduras, legumbres, lácteos… se present",
+    "schedule_unconfirmed": true,
+    "occurrences": null,
+    "first_seen": "2026-10-19",
+    "last_checked": "2026-10-19T20:01:36+00:00",
+    "origin": "json-ld"
+  },
+  {
     "id": "EVT-9AA039228114",
     "title": "Robot 80",
     "start": "2026-12-19",
@@ -3857,7 +4011,7 @@
       "2026-12-20"
     ],
     "first_seen": "2026-10-13",
-    "last_checked": "2026-10-15T10:08:15+00:00",
+    "last_checked": "2026-10-19T20:01:36+00:00",
     "origin": "json-ld",
     "schedule_note": "Dos funciones: sábado 19 de diciembre a las 19:00 y domingo 20 a las 12:00.",
     "schedule_verification": "oficial Junta de Andalucía",
@@ -3966,8 +4120,62 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-18",
-    "last_checked": "2026-10-18T12:05:16+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-10-19T20:10:07+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
+  },
+  {
+    "id": "EVT-TXT-D1A5E11E52",
+    "title": "Taller de cerámica Modela tu mañana: crea tu set de desayuno | Agenda Cultural de Andalucía",
+    "start": "2027-01-27",
+    "end": "2027-01-27",
+    "time": "Por confirmar",
+    "town": "Málaga",
+    "venue": "Por confirmar",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {
+      "start": {
+        "source_url": "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/taller-de-ceramica-modela-tu-manana-crea-tu-set-de-desayuno",
+        "quote": "ión Cerámica Actividad cultural Creatividad Arjonilla Taller de cerámica Modela tu mañana: crea tu set de desayuno 27 de Enero del 2024 Precio 50 euros por persona Imagen Finalizad",
+        "evidence": "Fecha futura explícita vinculada al evento."
+      },
+      "town": {
+        "source_url": "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/taller-de-ceramica-modela-tu-manana-crea-tu-set-de-desayuno",
+        "quote": "Málaga",
+        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
+      },
+      "audience": {
+        "source_url": "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/taller-de-ceramica-modela-tu-manana-crea-tu-set-de-desayuno",
+        "quote": "infantil/familiar",
+        "evidence": "El evento se presenta explícitamente como infantil o familiar."
+      }
+    },
+    "audience": "Infantil y familiar",
+    "source_name": "Agenda Cultural de Andalucía",
+    "source_url": "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/taller-de-ceramica-modela-tu-manana-crea-tu-set-de-desayuno",
+    "status": "publicada_en_fuente",
+    "details": "¿Te gustaría saber qué se siente al trabajar el barro? Si quieres empezar el año haciendo algo nuevo y diferente, ¡esta es tu oportunidad!En nuestro taller \"Modela tu mañana: crea tu set de desayuno\" pasarás la mañana con los anfitriones, Inma y Miguel Ángel. Conocerás el taller de Cantarico Alfarería y realizarás con tus propias manos una taza y un plato para desayunar mientras disfrutas de las vistas al campo de olivos.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "interval_kind": null,
+    "schedule_note": null,
+    "first_seen": "2026-10-19",
+    "last_checked": "2026-10-19T20:14:37+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 100,
+    "verification_method": "evidencia textual fuerte",
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista",
+    "secondary_sources": [
+      "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/taller-de-ceramica-modela-tu-manana-crea-tu-set-de-desayuno"
+    ]
   },
   {
     "id": "EVT-TXT-6DCE98AF22",

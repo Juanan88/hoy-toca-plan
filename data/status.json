@@ -1,20 +1,20 @@
 {
-  "last_run": "2026-10-15T10:06:50+00:00",
-  "checked": 53,
-  "attempted": 64,
-  "failed": 11,
+  "last_run": "2026-10-19T19:59:54+00:00",
+  "checked": 60,
+  "attempted": 74,
+  "failed": 14,
   "new_events": 11,
-  "new_discoveries": 7,
+  "new_discoveries": 166,
   "new_sources_suggested": 0,
   "merged_duplicates": 0,
-  "sources_without_structured_events": 48,
+  "sources_without_structured_events": 52,
   "errors": [
     {
-      "source": "La Térmica Mini · programación infantil (agenda oficial)",
-      "reason": "521 Server Error: <none> for url: https://latermicamalaga.com/la-termica-mini/"
+      "source": "La Diversiva",
+      "reason": "robots.txt no permite o no pudo comprobarse"
     },
     {
-      "source": "La Diversiva",
+      "source": "Bibliotecas Málaga",
       "reason": "robots.txt no permite o no pudo comprobarse"
     },
     {
@@ -46,16 +46,12 @@
       "reason": "enlace secundario: No es una página HTML"
     },
     {
-      "source": "Colección Museo Ruso — mediación familiar",
-      "reason": "enlace secundario: 404 Client Error: Not Found for url: https://www.coleccionmuseoruso.es/agenda/"
+      "source": "Museo Unicaja Artes y Costumbres Populares",
+      "reason": "500 Server Error: Internal Server Error for url: https://www.fundacionunicaja.com/museoartespopulares/agenda/"
     },
     {
       "source": "Laberintus Park · eventos y Halloween",
       "reason": "robots.txt no permite o no pudo comprobarse"
-    },
-    {
-      "source": "Picofino Escuela Málaga · talleres infantiles",
-      "reason": "enlace secundario: 404 Client Error: Not Found for url: https://picofinoescuelamalaga.com/?page_id=53"
     },
     {
       "source": "Ayuntamiento de Colmenar · Cultura y fiestas",
@@ -72,15 +68,23 @@
     {
       "source": "Agenda Axarquía · propuestas comarcales",
       "reason": "403 Client Error: Forbidden for url: https://agendaaxarquia.com/agenda/este-mes"
+    },
+    {
+      "source": "Entradas.com Málaga · espectáculos",
+      "reason": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "source": "AVV Teatinos Ciudad de la Justicia",
+      "reason": "robots.txt no permite o no pudo comprobarse"
     }
   ],
   "scan_partial": false,
-  "scan_elapsed_seconds": 486.5,
+  "scan_elapsed_seconds": 669.1,
   "sources_pending_next_cycle": 0,
-  "total_events": 99,
-  "total_sources": 64,
+  "total_events": 105,
+  "total_sources": 74,
   "method": "rastreo prudente por fuentes, enlaces estacionales y JSON-LD con validación geográfica",
   "caveat": "No se garantizan plazas ni exhaustividad; comprobar organizador.",
-  "last_expiration_check": "2026-10-19T19:55:34+00:00",
-  "expired_removed_this_run": 8
+  "last_expiration_check": "2026-10-19T20:17:10+00:00",
+  "expired_removed_this_run": 0
 }

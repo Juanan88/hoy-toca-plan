@@ -1,22 +1,26 @@
 {
-  "generated_at": "2026-10-19T19:55:34+00:00",
+  "generated_at": "2026-10-19T20:17:10+00:00",
   "level": "attention",
-  "events": 99,
+  "events": 104,
   "sources": 74,
   "catalog_drift": true,
   "last_scan_snapshot": {
-    "events": 99,
-    "sources": 64
+    "events": 105,
+    "sources": 74
   },
-  "discoveries_pending": 700,
-  "discoveries_unresolved": 860,
-  "unverified_events": 2,
+  "discoveries_pending": 696,
+  "discoveries_unresolved": 851,
+  "unverified_events": 3,
   "known_age": 30,
   "sources_never_checked": 0,
-  "sources_failed": 13,
+  "sources_failed": 14,
   "source_errors": [
     {
       "name": "La Diversiva",
+      "detail": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "name": "Bibliotecas Málaga",
       "detail": "robots.txt no permite o no pudo comprobarse"
     },
     {
@@ -44,6 +48,10 @@
       "detail": "robots.txt no permite o no pudo comprobarse"
     },
     {
+      "name": "Museo Unicaja Artes y Costumbres Populares",
+      "detail": "500 Server Error: Internal Server Error for url: https://www.fundacionunicaja.com/museoartespopulares/agenda/"
+    },
+    {
       "name": "Laberintus Park · eventos y Halloween",
       "detail": "robots.txt no permite o no pudo comprobarse"
     },
@@ -56,10 +64,6 @@
       "detail": "403 Client Error: Forbidden for url: https://agendaaxarquia.com/agenda/este-mes"
     },
     {
-      "name": "La Térmica Mini · programación infantil (agenda oficial)",
-      "detail": "521 Server Error: <none> for url: https://latermicamalaga.com/la-termica-mini/"
-    },
-    {
       "name": "Entradas.com Málaga · espectáculos",
       "detail": "robots.txt no permite o no pudo comprobarse"
     },
@@ -68,41 +72,41 @@
       "detail": "robots.txt no permite o no pudo comprobarse"
     }
   ],
-  "last_full_scan": "2026-10-15T10:06:50+00:00",
-  "days_since_full_scan": 4.4,
-  "last_radar": "2026-10-19T19:51:06+00:00",
+  "last_full_scan": "2026-10-19T19:59:54+00:00",
+  "days_since_full_scan": 0.0,
+  "last_radar": "2026-10-19T20:11:56+00:00",
   "days_since_radar": 0.0,
-  "last_verifier": "2026-10-19T19:53:32+00:00",
-  "cases_total": 441,
-  "cases_to_investigate": 36,
-  "cases_high_confidence": 33,
+  "last_verifier": "2026-10-19T20:15:13+00:00",
+  "cases_total": 423,
+  "cases_to_investigate": 38,
+  "cases_high_confidence": 34,
   "cases_stale_high_confidence": 0,
-  "last_case_investigation": "2026-10-19T19:53:15+00:00",
-  "last_broad_scout": "2026-10-19T19:51:06+00:00",
-  "broad_scout_new_leads": 0,
-  "ai_hunt_brief_generated": "2026-10-19T19:54:22+00:00",
+  "last_case_investigation": "2026-10-19T20:14:22+00:00",
+  "last_broad_scout": "2026-10-19T20:11:56+00:00",
+  "broad_scout_new_leads": 2,
+  "ai_hunt_brief_generated": "2026-10-19T20:16:31+00:00",
   "ai_hunt_broad_candidates": 22,
   "ai_independent_published": 0,
   "ai_case_published": 0,
-  "age_missing": 69,
+  "age_missing": 74,
   "municipalities_with_events": 14,
   "coverage_by_town": {
-    "Málaga": 61,
+    "Málaga": 63,
     "Fuengirola": 10,
-    "Benalmádena": 7,
+    "Benalmádena": 8,
+    "Estepona": 4,
     "Marbella": 4,
-    "Estepona": 3,
     "Torremolinos": 3,
     "Antequera": 2,
     "Vélez-Málaga": 2,
+    "Ronda": 2,
     "Colmenar": 2,
     "Humilladero": 1,
     "Torre del Mar": 1,
     "Rincón de la Victoria": 1,
-    "Ronda": 1,
     "Mijas": 1
   },
   "alerts": [
-    "13 fuentes con error en su última consulta"
+    "14 fuentes con error en su última consulta"
   ]
 }
