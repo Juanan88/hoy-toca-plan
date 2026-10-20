@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:45:35+00:00",
+  "generated_at": "2026-10-20T10:17:28+00:00",
   "level": "attention",
   "events": 106,
   "sources": 74,
@@ -8,8 +8,8 @@
     "events": 106,
     "sources": 74
   },
-  "discoveries_pending": 671,
-  "discoveries_unresolved": 850,
+  "discoveries_pending": 644,
+  "discoveries_unresolved": 848,
   "unverified_events": 3,
   "known_age": 31,
   "sources_never_checked": 0,
@@ -82,18 +82,18 @@
     }
   ],
   "last_full_scan": "2026-10-19T19:59:54+00:00",
-  "days_since_full_scan": 0.0,
-  "last_radar": "2026-10-19T20:38:51+00:00",
+  "days_since_full_scan": 0.6,
+  "last_radar": "2026-10-20T10:11:45+00:00",
   "days_since_radar": 0.0,
-  "last_verifier": "2026-10-19T20:43:01+00:00",
-  "cases_total": 405,
-  "cases_to_investigate": 39,
-  "cases_high_confidence": 35,
-  "cases_stale_high_confidence": 0,
-  "last_case_investigation": "2026-10-19T20:40:48+00:00",
-  "last_broad_scout": "2026-10-19T20:38:51+00:00",
-  "broad_scout_new_leads": 0,
-  "ai_hunt_brief_generated": "2026-10-19T20:44:14+00:00",
+  "last_verifier": "2026-10-20T10:14:51+00:00",
+  "cases_total": 423,
+  "cases_to_investigate": 36,
+  "cases_high_confidence": 32,
+  "cases_stale_high_confidence": 22,
+  "last_case_investigation": "2026-10-20T10:13:50+00:00",
+  "last_broad_scout": "2026-10-20T10:11:45+00:00",
+  "broad_scout_new_leads": 3,
+  "ai_hunt_brief_generated": "2026-10-20T10:16:07+00:00",
   "ai_hunt_broad_candidates": 22,
   "ai_independent_published": 1,
   "ai_case_published": 0,
@@ -116,6 +116,7 @@
     "Mijas": 1
   },
   "alerts": [
-    "13 fuentes con error en su última consulta"
+    "13 fuentes con error en su última consulta",
+    "22 casos de alta confianza llevan más de 48 h sin resolverse"
   ]
 }

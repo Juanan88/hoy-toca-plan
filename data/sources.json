@@ -216,7 +216,7 @@
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14,
-    "last_broad_checked": "2026-10-18T17:22:41+00:00"
+    "last_broad_checked": "2026-10-20T10:11:45+00:00"
   },
   {
     "id": "SRC-016",
@@ -270,7 +270,7 @@
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 20,
-    "last_broad_checked": "2026-10-18T17:22:41+00:00"
+    "last_broad_checked": "2026-10-20T10:11:45+00:00"
   },
   {
     "id": "SRC-020",
@@ -286,7 +286,7 @@
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14,
-    "last_broad_checked": "2026-10-19T19:51:06+00:00"
+    "last_broad_checked": "2026-10-20T10:11:45+00:00"
   },
   {
     "id": "SRC-021",
@@ -302,7 +302,7 @@
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14,
-    "last_broad_checked": "2026-10-19T19:51:06+00:00"
+    "last_broad_checked": "2026-10-20T10:11:45+00:00"
   },
   {
     "id": "SRC-022",
@@ -331,7 +331,7 @@
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14,
-    "last_broad_checked": "2026-10-19T19:51:06+00:00"
+    "last_broad_checked": "2026-10-20T10:11:45+00:00"
   },
   {
     "id": "SRC-024",
@@ -360,7 +360,7 @@
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14,
-    "last_broad_checked": "2026-10-19T19:51:06+00:00"
+    "last_broad_checked": "2026-10-20T10:11:45+00:00"
   },
   {
     "id": "SRC-026",
@@ -1088,7 +1088,7 @@
     "watch_urls": [
       "https://limon-loco.es/"
     ],
-    "last_checked": "2026-10-19T20:37:56+00:00",
+    "last_checked": "2026-10-20T10:10:54+00:00",
     "events_detected_this_run": 0,
     "daily_crawl": true
   },
@@ -1129,7 +1129,7 @@
       "https://gtmmalaga.com/evento/a_57059-canta-juegos-en-malaga",
       "https://gtmmalaga.com/evento/a_56679-momonsters-mi-primer-musical-en-malaga"
     ],
-    "last_checked": "2026-10-19T20:37:56+00:00",
+    "last_checked": "2026-10-20T10:10:54+00:00",
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14,
@@ -1150,7 +1150,7 @@
     "broad_max_links": 14,
     "max_links": 12,
     "notes": "Auditorio Sohrlin Andalucía, C/ Almonte 6, 29004 Málaga. Su programación WordPress muestra parte de los espectáculos como imágenes y enlaces externos a sohrlinandalucia.janto.es (y otras taquillas), no como fichas con JSON-LD ni enlaces del mismo dominio. Extraer títulos de rutas /es/espectaculo/ y remitirlos a investigación; NO asumir que son infantiles por celebrar allí, ni inventar horarios por las condiciones de venta. Contrastar cada pase y público en la productora oficial (p. ej., Theatre Properties para Annie), en la web del recinto y en la taquilla. Sohrlin NO es el Teatro del Soho CaixaBank. Anuncios históricos se excluyen.",
-    "last_checked": "2026-10-19T20:37:56+00:00",
+    "last_checked": "2026-10-20T10:10:54+00:00",
     "events_detected_this_run": 0,
     "last_broad_checked": "2026-10-19T20:38:51+00:00"
   }
