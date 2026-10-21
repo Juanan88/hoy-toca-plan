@@ -85,6 +85,6 @@
   "total_sources": 74,
   "method": "rastreo prudente por fuentes, enlaces estacionales y JSON-LD con validación geográfica",
   "caveat": "No se garantizan plazas ni exhaustividad; comprobar organizador.",
-  "last_expiration_check": "2026-10-21T07:07:45+00:00",
-  "expired_removed_this_run": 1
+  "last_expiration_check": "2026-10-21T07:19:59+00:00",
+  "expired_removed_this_run": 0
 }
