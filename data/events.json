@@ -4357,6 +4357,9 @@
     "origin": "evidencia textual automatizada",
     "confidence_score": 100,
     "verification_method": "evidencia textual fuerte",
-    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista",
+    "secondary_sources": [
+      "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/talleres-en-semana-blanca-en-el-museo-picasso"
+    ]
   }
 ]
