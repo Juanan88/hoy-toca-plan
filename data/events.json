@@ -861,6 +861,40 @@
     "origin": "json-ld"
   },
   {
+    "id": "EVT-F1D561846665",
+    "title": "Gonzalo Hermida concierto en Málaga",
+    "start": "2026-10-22",
+    "end": "2026-10-22",
+    "time": "21:30",
+    "town": "Málaga",
+    "venue": "La Trinchera",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/gonzalo-hermida-concierto-malaga/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/gonzalo-hermida-concierto-malaga/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/gonzalo-hermida-concierto-malaga/",
+    "status": "publicada_en_fuente",
+    "details": "Gonzalo Hermida22 de octubre 21:30h.MÁLAGA - Sala Trinchera El cantante y compositor gaditano Gonzalo Hermida llega a Málaga con su nueva gira, un directo cargado de emoción, cercanía y canciones que ya forman parte de la nueva generación del pop español. Con millones de reproducciones en plataformas digitales y una comunidad de seguidores que no deja de crecer, Gonzalo Hermida se ha consolidado como una de las voces más prometedoras del panorama",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-22",
+    "last_checked": "2026-10-22T16:03:35+00:00",
+    "origin": "json-ld"
+  },
+  {
     "id": "EVT-A29D35F62F3B",
     "title": "AGENDA: Actividades para niños gratis en octubre del Centro Comercial Rosaleda de Málaga",
     "start": "2026-10-23",
@@ -1061,6 +1095,56 @@
     "last_checked": "2026-10-17T21:34:06+00:00",
     "origin": "Investigación IA programada, con fuente",
     "status": "publicada_en_fuente"
+  },
+  {
+    "id": "EVT-TXT-62E4E4E6AC",
+    "title": "Festival de Cine Francés de Málaga 2026",
+    "start": "2026-10-23",
+    "end": "2026-10-23",
+    "time": "Por confirmar",
+    "town": "Málaga",
+    "venue": "Por confirmar",
+    "category": "Fiestas y eventos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {
+      "start": {
+        "source_url": "https://mmalaga.es/agenda/festival-cine-frances-malaga/",
+        "quote": "e Francés de Málaga , una cita imprescindible para los amantes del cine francófono. El 32FCFM se celebra del 16 al 23 de octubre de 2026 con preestrenos, documentales, cortometraje",
+        "evidence": "Fecha futura explícita vinculada al evento."
+      },
+      "town": {
+        "source_url": "https://mmalaga.es/agenda/festival-cine-frances-malaga/",
+        "quote": "Málaga",
+        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
+      },
+      "audience": {
+        "source_url": "https://mmalaga.es/agenda/festival-cine-frances-malaga/",
+        "quote": "infantil/familiar",
+        "evidence": "El evento se presenta explícitamente como infantil o familiar."
+      }
+    },
+    "audience": "Infantil y familiar",
+    "source_name": "Más Málaga",
+    "source_url": "https://mmalaga.es/agenda/festival-cine-frances-malaga/",
+    "status": "publicada_en_fuente",
+    "details": "Programa y entrada del Festival de Cine Francés de Málaga. Evento organizado por la Alianza francesa, homenaje al cine francófono.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "interval_kind": null,
+    "schedule_note": null,
+    "first_seen": "2026-10-19",
+    "last_checked": "2026-10-22T16:03:50+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 100,
+    "verification_method": "evidencia textual fuerte",
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
   },
   {
     "id": "EVT-LABFAMILY-20261023",
@@ -1808,7 +1892,10 @@
     "origin": "evidencia textual automatizada",
     "confidence_score": 100,
     "verification_method": "evidencia textual fuerte",
-    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista",
+    "secondary_sources": [
+      "https://cadenaser.com/andalucia/2026/10/15/circo-teatro-y-muchos-planes-para-toda-la-familia-ser-malaga/"
+    ]
   },
   {
     "id": "EVT-IA-6297B2D3DF",
@@ -4072,6 +4159,38 @@
         "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
       }
     }
+  },
+  {
+    "id": "EVT-CONCEPCION-OZ-2026",
+    "title": "Navidad en el Jardín de Oz · Luces del Botánico",
+    "start": "2026-11-27",
+    "end": "2027-01-06",
+    "time": "Pases cada 15 minutos de 18:30 a 21:30",
+    "town": "Málaga",
+    "venue": "Jardín Botánico-Histórico La Concepción",
+    "address": "Camino del Jardín Botánico, 3, Málaga",
+    "category": "Espectáculos y teatro",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Todos los públicos; entrada infantil de 3 a 12 años",
+    "price_label": "General: adultos 15,50 €, niños 3–12 años 11,50 €; descuentos según fecha y pase; menores de 3 gratis",
+    "audience": "Familiar",
+    "source_name": "Redentradas / Málagaentradas · venta del espectáculo",
+    "source_url": "https://www.redentradas.com/?buscar=malaga",
+    "reservation_url": "https://www.malagaentradas.com/?eid=3888&entradas=navidad-en-el-jardin-de-oz&recinto=jard%C3%ADn-bot%C3%A1nico---hist%C3%B3rico-la-concepci%C3%B3n&rid=378",
+    "reservation_required": true,
+    "status": "publicada_en_fuente",
+    "details": "Recorrido inmersivo de unos 70 minutos por nueve escenarios iluminados inspirados en El maravilloso Mago de Oz. Entradas por pase horario; verificar los días concretos de apertura y precios en el calendario oficial antes de comprar.",
+    "interval_kind": "continuous_days",
+    "schedule_note": "Temporada del 27 de noviembre al 6 de enero; cerrado 24 y 31 de diciembre. Elegir fecha y pase disponible en la venta oficial.",
+    "first_seen": "2026-10-22",
+    "last_checked": "2026-10-22",
+    "origin": "venta oficial y prensa contrastadas",
+    "secondary_sources": [
+      "https://www.elespanol.com/malaga/20261021/luces-botanico-malaga-convierten-reino-oz-navidad-sigue-camino-luces-amarillas/1003744428895_0.html",
+      "https://lucesdelaconcepcion.es/",
+      "https://www.redentradas.com/?buscar=malaga"
+    ]
   },
   {
     "id": "EVT-C5FEAB604FE6",
