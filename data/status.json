@@ -1,22 +1,14 @@
 {
-  "last_run": "2026-10-19T19:59:54+00:00",
-  "checked": 60,
-  "attempted": 74,
+  "last_run": "2026-10-22T10:19:07+00:00",
+  "checked": 62,
+  "attempted": 76,
   "failed": 14,
-  "new_events": 11,
-  "new_discoveries": 166,
+  "new_events": 18,
+  "new_discoveries": 26,
   "new_sources_suggested": 0,
   "merged_duplicates": 0,
-  "sources_without_structured_events": 52,
+  "sources_without_structured_events": 53,
   "errors": [
-    {
-      "source": "La Diversiva",
-      "reason": "robots.txt no permite o no pudo comprobarse"
-    },
-    {
-      "source": "Bibliotecas Málaga",
-      "reason": "robots.txt no permite o no pudo comprobarse"
-    },
     {
       "source": "Teatro Cervantes y Echegaray",
       "reason": "robots.txt no permite o no pudo comprobarse"
@@ -26,8 +18,8 @@
       "reason": "robots.txt no permite o no pudo comprobarse"
     },
     {
-      "source": "SERpeques · Cadena SER Málaga",
-      "reason": "404 Client Error: Not Found for url: https://cadenaser.com/andalucia/ser-malaga/"
+      "source": "Rincón de la Victoria",
+      "reason": "HTTPSConnectionPool(host='www.rincondelavictoria.es', port=443): Read timed out. (read timeout=15)"
     },
     {
       "source": "CC Vialia Málaga",
@@ -38,6 +30,10 @@
       "reason": "405 Client Error: Not Allowed for url: https://www.visitacostadelsol.com/"
     },
     {
+      "source": "Ayuntamiento Mijas",
+      "reason": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
       "source": "Ayuntamiento Torremolinos",
       "reason": "robots.txt no permite o no pudo comprobarse"
     },
@@ -46,8 +42,8 @@
       "reason": "enlace secundario: No es una página HTML"
     },
     {
-      "source": "Museo Unicaja Artes y Costumbres Populares",
-      "reason": "500 Server Error: Internal Server Error for url: https://www.fundacionunicaja.com/museoartespopulares/agenda/"
+      "source": "Colección Museo Ruso — mediación familiar",
+      "reason": "enlace secundario: 404 Client Error: Not Found for url: https://www.coleccionmuseoruso.es/agenda/"
     },
     {
       "source": "Laberintus Park · eventos y Halloween",
@@ -70,6 +66,14 @@
       "reason": "403 Client Error: Forbidden for url: https://agendaaxarquia.com/agenda/este-mes"
     },
     {
+      "source": "Mijas · noticias y actividades municipales",
+      "reason": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "source": "La Térmica Mini · programación infantil (agenda oficial)",
+      "reason": "503 Server Error: Service Unavailable for url: https://latermicamalaga.com/la-termica-mini/"
+    },
+    {
       "source": "Entradas.com Málaga · espectáculos",
       "reason": "robots.txt no permite o no pudo comprobarse"
     },
@@ -79,12 +83,12 @@
     }
   ],
   "scan_partial": false,
-  "scan_elapsed_seconds": 669.1,
+  "scan_elapsed_seconds": 577.6,
   "sources_pending_next_cycle": 0,
-  "total_events": 108,
-  "total_sources": 74,
+  "total_events": 120,
+  "total_sources": 76,
   "method": "rastreo prudente por fuentes, enlaces estacionales y JSON-LD con validación geográfica",
   "caveat": "No se garantizan plazas ni exhaustividad; comprobar organizador.",
-  "last_expiration_check": "2026-10-21T10:24:39+00:00",
-  "expired_removed_this_run": 0
+  "last_expiration_check": "2026-10-22T10:34:40+00:00",
+  "expired_removed_this_run": 3
 }

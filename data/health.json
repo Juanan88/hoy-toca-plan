@@ -1,30 +1,20 @@
 {
-  "generated_at": "2026-10-21T10:24:39+00:00",
+  "generated_at": "2026-10-22T10:34:40+00:00",
   "level": "attention",
-  "events": 108,
+  "events": 119,
   "sources": 76,
   "catalog_drift": true,
   "last_scan_snapshot": {
-    "events": 108,
-    "sources": 74
+    "events": 120,
+    "sources": 76
   },
-  "discoveries_pending": 614,
-  "discoveries_unresolved": 844,
-  "unverified_events": 3,
-  "known_age": 31,
+  "discoveries_pending": 612,
+  "discoveries_unresolved": 841,
+  "unverified_events": 5,
+  "known_age": 33,
   "sources_never_checked": 0,
-  "sources_failed": 13,
+  "sources_failed": 14,
   "source_errors": [
-    {
-      "name": "La Diversiva",
-      "detail": "robots.txt no permite o no pudo comprobarse",
-      "category": "access_restricted"
-    },
-    {
-      "name": "Bibliotecas Málaga",
-      "detail": "robots.txt no permite o no pudo comprobarse",
-      "category": "access_restricted"
-    },
     {
       "name": "Teatro Cervantes y Echegaray",
       "detail": "robots.txt no permite o no pudo comprobarse",
@@ -34,6 +24,11 @@
       "name": "Teatro Echegaray",
       "detail": "robots.txt no permite o no pudo comprobarse",
       "category": "access_restricted"
+    },
+    {
+      "name": "Rincón de la Victoria",
+      "detail": "HTTPSConnectionPool(host='www.rincondelavictoria.es', port=443): Read timed out. (read timeout=15)",
+      "category": "other"
     },
     {
       "name": "CC Vialia Málaga",
@@ -46,14 +41,14 @@
       "category": "method_not_allowed"
     },
     {
-      "name": "Ayuntamiento Torremolinos",
+      "name": "Ayuntamiento Mijas",
       "detail": "robots.txt no permite o no pudo comprobarse",
       "category": "access_restricted"
     },
     {
-      "name": "Museo Unicaja Artes y Costumbres Populares",
-      "detail": "500 Server Error: Internal Server Error for url: https://www.fundacionunicaja.com/museoartespopulares/agenda/",
-      "category": "server_error"
+      "name": "Ayuntamiento Torremolinos",
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     },
     {
       "name": "Laberintus Park · eventos y Halloween",
@@ -71,6 +66,16 @@
       "category": "access_denied"
     },
     {
+      "name": "Mijas · noticias y actividades municipales",
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
+    },
+    {
+      "name": "La Térmica Mini · programación infantil (agenda oficial)",
+      "detail": "503 Server Error: Service Unavailable for url: https://latermicamalaga.com/la-termica-mini/",
+      "category": "server_error"
+    },
+    {
       "name": "Entradas.com Málaga · espectáculos",
       "detail": "robots.txt no permite o no pudo comprobarse",
       "category": "access_restricted"
@@ -81,42 +86,42 @@
       "category": "access_restricted"
     }
   ],
-  "last_full_scan": "2026-10-19T19:59:54+00:00",
-  "days_since_full_scan": 1.6,
-  "last_radar": "2026-10-21T10:19:39+00:00",
+  "last_full_scan": "2026-10-22T10:19:07+00:00",
+  "days_since_full_scan": 0.0,
+  "last_radar": "2026-10-22T10:29:59+00:00",
   "days_since_radar": 0.0,
-  "last_verifier": "2026-10-21T10:22:38+00:00",
-  "cases_total": 441,
-  "cases_to_investigate": 36,
-  "cases_high_confidence": 32,
+  "last_verifier": "2026-10-22T10:32:48+00:00",
+  "cases_total": 444,
+  "cases_to_investigate": 34,
+  "cases_high_confidence": 30,
   "cases_stale_high_confidence": 23,
-  "last_case_investigation": "2026-10-21T10:21:33+00:00",
-  "last_broad_scout": "2026-10-21T10:19:39+00:00",
-  "broad_scout_new_leads": 6,
-  "ai_hunt_brief_generated": "2026-10-21T10:23:52+00:00",
+  "last_case_investigation": "2026-10-22T10:32:02+00:00",
+  "last_broad_scout": "2026-10-22T10:29:59+00:00",
+  "broad_scout_new_leads": 9,
+  "ai_hunt_brief_generated": "2026-10-22T10:34:02+00:00",
   "ai_hunt_broad_candidates": 22,
   "ai_independent_published": 2,
   "ai_case_published": 2,
-  "age_missing": 77,
+  "age_missing": 86,
   "municipalities_with_events": 14,
   "coverage_by_town": {
-    "Málaga": 65,
+    "Málaga": 71,
     "Fuengirola": 10,
     "Benalmádena": 7,
+    "Marbella": 5,
+    "Vélez-Málaga": 5,
     "Estepona": 4,
-    "Marbella": 4,
-    "Torremolinos": 3,
+    "Torremolinos": 4,
     "Antequera": 3,
-    "Vélez-Málaga": 3,
     "Mijas": 2,
+    "Rincón de la Victoria": 2,
     "Ronda": 2,
     "Colmenar": 2,
     "Humilladero": 1,
-    "Torre del Mar": 1,
-    "Rincón de la Victoria": 1
+    "Torre del Mar": 1
   },
   "alerts": [
-    "13 fuentes con error en su última consulta",
+    "14 fuentes con error en su última consulta",
     "23 casos de alta confianza llevan más de 48 h sin resolverse"
   ]
 }
