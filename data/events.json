@@ -254,7 +254,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en La Térmica, Málaga, el 16 de octubre a las 17:00.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-22T10:20:46+00:00",
+    "last_checked": "2026-10-23T10:16:48+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -511,7 +511,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en La Térmica, Málaga, el 17 de octubre a las 10:00.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-22T10:20:46+00:00",
+    "last_checked": "2026-10-23T10:16:48+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -956,7 +956,9 @@
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-23"
+    ],
     "duration_minutes": null,
     "address": "Calle de la Cruz, 42",
     "reservation_url": "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-23",
@@ -1071,6 +1073,45 @@
     "confidence_score": 100,
     "verification_method": "evidencia textual fuerte",
     "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
+  },
+  {
+    "id": "EVT-C4DB65554016",
+    "title": "II Taller de Fotografía en Familia",
+    "start": "2026-10-23",
+    "end": "2026-10-23",
+    "time": "18:00",
+    "town": "Antequera",
+    "venue": "Plaza de San Sebastián",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": "Plaza de San Sebastián",
+    "reservation_url": "https://informalaga.es/agenda/ii-taller-de-fotografia-en-familia-dlcla",
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/ii-taller-de-fotografia-en-familia-dlcla",
+        "quote": "Plaza de San Sebastián",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      },
+      "reservation_url": {
+        "source_url": "https://informalaga.es/agenda/ii-taller-de-fotografia-en-familia-dlcla",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · informalaga.es",
+    "source_url": "https://informalaga.es/agenda/ii-taller-de-fotografia-en-familia-dlcla",
+    "status": "publicada_en_fuente",
+    "details": "Taller gratuito de fotografía para participar en familia, con plazas limitadas.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-23",
+    "last_checked": "2026-10-23T10:16:48+00:00",
+    "origin": "json-ld"
   },
   {
     "id": "EVT-LABFAMILY-20261023",
@@ -1197,7 +1238,10 @@
     "occurrences": null,
     "first_seen": "2026-10-22",
     "last_checked": "2026-10-22T10:20:46+00:00",
-    "origin": "json-ld"
+    "origin": "json-ld",
+    "secondary_sources": [
+      "https://informalaga.es/agenda/presentacion-del-cuento-aako-la-reina-guerrera-dmrcw"
+    ]
   },
   {
     "id": "EVT-TEATINOS-SUENOS-MEDIEVALES-20261023",
@@ -1491,7 +1535,9 @@
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://informalaga.es/agenda/pequenos-monstruitos-2026-10-24"
+    ],
     "duration_minutes": null,
     "address": "C. Cenit, 2, Puerto de la Torre",
     "reservation_url": "https://www.enterticket.es/eventos/pequenos-monstruitos-679096",

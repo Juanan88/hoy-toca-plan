@@ -26,7 +26,7 @@
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14,
-    "last_broad_checked": "2026-10-22T16:01:22+00:00"
+    "last_broad_checked": "2026-10-23T10:14:51+00:00"
   },
   {
     "id": "SRC-003",
@@ -116,7 +116,7 @@
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14,
-    "last_broad_checked": "2026-10-22T10:29:59+00:00"
+    "last_broad_checked": "2026-10-23T10:14:51+00:00"
   },
   {
     "id": "SRC-009",
@@ -172,7 +172,7 @@
     "broad_discovery": true,
     "broad_max_links": 20,
     "broad_url": "https://informalaga.es/agenda/",
-    "last_broad_checked": "2026-10-22T10:29:59+00:00"
+    "last_broad_checked": "2026-10-23T10:14:51+00:00"
   },
   {
     "id": "SRC-013",
@@ -214,7 +214,7 @@
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14,
-    "last_broad_checked": "2026-10-22T10:29:59+00:00"
+    "last_broad_checked": "2026-10-23T10:14:51+00:00"
   },
   {
     "id": "SRC-016",
@@ -1090,7 +1090,7 @@
     "watch_urls": [
       "https://limon-loco.es/"
     ],
-    "last_checked": "2026-10-23T07:33:58+00:00",
+    "last_checked": "2026-10-23T10:13:34+00:00",
     "events_detected_this_run": 0,
     "daily_crawl": true
   },
@@ -1131,11 +1131,11 @@
       "https://gtmmalaga.com/evento/a_57059-canta-juegos-en-malaga",
       "https://gtmmalaga.com/evento/a_56679-momonsters-mi-primer-musical-en-malaga"
     ],
-    "last_checked": "2026-10-23T07:33:58+00:00",
+    "last_checked": "2026-10-23T10:13:34+00:00",
     "events_detected_this_run": 0,
     "broad_discovery": true,
     "broad_max_links": 14,
-    "last_broad_checked": "2026-10-22T10:29:59+00:00"
+    "last_broad_checked": "2026-10-23T10:14:51+00:00"
   },
   {
     "id": "SRC-074",
@@ -1152,9 +1152,9 @@
     "broad_max_links": 14,
     "max_links": 12,
     "notes": "Auditorio Sohrlin Andalucía, C/ Almonte 6, 29004 Málaga. Su programación WordPress muestra parte de los espectáculos como imágenes y enlaces externos a sohrlinandalucia.janto.es (y otras taquillas), no como fichas con JSON-LD ni enlaces del mismo dominio. Extraer títulos de rutas /es/espectaculo/ y remitirlos a investigación; NO asumir que son infantiles por celebrar allí, ni inventar horarios por las condiciones de venta. Contrastar cada pase y público en la productora oficial (p. ej., Theatre Properties para Annie), en la web del recinto y en la taquilla. Sohrlin NO es el Teatro del Soho CaixaBank. Anuncios históricos se excluyen.",
-    "last_checked": "2026-10-23T07:33:58+00:00",
+    "last_checked": "2026-10-23T10:13:34+00:00",
     "events_detected_this_run": 0,
-    "last_broad_checked": "2026-10-22T10:29:59+00:00"
+    "last_broad_checked": "2026-10-23T10:14:51+00:00"
   },
   {
     "id": "SRC-075",
@@ -1170,7 +1170,7 @@
     "broad_discovery": true,
     "broad_max_links": 12,
     "notes": "Agenda de Las Lagunas, La Cala y Mijas; incluye fichas /evento/ de teatro, magia, talleres y programación familiar (p. ej. Dreaming Bubbles). Investigar fecha y público en la ficha concreta y corroborar en recinto/taquilla cuando sea necesario; no asumir que todos los actos son infantiles.",
-    "last_checked": "2026-10-23T07:33:58+00:00",
+    "last_checked": "2026-10-23T10:13:34+00:00",
     "status": "consultada",
     "events_detected_this_run": 0,
     "last_broad_checked": "2026-10-23T07:28:17+00:00"
@@ -1189,7 +1189,7 @@
     "broad_discovery": true,
     "broad_max_links": 12,
     "notes": "Cartelera completa con espectáculos de La Cochera Cabaret (Málaga) y Teatro Manuel España (Las Lagunas de Mijas), incluyendo magia y teatro familiar cuyo título no dice «infantil». TAMBIÉN incluye Almuñécar (Granada), que debe descartarse. Identificar sede por la ficha específica, verificar fecha futura y público antes de publicar; la etiqueta «Magia» por sí sola no acredita público infantil. No confundir «No me toques el cuento» (humor adulto) con teatro para niños.",
-    "last_checked": "2026-10-23T07:33:58+00:00",
+    "last_checked": "2026-10-23T10:13:34+00:00",
     "status": "consultada",
     "events_detected_this_run": 0,
     "last_broad_checked": "2026-10-23T07:28:17+00:00"
