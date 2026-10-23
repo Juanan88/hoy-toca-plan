@@ -63,8 +63,16 @@ function explicitlyEveryDay(e){
 }
 function explicitlyEnumeratedPeriod(e){
  const note=String(e.schedule_note||'');
- return /(?:actividades|programaci[oó]n|funciones|sesiones)\s+(?:oficiales?\s+)?(?:el|los)\s+\d{1,2}\s*,\s*\d{1,2}\s+y\s+\d{1,2}/i.test(note)
- || /\b(?:abre|se celebra|se celebran)\s+(?:los\s+)?(?:dos|tres)\s+d[ií]as\s+indicados\b/i.test(note);
+ if(/(?:actividades|programaci[oó]n|funciones|sesiones)\s+(?:oficiales?\s+)?(?:el|los)\s+\d{1,2}\s*,\s*\d{1,2}\s+y\s+\d{1,2}/i.test(note)
+ || /\b(?:abre|se celebra|se celebran)\s+(?:los\s+)?(?:dos|tres)\s+d[ií]as\s+indicados\b/i.test(note))return true;
+ // Si la fuente acredita dos sesiones mediante sus días y horarios explícitos,
+ // mostrarlas sin deducir sesiones de un intervalo genérico de cartelera.
+ const start=String(e.start||''),end=String(e.end||'');
+ if(!/^\d{4}-\d{2}-\d{2}$/.test(start)||!/^\d{4}-\d{2}-\d{2}$/.test(end)||start===end)return false;
+ const months=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
+ const dateLabel=d=>Number(d.slice(8))+' '+months[Number(d.slice(5,7))-1];
+ const time=String(e.time||'').toLocaleLowerCase('es');
+ return time.includes(dateLabel(start))&&time.includes(dateLabel(end));
 }
 function eventOnDate(e,date){
  if(['cancelada','aplazada'].includes(e.status)||!e.start||!date)return false;
