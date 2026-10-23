@@ -333,36 +333,6 @@
     }
   },
   {
-    "id": "EVT-LIB-20261016-ML",
-    "title": "Cuentos al Aire — Parque María Luisa",
-    "start": "2026-10-16",
-    "end": "2026-10-22",
-    "time": "18:00",
-    "town": "Málaga",
-    "venue": "Parque María Luisa · C. Horacio Quiroga, 6",
-    "category": "Lectura y cuentos",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Público infantil y familiar",
-    "price_label": "Gratis",
-    "audience": "Infantil y familiar",
-    "source_name": "Bibliotecas Municipales de Málaga (fuente oficial)",
-    "source_url": "https://bibliotecas.malaga.eu/es/agenda/detalle-de-agenda/index.html?id=149202&tipoVO=2",
-    "status": "publicada_en_fuente",
-    "details": "Cuentacuentos, canciones, adivinanzas y libros al aire libre. Entrada libre.",
-    "first_seen": "2026-10-13",
-    "last_checked": "2026-10-13",
-    "origin": "investigación IA + fuente oficial",
-    "occurrences": [
-      "2026-10-16",
-      "2026-10-20",
-      "2026-10-22"
-    ],
-    "interval_kind": "recurring_dates",
-    "schedule_note": "Solo se celebra en los días de sesión indicados.",
-    "secondary_sources": []
-  },
-  {
     "id": "EVT-MIRAMAR-SPACE-2026",
     "title": "Viaje al espacio · Miramar Kids",
     "start": "2026-10-16",
@@ -792,41 +762,6 @@
     "evidence": "actividad concreta · evento multidía con fechas explícitas · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
   },
   {
-    "id": "EVT-7EB288ECC905",
-    "title": "AGENDA: Taller de viñetas gratis en Málaga para jóvenes entre 12 y 17 años",
-    "start": "2026-10-22",
-    "end": "2026-10-22",
-    "time": "17:30",
-    "town": "Málaga",
-    "venue": "Biblioteca Cánovas del Castillo",
-    "category": "Lectura y cuentos",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": "C. Ollerías, 34",
-    "reservation_url": null,
-    "field_sources": {
-      "address": {
-        "source_url": "https://ladiversiva.com/actividad/agenda-taller-de-vinetas-gratis-en-malaga-para-jovenes-entre-12-y-17-anos-2/2026-10-22/",
-        "quote": "C. Ollerías, 34",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "La Diversiva",
-    "source_url": "https://ladiversiva.com/actividad/agenda-taller-de-vinetas-gratis-en-malaga-para-jovenes-entre-12-y-17-anos-2/2026-10-22/",
-    "status": "publicada_en_fuente",
-    "details": "La Biblioteca Cánovas del Castillo de la Diputación de Málaga ofrece este 2026 su Taller de viñetas. Una actividad que está enfocada a desarrollar el proceso creativo del cómic y humor gráfico […]",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-10-22",
-    "last_checked": "2026-10-22T10:19:19+00:00",
-    "origin": "json-ld",
-    "secondary_sources": []
-  },
-  {
     "id": "EVT-B02F815964AD",
     "title": "AGENDA: Tres portales mágicos cargados de sorpresas: vive Halloween en Larios Centro",
     "start": "2026-10-22",
@@ -858,40 +793,6 @@
     "occurrences": null,
     "first_seen": "2026-10-22",
     "last_checked": "2026-10-22T10:19:19+00:00",
-    "origin": "json-ld"
-  },
-  {
-    "id": "EVT-F1D561846665",
-    "title": "Gonzalo Hermida concierto en Málaga",
-    "start": "2026-10-22",
-    "end": "2026-10-22",
-    "time": "21:30",
-    "town": "Málaga",
-    "venue": "La Trinchera",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Gratis",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": "https://mmalaga.es/agenda/gonzalo-hermida-concierto-malaga/",
-    "field_sources": {
-      "reservation_url": {
-        "source_url": "https://mmalaga.es/agenda/gonzalo-hermida-concierto-malaga/",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "Radar · mmalaga.es",
-    "source_url": "https://mmalaga.es/agenda/gonzalo-hermida-concierto-malaga/",
-    "status": "publicada_en_fuente",
-    "details": "Gonzalo Hermida22 de octubre 21:30h.MÁLAGA - Sala Trinchera El cantante y compositor gaditano Gonzalo Hermida llega a Málaga con su nueva gira, un directo cargado de emoción, cercanía y canciones que ya forman parte de la nueva generación del pop español. Con millones de reproducciones en plataformas digitales y una comunidad de seguidores que no deja de crecer, Gonzalo Hermida se ha consolidado como una de las voces más prometedoras del panorama",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-10-22",
-    "last_checked": "2026-10-22T16:03:35+00:00",
     "origin": "json-ld"
   },
   {
@@ -2801,6 +2702,27 @@
     }
   },
   {
+    "id": "EVT-HALLOWEEN-SAN-RAFAEL-2026",
+    "title": "Halloween en el Parque de San Rafael · magia y espectáculo infantil",
+    "time": "18:30",
+    "venue": "Parque de San Rafael",
+    "age_label": "Todos los públicos",
+    "price_label": "Consultar con la organización",
+    "source_name": "Agenda Ayuntamiento de Málaga",
+    "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=142905",
+    "reservation_required": false,
+    "details": "Fiesta de Halloween con pasaje del terror, espectáculo infantil y show de magia. La fuente oficial no precisa precio.",
+    "start": "2026-10-31",
+    "end": "2026-10-31",
+    "town": "Málaga",
+    "category": "Fiestas y celebraciones",
+    "audience": "Familiar",
+    "status": "publicada_en_fuente",
+    "first_seen": "2026-10-23",
+    "last_checked": "2026-10-23",
+    "origin": "agenda oficial Ayuntamiento de Málaga"
+  },
+  {
     "id": "EVT-IA-C37FD084C3",
     "title": "Halloween infantil en Vélez-Málaga: talleres y animación",
     "start": "2026-10-31",
@@ -2882,6 +2804,28 @@
       "https://www.azcostadelsol.com/benalmadena/benalmadena-celebrara-halloween-con-fiestas-infantiles-pasacalles-y-diferentes-espacios-de-terror/",
       "https://www.guiadebenalmadena.com/BENALMADENA/benalmadena-noticias/2026/10/15/benalmadena-celebrara-halloween-con-fiestas-infantiles-pasacalles-y-diferentes-espacios-de-terror/"
     ]
+  },
+  {
+    "id": "EVT-HALLOWEEN-CONCEPCION-TEATRALIZADA-2026",
+    "title": "Halloween · visita teatralizada en La Concepción",
+    "time": "Sesiones desde las 19:00; primeras sesiones destinadas principalmente a familias con menores",
+    "venue": "Jardín Botánico-Histórico La Concepción",
+    "age_label": "Primeras sesiones para familias con menores; contenido de terror",
+    "price_label": "17 €",
+    "source_name": "Ayuntamiento de Málaga · Medio Ambiente",
+    "source_url": "https://medioambiente.malaga.eu/noticias/detalle-de-la-noticia/index.html?id=178733",
+    "reservation_url": "https://medioambiente.malaga.eu/noticias/detalle-de-la-noticia/index.html?id=178733",
+    "reservation_required": true,
+    "details": "Reserva anticipada únicamente por teléfono: 951 92 61 80 o 639 91 40 55. Visita teatralizada de misterio y terror.",
+    "start": "2026-10-31",
+    "end": "2026-10-31",
+    "town": "Málaga",
+    "category": "Fiestas y celebraciones",
+    "audience": "Familiar",
+    "status": "publicada_en_fuente",
+    "first_seen": "2026-10-23",
+    "last_checked": "2026-10-23",
+    "origin": "agenda oficial Ayuntamiento de Málaga"
   },
   {
     "id": "EVT-FUEN-TOYS-2026",
@@ -3087,6 +3031,27 @@
     "secondary_sources": [
       "https://www.velezmalaga.es/index.php?mod=noticias&id=8865"
     ]
+  },
+  {
+    "id": "EVT-HALLOWEEN-CHURRIANA-2026",
+    "title": "XI Noche del Terror de Churriana · Halloween",
+    "time": "19:00–00:00",
+    "venue": "Barriada de Las Pedrizas, Churriana",
+    "age_label": "Todos los públicos; el recorrido puede asustar a los más pequeños",
+    "price_label": "Gratis",
+    "source_name": "Agenda Ayuntamiento de Málaga",
+    "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=149114",
+    "reservation_required": false,
+    "details": "Recorrido terrorífico por las calles de Las Pedrizas. Se recomienda consultar adecuación para niños pequeños.",
+    "start": "2026-10-31",
+    "end": "2026-10-31",
+    "town": "Málaga",
+    "category": "Fiestas y celebraciones",
+    "audience": "Familiar",
+    "status": "publicada_en_fuente",
+    "first_seen": "2026-10-23",
+    "last_checked": "2026-10-23",
+    "origin": "agenda oficial Ayuntamiento de Málaga"
   },
   {
     "id": "EVT-3309B82F055F",

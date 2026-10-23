@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T19:12:53+00:00",
+  "updated_at": "2026-10-23T07:26:55+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -12,15 +12,6 @@
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
       "source_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica",
       "showtimes": [
-        {
-          "date": "2026-10-22",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "18:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
-        },
         {
           "date": "2026-10-23",
           "cinema": "Cines La Verónica",
@@ -312,6 +303,42 @@
             "17:20"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/rincon-de-la-victoria/yelmo-cines-rincon-de-la-victoria"
+        },
+        {
+          "date": "2026-10-29",
+          "cinema": "Cines La Verónica",
+          "town": "Antequera",
+          "times": [
+            "17:30"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
+        },
+        {
+          "date": "2026-10-29",
+          "cinema": "mk2 Cines Miramar",
+          "town": "Fuengirola",
+          "times": [
+            "15:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
+        },
+        {
+          "date": "2026-10-29",
+          "cinema": "Multicines Rosaleda",
+          "town": "Málaga",
+          "times": [
+            "17:10"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
+        },
+        {
+          "date": "2026-10-29",
+          "cinema": "Yelmo Cines Vialia",
+          "town": "Málaga",
+          "times": [
+            "17:15"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
         }
       ],
       "id": "MOV-E1952705CC0E"
@@ -433,15 +460,6 @@
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
       "source_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar",
       "showtimes": [
-        {
-          "date": "2026-10-22",
-          "cinema": "Kinépolis La Cañada",
-          "town": "Marbella",
-          "times": [
-            "16:50"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
-        },
         {
           "date": "2026-10-23",
           "cinema": "mk2 Cines Miramar",
@@ -645,6 +663,15 @@
             "17:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
+        },
+        {
+          "date": "2026-10-29",
+          "cinema": "Multicines Rosaleda",
+          "town": "Málaga",
+          "times": [
+            "17:10"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         }
       ],
       "id": "MOV-9F78D770D720"
@@ -1204,6 +1231,70 @@
             "17:50"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/rincon-de-la-victoria/yelmo-cines-rincon-de-la-victoria"
+        },
+        {
+          "date": "2026-10-29",
+          "cinema": "Cines La Verónica",
+          "town": "Antequera",
+          "times": [
+            "17:30"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
+        },
+        {
+          "date": "2026-10-29",
+          "cinema": "mk2 Cines Miramar",
+          "town": "Fuengirola",
+          "times": [
+            "15:45",
+            "17:45"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
+        },
+        {
+          "date": "2026-10-29",
+          "cinema": "Kinépolis La Cañada",
+          "town": "Marbella",
+          "times": [
+            "17:10"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
+        },
+        {
+          "date": "2026-10-29",
+          "cinema": "Multicines Rosaleda",
+          "town": "Málaga",
+          "times": [
+            "17:45"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
+        },
+        {
+          "date": "2026-10-29",
+          "cinema": "Yelmo Cines Plaza Mayor",
+          "town": "Málaga",
+          "times": [
+            "17:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
+        },
+        {
+          "date": "2026-10-29",
+          "cinema": "Yelmo Cines Vialia",
+          "town": "Málaga",
+          "times": [
+            "17:45"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
+        },
+        {
+          "date": "2026-10-29",
+          "cinema": "Yelmo Cines Rincón de la Victoria",
+          "town": "Rincón de la Victoria",
+          "times": [
+            "17:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/rincon-de-la-victoria/yelmo-cines-rincon-de-la-victoria"
         }
       ],
       "id": "MOV-C640C48C4EA1"
@@ -1219,15 +1310,6 @@
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
       "source_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda",
       "showtimes": [
-        {
-          "date": "2026-10-22",
-          "cinema": "Kinépolis La Cañada",
-          "town": "Marbella",
-          "times": [
-            "15:45"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
-        },
         {
           "date": "2026-10-23",
           "cinema": "Kinépolis La Cañada",
@@ -1309,32 +1391,18 @@
             "17:10"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
+        },
+        {
+          "date": "2026-10-29",
+          "cinema": "Multicines Rosaleda",
+          "town": "Málaga",
+          "times": [
+            "17:10"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         }
       ],
       "id": "MOV-194524E05612"
-    },
-    {
-      "title": "VENGADORES ENDGAME: ENCORE",
-      "classification": "7 años",
-      "duration_minutes": 181,
-      "genres": [
-        "Aventuras",
-        "Fantástico"
-      ],
-      "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
-      "source_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor",
-      "showtimes": [
-        {
-          "date": "2026-10-22",
-          "cinema": "Yelmo Cines Plaza Mayor",
-          "town": "Málaga",
-          "times": [
-            "20:45"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
-        }
-      ],
-      "id": "MOV-BF76F3954211"
     }
   ],
   "sources_checked": 9,

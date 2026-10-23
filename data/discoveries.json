@@ -1,911 +1,5 @@
 [
   {
-    "title": "Planes con niños",
-    "url": "https://informalaga.es/agenda/con-ninos",
-    "source_name": "InforMálaga",
-    "first_seen": "2026-10-18",
-    "status": "verificada_con_fecha",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-012",
-    "review_reason": "Evento con fecha y lugar estructurados.",
-    "last_checked": "2026-10-18",
-    "review_priority": "resuelta",
-    "verification_method": "json-ld",
-    "confidence_score": 100,
-    "confidence_reasons": [
-      "evento estructurado con fecha y municipio"
-    ],
-    "verified_event_ids": [
-      "EVT-E47F419D6238",
-      "EVT-C297A337AB32",
-      "EVT-1DFF4ECB9DC8",
-      "EVT-4B36DA426815",
-      "EVT-22A007185261",
-      "EVT-5E7E45D1435A",
-      "EVT-1E65D2CA5F29",
-      "EVT-IA-A10BB5DC03"
-    ]
-  },
-  {
-    "title": "Cuentos al Aire",
-    "url": "https://informalaga.es/agenda/club-de-lectura-para-adultos-bpm-jorge-guillen-2026-10-19",
-    "source_name": "InforMálaga",
-    "first_seen": "2026-10-18",
-    "status": "verificada_con_fecha",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-012",
-    "review_reason": "Actividad publicada por evidencia textual de alta confianza.",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 95,
-    "confidence_reasons": [
-      "actividad concreta",
-      "evento multidía con fechas explícitas",
-      "público infantil/familiar",
-      "municipio malagueño explícito",
-      "fuente aprobada del catálogo"
-    ],
-    "review_priority": "resuelta",
-    "verification_method": "texto",
-    "verified_event_ids": [
-      "EVT-TXT-457476F096"
-    ]
-  },
-  {
-    "title": "Cita con el Tablero. Taller de Ajedrez Infantil. B.P.M. Cristóbal Cuevas",
-    "url": "https://informalaga.es/agenda/taller-de-poesia-bpm-manuel-altolaguirre-2026-10-07",
-    "source_name": "InforMálaga",
-    "first_seen": "2026-10-18",
-    "status": "verificada_con_fecha",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-012",
-    "review_reason": "Actividad publicada por evidencia textual de alta confianza.",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 100,
-    "confidence_reasons": [
-      "actividad concreta",
-      "fecha futura explícita",
-      "público infantil/familiar",
-      "municipio malagueño explícito",
-      "fuente aprobada del catálogo",
-      "titular coherente con la pista"
-    ],
-    "review_priority": "resuelta",
-    "verification_method": "texto",
-    "verified_event_ids": [
-      "EVT-TXT-63A0A94938"
-    ]
-  },
-  {
-    "title": "Fin de semana",
-    "url": "https://informalaga.es/agenda/este-fin-de-semana",
-    "source_name": "InforMálaga",
-    "first_seen": "2026-10-18",
-    "status": "verificada_con_fecha",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-012",
-    "review_reason": "Evento con fecha y lugar estructurados.",
-    "last_checked": "2026-10-18",
-    "review_priority": "resuelta",
-    "verification_method": "json-ld",
-    "confidence_score": 100,
-    "confidence_reasons": [
-      "evento estructurado con fecha y municipio"
-    ],
-    "verified_event_ids": [
-      "EVT-IA-14055FDF02",
-      "EVT-C74E50BAC0A0",
-      "EVT-E47F419D6238",
-      "EVT-67B1DA9BA68A",
-      "EVT-138B5D4FFD9D"
-    ]
-  },
-  {
-    "title": "Planes gratis",
-    "url": "https://informalaga.es/agenda/planes-gratis",
-    "source_name": "InforMálaga",
-    "first_seen": "2026-10-18",
-    "status": "verificada_con_fecha",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-012",
-    "review_reason": "Evento con fecha y lugar estructurados.",
-    "last_checked": "2026-10-18",
-    "review_priority": "resuelta",
-    "verification_method": "json-ld",
-    "confidence_score": 100,
-    "confidence_reasons": [
-      "evento estructurado con fecha y municipio"
-    ],
-    "verified_event_ids": [
-      "EVT-C74E50BAC0A0",
-      "EVT-67B1DA9BA68A",
-      "EVT-C297A337AB32"
-    ]
-  },
-  {
-    "title": "Esta semana",
-    "url": "https://informalaga.es/agenda/esta-semana",
-    "source_name": "InforMálaga",
-    "first_seen": "2026-10-18",
-    "status": "verificada_con_fecha",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-012",
-    "review_reason": "Evento con fecha y lugar estructurados.",
-    "last_checked": "2026-10-18",
-    "review_priority": "resuelta",
-    "verification_method": "json-ld",
-    "confidence_score": 100,
-    "confidence_reasons": [
-      "evento estructurado con fecha y municipio"
-    ],
-    "verified_event_ids": [
-      "EVT-IA-14055FDF02",
-      "EVT-C74E50BAC0A0",
-      "EVT-E47F419D6238",
-      "EVT-67B1DA9BA68A",
-      "EVT-138B5D4FFD9D"
-    ]
-  },
-  {
-    "title": "Visitas guiadas",
-    "url": "https://www.carmenthyssenmalaga.org/actividades/visita-guiada",
-    "source_name": "Museo Carmen Thyssen (web cultural)",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-015",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Cursos y conferencias",
-    "url": "https://www.carmenthyssenmalaga.org/actividades/curso-conferencia",
-    "source_name": "Museo Carmen Thyssen (web cultural)",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-015",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Museo en acción",
-    "url": "https://www.carmenthyssenmalaga.org/actividades/museo-accion",
-    "source_name": "Museo Carmen Thyssen (web cultural)",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-015",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Amigos del Museo",
-    "url": "https://www.carmenthyssenmalaga.org/actividades/amigos-museo",
-    "source_name": "Museo Carmen Thyssen (web cultural)",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-015",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Cursos y conferencias Taller de pintura. Óleo-¡olé!: Pintar el ritmo 19 de octubre de 2026",
-    "url": "https://www.carmenthyssenmalaga.org/actividad/taller-oleo-ole",
-    "source_name": "Museo Carmen Thyssen (web cultural)",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-015",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Museo en acción Pinceladas musicales. Malaka consort & Malaka voices 22 de octubre de 2026",
-    "url": "https://www.carmenthyssenmalaga.org/actividad/pinceladas2026-malaka-consort-voices",
-    "source_name": "Museo Carmen Thyssen (web cultural)",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-015",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Leer más » Tiempo sin pantallas. Martes de talleres con AMAS",
-    "url": "https://mmalaga.es/agenda/talleres-niage-garage-malaga/",
-    "source_name": "Más Málaga",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-019",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Más detalles",
-    "url": "https://mmalaga.es/agenda/programa-semana-de-la-proximidad-malaga/",
-    "source_name": "Más Málaga",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-019",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "regla de exclusión del catálogo"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "El EcoMercado. Mercado Ecológico en Málaga",
-    "url": "https://mmalaga.es/agenda/calendario-mercado-ecologico-malaga/",
-    "source_name": "Más Málaga",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-019",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Visita la Fábrica de Cerveza Victoria",
-    "url": "https://mmalaga.es/agenda/visita-fabrica-cerveza-victoria-malaga/",
-    "source_name": "Más Málaga",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-019",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Comercio y Vía pública Mercadillos de Rincón de la Victoria y La Cala del Moral 31 de Diciembre de 2026 08:00 Rincón de la Victoria y La Cala del Moral",
-    "url": "https://www.rincondelavictoria.es/eventos/mercadillos-de-rincon-de-la-victoria-y-la-cala-del-moral",
-    "source_name": "Rincón de la Victoria",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-023",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Turismo Villa Antiopa 1 de Diciembre de 2026 15:00 Avenida de la Torre nº 49",
-    "url": "https://www.rincondelavictoria.es/eventos/villa-antiopa",
-    "source_name": "Rincón de la Victoria",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-023",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Deportes 10.º aniversario de Desafío de Guerreros 25 de Octubre de 2026 09:00 Playa Rincón de la Victoria",
-    "url": "https://www.rincondelavictoria.es/eventos/10o-aniversario-de-desafio-de-guerreros",
-    "source_name": "Rincón de la Victoria",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-023",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Ferias y fiestas Torre de Benagalbón celebra su tradicional Verbena de San Miguel 26 de Septiembre de 2026 13:00 Explanada de la Antigua Estación de Ferrocarril",
-    "url": "https://www.rincondelavictoria.es/eventos/torre-de-benagalbon-celebra-su-tradicional-verbena-de-san-miguel",
-    "source_name": "Rincón de la Victoria",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-023",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Deportes 35ª edición del Rallye Gibralfaro 26 de Septiembre de 2026 09:00 Plaza de la Constitución de Rincón de la Victoria",
-    "url": "https://www.rincondelavictoria.es/eventos/35a-edicion-del-rallye-gibralfaro",
-    "source_name": "Rincón de la Victoria",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-023",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Turismo Día Internacional del Turismo 2026 25 de Septiembre de 2026 12:00 Distintas localizaciones del municipio",
-    "url": "https://www.rincondelavictoria.es/eventos/dia-internacional-del-turismo-2026",
-    "source_name": "Rincón de la Victoria",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-023",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Visita teatraliza [Jardín Botánico histórico la Concepción] - Diputación de Málaga",
-    "url": "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/evento/visita-guiada-diurna-en-el-jardin-botanico-historico-la-concepcion",
-    "snippet": "Visita teatraliza [Jardín Botánico histórico la Concepción] Diputación de Málaga",
-    "published_at": "Thu, 17 Sep 2026 19:28:47 GMT",
-    "source_name": "Investigación por caso",
-    "discovery_method": "case_rescue",
-    "case_id": "CASE-CD7BE79BB9",
-    "query": "\"Jardín Botánico La Concepción\" \"historico\"  \"Málaga\" 2026",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "resolution_checked": "2026-10-18",
-    "resolution_version": 2,
-    "google_news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGtPREFOcnY2VHVUQkNib2RPTFNMTFNBSTY1bThlRndzMlpMZzg2RWdhYXJWZkpfT2RIQ3NtSThZYVVxRXdONjFPQ3pqZEpTNTNDQkgxVWJfM0RaM2NpQUswNTRYOENwSl9vNXJxZnFjTDV6OXFJRXEtMmlqQWF6Q1BQTXBCMEJubjg5cUFaemtOTnpYS1I5RWxCczlBVjQ5YjZXMmxMRy1wRHRKQXU4ZFVHRWx6Tkp1WEJrTE5YZnExTjRDdm84QWpxZUpGZw?oc=5",
-    "resolved_from_google_news": true,
-    "resolution_method": "title_match",
-    "last_checked": "2026-10-21",
-    "last_text_checked": "2026-10-21",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Campamento de Semana Santa infantil este 2026 en el Jardín Botánico Histórico La Concepción de Málaga - La Diversiva",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdGJ5UUJMNU1vRkhfT181QU10R2NVM3FFTjZyTno2SWFnRWxpaGxZZXNxMEtoQTJDdndMQ0hjaWhmT2dSaTJDN08tZFFZVHRpQkM3eldPSGkxWUxqQjVYNjZqRERpd0xSMWttX3RVNmFDNEhOVXA2aGJUOXpsQW04Z016UjdOUVRIcGtDRWxacE84ejdCdWFnanZwc21heEJ4WjczZG1pTFhnSGQ1?oc=5",
-    "snippet": "Campamento de Semana Santa infantil este 2026 en el Jardín Botánico Histórico La Concepción de Málaga La Diversiva",
-    "published_at": "Wed, 06 Mar 2024 13:17:34 GMT",
-    "source_name": "Investigación por caso",
-    "discovery_method": "case_rescue",
-    "case_id": "CASE-CD7BE79BB9",
-    "query": "\"Jardín Botánico La Concepción\" \"historico\"  \"Málaga\" 2026",
-    "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
-    "resolution_checked": "2026-10-18",
-    "resolution_version": 2
-  },
-  {
-    "title": "Bioparc Fuengirola amplía su horario hasta las 23.00 horas con espectáculos y actividades familiares durante el verano - Cadena SER",
-    "url": "https://cadenaser.com/andalucia/2026/07/22/bioparc-fuengirola-amplia-su-horario-hasta-las-2300-horas-con-espectaculos-y-actividades-familiares-durante-el-verano-ser-malaga/",
-    "snippet": "Bioparc Fuengirola amplía su horario hasta las 23.00 horas con espectáculos y actividades familiares durante el verano Cadena SER",
-    "published_at": "Wed, 22 Jul 2026 07:00:00 GMT",
-    "source_name": "Investigación por caso",
-    "discovery_method": "case_rescue",
-    "case_id": "CASE-7E5E78ED78",
-    "query": "\"Bioparc Fuengirola\" \"amplia\" naturaleza \"Fuengirola\" 2026",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "resolution_checked": "2026-10-18",
-    "resolution_version": 2,
-    "google_news_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSlB4SE1PbHU3QTVXWGNKLWNVYmx1bmFBNXM1djFMSUtpcF9XbDQyUzZreEJ5aEdsN2I5MU1fbHlUeHhJc0xyZS1vUFluN2Z3NWM3emVKS1cxYkxxWENoYnhsR0ZGWUt4V0tGcWt4QmI5SWpjM0hoa0E1VWJJQ0FDZkpYbHdzSGFLY3ZJN20wdnF5Z3pYWnFHbkpPSnEtb1VPQlNnVnJMSHJRWUZnYnBTeVR2R2xxQ21xdzE0d21oWE1CSUViTjVkVjFTbnRHOFpwZy1ESTdwd2dfUDFsQnBtTklvNXozNUtaWTk1YXp4d3ZVME85UXNfTEYydE80X2pXZ3fSAZYCQVVfeXFMTmhBNkhiVVdOeWFKcjlEVEpLTFJiY0pJQVdvcGFqMTUwYWxjXzFhU2luanlXOWJCcWw5aXJQcjM3N3A1ak16QmtoYVZ5VWxwR2laZEQwU1RQWmJrOVdMa3ZWdi02NXMyQzQyUm1IYnlyWnQ0Vy1famZtNTk5YS10QUNaa2djMzByVEJXX1V6VklCMmRaaF9seXRRRmhHV0FKaUJoRTRxeHNxbHBLMFB6UFBhbTBlN1dhWEk5LWZWRmNZMkpmNVFSd2JqajRsMEk0UjVQSW1UdE9oTmNtazg0SWw0OHRkMjU4cTN0T0c3NHBTQTdfNjVtanpFLVRseUpNYVNpSDhHaXpWR1hMSFR4QlRDQ2tDREE?oc=5",
-    "resolved_from_google_news": true,
-    "resolution_method": "title_match",
-    "last_checked": "2026-10-21",
-    "last_text_checked": "2026-10-21",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Jekyll hyde el musical",
-    "url": "https://sohrlinandalucia.janto.es/es/espectaculo/jekyll-hyde-el-musical-by-theatre-properties-sohrlin-malaga/JEKYLL26",
-    "snippet": "Entrada oficial enlazada desde Sohrlin Andalucía (Málaga). La ficha de venta puede requerir navegador; verificar sinopsis, público familiar, fecha futura y horas en organizador.",
-    "source_name": "Sohrlin Andalucía · programación oficial",
-    "first_seen": "2026-10-18",
-    "discovery_method": "venue_ticket_link",
-    "status": "sin_acceso_automatico",
-    "review_reason": "Fuente no disponible para lectura automática: robots.txt no permite o no pudo comprobarse",
-    "last_checked": "2026-10-18"
-  },
-  {
-    "title": "Casa pestino navidad flamenca",
-    "url": "https://sohrlinandalucia.janto.es/es/espectaculo/casa-pestino-navidad-flamenca/FLMC26",
-    "snippet": "Entrada oficial enlazada desde Sohrlin Andalucía (Málaga). La ficha de venta puede requerir navegador; verificar sinopsis, público familiar, fecha futura y horas en organizador.",
-    "source_name": "Sohrlin Andalucía · programación oficial",
-    "first_seen": "2026-10-18",
-    "discovery_method": "venue_ticket_link",
-    "status": "sin_acceso_automatico",
-    "review_reason": "Fuente no disponible para lectura automática: robots.txt no permite o no pudo comprobarse",
-    "last_checked": "2026-10-18"
-  },
-  {
-    "title": "Mecano symphonic",
-    "url": "https://sohrlinandalucia.janto.es/es/espectaculo/mecano-symphonic/MECAN2026CONCERT",
-    "snippet": "Entrada oficial enlazada desde Sohrlin Andalucía (Málaga). La ficha de venta puede requerir navegador; verificar sinopsis, público familiar, fecha futura y horas en organizador.",
-    "source_name": "Sohrlin Andalucía · programación oficial",
-    "first_seen": "2026-10-18",
-    "discovery_method": "venue_ticket_link",
-    "status": "sin_acceso_automatico",
-    "review_reason": "Fuente no disponible para lectura automática: robots.txt no permite o no pudo comprobarse",
-    "last_checked": "2026-10-18"
-  },
-  {
-    "title": "Cumpleaños infantiles",
-    "url": "https://limon-loco.es/b-day",
-    "source_name": "Limón Loco Málaga · talleres y animaciones oficiales",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-21",
-    "last_text_checked": "2026-10-21",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Seguimiento prioritario",
-    "url": "https://gtmmalaga.com/evento/a_54559-imagilusion-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "verificada_con_fecha",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "Pista ya incorporada a la agenda; se conserva el vínculo de la fuente.",
-    "verified_event_ids": [
-      "EVT-GTM-9261EFF603D6"
-    ]
-  },
-  {
-    "title": "Seguimiento prioritario",
-    "url": "https://gtmmalaga.com/evento/a_60208-imagilusion-en-malaga---sesion-20h",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "verificada_con_fecha",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 35,
-    "confidence_reasons": [
-      "actividad concreta",
-      "fecha futura explícita",
-      "sin evidencia infantil/familiar junto al evento"
-    ],
-    "review_priority": "normal",
-    "review_reason": "Pista ya incorporada a la agenda; se conserva el vínculo de la fuente.",
-    "verified_event_ids": [
-      "EVT-GTM-9261EFF603D6"
-    ]
-  },
-  {
-    "title": "Seguimiento prioritario",
-    "url": "https://gtmmalaga.com/evento/a_57059-canta-juegos-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Seguimiento prioritario",
-    "url": "https://gtmmalaga.com/evento/a_56679-momonsters-mi-primer-musical-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 35,
-    "confidence_reasons": [
-      "actividad concreta",
-      "fecha futura explícita",
-      "sin evidencia infantil/familiar junto al evento"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100)."
-  },
-  {
-    "title": "Más información",
-    "url": "https://gtmmalaga.com/evento/a_57286-los-hijos-adolescentes-de-andres-torres-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Más información",
-    "url": "https://gtmmalaga.com/evento/a_59608-las-ratas-por-dsas3-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Más información",
-    "url": "https://gtmmalaga.com/evento/a_54232-querida-yo-tenemos-que-hablar-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Más información",
-    "url": "https://gtmmalaga.com/evento/a_59707-soy-un-50ter---marcos-arizmendi-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Más información",
-    "url": "https://gtmmalaga.com/evento/a_58650-los-humanos-y-su-antologia-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Más información",
-    "url": "https://gtmmalaga.com/evento/a_54418-perdido-en-los-80-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Más información",
-    "url": "https://gtmmalaga.com/evento/a_59680-para-bailar-by-elvira-romero-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Más información",
-    "url": "https://gtmmalaga.com/evento/a_55952-mago-hugo---la-piel-de-gallina-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Más información",
-    "url": "https://gtmmalaga.com/evento/a_59723-gala-navidad-mireia-dance-studio-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "verificada_con_fecha",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 95,
-    "confidence_reasons": [
-      "actividad concreta",
-      "fecha futura explícita",
-      "público infantil/familiar",
-      "municipio malagueño explícito",
-      "fuente aprobada del catálogo"
-    ],
-    "review_priority": "resuelta",
-    "verification_method": "texto",
-    "review_reason": "Actividad publicada por evidencia textual de alta confianza.",
-    "verified_event_ids": [
-      "EVT-TXT-F593657FA2"
-    ]
-  },
-  {
-    "title": "Más información",
-    "url": "https://gtmmalaga.com/evento/a_56974-deja-vu-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Más información",
-    "url": "https://gtmmalaga.com/evento/a_59679-salir-de-la-tele---agustin-jimenez-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Más información",
-    "url": "https://gtmmalaga.com/evento/a_58502-doscapacitados-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Más información",
-    "url": "https://gtmmalaga.com/evento/a_60405-toni-bright---creer-es-poder-en-malaga",
-    "source_name": "GTM Málaga · cartelera oficial Auditorio AM",
-    "first_seen": "2026-10-18",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-18",
-    "last_text_checked": "2026-10-18",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Circo, batalla de bandas y teatro para disfrutar del puente de octubre en Málaga con niños - Diario Sur",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHhMZ290SUpZb1p2SnVaeHJlS0VURGJIT0JJb0VFd1ZocmxXYkpoU3RxbUl2cmdnbVpvRVNxVUU5UkZweE5GYzA2MzdUVzRsdU9sazB4bFBMWUIzaG0tV3I1TlhGWHVJVjdKWEo4LVBpbjk0YmhIMnZCZGJzQlozQ01DZG5IdnFGbHFxOS1ZSVQ3RGdfVXRuOWFId0ozMjBJdGwxY9IBqgFBVV95cUxNaUxLcjRCaUFIU0IydUZVTjBkdzhHREZjLTd4SlJLYUhxRlBqWnBablBsemlfZTJwT3BBS2VzNHJQT0t3WEJuMnFxZmdHU0ZmX19YOFlzUjF2S0NrdDQ3YnRzZmFmQ3Q5dTE1cjBPUTlyNlRpZjRtVGdObnJpT2FyT0FYdWRxc1RPSzlQbDFnblI4VzZJTEhqZjNvZnZMV0d2eWdSRGdPYmZlZw?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Circo, batalla de bandas y teatro para disfrutar del puente de octubre en Málaga con niños Diario Sur",
-    "discovery_method": "rss",
-    "query": "\"Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Wed, 07 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "title": "'Estepona Vive sus Calles' vuelve en otoño con Seguridad Social, atracciones infantiles y actividades culturales - https://tuperiodico.soy/",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjE5czN5Q2tvUWhoYlltclFwcFBoSjI4QXNnSi01ZklnTXFuendjVDN3Y1RTUkVteUxmNkRPa0ZQeG5wUHlOZHpqS01pRjdIeUl1NlF2bnloOGQ5RzNjX0lQdmdsaWxKSFVtT1RpS1lTQlhxd3o3QXpSSlRDYlVHaHc4NTJjdE9iX1VkZXZ2clA1c29mZ0hWY3ltVE5nakFfeWl2UDViRk9oVlJETGxyRHREZG1zZVk5b1o5eVBkUGhGajQ?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "'Estepona Vive sus Calles' vuelve en otoño con Seguridad Social, atracciones infantiles y actividades culturales https://tuperiodico.soy/",
-    "discovery_method": "rss",
-    "query": "\"Estepona\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Sun, 04 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Títeres, talleres (gratis) y música para disfrutar del fin de semana con niños en Málaga - Diario Sur",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSURkeEJ3MEZtRGJQQjN3djI5bnNpaV9QVGxmaXptSl93NUhKMlZBNGpiS2NSUFkxa3M1SkhZWjJnTWFSbzBYWTJTSlN4ZG0zRVg1c2xRR1RMcXRyQUJETUl3cVdwVFFCR2lIdmZ1aktocWFCSmtMdkdWb0dMV1NjZkVDQ0pCQTRqemVYbTdYRllkQktYVWNlUmZDVHJCaG91UklR0gGoAUFVX3lxTFBZajIwMWVvRm5Bd3JMU3psTmhQVEM3dVR1ZkZCZEVjMHRheXBpWmdDQ2JzMGlCRzhubW44UU44MkYtdzVlYmtoWUF1V1p2SFdqd19GV0F2NUxiQzV6YXk4Ty1jTW9CU3hwcGJXZjhPSzgzWHJqTUtUbHZuNXBqNGw1eURnWFhBWDNmZnhnOGh4cWpXTVZmbVNFMWpMcEd6SDZJdE5KUXZoUA?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Títeres, talleres (gratis) y música para disfrutar del fin de semana con niños en Málaga Diario Sur",
-    "discovery_method": "rss",
-    "query": "Málaga Navidad niños actividades when:45d",
-    "published_at": "Wed, 23 Sep 2026 07:00:00 GMT"
-  },
-  {
-    "title": "AGENDA: Actividades en la playa gratis para niños con Bioparc Fuengirola - La Diversiva",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmlLZVU5UHVvS21TY3B2RlZTSE1ja1haUkFLaE1BNFljMXhVRkIxbU5iUnVDSGlaUHNreDhnbURkcGJSekIzYzVaOVkxOFZNZldtNGhVZjhkVzgwNFdMdnNpUGZ3YVg4WWNKc0VIQXBvUHRkUGxxblVIUU12MnhwV2tLVGR6Y1p3NVR2NzduUEZka3M1NVpoSDNEdDJpOTJ3Tk0wQlgwRHFMLUpmNVd2QUFYTTIzelkx?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "AGENDA: Actividades en la playa gratis para niños con Bioparc Fuengirola La Diversiva",
-    "discovery_method": "rss",
-    "query": "\"Bioparc Fuengirola\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Fuengirola\" when:90d",
-    "published_at": "Sun, 16 Aug 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Bioparc Fuengirola amplía su horario hasta las 23.00 horas con espectáculos y actividades familiares durante el verano - Cadena SER",
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSlB4SE1PbHU3QTVXWGNKLWNVYmx1bmFBNXM1djFMSUtpcF9XbDQyUzZreEJ5aEdsN2I5MU1fbHlUeHhJc0xyZS1vUFluN2Z3NWM3emVKS1cxYkxxWENoYnhsR0ZGWUt4V0tGcWt4QmI5SWpjM0hoa0E1VWJJQ0FDZkpYbHdzSGFLY3ZJN20wdnF5Z3pYWnFHbkpPSnEtb1VPQlNnVnJMSHJRWUZnYnBTeVR2R2xxQ21xdzE0d21oWE1CSUViTjVkVjFTbnRHOFpwZy1ESTdwd2dfUDFsQnBtTklvNXozNUtaWTk1YXp4d3ZVME85UXNfTEYydE80X2pXZ3fSAZYCQVVfeXFMTmhBNkhiVVdOeWFKcjlEVEpLTFJiY0pJQVdvcGFqMTUwYWxjXzFhU2luanlXOWJCcWw5aXJQcjM3N3A1ak16QmtoYVZ5VWxwR2laZEQwU1RQWmJrOVdMa3ZWdi02NXMyQzQyUm1IYnlyWnQ0Vy1famZtNTk5YS10QUNaa2djMzByVEJXX1V6VklCMmRaaF9seXRRRmhHV0FKaUJoRTRxeHNxbHBLMFB6UFBhbTBlN1dhWEk5LWZWRmNZMkpmNVFSd2JqajRsMEk0UjVQSW1UdE9oTmNtazg0SWw0OHRkMjU4cTN0T0c3NHBTQTdfNjVtanpFLVRseUpNYVNpSDhHaXpWR1hMSFR4QlRDQ2tDREE?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Bioparc Fuengirola amplía su horario hasta las 23.00 horas con espectáculos y actividades familiares durante el verano Cadena SER",
-    "discovery_method": "rss",
-    "query": "\"Bioparc Fuengirola\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Fuengirola\" when:90d",
-    "published_at": "Wed, 22 Jul 2026 07:00:00 GMT"
-  },
-  {
-    "title": "De una expedición por Centroamérica a un espectáculo maya: el verano más inmersivo de Bioparc Fuengirola - El Español",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ2x1Skkzcmo0cTRuN0RLd05zcWpFb1hVcGZWRVh5aVVRWC1iU3l6eWZBdzNZMU5VVE5iZVFZUVBNdkM5Yk01TVJWay1Zb1Q3eFZ4Qk44UTUtcXpvQzZyR0kxRVljOG0wbTV0dnY4eV9mUjJSbFM5R1h5d1RzbUhBcjM2VVhrWlF2SndiT2JuR1FHVnNYT1EyVTB5TzNrXzdlUU5HbmlpenlwVklGTm5LQ2xGODRUVTdnX2M3VlpUbmRya0k2NXoxOXliclQ5cEdjdW5zeGZUVnJSRkdhRzZV0gHkAUFVX3lxTE01WmhvNk5sTmw3SmE1aHhNUGg0WXAxbFc1ZXFfTHpFMUNqUkVmbFo2UGQxSFpWRGFQUU9PSEgxYVpGRjNoNGxLZ1BwM3hTM3FYd2dlSVUzTnVvMkdacEtObkV2U3NyeGh5Y09YN0FPZkkxTHozNWctU1pwNUdEZS1yVTJJeEloVXA2d3JqcDBKdlg0eHd2ejVxa3VKOWFmZWNYSHZaTUZiMmIxMUZ5Yno4M3lUbDhNS0F6RFJ6ZnUtMzBlb2dCNmVOOEY2U0xRM1ZVSGZkX2JkQzE0VW9vbVR1Z2hrUA?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "De una expedición por Centroamérica a un espectáculo maya: el verano más inmersivo de Bioparc Fuengirola El Español",
-    "discovery_method": "rss",
-    "query": "\"Bioparc Fuengirola\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Fuengirola\" when:90d",
-    "published_at": "Wed, 22 Jul 2026 07:00:00 GMT"
-  },
-  {
-    "title": "El Museo Carmen Thyssen Málaga convoca taller de acrílico - MASDEARTE",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGJLVkJYOE5ibll5V1pHbGdtSlZPWTBjVUk4LXVqcndQZGotX0pKSDN5STJHX3FiVWJUanNuNDJ1MldCZzVGanVMeEttZjl6aGpaWkZwRXNlRVhJVDZmUEFRaGlhbzVsdGtWblViWExDY2VmZ2VhWS1kR2tRdUFFRkxrWVp3c1lHRTNHNjlXbDU0OU5SZzRsT2dOajVnNkJ3Vmxhb0czZV92M0R6cmpaWDZoTTVaZDl0bnRGNmt6UHpCV3lXc2c?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "El Museo Carmen Thyssen Málaga convoca taller de acrílico MASDEARTE",
-    "discovery_method": "rss",
-    "query": "\"Carmen Thyssen Málaga\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Málaga\" when:90d",
-    "published_at": "Mon, 24 Aug 2026 10:37:45 GMT"
-  },
-  {
-    "title": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 - Malaga Actualidad",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1drV1NIMDlybGxsMHdKYk9kUjZvUjRpZUUwUzRKb2U3clpHN2ZkMms3OHVTcmJQcmN4cTZ2OHRnZVNwVzFtUklZTS1aSlYxV0YzLVhlVmVTYWhkR1hRWURCSkpIRllmaWxKYkpIRmwweU1pZ08xQi1aellLNDBsRnFFNDJELUc0dV9ZRlpacmhrUkpIcEEzQ2RuQnlEdWduQXBqb2kxb0NaQmh3TWN2MmsxdDZoNktnVVBya1ZrNWpWYmViT3RjWjI2WnpOTDF5SlRCUw?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-10-18",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "El Museo Carmen Thyssen Málaga anuncia su Programa de Educación y Acción cultural 2026-2027 Malaga Actualidad",
-    "discovery_method": "rss",
-    "query": "\"Carmen Thyssen Málaga\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Málaga\" when:90d",
-    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT"
-  },
-  {
     "title": "Pedro Almodóvar se cuela en el Museo Carmen Thyssen Málaga para demostrar que 'Spain is different' - Diario Sur",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdllWU0RrM1JSQnJWT0dsQlZkV0I0Z05LbFV2QWVuY3B0T211X1V5cWxlNlE0X2VuVl9Tck1pcTVfZGdydTg2TENJOEZVbEdTV3dsYWtkOG9kU2RReUdGSm9DejNjekZ4X3dGMjRxaEFQY1VqamhYbTdfNGFXa2NPOFNmM25ES19BRzdadWZpQ05CdHZhSG04NDJKOEtVSmJaemMxeXNCWUdlREZ4VVF2Y1R30gG3AUFVX3lxTE1PcmY4WTctRjcxT0pHMzRqaFJYMGlnLWxXOGMtTy1nVExtN3FYZlVCUURvV3pPWUU0RVJnaHU3Sk8zMHh1LUdySFZnTHBSdzBwUXhKWF9GVFZuUHdIY2lsRHF2YXdweVBoaXJ1ZV9UMWptMUFjMnlCVElJQ3lJX2pLNGstUXdza1pLRXVKSVlOUnM0R1VzdEhwVy0tdEdJZzNpZEN0Y09HYldNU05PNUNXUHp3LWN3WQ?oc=5",
     "source_name": "Radar de noticias",
@@ -3058,8 +2152,8 @@
     "source_name": "Agenda Cultura Málaga",
     "first_seen": "2026-10-19",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-19",
-    "last_text_checked": "2026-10-19",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
     "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
@@ -3106,8 +2200,8 @@
     "source_name": "Agenda Cultura Málaga",
     "first_seen": "2026-10-19",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-19",
-    "last_text_checked": "2026-10-19",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
     "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
@@ -4218,8 +3312,8 @@
     "corroborating_urls": [
       "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2txS185LV9sWEY5UUJiVl9jb0cybWljZUtSczA0V3VOTE9rbUM3Mkw3Vjhmc3NnRFhDelFRMnlWT2xUTVhUNmdmaTNHNFBhNG9SQThqNmJSOGpEdXczVDF1TXh3QnJMNjItZ3U2ZmRudDU0Rkhkbi1QcVhPWHl0dGJDR1J1U2hETmFsOVdwQQ?oc=5"
     ],
-    "last_checked": "2026-10-19",
-    "last_text_checked": "2026-10-19",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
     "confidence_score": 35,
     "confidence_reasons": [
       "actividad concreta",
@@ -4981,8 +4075,8 @@
     "source_name": "La Térmica Mini · programación infantil (agenda oficial)",
     "first_seen": "2026-10-19",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-10-19",
-    "last_text_checked": "2026-10-19",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
     "confidence_score": 0,
     "confidence_reasons": [
       "título sin actividad concreta"
@@ -6043,8 +5137,8 @@
     "url": "https://infoaxarquia.es/2026/10/19/velez-malaga-celebrara-halloween-el-31-de-octubre-con-talleres-infantiles-un-pasacalles-terrorifico-y-el-estreno-del-pasaje-del-terror-en-el-paseo-de-andalucia/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-19",
-    "status": "sin_fecha_estructurada",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (25/100).",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: robots.txt no permite o no pudo comprobarse",
     "snippet": "Vélez-Málaga celebrará Halloween el 31 de octubre con talleres infantiles, un pasacalles terrorífico y el estreno del pasaje del terror en el Paseo de Andalucía InfoAxarquia",
     "discovery_method": "rss",
     "query": "\"Vélez-Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
@@ -6058,7 +5152,7 @@
     "google_news_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQbE42Wi1WNTNHVmsyXzE5X2NrZHVUdzRPY0VnZXNHWkRwbmplaWg0UUJ1NndGclE4OFVmNFdPRkYzdW5FMlJyMVJsT3M1UUtnZVVaOUlyYTZIeUF6VXpnUWtZdklqVUpEWUFUT09mdDNSeFdWR2ZGbDRDZ3V2QmNTQ1hVREFYNG1XaWk5eHRKOEU1RjBXNTQ2RzBNdjRrNTJRR01iSlB3Y3FVd0FnX2txZ3B4dEJFREs0b0x3c3llWm9KVld3TG81ZVZydlFMNjdXeGl4N1RVb0xKSlJPaDZDcjdyTUhNdUhGcWZTSTFxUlZhZElQQkhnNVByYk5NNmQ4dE1rT05ySFhKakhBYkpaOGQ0VFdJNGFjVHVXR3VlWnc?oc=5",
     "resolved_from_google_news": true,
     "resolution_method": "title_match",
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-23",
     "last_text_checked": "2026-10-19",
     "confidence_score": 25,
     "confidence_reasons": [
@@ -6936,8 +6030,8 @@
     "discovery_method": "broad_official",
     "known_source_id": "SRC-019",
     "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_checked": "2026-10-20",
-    "last_text_checked": "2026-10-20",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
     "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
@@ -7285,8 +6379,8 @@
     "google_news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRGRHbWU1cnBKR0J4dXIxT1REYW1acUh4VlNDd3AtbHVtSDctVlJ1eE1adTIySGt0NmU5WHB3YWtLN1hOSldkbUljRHJNYW1CUmdqZk9yVlRCRkcyYW1vOXRLcGN5TG9adEwyWUdIenRZZlU1aUZuUmpBMUl3UG9RWS1CVUZWY0ltUkVn?oc=5",
     "resolved_from_google_news": true,
     "resolution_method": "title_match",
-    "last_checked": "2026-10-20",
-    "last_text_checked": "2026-10-20",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
     "confidence_score": 0,
     "confidence_reasons": [
       "título sin actividad concreta"
@@ -7323,8 +6417,8 @@
     "google_news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSnRpYzlDcXRfZ0w0cVRVZ3Z0Nm00S2RmLVNFMmtQNU95V1I0LXpCTTNLSTVTX3ViTk1JUXR3cFlzaHViOHpzWHNLN3ViQWhlWDV3RU5neU8zVTdEbDJmY3p5a2tFT0xPbFpyYi1BQlo2dnZJeE03M2tFcERWYWhPd0RDUjgydDFndUtiVXkxWHNRemJtUlhWVEZrVGU4VkdaSm5tcUlMRjAzYVlEVWMyQy15NDNDNGFjZ19yZtIBwgFBVV95cUxOWkp6OVoxQ1FScFRFcEZtUmF4YmNwWUlnRlJ6SVl5V01HREotX1YxbncwejQ3eDlpVU1DY1V0OFhNRklGVklOSmhkYm5zV3ljcDRPM1gxdDJLcUE5WXc4NVdtM1pCa3JKVjBhWXpycFVhZHlPMTV2VnlvQW1UNjJIMF94VmhwU3psM1ozM0ZBSmRkeDhEdEd4ckRtM3ZjQndva1p4UWp3OVg5WHNzaWF3bG1vZzRPLVptRmM4QURKb2s2UQ?oc=5",
     "resolved_from_google_news": true,
     "resolution_method": "title_match",
-    "last_checked": "2026-10-20",
-    "last_text_checked": "2026-10-20",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
     "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
@@ -9326,15 +8420,26 @@
   },
   {
     "title": "Rincón de la Victoria celebrará Halloween con actividades terroríficas para todos los públicos - AxarquiaPlus",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFFIeVZyZkVMN1liMzhQUXZjRXdrTGpmdW11Vzg3eEwydUh3VzRmNi15MGlvdmswcFhFd1dRX3V1QVZvZS1GTHI2UW1NbUJRTnVacHFpcGFLSGtNZUZyN282d0lfNk5KZjVzLWJoYkxpS3RYeFF4dWdncFpKcDZyN3NaUktKbkpzMVhJUy1qRG05cHNFMzJNNGRNYkFsazRrU0ZGT1Z3SURrZGdQMldQRVFyNGZCVGRzeTlYZVFoRjE?oc=5",
+    "url": "https://infoaxarquia.es/2026/10/21/rincon-de-la-victoria-celebrara-halloween-con-actividades-terrorificas-para-todos-los-publicos/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-21",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: robots.txt no permite o no pudo comprobarse",
     "snippet": "Rincón de la Victoria celebrará Halloween con actividades terroríficas para todos los públicos AxarquiaPlus",
     "discovery_method": "rss",
     "query": "\"Rincón de la Victoria\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Wed, 21 Oct 2026 09:38:30 GMT"
+    "published_at": "Wed, 21 Oct 2026 09:38:30 GMT",
+    "corroboration_count": 2,
+    "corroborating_urls": [
+      "https://infoaxarquia.es/2026/10/21/rincon-de-la-victoria-celebrara-halloween-con-actividades-terrorificas-para-todos-los-publicos/",
+      "https://www.diariosur.es/axarquia/rincon/actividades-terrorificas-publicos-disfrutar-halloween-rincon-victoria-20261021123658-nt.html"
+    ],
+    "resolution_checked": "2026-10-23",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFFIeVZyZkVMN1liMzhQUXZjRXdrTGpmdW11Vzg3eEwydUh3VzRmNi15MGlvdmswcFhFd1dRX3V1QVZvZS1GTHI2UW1NbUJRTnVacHFpcGFLSGtNZUZyN282d0lfNk5KZjVzLWJoYkxpS3RYeFF4dWdncFpKcDZyN3NaUktKbkpzMVhJUy1qRG05cHNFMzJNNGRNYkFsazRrU0ZGT1Z3SURrZGdQMldQRVFyNGZCVGRzeTlYZVFoRjE?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-23"
   },
   {
     "title": "La calle Taller y Ollas de Antequera reabre al tráfico tras una reforma de 404.000 euros - Cadena SER",
@@ -9954,14 +9059,30 @@
     "url": "https://cultura.malaga.eu/es/agenda/detalle-de-agenda/index.html?id=149161&tipoVO=2",
     "source_name": "Agenda Cultura Málaga",
     "first_seen": "2026-10-22",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
   },
   {
     "title": "Taller de Poesía. B.P.M. Manuel Altolaguirre",
     "url": "https://bibliotecas.malaga.eu/es/agenda/detalle-de-agenda/index.html?id=149173&tipoVO=2",
     "source_name": "Bibliotecas Málaga",
     "first_seen": "2026-10-22",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
   },
   {
     "title": "Talleres en Familia. B.P.M. Manuel Altolaguirre",
@@ -10004,21 +9125,47 @@
     "url": "https://bibliotecas.malaga.eu/es/servicios/actividades-de-fomento-de-la-lectura/",
     "source_name": "Bibliotecas Málaga",
     "first_seen": "2026-10-22",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100)."
   },
   {
     "title": "Domingo, 25 de Octubre de 2026 Actividad deportiva XII Dia del Pedal de San Pedro 2026 Evento destacado en Deportes Más información",
     "url": "https://www.marbella.es/web/deportes/agenda-deportes/xii-dia-del-pedal-de-san-pedro.html",
     "source_name": "Ayuntamiento de Marbella",
     "first_seen": "2026-10-22",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
   },
   {
     "title": "22 Octubre 2026 Festival de música clásica Conciertos",
     "url": "https://turismo.marbella.es/agenda/festival-de-musica-clasica.html",
     "source_name": "Turismo Marbella",
     "first_seen": "2026-10-22",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100)."
   },
   {
     "title": "Educativas Infantil. Un ser vivo Del 14 de octubre de 2026 al 28 de mayo de 2027",
@@ -10126,7 +9273,15 @@
     "url": "https://www.centrocomercialrosaleda.es/ofertas-merkal/",
     "source_name": "CC Rosaleda",
     "first_seen": "2026-10-22",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
   },
   {
     "title": "El Área de Juventud de Fuengirola programa una segunda edición del taller de Bailes Latinos",
@@ -10152,14 +9307,33 @@
     "url": "https://www.velezmalaga.es/index.php?mod=agendadeactividades&id=3024",
     "source_name": "Ayuntamiento Vélez-Málaga",
     "first_seen": "2026-10-22",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100)."
   },
   {
     "title": "Cultura innova con ‘Los Sabores de la Música’, una propuesta que une música clásica, divulgación y gastronomía en el Teatro del Carmen",
     "url": "https://www.velezmalaga.es/index.php?mod=noticias&id=8871",
     "source_name": "Ayuntamiento Vélez-Málaga",
     "first_seen": "2026-10-22",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 25,
+    "confidence_reasons": [
+      "actividad concreta",
+      "varias fechas no atribuibles con seguridad al mismo evento"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (25/100)."
   },
   {
     "title": "La Biblioteca Municipal de San Zoilo acoge 'Arquitectura del silencio', una exposición de Juan Ramón Castro Morales que combina papel y poesía",
@@ -10177,14 +9351,32 @@
     "url": "https://www.fundacionunicaja.com/musica-danza-teatro/",
     "source_name": "Museo Unicaja Artes y Costumbres Populares",
     "first_seen": "2026-10-22",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100)."
   },
   {
     "title": "Actividades literarias",
     "url": "https://www.fundacionunicaja.com/actividades-literarias/",
     "source_name": "Museo Unicaja Artes y Costumbres Populares",
     "first_seen": "2026-10-22",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100)."
   },
   {
     "title": "Cumpleaños infantiles",
@@ -10350,8 +9542,8 @@
     "url": "https://infoaxarquia.es/2026/10/21/rincon-de-la-victoria-celebrara-halloween-con-actividades-terrorificas-para-todos-los-publicos/",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-22",
-    "status": "por_revisar",
-    "review_reason": "Se encontró una fuente original o del organizador; pendiente de verificar fecha, público y municipio.",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: robots.txt no permite o no pudo comprobarse",
     "snippet": "Rincón de la Victoria celebrará Halloween con actividades terroríficas para todos los públicos Turismo en Rincón",
     "discovery_method": "rss",
     "query": "\"Rincón de la Victoria\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
@@ -10360,7 +9552,14 @@
     "resolution_version": 2,
     "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yTGpQQ0N5ZDViODM3enRZazdXdGZlM0FXUnU0Wm51Vkc0TGlmN1J1Ny1ILUVpUDl1VGhHRmM3WWU3QVl4dHZ3ZWpERy1SeEhQd29XSTNuQlZqcVhuODhHZTEtOWljMFpmOFlxcGlaUEN4WV9VVjBHN3dn?oc=5",
     "resolved_from_google_news": true,
-    "resolution_method": "title_match"
+    "resolution_method": "title_match",
+    "corroboration_count": 3,
+    "corroborating_urls": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFFIeVZyZkVMN1liMzhQUXZjRXdrTGpmdW11Vzg3eEwydUh3VzRmNi15MGlvdmswcFhFd1dRX3V1QVZvZS1GTHI2UW1NbUJRTnVacHFpcGFLSGtNZUZyN282d0lfNk5KZjVzLWJoYkxpS3RYeFF4dWdncFpKcDZyN3NaUktKbkpzMVhJUy1qRG05cHNFMzJNNGRNYkFsazRrU0ZGT1Z3SURrZGdQMldQRVFyNGZCVGRzeTlYZVFoRjE?oc=5",
+      "https://www.diariosur.es/axarquia/rincon/actividades-terrorificas-publicos-disfrutar-halloween-rincon-victoria-20261021123658-nt.html",
+      "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN0doYnVyVDJhZnN0Z0lacFFhMFk0NmpMeklLTXc1WmZHcERjd3MzVzg4X08xZFlfNUpFcV9oZjVqVmJSS0F6V25wbmhZSHRyN0FjWnRCYjBZR0EzQnN4Tk5nN0RKYVkwcXpjUVVTM0xLdC1Rb1ZoQ2hRV0dQbEM2d1FYQy0yVEZ1WW1YaTRTTkhhdDVNWkF0RGsxTVQxVjZDWmQ0TzYxQ0laeXAtQjRSQU1YTGhfamU4bmdmX3huaXEybVJ0R3FHcERMYTdWcDNBS01z0gHTAUFVX3lxTE03R2hidXJUMmFmc3RnSVpwUWEwWTQ2akx6SUtNdzVaZkdwRGN3czNXODhfTzFkWV81SkVxX2hmNWpWYlJLQXpXbnBuaFlIdHI3QWNadEJiMFlHQTNCc3hOTmc3REphWTBxemNRVVMzTEt0LVFvVmhDaFFXR1BsQzZ3UVhDLTJURnVZbVhpNFNOSGF0NU1aQXREazFNVDFWNkNaZDRPNjFDSVp5cC1CNFJBTVhMaF9qZThuZ2ZfeG5pcTJtUnRHcUdwRExhN1ZwM0FLTXM?oc=5"
+    ],
+    "last_checked": "2026-10-23"
   },
   {
     "title": "Estepona celebra una fiesta de Halloween que incluye un concurso de disfraces - Malaga Actualidad",
@@ -10451,8 +9650,8 @@
     "url": "https://www.europapress.es/andalucia/malaga-00356/noticia-junta-dice-seguridad-garantizada-ceip-benaojan-pide-disculpas-familias-molestias-obras-20261001131550.html",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-22",
-    "status": "por_revisar",
-    "review_reason": "Se encontró una fuente original o del organizador; pendiente de verificar fecha, público y municipio.",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
     "snippet": "Junta dice que la seguridad está garantizada en CEIP de Benaoján y pide disculpas a familias por molestias por las obras Europa Press",
     "discovery_method": "rss",
     "query": "\"Benaoján\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
@@ -10461,7 +9660,19 @@
     "resolution_version": 2,
     "google_news_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaGxVYlJqdkJQQmlMcnp1dG5ZT0R6cDlUTFNTT29LR3NnNHNTSkE0RFp6SnkwV2w5Z19wR2hZSF9renhxQmpuTVB0RmpsMGpkc2lvVFNONF9odkFVMEhUb2o3LUdJTEY3MHFRRFFHTThZSHNabVpJTmdrUEV5U2dxcEpSUEV4WkRSM3FsdUUwSTlabDhTeld5RVZ2T0gyclNZS0tQdzZTVVhvNzF0M0V4QWx6UGZYMmtNY29ub25Da2c4TExrczAtSTNXN21KVFFaTldiQ2g1S1lsempvbXFuWVpHQTZVa0FxWE9BclpSbllkT1B2SEtF?oc=5",
     "resolved_from_google_news": true,
-    "resolution_method": "title_match"
+    "resolution_method": "title_match",
+    "corroboration_count": 1,
+    "corroborating_urls": [
+      "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPel9xdE5EN2FQVFdjZC1UVHBUTnBPLU50TzBObU0tY25najNlcVdOSmFWTWZEQXBkZ0wxWlZTc2hzckNrX0pBbWFEU1NYMFo4UmZyb2R5LTBuSFpSTkg1ZkRBbTk4bU9YZklvbVVfa3h5TkJlS2lQZ1pEaGtGcGluR2ZlTDFOUmdNWVpOUnNRV2dOQkpOTGp2T2JYTzJwdHhOZ1B5YzRnT3lLWFZfWFBON2xEdXRxbm80cHRsQWgxVmppckMwUEtpNnhsc1FuYU54NGRPaUg2Y3I4X193c3BnTHp1WlJuSGJrM1A5NtIB8gFBVV95cUxQLXNaT1phSmtwZkdvYzJvWWVYcmd0Q1R1cUtrQkNfOWt4Vi0zZXpxd0xfek1lMnVsUDBLVkNjN0RSREJjend5VVNBY21nRHZYRXZlNEpNdktFYnQ3U1NMRVljekZWRGpfamRjcFpIdVdEOVFKcEFBeDdkTE5heFF0YV9vN2tmNC1EblkxbF9JZGdfbUhoQnpGbGw4WkdoOS1ybzFXSWgwLW81MnhXOVRhYVZsWVNBT0s5RS1uNHBhUWl0bXRyUTVrYnJZeHpKME1BZDh5N2RHY2c2VHdiRnRISVozbVE3bHcxOHgzaGxWVFhJUQ?oc=5"
+    ],
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "La Junta garantiza la seguridad en el colegio de Benaoján y pide disculpas a las familias por las molestias de las obras - Demócrata",
@@ -10473,15 +9684,19 @@
     "snippet": "La Junta garantiza la seguridad en el colegio de Benaoján y pide disculpas a las familias por las molestias de las obras Demócrata",
     "discovery_method": "rss",
     "query": "\"Benaoján\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
-    "published_at": "Thu, 01 Oct 2026 07:00:00 GMT"
+    "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
+    "corroboration_count": 1,
+    "corroborating_urls": [
+      "https://www.europapress.es/andalucia/malaga-00356/noticia-junta-dice-seguridad-garantizada-ceip-benaojan-pide-disculpas-familias-molestias-obras-20261001131550.html"
+    ]
   },
   {
     "title": "Actividades «terroríficas» para todos los públicos para disfrutar Halloween en Rincón de la Victoria - Diario Sur",
     "url": "https://www.diariosur.es/axarquia/rincon/actividades-terrorificas-publicos-disfrutar-halloween-rincon-victoria-20261021123658-nt.html",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-22",
-    "status": "por_revisar",
-    "review_reason": "Se encontró una fuente original o del organizador; pendiente de verificar fecha, público y municipio.",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
     "snippet": "Actividades «terroríficas» para todos los públicos para disfrutar Halloween en Rincón de la Victoria Diario Sur",
     "discovery_method": "rss",
     "query": "\"Rincón de la Victoria\" (\"este fin de semana\" OR agenda OR programa) (niños OR familia OR infantil OR \"todos los públicos\") when:45d",
@@ -10490,7 +9705,21 @@
     "resolution_version": 2,
     "google_news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN0doYnVyVDJhZnN0Z0lacFFhMFk0NmpMeklLTXc1WmZHcERjd3MzVzg4X08xZFlfNUpFcV9oZjVqVmJSS0F6V25wbmhZSHRyN0FjWnRCYjBZR0EzQnN4Tk5nN0RKYVkwcXpjUVVTM0xLdC1Rb1ZoQ2hRV0dQbEM2d1FYQy0yVEZ1WW1YaTRTTkhhdDVNWkF0RGsxTVQxVjZDWmQ0TzYxQ0laeXAtQjRSQU1YTGhfamU4bmdmX3huaXEybVJ0R3FHcERMYTdWcDNBS01z0gHTAUFVX3lxTE03R2hidXJUMmFmc3RnSVpwUWEwWTQ2akx6SUtNdzVaZkdwRGN3czNXODhfTzFkWV81SkVxX2hmNWpWYlJLQXpXbnBuaFlIdHI3QWNadEJiMFlHQTNCc3hOTmc3REphWTBxemNRVVMzTEt0LVFvVmhDaFFXR1BsQzZ3UVhDLTJURnVZbVhpNFNOSGF0NU1aQXREazFNVDFWNkNaZDRPNjFDSVp5cC1CNFJBTVhMaF9qZThuZ2ZfeG5pcTJtUnRHcUdwRExhN1ZwM0FLTXM?oc=5",
     "resolved_from_google_news": true,
-    "resolution_method": "title_match"
+    "resolution_method": "title_match",
+    "corroboration_count": 3,
+    "corroborating_urls": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFFIeVZyZkVMN1liMzhQUXZjRXdrTGpmdW11Vzg3eEwydUh3VzRmNi15MGlvdmswcFhFd1dRX3V1QVZvZS1GTHI2UW1NbUJRTnVacHFpcGFLSGtNZUZyN282d0lfNk5KZjVzLWJoYkxpS3RYeFF4dWdncFpKcDZyN3NaUktKbkpzMVhJUy1qRG05cHNFMzJNNGRNYkFsazRrU0ZGT1Z3SURrZGdQMldQRVFyNGZCVGRzeTlYZVFoRjE?oc=5",
+      "https://infoaxarquia.es/2026/10/21/rincon-de-la-victoria-celebrara-halloween-con-actividades-terrorificas-para-todos-los-publicos/",
+      "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN0doYnVyVDJhZnN0Z0lacFFhMFk0NmpMeklLTXc1WmZHcERjd3MzVzg4X08xZFlfNUpFcV9oZjVqVmJSS0F6V25wbmhZSHRyN0FjWnRCYjBZR0EzQnN4Tk5nN0RKYVkwcXpjUVVTM0xLdC1Rb1ZoQ2hRV0dQbEM2d1FYQy0yVEZ1WW1YaTRTTkhhdDVNWkF0RGsxTVQxVjZDWmQ0TzYxQ0laeXAtQjRSQU1YTGhfamU4bmdmX3huaXEybVJ0R3FHcERMYTdWcDNBS01z0gHTAUFVX3lxTE03R2hidXJUMmFmc3RnSVpwUWEwWTQ2akx6SUtNdzVaZkdwRGN3czNXODhfTzFkWV81SkVxX2hmNWpWYlJLQXpXbnBuaFlIdHI3QWNadEJiMFlHQTNCc3hOTmc3REphWTBxemNRVVMzTEt0LVFvVmhDaFFXR1BsQzZ3UVhDLTJURnVZbVhpNFNOSGF0NU1aQXREazFNVDFWNkNaZDRPNjFDSVp5cC1CNFJBTVhMaF9qZThuZ2ZfeG5pcTJtUnRHcUdwRExhN1ZwM0FLTXM?oc=5"
+    ],
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "El Museo Picasso Málaga celebra su XXIII aniversario con entrada gratuita y un programa especial - Málaga Hoy",
@@ -10509,8 +9738,8 @@
     "url": "https://www.diariosur.es/planes/ninos/ideas-fin-semana-malaga-familia-20261021162023-nt.html",
     "source_name": "Radar de noticias",
     "first_seen": "2026-10-22",
-    "status": "por_revisar",
-    "review_reason": "Se encontró una fuente original o del organizador; pendiente de verificar fecha, público y municipio.",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
     "snippet": "Danza, teatro y talleres para disfrutar con niños del fin de semana en Málaga Diario Sur",
     "discovery_method": "rss",
     "query": "Málaga museos talleres para familias when:45d",
@@ -10519,7 +9748,19 @@
     "resolution_version": 2,
     "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNS0yejVlZHVMdzVwcmwtMGdrdXRFY2FYZG5maUd1Q3F1dVZ5WE9wOC1ZZmdjZ2k0Z1dCRE5VbklaWEdCY2hxeE45cFR2eWhIbFlkV212eXhJZlZVZ0pxOG1JeDNWS19WVjhsTXZaUUdWYzBPaEc1WWNYaGNYYXRCVWlZQy1SOGZsWnhqbEY3Qk1uTkNhZzNZ0gGcAUFVX3lxTE9ZRzRZR0NELWJJWFBoN0QyVWpJUzBfUXBGT0hrUlRHQm5Ha29MOG1Vd0IySTVVNlphZG5CMkNxT0gxdU1Rb09CRHpFazVRYW5vUVRHQjcxc1NYQlJCTFB5UUNFam9qN1NOaVBjM0V3ZVlTS1pBR3BtTHhfYzQzMUtuZU9oenNKY1FhbXRNNXgwR0JFdVJmSTVPYzJPbQ?oc=5",
     "resolved_from_google_news": true,
-    "resolution_method": "title_match"
+    "resolution_method": "title_match",
+    "corroboration_count": 1,
+    "corroborating_urls": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSURkeEJ3MEZtRGJQQjN3djI5bnNpaV9QVGxmaXptSl93NUhKMlZBNGpiS2NSUFkxa3M1SkhZWjJnTWFSbzBYWTJTSlN4ZG0zRVg1c2xRR1RMcXRyQUJETUl3cVdwVFFCR2lIdmZ1aktocWFCSmtMdkdWb0dMV1NjZkVDQ0pCQTRqemVYbTdYRllkQktYVWNlUmZDVHJCaG91UklR0gGoAUFVX3lxTFBZajIwMWVvRm5Bd3JMU3psTmhQVEM3dVR1ZkZCZEVjMHRheXBpWmdDQ2JzMGlCRzhubW44UU44MkYtdzVlYmtoWUF1V1p2SFdqd19GV0F2NUxiQzV6YXk4Ty1jTW9CU3hwcGJXZjhPSzgzWHJqTUtUbHZuNXBqNGw1eURnWFhBWDNmZnhnOGh4cWpXTVZmbVNFMWpMcEd6SDZJdE5KUXZoUA?oc=5"
+    ],
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Museo Picasso Málaga cumple 23 años con entrada gratuita y programación especial - Cadena SER",
@@ -10880,34 +10121,59 @@
     "url": "https://informalaga.es/agenda/jornada-precios-ganadores-estrategia-y-datos-para-competir-en-el-exterior-2026-10-22",
     "source_name": "InforMálaga",
     "first_seen": "2026-10-22",
-    "status": "por_revisar",
+    "status": "sin_fecha_estructurada",
     "discovery_method": "broad_official",
     "known_source_id": "SRC-012",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100).",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "evento multidía con fechas explícitas",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Taller Alianza de Paisajes Culturales y Sitios Afines Patrimonio Mundial: Paisaje y patrimonio arqueológico",
     "url": "https://informalaga.es/agenda/taller-alianza-de-paisajes-culturales-y-sitios-afines-patrimonio-mundi-o9vql",
     "source_name": "InforMálaga",
     "first_seen": "2026-10-22",
-    "status": "por_revisar",
+    "status": "sin_fecha_estructurada",
     "discovery_method": "broad_official",
     "known_source_id": "SRC-012",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar.",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100).",
     "corroboration_count": 1,
     "corroborating_urls": [
       "https://news.google.com/rss/articles/CBMixgJBVV95cUxNR2tmd010MzJxdUhSRVp4R1YxTllVVTRERVN0cXlDek5pRDctYU01US1UU0dFWFVWZVpUTmUyUmxWc2M4UUhkdVlKektYYzh4MmZ6OUZUNk9Bbm9PMUphRWJINWNRQ2s2d29DS1gwbkxscGNleFQyYV9HS0JzRzJKdWU5MUJmdXVRMmNoTWowZG5pU0s4ckVyQlcwVGdKUHZnSjJEeHpVeC1UeUlyU3N0VXhaY1F1NVRoam9McHNpTlEwdWFRWnNDWVZaWFNZNHpITjFhLThQdDFUbmZEQi10SFFQWnZuSzBMdldrWTc1c0tfVDdicGNtdGxpR0hHZXNLRGRJRlBsYUhpc0c0U1V6UXVBV1hyekZhd3I3UXpvMW1DT1BpZTZ3N0ZHMXByWVhuSV9vYzE3MmFwamRnSV9XaEQtRUdKZw?oc=5"
-    ]
+    ],
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Visitas guiadas Visita guiada Colección permanente 30 de octubre de 2026",
     "url": "https://www.carmenthyssenmalaga.org/actividad/visita-guiada-coleccion-2026",
     "source_name": "Museo Carmen Thyssen (web cultural)",
     "first_seen": "2026-10-22",
-    "status": "por_revisar",
+    "status": "sin_fecha_estructurada",
     "discovery_method": "broad_official",
     "known_source_id": "SRC-015",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Museo en acción Zarzuela para cuarteto de cuerda. Ciclo Música Clásica en la Colección 14 de noviembre de 2026",
@@ -12076,10 +11342,18 @@
     "url": "https://mmalaga.es/agenda/actividades-complementarias-exposicion-fundacion-unicaja-malaga/",
     "source_name": "Más Málaga",
     "first_seen": "2026-10-22",
-    "status": "por_revisar",
+    "status": "sin_fecha_estructurada",
     "discovery_method": "broad_official",
     "known_source_id": "SRC-019",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (25/100).",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 25,
+    "confidence_reasons": [
+      "actividad concreta",
+      "varias fechas no atribuibles con seguridad al mismo evento"
+    ],
+    "review_priority": "normal"
   },
   {
     "title": "Orquesta Filarmónica de Málaga",
@@ -12317,5 +11591,727 @@
     "verified_event_ids": [
       "EVT-TXT-D1A5E11E52"
     ]
+  },
+  {
+    "title": "Comienza la Fiesta del Cine en Málaga: salas que participan y películas de estreno - Málaga Hoy",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjNMQlZLQVhoRGRRcnEzQWk2QXNKTElVWUxkajU5c0ZIcUwwTmhlbHFkS3EzSGxEYVQzbzMzMGJiWGI0cjZwYzBZOF95XzUxS0txRkhiUk1PMWQtako5dE0xOG5qYXhvVTc2STlCVlhheUdYaHpyUGJsMXVfZUhkbXNuNXR1RFNKNUI1cEJxNXhzWGhSZlFUdWNyNTM1cm9z0gGmAUFVX3lxTE5RbWtOc2FkY2xQellPU2tDVTlCVHpnMVRaWHFmWTZtcnRYVlY4TEJSLXRWTVN0OUt3eTE4YWFhRFlSR2xuYlJfVkstZVNzUXRydzdaakY5Vm5oU1Y5MnR5V3g0Yms1UE85blVsazRtNVlkbm14ZU5UOU9zSFZKOGtFUm5LQ1ZYYTNpM2xheThqUThZVUZ4Sllnc3RDeDBHZzFWaDQtbXc?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Comienza la Fiesta del Cine en Málaga: salas que participan y películas de estreno Málaga Hoy",
+    "discovery_method": "rss",
+    "query": "\"Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Mon, 19 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "¿Qué tiendas abren en Málaga este lunes 12 de octubre, Fiesta Nacional de España? - El Español",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVXhZQU42c1l6b1BvbUFwdEpsNFJLaW4xSzRxZUNIcXlvT2pDaWJxVUUyLTZTdzVocElEUzZFZENZU3piQW5HZmZCVjQ3amRYaDFXZ1oxNXNMT0xLQlNIQ0lTQmU2cjczYWJDZVc0czVYck8xUVljY1hJR2tHWG9RenA4RW9EYVd3WFJkNVR3TUVwdzZzMDJZWS1OSVlvWnRNVmt5R2tRRVU0Q1VsSXkySXlzOUxjNzhLazl2aXZwUC1XMkVUczJEbjhn0gHPAUFVX3lxTE1Cc25BRUNzUDdZMzdndVJZVEpjYi05UXRscjRfcUdBejdpaWRULTRGNjNISE84ZzlZblc4ZDBkcUZGT3B4ZWcyWUFHaE84MDExQ1hHUS1XMzlwaWR5a1RNWS1Ic25VdnRKVjNhYVlpYk9iVVRJcXVScjVKdkQ3Q2NweWJDTUVmc3gyVGtaa05sVXg4T2huUGlZYkZUTTlneUNYNEk4MVdyeFZpNjhMT09CUGhENnlLZzJpeHpqblJJT1hnOGNVZXlQeTV3a3J0NA?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "¿Qué tiendas abren en Málaga este lunes 12 de octubre, Fiesta Nacional de España? El Español",
+    "discovery_method": "rss",
+    "query": "\"Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Sun, 11 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "El Desfile de Catrinas y Calaveras de Benalmádena partirá el viernes 23 de octubre del Recinto Ferial Los Nadales con actividades para toda la familia - Ayuntamiento de Benalmádena",
+    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPMklXeVB4cGhWSGxlSVlQbzZFSVcxZkZ3ZmQyLWlEWWFQTlJfM1M2YWJIRTBvR1U4WFdNUWQxZl9kd1VqM2pyQU5TeUtfM0hjNjVPa0NoaVNVZW9NQkVTNTRRV29kLW1FV0xFN3lvNUp0NzlSU2xWMzVUR25PTllKUzFTcll4YWU1ckxVQV8td29EYmZCMkRCM0lTWW92cGI2b3VjNXdYemRYbXRYaVJsb0lwbDVXejBlZGxUTldqa1dZaHgyb1dLRnZZTE9WRkxVRExMMF9sb0ZFQ29GR2RTY1Y4OG9KaU5hX1VMNmtGZXNqTmRQZ1dpeTBLMlNZRE4yVm9ZY1BqZlhncW5TNmJWSUlJWkdDVHN1SFN4dDZJNEFnUQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "El Desfile de Catrinas y Calaveras de Benalmádena partirá el viernes 23 de octubre del Recinto Ferial Los Nadales con actividades para toda la familia Ayuntamiento de Benalmádena",
+    "discovery_method": "rss",
+    "query": "\"Benalmádena\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Tue, 20 Oct 2026 11:35:34 GMT"
+  },
+  {
+    "title": "David Navarro conquista Las Lagunas a carcajadas con su espectáculo ‘No tengo remedio’ - Mijas Comunicación",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdGdhbkVoZDFWbXA5R0VEdXRLVFNZMk9GN19iY0NUdjhYMUZ6SEZOQ0owSzFIN053MGdfNUp3alB4dXdEWGtUeE5ZaUhscTMtcEFObFlPbnN3UzJ6bnZDa0NWNS1ON095amVkcWh2MHNXYklUNU45VmxNVWo5bDhFUWpaMHk1eG1vWnpQZUh3Q0dpcFNaWXFEa1E5bkNJLUloVnhmaGRZZUpSMGl5VlhTNGo4bDdMa1ZodWQ3ZkNQVzZDc1dkejNrdDFlb2g?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "David Navarro conquista Las Lagunas a carcajadas con su espectáculo ‘No tengo remedio’ Mijas Comunicación",
+    "discovery_method": "rss",
+    "query": "\"Mijas\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Wed, 21 Oct 2026 14:24:35 GMT"
+  },
+  {
+    "title": "Estepona celebra un Halloween con desfile de disfraces en la plaza de la Juventud de Cancelada el 30 de octubre - Diario Costa",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPclhsSFNwVUpUbUtCdGpkRHB2WTdYaU54bHB5TmVHYW95OEsyTXl1N2FxZjRJYnVRUmFuT1V3TWZrZDgwc2dJRm1TbU1DdFhRYnE4Q3dQMzhqOVIyZ1l2a2t2UVNQZ3BIWk1aRndqMnE4WjJxQVBHUTFMWVFFSDNrckdaNFhhdWUyWGdlNDV6UXNhQjRQT3p4Y0pFNEx0bEhOWHN2ZUdOaFhxbHBKNzBLYjYyc0pleHNBM3ZXNG41TmdXcXRiWXBRS3RYOTNmVFVGbWc?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Estepona celebra un Halloween con desfile de disfraces en la plaza de la Juventud de Cancelada el 30 de octubre Diario Costa",
+    "discovery_method": "rss",
+    "query": "\"Estepona\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Fri, 23 Oct 2026 06:09:10 GMT"
+  },
+  {
+    "title": "Jammes Garibo llega a Estepona con un espectáculo de magia que ha triunfado en Hollywood - Área Costa del Sol",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT014ZFYwV2NJSG5saHBRaWl0VzQxUFJqb29aalp4VkJnckt6ZjZsRUlJMDZLV2ozcTAtWWdtRUp4N3FOR1ljaHBpUWNfMjl3NmU0dzVEOVRXaGtXUXpOdEplOFg2ZHZoTjY5NHRjY0J2Vk1hSThOekstdGhvZGVmZG9oRm5WTU9YbFp0eEN1eGQ4cS1qN01PMG9jRWxRMi1LMml4RUp4ZlhRSTF5REhYbEl4LU1WM0FFVFFKTXJPWkVaUGhXaEJlQ1Z3?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Jammes Garibo llega a Estepona con un espectáculo de magia que ha triunfado en Hollywood Área Costa del Sol",
+    "discovery_method": "rss",
+    "query": "\"Estepona\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Mon, 19 Oct 2026 13:08:19 GMT"
+  },
+  {
+    "title": "Agenda – Turismo Estepona",
+    "url": "https://turismo.estepona.es/agenda/",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "19:00 HALLOWEEN ESTEPONA 2026 EXPOSICIÓN UNIVERSO KING, FIESTA INFANTIL, PASAJE DEL TERROR, REALIDAD VIRTUAL “EL ASCENSOR”, ESCAPE ROOM “HP LOVECRAFT”, ACTUACIÓN “OCEAN DANZA Y ACROBACIA”, CONCURSO DE DISFRACES, ACTUACIÓN DJ & DR.",
+    "discovery_method": "rss",
+    "query": "\"Estepona\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "jue, 22 oct 2026 09:09:00 GMT"
+  },
+  {
+    "title": "Este sábado, la gran fiesta del bienmesabe más grande del mundo en Antequera - El Sol de Antequera",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXFiU3lhTFQ2c3hfVHJEUWpLSUs2azFYNWxobkUwRVhhUlo4SFZHM1FtQlgyajc0UU1QX0c1RTFpSmhWaU5zdTdKN2pQd3E0WHVyLXR4a29EWVFVRXJKTW1XRWNrSE0zUHhIalphdnF5eEotMW9vdHFvaE83cWRrb1Q0WVJCcVdNcVFpbGx4Y1VTdi00OFBlbDJZWlJCOFZpYjNreGJRb2tNTTE0SUotbFhwUDJPdw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Este sábado, la gran fiesta del bienmesabe más grande del mundo en Antequera El Sol de Antequera",
+    "discovery_method": "rss",
+    "query": "\"Antequera\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "El Área de Juventud presenta su oferta de talleres para el curso 2026-2027 en la Casa de la Juventud - Ayuntamiento de Antequera",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa2ZCZ1g3ZFYyb0U0MVdFVXhRelhHVmZFX1F2ZURvMUl3TGFJaEFfYndFRk8wbnhrbWN6QWEzb05BaDhISV9RSFJWYlJMVnhVZERMWlMzMlFNQ3h1cjZuOFg0RWRlM3Z1MW9UbHpibmlFQkhpOWF6UVNoZERVeVNfVW9aVzhmRzZrWnJtSkpZSFFkMVRlU0xjQzZncUFSYTZQZThfNXpwcDNwUXFyMTZVWTFHaTNzMDY2TlZodXNpNmpNWGUybnlrckNfV0wzb0hNelJuTC1NQ3dFd1RzdVhlM0NMTTNUQ3Zpa0k3RQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "El Área de Juventud presenta su oferta de talleres para el curso 2026-2027 en la Casa de la Juventud Ayuntamiento de Antequera",
+    "discovery_method": "rss",
+    "query": "\"Antequera\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Wed, 30 Sep 2026 09:49:47 GMT"
+  },
+  {
+    "title": "Antequera invita a las familias a salir a la calle cámara en mano en el II Taller de Fotografía en Familia - Las 4 Esquinas",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZTZBaXU3SnBDYW5DaFB4R2VLSW1uUVhsOWZGdHIwSkNJT1d1blladzJqekdPY0RKWFpUdHczZXFpVTlfMXk2bHhOX0E5a2ZyNmpLXzE1YXZVbk13VlpFdmduWmV5eGxzU2taSGo1dHFFVUd4MnlwN3dvYWhsSUtoNU54amtYMHliQ1ZZSTZoVXNvMi1XV3NzeG1jSkVXWDFzV0ZRMS1lM1VUUGs2aXpRVFJTNk5Vei1LNjRfRkVDVHU3UlFwQUtHX2JSWVk?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Antequera invita a las familias a salir a la calle cámara en mano en el II Taller de Fotografía en Familia Las 4 Esquinas",
+    "discovery_method": "rss",
+    "query": "\"Antequera\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Mon, 19 Oct 2026 09:28:57 GMT"
+  },
+  {
+    "title": "Los Dólmenes de Antequera acogen el 22 y 23 de octubre un taller sobre paisaje y patrimonio arqueológico - Clave Económica",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSGI1Q1VieG9XYlE2Q05qTnhpVDBGTkZ0MGhiSE1tSEJTbEs0OXhPdGJsTVpoVEI3eE15VTJEbzNGeGtqZVRXSmxpcWliLWtpWFNLQndpcjNSS05KRjhsaU9DRDhlcUV2OFdqZHlHM1ZvZUl5akl2X2FVR3ROSTdfd3lydXVucms?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Los Dólmenes de Antequera acogen el 22 y 23 de octubre un taller sobre paisaje y patrimonio arqueológico Clave Económica",
+    "discovery_method": "rss",
+    "query": "\"Antequera\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 15 Oct 2026 01:55:39 GMT"
+  },
+  {
+    "title": "La calle Taller y Ollas de Antequera deja atrás seis décadas de viejas tuberías - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjg5OTEyckFzN1BpNGpuZWJwZk5DOUFsR3VrN05NU083cmh5U1FYU3ZNaWxTYTlhd0VLeVdKaDhFS0hlR09oN1FfMzEtb1YwQ2hXUjk1aDQ0WjloSU1kQ2lkeGswSjNyMlhmUkY5OWtRU2ktbzl3V0ZNR1ZhYy0wWG9SQzdxdXRYUUgzUDJOd1EtQVNQOUxKSmdXX3h4bjRoR3BZ0gGoAUFVX3lxTFBBSEhsMFByZWpzNk95ZEdWXzJJNU9FR0RfNGx0NnlMQ1A3VHg4NXFhdmpEdFNfaDM4Uml2eTNSd1BEUkdCX3Axd1ctTmJwRnAyeGdibkFrX0hFNVR3V0tMMnVlSGpoYnoyYTJhSFR2TTFYdkl6N0xjc2lIcXNPMDJwM0s3YmhYX1NWbV83Tl8yYlRfLTFsVDE4TjEwTFNSQS1aV00xWVl0eA?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "La calle Taller y Ollas de Antequera deja atrás seis décadas de viejas tuberías Diario Sur",
+    "discovery_method": "rss",
+    "query": "\"Antequera\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Thu, 24 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "GENALGUACIL ACOGIÓ UN TALLER DE CESTERÍA CON VARAS DE OLIVO - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jZ0tZWGV5el9nYmdJX0RQdFlVbnZYWnJGU0tPRF9NWmRHWTdGTmxOSUtQWjZJbF9CZ01lWi1zVk5yMVNMRUlzYUdYZG9HQXN4MGs3X2FZaFdlRllm?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "GENALGUACIL ACOGIÓ UN TALLER DE CESTERÍA CON VARAS DE OLIVO YouTube",
+    "discovery_method": "rss",
+    "query": "\"Genalguacil\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Mon, 12 Oct 2026 12:24:34 GMT"
+  },
+  {
+    "title": "Participantes de un taller de bioconstrucción de La Noria instalan en Yunquera ‘La Puerta’, una escultura transitable que simboliza la identidad de la Sierra de las Nieves - Radio Marca Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNdmM4RllNRUd1Y0dmOG9pd0stWm12MnZVNk9QRzR5WkNHZmdQUVhsVTc5N0Y0ZVE5cWd4bjJIbzM4OE1McWs5OUNUZEpNZTgyeHVNQ1FCOXg2dTJBanQ2bXVJTk1pWjVvMjROS0RnSTU4T1VWcUtPaW1KWHN4UXVoZGtSLWhLYlN4UjI5UlVtdjdFeUc1MjU3c0lRRDNNOG5tZXIwT3RlMnItWWtXeGg4cnhISmVTRGpJRGFYdUNIdy15QkhseklYcGZuMUQ3NDRlLV8wa2Zxd2tESU5TVzBrcVZ4VTNIdzhzT0llbkRuQURWQzhleGZrb2haai1ZakRPSEFwTUJZMEp0T05VdVlEal9jOWJnVUpSVHRlMk5TLWRIQzI5YWtKOA?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Participantes de un taller de bioconstrucción de La Noria instalan en Yunquera ‘La Puerta’, una escultura transitable que simboliza la identidad de la Sierra de las Nieves Radio Marca Málaga",
+    "discovery_method": "rss",
+    "query": "\"Yunquera\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Tue, 29 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Participantes de un taller de bioconstrucción de La Noria instalan en Yunquera ‘La Puerta’, una escultura transitable que simboliza la identidad de la Sierra de las Nieves - 103 Málaga",
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOV3V3UnFoNGh1eGpGc0RGdEpuNEFIN0xKVWFWOGNfaFA3OUF2SjhqRUhzeFhBOHhQVUE3V0RXckRCVkRaNlhrNHQwSzNQLXhDUlUybGRLSE8yUVZSNGN0REk5TWRXanJSOU9PcWRfY2MxU1Vxb2liMGR1NEkxV2pNM0NMT3JiVGRCWUJjbVZOU3FBYlZjdXNCdUJfeDl2aG5BSktmWnlsSXFMdms1dUVma0lwVHZpSDdpRldfcEtuZWd1TjNvbUdBWGZ2cWwyQVJESzRFWWdocDRhNmlXN1JUajhkS1ZZTExTMjMtNXNxcHAyN2lHenZUQzFrdEZLTXdHRDZ1WTFiWkRUcVYzR1o3VldxRmF3NVQ4bk5RSlphS0Q?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Participantes de un taller de bioconstrucción de La Noria instalan en Yunquera ‘La Puerta’, una escultura transitable que simboliza la identidad de la Sierra de las Nieves 103 Málaga",
+    "discovery_method": "rss",
+    "query": "\"Yunquera\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Tue, 29 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Actividades «terroríficas» para todos los públicos para disfrutar Halloween en Rincón de la Victoria - Diario Sur",
+    "url": "https://www.diariosur.es/axarquia/rincon/actividades-terrorificas-publicos-disfrutar-halloween-rincon-victoria-20261021123658-nt.html",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "snippet": "Actividades «terroríficas» para todos los públicos para disfrutar Halloween en Rincón de la Victoria Diario Sur",
+    "discovery_method": "rss",
+    "query": "\"Rincón de la Victoria\" (\"este fin de semana\" OR agenda OR programa) (niños OR familia OR infantil OR \"todos los públicos\") when:45d",
+    "published_at": "Wed, 21 Oct 2026 10:36:58 GMT",
+    "corroboration_count": 2,
+    "corroborating_urls": [
+      "https://infoaxarquia.es/2026/10/21/rincon-de-la-victoria-celebrara-halloween-con-actividades-terrorificas-para-todos-los-publicos/",
+      "https://www.diariosur.es/axarquia/rincon/actividades-terrorificas-publicos-disfrutar-halloween-rincon-victoria-20261021123658-nt.html"
+    ],
+    "resolution_checked": "2026-10-23",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN0doYnVyVDJhZnN0Z0lacFFhMFk0NmpMeklLTXc1WmZHcERjd3MzVzg4X08xZFlfNUpFcV9oZjVqVmJSS0F6V25wbmhZSHRyN0FjWnRCYjBZR0EzQnN4Tk5nN0RKYVkwcXpjUVVTM0xLdC1Rb1ZoQ2hRV0dQbEM2d1FYQy0yVEZ1WW1YaTRTTkhhdDVNWkF0RGsxTVQxVjZDWmQ0TzYxQ0laeXAtQjRSQU1YTGhfamU4bmdmX3huaXEybVJ0R3FHcERMYTdWcDNBS01z0gHTAUFVX3lxTE03R2hidXJUMmFmc3RnSVpwUWEwWTQ2akx6SUtNdzVaZkdwRGN3czNXODhfTzFkWV81SkVxX2hmNWpWYlJLQXpXbnBuaFlIdHI3QWNadEJiMFlHQTNCc3hOTmc3REphWTBxemNRVVMzTEt0LVFvVmhDaFFXR1BsQzZ3UVhDLTJURnVZbVhpNFNOSGF0NU1aQXREazFNVDFWNkNaZDRPNjFDSVp5cC1CNFJBTVhMaF9qZThuZ2ZfeG5pcTJtUnRHcUdwRExhN1ZwM0FLTXM?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Málaga se prepara para la Navidad: empieza el montaje de las luces y el árbol - La Opinión de Málaga",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaFEzSmpiekN0YUg0MDBFbTRkSmVCQlV2WFZsbEJHdXNZRjRHcUIxUHdCdmdhdlhNRWk1Q1BPSjVieFRpZkRyLUJMeEx6a3VxeF9Ka051NjlxVnNmMUxoU2gyS1h5dTN1MDk2VHVlYm55LWlJZERyYWJYeDdtOFBqdVU5eTBLdjJ4eVB6bjJFZDNTMlA3S3NzZ011ZlZsT3BVSVp2NHVUdXdPWUVy0gGsAUFVX3lxTE5oUTNKamJ6Q3RhSDQwMEVtNGRKZUJCVXZYVmxsQkd1c1lGNEdxQjFQd0J2Z2F2WE1FaTVDUE9KNWJ4VGlmRHItQkx4THprdXF4X0prTnU2OXFWc2YxTGhTaDJLWHl1M3UwOTZUdWVibnktaUlkRHJhYlh4N204UGp1VTl5MEt2Mnh5UHpuMkVkM1MyUDdLc3NnTXVmVmxPcFVJWnY0dVR1d09ZRXI?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Málaga se prepara para la Navidad: empieza el montaje de las luces y el árbol La Opinión de Málaga",
+    "discovery_method": "rss",
+    "query": "Málaga (\"luces de navidad\" OR \"espectáculo de luces\" OR \"jardín de luces\") entradas 2026 when:90d",
+    "published_at": "Wed, 21 Oct 2026 12:33:06 GMT"
+  },
+  {
+    "title": "Fiesta del Mosto y la Chacina en Colmenar · Colmenar · 13 de diciembre de 2026 - agendaaxarquia.com",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVlTNDYwekw3SUxlZm51VjVFdmVla1JJcDM2bmVDUjltRmI0NmRmNmhLeFJ3QUNYd0tQZGlZbnhVaG1BUFZNaFJMUzFWTDZHMTJlTFVMbEp1UWZBWF9DSWZGNHRoWUxUSnpzR0ZMb29MRDVhbXlQaEl1LTRVR0VhZERja0NLX282OEVfMg?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Fiesta del Mosto y la Chacina en Colmenar · Colmenar · 13 de diciembre de 2026 agendaaxarquia.com",
+    "discovery_method": "rss",
+    "query": "site:agendaaxarquia.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
+    "published_at": "Mon, 19 Oct 2026 11:57:17 GMT"
+  },
+  {
+    "title": "Presentación de los escritos de Ramón Gómez de la Serna sobre Picasso",
+    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/Presentacion-de-los-escritos-de-Ramon-Gomez-de-la-Serna-sobre-Picasso/",
+    "source_name": "Museo Casa Natal Picasso — actividades familiares",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-039",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Día Mundial del Turismo",
+    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/Dia-Mundial-del-Turismo-00003/",
+    "source_name": "Museo Casa Natal Picasso — actividades familiares",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-039",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Encuentro del profesorado y los museos de la Agencia",
+    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/Encuentro-del-profesorado-y-los-museos-de-la-Agencia/",
+    "source_name": "Museo Casa Natal Picasso — actividades familiares",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-039",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Presentación del libro «Crónica de los tiempos heroicos», de Max Jacob",
+    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/Presentacion-del-libro-Cronica-de-los-tiempos-heroicos-de-Max-Jacob/",
+    "source_name": "Museo Casa Natal Picasso — actividades familiares",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-039",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Ver todas las actividades pasadas",
+    "url": "https://museocasanatalpicasso.malaga.eu/actividades/actividades-anteriores/",
+    "source_name": "Museo Casa Natal Picasso — actividades familiares",
+    "first_seen": "2026-10-23",
+    "status": "sin_fecha_estructurada",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-039",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Todo el día Exposición ‘Joan Miró. El valor del símbolo’ en Sevilla Centro Fundación Unicaja Sevilla, Sevilla",
+    "url": "https://www.fundacionunicaja.com/event/presentacion-de-la-exposicion-joan-miro-el-valor-del-simbolo-en-sevilla/",
+    "source_name": "Fundación Unicaja — agenda cultural",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-041",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Todo el día Exposición ‘Los Machado. Un alto en el camino’ en Sevilla Centro Fundación Unicaja Sevilla, Sevilla",
+    "url": "https://www.fundacionunicaja.com/event/exposicion-los-machado-un-alto-en-el-camino-en-sevilla/",
+    "source_name": "Fundación Unicaja — agenda cultural",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-041",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "VICKY KING BAND \"THE BEST OF THE BLUES\"",
+    "url": "https://lacocheraentradas.com/shows/details/2610/vickyking-band-the-best-of-the-blues",
+    "source_name": "La Cochera Entradas · cartelera de Málaga y Las Lagunas",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-076",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "CHRISTIAN GARCÍA \"10 AÑOS DANDO GUERRA\"",
+    "url": "https://lacocheraentradas.com/shows/details/2576/christian-garcia-10-anos-dando-guerra",
+    "source_name": "La Cochera Entradas · cartelera de Málaga y Las Lagunas",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-076",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "SERPeques: circo, teatro y muchos planes para toda la familia - La Diversiva",
+    "url": "https://cadenaser.com/andalucia/2026/10/15/circo-teatro-y-muchos-planes-para-toda-la-familia-ser-malaga/",
+    "snippet": "SERPeques: circo, teatro y muchos planes para toda la familia La Diversiva",
+    "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-B8F9278207",
+    "query": "\"Teatro Cánovas\" \"ofrece\" circo \"Málaga\" 2026",
+    "first_seen": "2026-10-23",
+    "status": "verificada_con_fecha",
+    "review_reason": "Actividad publicada por evidencia textual de alta confianza.",
+    "resolution_checked": "2026-10-23",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeFRiYUFqU2dkNlBJTXBTa1ZqdlhyczhtTTZLbW1zczM0V0NLdEFpbzZvUC1hZjNMbWxub3A2ZWdiSHowWEpNbUxkci1LVjBDQjJCSTVHcFFheld4THZoRDhqMm1SSjlEam5HNHVZY3gzSXlzcFlsT3gwOXRib2tfSFVFQlQ0bU5URUxzZw?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-10-23",
+    "last_text_checked": "2026-10-23",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "público infantil/familiar",
+      "municipio malagueño explícito",
+      "fuente aprobada del catálogo",
+      "titular coherente con la pista"
+    ],
+    "review_priority": "resuelta",
+    "verification_method": "texto",
+    "verified_event_ids": [
+      "EVT-TXT-08758F0942"
+    ]
+  },
+  {
+    "title": "Los 5 herederos al Trono de Hierro - BIOPARC Fuengirola",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RM1N6NUdpZEtrMk80bEtfT0hOazVvT0hTWjVWLUIxN25oa2dLTWN5NkN1Z2U4QUtXbi1oZ3g3d1lxNWtsUUtDdFhzSGlaUW5kU0c5RmJjV1J0U3Z6YzVpTFlOWjl0V21mVDBNVWpaWm5DakdNbWNn?oc=5",
+    "snippet": "Los 5 herederos al Trono de Hierro BIOPARC Fuengirola",
+    "published_at": "Tue, 21 Nov 2023 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-6DB85CA3C4",
+    "query": "site:bioparcfuengirola.es \"reyes\" naturaleza \"Fuengirola\" 2026",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "El Área de Tercera Edad de Fuengirola presenta una nueva edición del programa ‘Disfruta con tu nieto en Bioparc’ - Home - Fuengirola",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRzVNUUhFNU05NG11aU5RaXRTU3p5R0JyQk5NcUJPa3ljUGt3MEctaVJpdjRid3A3VmtpdjV0RElWMkF5X2puTURPd0czX09UaThfc1lteUJfUXdkX2FKbm5fNmJkbVB0M00wNXNVY2hvVnNMczNDSVlmQWtoOHV3MjBYWFhpT296Q19WeDBUcGNRRjN6RUhaNFlla1BYOUpqeElESVRHY1lOX2tEVVlTNmwxcndRSmlfVVpCVXhLRXJSLWRJSzVMenpkSVdqb2I2NXRtb3JR?oc=5",
+    "snippet": "El Área de Tercera Edad de Fuengirola presenta una nueva edición del programa ‘Disfruta con tu nieto en Bioparc’ Home - Fuengirola",
+    "published_at": "Tue, 16 Dec 2025 12:31:38 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-56A29A9420",
+    "query": "\"Bioparc Fuengirola\" \"presenta\" navidad \"Fuengirola\" 2026",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Bioparc Fuengirola lanza 'Origen', un concurso de fotografía para celebrar \"25 años de conservación\" - El Español",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRnJjNmhmNXVCeUpJY3NzTjJQTzJJdDd6NWtlMUMtRkp3VzJIY3NkVWxIZ1BfRHpKYmlNbGlla3JpVHVJbFlnTUJ2N1pQbVRlS1hIRDV0WnlxTWhOV1IzTl8waW5CNHhzc0FORnd5MVRMTVd3cGlOU0lHaS02NTFMVk9QcFY2WmN2Si04S21tdTZ4d0NzX2J2OFA3N2lxOTJCMHUtbkJJVVdDNDhNZWdlNlJjNVExcmhveW1teTlpYVJTOXpxNVgtdG1GaXF2dDVVQzJfZ2xIOXdSTkxnMDloVtIB5gFBVV95cUxNWkdWTnV4Z1pXWlZkOHF5NVAwSjhpWFdWSjNfMndMWmx0cktqWTJBNHRXVGxMU2hwYWlPWU5vNUNhaUJBS0VYUjF1azZMZjUtemhIWXk1c19WdjJIdkFsZElYWDBDSUF0Y3dQczdiSzlTNm5Wa0szLVpMMDJaSVJkeU1QSnROb1VIamdOSU9zWXg4akVZUlhnRWdrX2RBQkhydXIzLXpHUUtwcndaeFBFWlM2MEdhRHhVRWpvdWdVZlFadVlqb0hoMXhRbGxWYTJpVGJZM09SMEctazNDYlFaWERpVDRxdw?oc=5",
+    "snippet": "Bioparc Fuengirola lanza 'Origen', un concurso de fotografía para celebrar \"25 años de conservación\" El Español",
+    "published_at": "Wed, 15 Apr 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-56A29A9420",
+    "query": "\"Bioparc Fuengirola\" \"presenta\" navidad \"Fuengirola\" 2026",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Navidad en Fuengirola 2024: Programación de actividades y horario de las luces - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbTNYSG5tRndmLVZhbkktU0NmVF9GZXc3YVpraWNNZDlTZ0xZM1RMdmZwMk1samNOM2dWclJwT3BSbDJDVTZXVTBBTXV1Tm1zRDY1RnZGRVRYd3NUS0F4aUxzb2R0RklkX1Z4dEYtM1BWUFFpNndRYzR3VkctSzVHRTl0eXczUDUycDdfM21JdDhnNG5DUWdsbVJIZTctbTVhSldfYw?oc=5",
+    "snippet": "Navidad en Fuengirola 2024: Programación de actividades y horario de las luces La Diversiva",
+    "published_at": "Tue, 26 Nov 2024 15:51:16 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-56A29A9420",
+    "query": "\"Bioparc Fuengirola\" \"presenta\" navidad \"Fuengirola\" 2026",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-23",
+    "resolution_version": 2
+  },
+  {
+    "title": "Secundaria. Somos lenguaje - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ3hDZmRHSThLUDQ1QVota2x5RXBnNW8yenYyLXVLbjFYYWpsV0gwamJKdDQ2R0MwWjZ3RUkxdFg4aGF0OFNaVFdtTkpmeFNaVUFCajVPbHRMaF94bmxTN0dYMW1WQXdDcE1SRm53S0I1MVpOdGpHUFBONnRSVUNmMDZzYVg?oc=5",
+    "snippet": "Secundaria. Somos lenguaje Museo Carmen Thyssen Málaga",
+    "published_at": "Mon, 14 Sep 2026 11:45:34 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Secundaria. Visita al yacimiento romano. Todo cambia - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHdwY0RxdWpwaWhNcTlQMENMV3pTajRFUFpzZFVGbUpmd0JYcTZkOU9rX2g0cHYtWkRwSTFJTE9zd1djOURyMlE0Y3BrRjQxS0tiUWdVbGZEU28xMHZQaHpUS0JoMk9TeG05YjlhNU9UcTJNalpTbTNMYnlQYWh4ZGRFVGNyYWV6b04yY3E5dmtPel90NzB3OQ?oc=5",
+    "snippet": "Secundaria. Visita al yacimiento romano. Todo cambia Museo Carmen Thyssen Málaga",
+    "published_at": "Mon, 14 Sep 2026 19:36:47 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-23",
+    "resolution_version": 2
+  },
+  {
+    "title": "Museo Carmen Thyssen Málaga - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zWjQ3RHJWWXlTelNHWUJoUEg2b3RpRHVpZTEyeWpmaXhIMHFHUklzSXdqcnhMcVl1TUJ3LVE4VUt4emVXX2ZuZ01lWDlwWVNqaTFlXzJkcnlSdUdRdzVxTjVPSEp5dEUzSWlQcDI0cXRWQQ?oc=5",
+    "snippet": "Museo Carmen Thyssen Málaga Museo Carmen Thyssen Málaga",
+    "published_at": "Mon, 26 Mar 2018 10:31:03 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Museo Carmen Thyssen Málaga - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wdl9kaTZrQUZ2bDZtWl81TGc2emp0Y3lyLVdrU2ItTllndTlwM2FVNkNzMzJwbVdLODlqY1p6UHNSNUEyWU1NNVVYcy1TbUFyS1FabTd6dTdPUlhWdUJpekpXVWxsTi1LMjU2SERfeE9LOUFRM3c?oc=5",
+    "snippet": "Museo Carmen Thyssen Málaga Museo Carmen Thyssen Málaga",
+    "published_at": "Mon, 26 Mar 2018 07:49:43 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Educational Activity - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEZjNfc2RqcXFaZFVfQTVxa3VQVXVYMkEwY01vNGRTaGxGOWVacWNKVS1hQkNzRlladno0cjVqa0YybWRwUkN3YlZzYlhoYXdNQ0JQaVowcFNvams2SEZDUkpuVWFCdkxH?oc=5",
+    "snippet": "Educational Activity Museo Carmen Thyssen Málaga",
+    "published_at": "Mon, 26 Mar 2018 07:00:24 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Actividades destacadas - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FYjRFV3VYTno0enNKNVltVndfU3loSnFzRDI3YUtwNXUwUXB5d0tDaGpEbVdMaXQ2ZU9pbFBqem03cWU2OEtxamVhQjdsSlZfWHR3UkVvRDI1aFE?oc=5",
+    "snippet": "Actividades destacadas Museo Carmen Thyssen Málaga",
+    "published_at": "Mon, 26 Mar 2018 10:26:12 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-23",
+    "resolution_version": 2
+  },
+  {
+    "title": "Museo Carmen Thyssen Málaga - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XR0oxdTNDbHBqUE9yVU5FQ1g1cE9rN2RRV2o5a09TTDlfb1BQcnQwTVRPMkI2Mi1kTGlSXzJhN0g2cGNTOUlkNEVldzRiN2ZmTEVMajRXMjRkTVI1bnc5NzZxRldYc21uRnRxV1JTdFAzRDZ2a1Y4ZWstQVpldw?oc=5",
+    "snippet": "Museo Carmen Thyssen Málaga Museo Carmen Thyssen Málaga",
+    "published_at": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Education - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8walUzclNGZjk2empFeHNfeXM2S0JBRDQ1U2dKVUpzWXYtdzdkaHFiWGg4aGxLU0RVU2RjOS1KaEZ5UjVHVW5EUjVzTFZGZWRyd0lMa2RwYw?oc=5",
+    "snippet": "Education Museo Carmen Thyssen Málaga",
+    "published_at": "Mon, 26 Mar 2018 07:00:04 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Visitas autónomas - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0h0Nldya0NFaVp5OXJtaWVybzc2LVJPUW9IU0RWRWhKdXBGSHZ2WXZuQXpSdUNySGkxTGZUTzd2Ri1FNGhWX1BnOWRGTG5HQm5XSmFQcjNNOWNDdDJHQUNyYjJKV2xFYmdydVN0SlNfRVNRQW01NEtFbFltaHBqeGpqTi0?oc=5",
+    "snippet": "Visitas autónomas Museo Carmen Thyssen Málaga",
+    "published_at": "Tue, 15 Sep 2026 11:34:57 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Proyecto colaborativo. Derivas sonoras en el Museo Carmen Thyssen Málaga - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQVpUR0xPTS1xYVQxdmR5T1FKVjdqRXYxNUtoR25GRzNtN2NZU0t2N0Z1azlJRl9JRTFWWjJxdVVhUXBDRDdwNXdFX08tS0Z1T01YMjZYcVZrTE1la05HdDZiVXpWUll4andFbnVVd2gyVlhIcDBrS0IxeWtTa0plLTNRbXlUWnhUOUIybTdjZDF6Y3Qw?oc=5",
+    "snippet": "Proyecto colaborativo. Derivas sonoras en el Museo Carmen Thyssen Málaga Museo Carmen Thyssen Málaga",
+    "published_at": "Tue, 15 Sep 2026 11:34:57 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Visitas educativas autónomas - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nWmJNajJET3plMml2akQ5Sk9vZ05odGJfa25Ga0RqUk9Rbjkta0dvNDN6RW1rQlpXenluS3hPejE5UUNBNlFDcHJ0c2dGcEVZeTZ2dEE1V3dkY0hOR1c0QmpMNm9ETkRnMFUtcDg4S0xfeFpkNGlkQkhR?oc=5",
+    "snippet": "Visitas educativas autónomas Museo Carmen Thyssen Málaga",
+    "published_at": "Mon, 26 Mar 2018 10:31:05 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Museo Carmen Thyssen Málaga - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNelMxQVEtNVJqZGZ2UXk4eFJsTmM0OENRWF9vN1k1UDBkWjFtMzFuMWhfcHZtQVhYNHZpc05GaEFLektxX0FOMTlYZ0NaZHBUcVg5Q2JXQ2tjWF94NlBMNVVmblhYWjNYTjkybUdfVVRLZnJtc1dsSXJ2TWxIaGpENlNUVjdFOER5aWNR?oc=5",
+    "snippet": "Museo Carmen Thyssen Málaga Museo Carmen Thyssen Málaga",
+    "published_at": "Tue, 27 Mar 2018 10:20:39 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Museo Carmen Thyssen Málaga - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc240VnFYckpFTWdCZXRQY3lFc2pRdTNZWWF6OHg5UGo0NXNlNFlGZmw4emJUSS1JbXoyWEZ6cW9FTFl3RUtlc0lCekpLNTM2T1hSeEtoaUx1NGJ2OThkNVB1MDMwZUNvY29qcTlMT0JYc1JKVXFDVGdJdnlocXdFVnNDbTBidw?oc=5",
+    "snippet": "Museo Carmen Thyssen Málaga Museo Carmen Thyssen Málaga",
+    "published_at": "Sat, 16 May 2026 09:21:57 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Concierto del Cuarteto Carmen Thyssen - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanNvbG1Yczhkc09xV0tPRGxpQWVnT3BaYUFpSm9DZkMycEExdDRrZHBkV1dYZFpCVHpKRmhYN1R3aVNVTlpYNGkyMkYxdDBMZGhnUkh5bjlMTmFHUnV0TW9NTC0ybTcwMWtsSUkxSXNEOUlfWXlldHdIRU9zaElidG1LWHpQb1lVZjBTMQ?oc=5",
+    "snippet": "Concierto del Cuarteto Carmen Thyssen Museo Carmen Thyssen Málaga",
+    "published_at": "Sat, 23 Apr 2022 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-23",
+    "resolution_version": 2
+  },
+  {
+    "title": "El Galán del Sarao - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoNVhhUnh1MXpCVWswSWQyazZsekF6bjhRYkZpZnY2WVFZam00YWFocC1uelNTRTVpRklMTERURE43b0pjQ3ZPSkFldXVQU3dud2JmSVFKd1N4dEw4b0xfb2JWY093NjJibmh3?oc=5",
+    "snippet": "El Galán del Sarao Museo Carmen Thyssen Málaga",
+    "published_at": "Tue, 27 Mar 2018 01:05:49 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Lugar: Museo Carmen Thyssen Málaga C/ Compañía 10 - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGlmcFV0YWVJTmtuZHBxTDZDQy1lYXMyN2ptc2ZLMWFvYkV5cHZkWVlKSlUyNlNqSXpPTVpRNXY4c2ZsdUIzNldlcUF5amlEeU9WbmtOcU1XUEdrWEVQanpGUWE3VHczUkluNW5tUDBtRFliV1FHVzNYLVRRb3pRcFB0WDFCcERRR0c5TEljS29ZZEJGVW5vZ1AwZw?oc=5",
+    "snippet": "Lugar: Museo Carmen Thyssen Málaga C/ Compañía 10 Museo Carmen Thyssen Málaga",
+    "published_at": "Thu, 01 Apr 2021 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Cuartetos al lienzo. Un viaje a través del siglo XIX - Museo Carmen Thyssen Málaga",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYVB3ZV9fN25ZWU0tZkpKajRwMlZ6X25Ma2dLaUVBNTg5SWxtZ2VMOUZxNl9WZl9RYlFZSFN3d2ZudHdyb2EtTm16aHNPc0VRa1lzU2MzQVloYVJ5SnBrX1NnYV9Nd1djOFl3el85ZnNUdGRMekZoQ3FDNXlIcEdCQlhiSGk4bEhhWWFsLWgxRTFZdw?oc=5",
+    "snippet": "Cuartetos al lienzo. Un viaje a través del siglo XIX Museo Carmen Thyssen Málaga",
+    "published_at": "Sat, 29 Jan 2022 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-5137E6A498",
+    "query": "site:carmenthyssenmalaga.org \"secundaria\"  \"Málaga\" 2027",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Adaptamos horarios para continuar con la actividad dentro de las medidas restrictivas dictadas por la Junta - Teatro Cervantes",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzWWswYW03Y2UwMzB1NW14OC1kSkZwQndBb3VUbm1CcFBUYXduOWROUUtZMmlCNUltTmtMb1d4M25zaTlKSjBqcW03OW5zTnROREREZjRPN0gtQVU?oc=5",
+    "snippet": "Adaptamos horarios para continuar con la actividad dentro de las medidas restrictivas dictadas por la Junta Teatro Cervantes",
+    "published_at": "Wed, 11 Nov 2020 22:15:05 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E75A27E796",
+    "query": "site:teatrocervantes.com \"eternas\" teatro \"Málaga\" 2026",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-23",
+    "resolution_version": 2
+  },
+  {
+    "title": "ECHEGARAY DE MÁLAGA - Teatro Cervantes",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ydW5SVjNtTXFsQmdORlBEMGtwa3dTNEdGM1E1MGtMWElhbEQxbVVkNXNhRUdQZldVa3RJc1F1TGdVWU5kaHZsM000TXY5d1RmMnRUSlRzaVlpd25sYUxWbllqY3d1bEVCd1AtSF8wN0J4Vjhr?oc=5",
+    "snippet": "ECHEGARAY DE MÁLAGA Teatro Cervantes",
+    "published_at": "Thu, 02 Oct 2025 10:28:02 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E75A27E796",
+    "query": "site:teatrocervantes.com \"eternas\" teatro \"Málaga\" 2026",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-23",
+    "resolution_version": 2
+  },
+  {
+    "title": "Danza Danza Málaga 2025 - Teatro Cervantes",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRi1sSWc4OHZkR3gtZUUzcmN3dHlIMTBXZUtTTVZRNEN5MG5pN3BkQVREZjAxSlpHZnMyOS1XQUhPaDQxaVJvcUVMU0pJM0p4NjVnTXNEbTJ3SWNDWmFOQmFHakw0bDNuMHNhd2lCS2dFYXBqaEl0QkZHWlJxcExaYmZtZ2wxckxDVFVVRWF4WmJPZw?oc=5",
+    "snippet": "Danza Danza Málaga 2025 Teatro Cervantes",
+    "published_at": "Wed, 01 Oct 2025 08:14:46 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E75A27E796",
+    "query": "site:teatrocervantes.com \"eternas\" teatro \"Málaga\" 2026",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-23",
+    "resolution_version": 2
+  },
+  {
+    "title": "ECHEGARAY DE MÁLAGA - Teatro Cervantes",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4X1FOalFMQkd6a2VZTER0Y1FvdlcwMHNEZElFVGZKaGlKak1sVlZ3T2xxTHlmV0VyWjlBeGR5cW5DZ292UEs3cG03SFBFSjIta0tLeVlWWVBMUlNkSk5vczN3?oc=5",
+    "snippet": "ECHEGARAY DE MÁLAGA Teatro Cervantes",
+    "published_at": "Thu, 08 May 2025 15:49:15 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E75A27E796",
+    "query": "site:teatrocervantes.com \"eternas\" teatro \"Málaga\" 2026",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-23",
+    "resolution_version": 2
+  },
+  {
+    "title": "ECHEGARAY DE MÁLAGA - Teatro Cervantes",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPck1QOEtmekQ0VmdjdG1URXNJbXRrMlJnTHNIdjd1clFjajBkX1BGUEFHNGh3NExSQmJvbDE3eWRaRzloT0I4aHF4ZVVTbzktQWEzY1ZBLTdKZ21DS0lRNmh0c0s1MU9Iamg5d2NidzU3c1ZkMHFNbGxUWVo1RDNFS2hTSWk2QQ?oc=5",
+    "snippet": "ECHEGARAY DE MÁLAGA Teatro Cervantes",
+    "published_at": "Sun, 20 Sep 2020 06:08:33 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-E75A27E796",
+    "query": "site:teatrocervantes.com \"eternas\" teatro \"Málaga\" 2026",
+    "first_seen": "2026-10-23",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-10-23",
+    "resolution_version": 2
   }
 ]
