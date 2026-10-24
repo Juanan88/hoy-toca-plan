@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T09:37:39+00:00",
+  "updated_at": "2026-10-24T10:52:11+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -26,7 +26,6 @@
           "cinema": "mk2 Cines Miramar",
           "town": "Fuengirola",
           "times": [
-            "11:50",
             "15:50"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
@@ -331,15 +330,6 @@
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
       "source_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar",
       "showtimes": [
-        {
-          "date": "2026-10-24",
-          "cinema": "mk2 Cines Miramar",
-          "town": "Fuengirola",
-          "times": [
-            "12:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
-        },
         {
           "date": "2026-10-25",
           "cinema": "mk2 Cines Miramar",
