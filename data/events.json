@@ -1040,6 +1040,40 @@
     "origin": "agenda especializada"
   },
   {
+    "id": "EVT-E3A0F4B76137",
+    "title": "II Jornada de Recreación Romana Cartima Aeterna en Cártama",
+    "start": "2026-10-24",
+    "end": "2026-10-24",
+    "time": "11:00",
+    "town": "Cártama",
+    "venue": "Cártama",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://mmalaga.es/agenda/cartima-aeterna-cartama/",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://mmalaga.es/agenda/cartima-aeterna-cartama/",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/cartima-aeterna-cartama/",
+    "status": "publicada_en_fuente",
+    "details": "La II Jornada de Recreación Romana Cartima Aeterna invita a viajar a la antigua Roma con campamentos históricos, rituales, talleres infantiles, gastronomía romana y combates de gladiadores. Una propuesta cultural para descubrir el pasado romano de Cártama a través de recreaciones y actividades para todos los públicos. El Parque Santo Cristo se convertirá en un campamento romano donde conocer cómo vivían los ciudadanos, cuáles eran sus creencias y",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-24",
+    "last_checked": "2026-10-24T09:41:26+00:00",
+    "origin": "json-ld"
+  },
+  {
     "id": "EVT-5E7E45D1435A",
     "title": "Pequeños Monstruitos",
     "start": "2026-10-24",
@@ -1634,6 +1668,56 @@
     "field_sources": {}
   },
   {
+    "id": "EVT-TXT-254820A7DF",
+    "title": "SERPeques: espectáculos infantiles, cuentayoga y Halloween en Málaga",
+    "start": "2026-10-25",
+    "end": "2026-10-25",
+    "time": "12:00",
+    "town": "Málaga",
+    "venue": "Por confirmar",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {
+      "start": {
+        "source_url": "https://cadenaser.com/andalucia/2026/10/23/serpeques-espectaculos-infantiles-cuentayoga-y-halloween-en-malaga-ser-malaga/",
+        "quote": "26-27 con espectáculos para todas las edades, te adelantamos las funciones que vienen para los peques. También, el 25 de octubre, no os podéis perder, en el Teatro del Carmen en Vé",
+        "evidence": "Fecha futura explícita vinculada al evento."
+      },
+      "town": {
+        "source_url": "https://cadenaser.com/andalucia/2026/10/23/serpeques-espectaculos-infantiles-cuentayoga-y-halloween-en-malaga-ser-malaga/",
+        "quote": "Málaga",
+        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
+      },
+      "audience": {
+        "source_url": "https://cadenaser.com/andalucia/2026/10/23/serpeques-espectaculos-infantiles-cuentayoga-y-halloween-en-malaga-ser-malaga/",
+        "quote": "infantil/familiar",
+        "evidence": "El evento se presenta explícitamente como infantil o familiar."
+      }
+    },
+    "audience": "Infantil y familiar",
+    "source_name": "SERpeques / Cadena SER Málaga",
+    "source_url": "https://cadenaser.com/andalucia/2026/10/23/serpeques-espectaculos-infantiles-cuentayoga-y-halloween-en-malaga-ser-malaga/",
+    "status": "publicada_en_fuente",
+    "details": "La agenda para las familias con niños en SER Málaga con La Diversiva",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "interval_kind": null,
+    "schedule_note": null,
+    "first_seen": "2026-10-24",
+    "last_checked": "2026-10-24T09:41:33+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 100,
+    "verification_method": "evidencia textual fuerte",
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
+  },
+  {
     "id": "EVT-SCANDI-20261025",
     "title": "Taller de calabazas y manualidades de Halloween",
     "start": "2026-10-25",
@@ -1935,6 +2019,56 @@
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente"
+  },
+  {
+    "id": "EVT-TXT-D1261F662E",
+    "title": "Detalle actividad",
+    "start": "2026-10-30",
+    "end": "2026-10-30",
+    "time": "Por confirmar",
+    "town": "Málaga",
+    "venue": "Por confirmar",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {
+      "start": {
+        "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=149176",
+        "quote": "iones Actividades Servicios Generales Ordenanzas y Normativas La hora del Cuento. B.P.M. Manuel Altolaguirre Desde 30/10/2026 // Hasta 30/10/2026 Biblioteca Pública Municipal \"Manu",
+        "evidence": "Fecha futura explícita vinculada al evento."
+      },
+      "town": {
+        "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=149176",
+        "quote": "Málaga",
+        "evidence": "Municipio heredado del ámbito inequívoco de la fuente oficial."
+      },
+      "audience": {
+        "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=149176",
+        "quote": "infantil/familiar",
+        "evidence": "El evento se presenta explícitamente como infantil o familiar."
+      }
+    },
+    "audience": "Infantil y familiar",
+    "source_name": "Agenda Cultura Málaga",
+    "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=149176",
+    "status": "publicada_en_fuente",
+    "details": "iones Actividades Servicios Generales Ordenanzas y Normativas La hora del Cuento. B.P.M. Manuel Altolaguirre Desde 30/10/2026 // Hasta 30/10/2026 Biblioteca Pública Municipal \"Manuel Altolaguirre\" (Cruz) LA HORA DEL CUENTO Dirigido a: Niños",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "interval_kind": null,
+    "schedule_note": null,
+    "first_seen": "2026-10-24",
+    "last_checked": "2026-10-24T09:41:47+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 95,
+    "verification_method": "evidencia textual fuerte",
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio de fuente oficial fija · fuente aprobada del catálogo"
   },
   {
     "id": "EVT-LIB-20261030-HC",
