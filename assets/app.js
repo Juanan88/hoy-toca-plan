@@ -61,7 +61,25 @@ function explicitlyEveryDay(e){
  const note=String(e.schedule_note||'')+' '+String(e.time||'');
  return /\b(?:abre|abierto|disponible|funciones|visitas)\s+todos los d[ií]as\b/i.test(note);
 }
+// Sólo admitir un intervalo como sesiones diarias cuando la evidencia de ESA
+// actividad enumera exhaustivamente sus fechas, mes y año. Una cartelera genérica
+// con fecha inicial/final no es prueba suficiente.
+function evidenceEnumeratesEveryDay(e){
+ const start=String(e.start||''),end=String(e.end||'');
+ if(!/^\d{4}-\d{2}-\d{2}$/.test(start)||!/^\d{4}-\d{2}-\d{2}$/.test(end)||start>=end)return false;
+ if(start.slice(0,7)!==end.slice(0,7))return false;
+ const evidence=String(e.evidence||'');
+ const match=evidence.match(/\blos d[ií]as?\s+((?:\d{1,2}\s*(?:,\s*|y\s*)?){2,7})\s+de\s+(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+de\s+(\d{4})\b/i);
+ if(!match)return false;
+ const months=['enero','febrero','marzo','abril','mayo','junio','julio','agosto','septiembre','octubre','noviembre','diciembre'];
+ if(Number(match[3])!==Number(start.slice(0,4))||months.indexOf(match[2].toLowerCase())+1!==Number(start.slice(5,7)))return false;
+ const days=(match[1].match(/\d{1,2}/g)||[]).map(Number);
+ const expected=[];
+ for(let day=start;day<=end&&expected.length<=7;day=plusDays(day,1))expected.push(Number(day.slice(8)));
+ return expected.length>=2&&expected.length<=7&&days.length===expected.length&&days.every((n,i)=>n===expected[i]);
+}
 function explicitlyEnumeratedPeriod(e){
+ if(evidenceEnumeratesEveryDay(e))return true;
  const note=String(e.schedule_note||'');
  if(/(?:actividades|programaci[oó]n|funciones|sesiones)\s+(?:oficiales?\s+)?(?:el|los)\s+\d{1,2}\s*,\s*\d{1,2}\s+y\s+\d{1,2}/i.test(note)
  || /\b(?:abre|se celebra|se celebran)\s+(?:los\s+)?(?:dos|tres)\s+d[ií]as\s+indicados\b/i.test(note))return true;
