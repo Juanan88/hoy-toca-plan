@@ -1117,7 +1117,10 @@
     "origin": "evidencia textual automatizada",
     "confidence_score": 100,
     "verification_method": "evidencia textual fuerte",
-    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista",
+    "secondary_sources": [
+      "https://cadenaser.com/andalucia/2026/10/23/serpeques-espectaculos-infantiles-cuentayoga-y-halloween-en-malaga-ser-malaga/"
+    ]
   },
   {
     "id": "EVT-SCANDI-20261025",
@@ -2796,7 +2799,7 @@
       }
     },
     "first_seen": "2026-10-18",
-    "last_checked": "2026-10-18",
+    "last_checked": "2026-10-25T11:46:01+00:00",
     "origin": "programación del organizador contrastada en dos funciones"
   },
   {
@@ -3255,10 +3258,12 @@
     "details": "Concierto participativo de canciones infantiles de Grupo Golosinas, con repertorio tradicional y moderno. No se infiere edad recomendada de las condiciones de pago de bebés.",
     "evidence": "La ficha del promotor GTM confirma sábado 14 de noviembre de 2026 a las 18:00 en Auditorio AM de Málaga y describe expresamente canciones infantiles, baile y participación de niños junto a sus familias.",
     "first_seen": "2026-10-23",
-    "last_checked": "2026-10-23T08:27:08+00:00",
+    "last_checked": "2026-10-25T11:46:01+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
-    "status": "publicada_en_fuente"
+    "status": "publicada_en_fuente",
+    "reservation_required": true,
+    "reservation_url": "https://gtmmalaga.com/evento/a_57059-canta-juegos-en-malaga"
   },
   {
     "id": "EVT-IA-F5B61E88D9",
@@ -4082,10 +4087,12 @@
     "details": "Espectáculo navideño musical en el que los elfos y Papá Noel intentan impedir que el Grinch arruine la Navidad. La descripción oficial confirma público familiar.",
     "evidence": "La ficha oficial de GTM anuncia el domingo 6 de diciembre de 2026 a las 12:30 en Auditorio AM de Málaga y describe expresamente una aventura navideña de elfos, Papá Noel y el Grinch con magia y música para toda la familia.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25T09:19:15+00:00",
+    "last_checked": "2026-10-25T11:46:01+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
-    "status": "publicada_en_fuente"
+    "status": "publicada_en_fuente",
+    "reservation_required": true,
+    "reservation_url": "https://gtmmalaga.com/evento/a_60501-papa-noel-mision-salvar-la-navidad-en-malaga"
   },
   {
     "id": "EVT-770BF741379E",
@@ -4154,10 +4161,12 @@
     "details": "Musical en directo protagonizado por los personajes Momonsters: canciones, bailes, humor y aventura sobre los talentos personales, la amistad y el trabajo en equipo. Público infantil y familiar.",
     "evidence": "La cartelera oficial GTM fija sábado 12 de diciembre de 2026 a las 17:00 en Auditorio AM, Málaga; la sinopsis presenta un musical interactivo en vivo donde los más pequeños cantan y bailan con Momonsters.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25T09:19:15+00:00",
+    "last_checked": "2026-10-25T11:46:01+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
-    "status": "publicada_en_fuente"
+    "status": "publicada_en_fuente",
+    "reservation_required": true,
+    "reservation_url": "https://gtmmalaga.com/evento/a_56679-momonsters-mi-primer-musical-en-malaga"
   },
   {
     "id": "EVT-F96822DAC911",
