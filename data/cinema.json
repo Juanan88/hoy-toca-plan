@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T11:12:30+00:00",
+  "updated_at": "2026-10-27T12:26:46+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -137,9 +137,95 @@
             "16:45"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
+        },
+        {
+          "date": "2026-10-30",
+          "cinema": "Yelmo Cines Plaza Mayor",
+          "town": "Málaga",
+          "times": [
+            "16:15"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
+        },
+        {
+          "date": "2026-10-31",
+          "cinema": "Yelmo Cines Plaza Mayor",
+          "town": "Málaga",
+          "times": [
+            "16:15"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
+        },
+        {
+          "date": "2026-11-01",
+          "cinema": "Yelmo Cines Plaza Mayor",
+          "town": "Málaga",
+          "times": [
+            "16:15"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
+        },
+        {
+          "date": "2026-11-02",
+          "cinema": "Yelmo Cines Plaza Mayor",
+          "town": "Málaga",
+          "times": [
+            "16:15"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
         }
       ],
       "id": "MOV-E1952705CC0E"
+    },
+    {
+      "title": "COYOTE VS ACME",
+      "classification": "Apta",
+      "duration_minutes": 103,
+      "genres": [
+        "Aventuras",
+        "Comedia"
+      ],
+      "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
+      "source_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor",
+      "showtimes": [
+        {
+          "date": "2026-10-30",
+          "cinema": "Yelmo Cines Plaza Mayor",
+          "town": "Málaga",
+          "times": [
+            "15:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
+        },
+        {
+          "date": "2026-10-31",
+          "cinema": "Yelmo Cines Plaza Mayor",
+          "town": "Málaga",
+          "times": [
+            "15:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
+        },
+        {
+          "date": "2026-11-01",
+          "cinema": "Yelmo Cines Plaza Mayor",
+          "town": "Málaga",
+          "times": [
+            "15:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
+        },
+        {
+          "date": "2026-11-02",
+          "cinema": "Yelmo Cines Plaza Mayor",
+          "town": "Málaga",
+          "times": [
+            "15:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
+        }
+      ],
+      "id": "MOV-5DC1E9D2BF59"
     },
     {
       "title": "LA ISLA OLVIDADA",
@@ -235,8 +321,17 @@
         "Comedia"
       ],
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
-      "source_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga",
+      "source_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor",
       "showtimes": [
+        {
+          "date": "2026-11-02",
+          "cinema": "Yelmo Cines Plaza Mayor",
+          "town": "Málaga",
+          "times": [
+            "18:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
+        },
         {
           "date": "2026-11-02",
           "cinema": "Yelmo Cines Vialia",
@@ -245,6 +340,15 @@
             "18:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
+        },
+        {
+          "date": "2026-11-02",
+          "cinema": "Yelmo Cines Rincón de la Victoria",
+          "town": "Rincón de la Victoria",
+          "times": [
+            "18:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/rincon-de-la-victoria/yelmo-cines-rincon-de-la-victoria"
         }
       ],
       "id": "MOV-4768472806D7"
@@ -484,6 +588,16 @@
           "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
         },
         {
+          "date": "2026-10-30",
+          "cinema": "Yelmo Cines Plaza Mayor",
+          "town": "Málaga",
+          "times": [
+            "15:45",
+            "17:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
+        },
+        {
           "date": "2026-10-31",
           "cinema": "Kinépolis La Cañada",
           "town": "Marbella",
@@ -493,6 +607,16 @@
             "17:55"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
+        },
+        {
+          "date": "2026-10-31",
+          "cinema": "Yelmo Cines Plaza Mayor",
+          "town": "Málaga",
+          "times": [
+            "15:45",
+            "17:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
         },
         {
           "date": "2026-11-01",
@@ -505,6 +629,16 @@
           "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
         },
         {
+          "date": "2026-11-01",
+          "cinema": "Yelmo Cines Plaza Mayor",
+          "town": "Málaga",
+          "times": [
+            "15:45",
+            "17:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
+        },
+        {
           "date": "2026-11-02",
           "cinema": "Kinépolis La Cañada",
           "town": "Marbella",
@@ -514,6 +648,16 @@
             "18:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
+        },
+        {
+          "date": "2026-11-02",
+          "cinema": "Yelmo Cines Plaza Mayor",
+          "town": "Málaga",
+          "times": [
+            "15:45",
+            "17:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
         }
       ],
       "id": "MOV-C640C48C4EA1"
