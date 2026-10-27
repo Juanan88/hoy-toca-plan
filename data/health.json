@@ -1,34 +1,29 @@
 {
-  "generated_at": "2026-10-27T09:44:32+00:00",
+  "generated_at": "2026-10-27T11:18:36+00:00",
   "level": "attention",
-  "events": 114,
+  "events": 126,
   "sources": 78,
-  "catalog_drift": true,
+  "catalog_drift": false,
   "last_scan_snapshot": {
-    "events": 114,
-    "sources": 76
+    "events": 126,
+    "sources": 78
   },
-  "discoveries_pending": 764,
-  "discoveries_unresolved": 870,
-  "unverified_events": 3,
-  "known_age": 26,
+  "discoveries_pending": 765,
+  "discoveries_unresolved": 849,
+  "unverified_events": 7,
+  "known_age": 28,
   "sources_never_checked": 0,
-  "sources_failed": 15,
+  "sources_failed": 11,
   "source_errors": [
     {
       "name": "Teatro Cervantes y Echegaray",
-      "detail": "robots.txt no permite o no pudo comprobarse",
-      "category": "access_restricted"
+      "detail": "403 Client Error: Forbidden for url: https://teatrocervantes.com/es/programacion/teatro-cervantes/",
+      "category": "access_denied"
     },
     {
       "name": "Teatro Echegaray",
-      "detail": "robots.txt no permite o no pudo comprobarse",
-      "category": "access_restricted"
-    },
-    {
-      "name": "Rincón de la Victoria",
-      "detail": "HTTPSConnectionPool(host='www.rincondelavictoria.es', port=443): Read timed out. (read timeout=15)",
-      "category": "other"
+      "detail": "403 Client Error: Forbidden for url: https://www.teatrocervantes.com/es/programacion/teatro-echegaray/",
+      "category": "access_denied"
     },
     {
       "name": "CC Vialia Málaga",
@@ -39,11 +34,6 @@
       "name": "Turismo Costa del Sol",
       "detail": "405 Client Error: Not Allowed for url: https://www.visitacostadelsol.com/",
       "category": "method_not_allowed"
-    },
-    {
-      "name": "Ayuntamiento Mijas",
-      "detail": "robots.txt no permite o no pudo comprobarse",
-      "category": "access_restricted"
     },
     {
       "name": "Ayuntamiento Torremolinos",
@@ -66,16 +56,6 @@
       "category": "access_denied"
     },
     {
-      "name": "Mijas · noticias y actividades municipales",
-      "detail": "robots.txt no permite o no pudo comprobarse",
-      "category": "access_restricted"
-    },
-    {
-      "name": "La Térmica Mini · programación infantil (agenda oficial)",
-      "detail": "503 Server Error: Service Unavailable for url: https://latermicamalaga.com/la-termica-mini/",
-      "category": "server_error"
-    },
-    {
       "name": "Entradas.com Málaga · espectáculos",
       "detail": "robots.txt no permite o no pudo comprobarse",
       "category": "access_restricted"
@@ -91,44 +71,44 @@
       "category": "access_restricted"
     }
   ],
-  "last_full_scan": "2026-10-22T10:19:07+00:00",
-  "days_since_full_scan": 5.0,
-  "last_radar": "2026-10-27T09:39:50+00:00",
+  "last_full_scan": "2026-10-27T11:02:05+00:00",
+  "days_since_full_scan": 0.0,
+  "last_radar": "2026-10-27T11:13:39+00:00",
   "days_since_radar": 0.0,
-  "last_verifier": "2026-10-27T09:42:20+00:00",
-  "cases_total": 548,
-  "cases_to_investigate": 31,
-  "cases_high_confidence": 29,
-  "cases_stale_high_confidence": 27,
-  "last_case_investigation": "2026-10-27T09:41:29+00:00",
-  "last_broad_scout": "2026-10-27T09:39:50+00:00",
-  "broad_scout_new_leads": 19,
-  "ai_hunt_brief_generated": "2026-10-27T09:43:26+00:00",
+  "last_verifier": "2026-10-27T11:16:48+00:00",
+  "cases_total": 523,
+  "cases_to_investigate": 20,
+  "cases_high_confidence": 18,
+  "cases_stale_high_confidence": 11,
+  "last_case_investigation": "2026-10-27T11:15:53+00:00",
+  "last_broad_scout": "2026-10-27T11:13:39+00:00",
+  "broad_scout_new_leads": 15,
+  "ai_hunt_brief_generated": "2026-10-27T11:17:59+00:00",
   "ai_hunt_broad_candidates": 22,
   "ai_independent_published": 30,
   "ai_case_published": 2,
-  "age_missing": 88,
+  "age_missing": 98,
   "municipalities_with_events": 16,
   "coverage_by_town": {
-    "Málaga": 59,
+    "Málaga": 67,
+    "Fuengirola": 10,
     "Benalmádena": 10,
-    "Fuengirola": 8,
     "Estepona": 6,
+    "Rincón de la Victoria": 5,
     "Vélez-Málaga": 5,
-    "Rincón de la Victoria": 4,
     "Torremolinos": 3,
     "Marbella": 3,
+    "Alhaurín de la Torre": 3,
     "Mijas": 3,
     "Antequera": 3,
     "Almáchar": 2,
-    "Alhaurín de la Torre": 2,
     "Ronda": 2,
     "Colmenar": 2,
     "Nerja": 1,
     "Torre del Mar": 1
   },
   "alerts": [
-    "15 fuentes con error en su última consulta",
-    "27 casos de alta confianza llevan más de 48 h sin resolverse"
+    "11 fuentes con error en su última consulta",
+    "11 casos de alta confianza llevan más de 48 h sin resolverse"
   ]
 }
