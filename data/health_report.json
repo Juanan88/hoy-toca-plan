@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T13:19:10.555813+00:00",
+  "generated_at": "2026-10-28T18:20:38.334100+00:00",
   "workflow": {
     "name": "Hoy Toca Plan · motor y publicación segura",
     "event": "schedule",
     "schedule_cron": null,
-    "run_id": "40694363873",
+    "run_id": "40744145129",
     "run_attempt": "1",
-    "run_url": "https://github.com/Juanan88/hoy-toca-plan-motor/actions/runs/40694363873",
+    "run_url": "https://github.com/Juanan88/hoy-toca-plan-motor/actions/runs/40744145129",
     "job_status": "success"
   },
   "last_success": {
