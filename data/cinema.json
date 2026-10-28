@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T13:13:10+00:00",
+  "updated_at": "2026-10-28T13:58:59+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -1128,15 +1128,6 @@
           "town": "Málaga",
           "times": [
             "12:10",
-            "17:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
-        },
-        {
-          "date": "2026-11-03",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
             "17:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
