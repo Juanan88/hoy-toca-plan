@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T17:58:31+00:00",
+  "updated_at": "2026-10-27T16:50:41+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -400,6 +400,15 @@
             "17:50"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
+        },
+        {
+          "date": "2026-10-27",
+          "cinema": "Yelmo Cines Vialia",
+          "town": "Málaga",
+          "times": [
+            "17:45"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
         },
         {
           "date": "2026-10-27",
