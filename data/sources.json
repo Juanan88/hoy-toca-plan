@@ -1218,5 +1218,110 @@
     "last_checked": "2026-10-29T13:20:02+00:00",
     "events_detected_this_run": 0,
     "last_broad_checked": "2026-10-28T13:14:23+00:00"
+  },
+  {
+    "id": "SRC-079",
+    "name": "Almáchar Informa · avisos municipales",
+    "type": "Bando municipal / fuente oficial",
+    "area": "Almáchar",
+    "priority": "Alta",
+    "url": "https://www.bandomovil.com/almachar",
+    "approved": true,
+    "status": "pendiente",
+    "notes": "Validada 30-10-2026: comunicados municipales con fichas fechadas, como el Mercado Moscatel. Solo considerar planes familiares de fecha futura; filtrar tráfico, cursos y avisos generales. Primera lectura en siguiente ciclo; sin consultas extra.",
+    "strict_location": true,
+    "max_links": 8
+  },
+  {
+    "id": "SRC-080",
+    "name": "Diario Alhaurín · actualidad y agenda local",
+    "type": "Medio local / descubrimiento, no oficial",
+    "area": "Alhaurín de la Torre",
+    "priority": "Media",
+    "url": "https://www.alhaurindelatorre.com/",
+    "approved": false,
+    "status": "pendiente",
+    "notes": "Sitio accesible con sección de cultura y agenda, pero NO es la web del Ayuntamiento. No aprobar hasta validar enlaces a actividades concretas y valorar solapamiento con fuentes ya presentes."
+  },
+  {
+    "id": "SRC-081",
+    "name": "Mijas Comunicación · agenda local",
+    "type": "Medio municipal / noticias locales",
+    "area": "Mijas",
+    "priority": "Media",
+    "url": "https://mijascomunicacion.com/",
+    "approved": false,
+    "status": "pendiente",
+    "notes": "El dominio principal no ha respondido al comprobarlo (timeout 30-10-2026), aunque existen fichas concretas en enlaces ya conocidos. Mantener pendiente sin gastar consultas hasta comprobar acceso estable."
+  },
+  {
+    "id": "SRC-082",
+    "name": "Torremolinos Cultura · agenda municipal",
+    "type": "Ayuntamiento / agenda cultural oficial",
+    "area": "Torremolinos",
+    "priority": "Alta",
+    "url": "https://www.torremolinoscultura.es/es/eventos",
+    "approved": true,
+    "status": "pendiente",
+    "notes": "Confirmada la titularidad del Área de Cultura del Ayuntamiento; página de agenda con categorías infantil, todos los públicos, teatro, etc. La portada del calendario puede requerir extracción específica; fichas concretas siempre con fecha y audiencia verificadas. No considerar cultura general como familiar.",
+    "strict_location": true,
+    "max_links": 12,
+    "broad_discovery": true,
+    "broad_max_links": 10
+  },
+  {
+    "id": "SRC-083",
+    "name": "Circo Berlín · programación propia",
+    "type": "Organizador / gira familiar",
+    "area": "Provincia",
+    "priority": "Alta",
+    "url": "https://circoberlin.com/",
+    "approved": true,
+    "status": "pendiente",
+    "notes": "Web oficial confirma circo familiar y gira por Vélez-Málaga, Alhaurín el Grande y Marbella en 2026-27. Comprobar sesiones concretas y fechas: el periodo de estancia no significa función diaria. Evitar duplicados de Circo Berlín ya existente y no asignar municipio desde la página general.",
+    "strict_location": true,
+    "max_links": 10,
+    "watch_urls": [
+      "https://circoberlin.com/velez-malaga/"
+    ]
+  },
+  {
+    "id": "SRC-084",
+    "name": "Bibliotecas de Benalmádena · agenda",
+    "type": "Bibliotecas municipales / agenda",
+    "area": "Benalmádena",
+    "priority": "Media",
+    "url": "https://www.bibliotecaspublicas.es/benalmadena/Actividades/Agenda.html",
+    "approved": false,
+    "status": "pendiente",
+    "notes": "HTTP 429 repetido al consultar la agenda el 30-10-2026. No activar ni sortear límites; preferir agenda municipal de Benalmádena (SRC-086)."
+  },
+  {
+    "id": "SRC-085",
+    "name": "Turismo Rincón de la Victoria · noticias oficiales",
+    "type": "Ayuntamiento / turismo y noticias",
+    "area": "Rincón de la Victoria",
+    "priority": "Media",
+    "url": "https://www.turismoenrincon.es/noticias/",
+    "approved": true,
+    "status": "pendiente",
+    "notes": "Accesible 30-10-2026. Noticias municipales con programación de eventos y fichas enlazadas; filtrar anuncios turísticos genéricos, conferencias adultas y fechas pasadas. Ya existe SRC-023: monitorizar duplicados entre ambos dominios.",
+    "strict_location": true,
+    "max_links": 9
+  },
+  {
+    "id": "SRC-086",
+    "name": "Benalmádena · calendario municipal de cultura",
+    "type": "Ayuntamiento / calendario cultural",
+    "area": "Benalmádena",
+    "priority": "Alta",
+    "url": "https://www.benalmadena.es/pags/agenda.php",
+    "approved": true,
+    "status": "pendiente",
+    "notes": "Validado 30-10-2026: calendario semanal con enlaces a fichas concretas, fechas, recinto y filtros por edades. Solo publicar actividades cuya ficha específica acredite público infantil o familiar; evitar considerar todas las categorías como abiertas a menores.",
+    "strict_location": true,
+    "max_links": 12,
+    "broad_discovery": true,
+    "broad_max_links": 10
   }
 ]

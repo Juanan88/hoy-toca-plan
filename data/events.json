@@ -1082,7 +1082,9 @@
     "last_checked": "2026-10-24T08:19:19+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
-    "status": "publicada_en_fuente"
+    "status": "cancelada",
+    "status_source_url": "https://ayuntamiento.estepona.es/noticias/suspension-fiestas-halloween",
+    "last_status_checked": "2026-10-30T11:00:00+01:00"
   },
   {
     "id": "EVT-IA-493BD19EBD",
@@ -1284,14 +1286,16 @@
     "audience": "Consultar organizador",
     "source_name": "InforMálaga",
     "source_url": "https://informalaga.es/agenda/espectaculo-de-animacion-infantil-la-noche-de-los-villanos-hkb5v",
-    "status": "publicada_en_fuente",
+    "status": "cancelada",
     "details": "Espectáculo de animación infantil en la plaza de las Carmelitas.",
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-22",
     "last_checked": "2026-10-29T13:21:53+00:00",
     "origin": "json-ld",
-    "secondary_sources": []
+    "secondary_sources": [],
+    "status_source_url": "https://www.velezmalaga.es/index.php?id=8880&mod=noticias",
+    "last_status_checked": "2026-10-30T11:00:00+01:00"
   },
   {
     "id": "EVT-E283FDD21F21",
@@ -1512,7 +1516,9 @@
     "last_checked": "2026-10-24T08:19:19+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
-    "status": "publicada_en_fuente"
+    "status": "cancelada",
+    "status_source_url": "https://ayuntamiento.estepona.es/noticias/suspension-fiestas-halloween",
+    "last_status_checked": "2026-10-30T11:00:00+01:00"
   },
   {
     "id": "EVT-C8F314EED53E",
@@ -1835,7 +1841,9 @@
     "last_checked": "2026-10-20T14:06:27+00:00",
     "origin": "Investigación IA programada, con fuente",
     "discovery_channel": "ai_case",
-    "status": "publicada_en_fuente"
+    "status": "cancelada",
+    "status_source_url": "https://www.velezmalaga.es/index.php?id=8880&mod=noticias",
+    "last_status_checked": "2026-10-30T11:00:00+01:00"
   },
   {
     "id": "EVT-TXT-09F62EC28C",
@@ -2205,14 +2213,16 @@
     "audience": "Consultar organizador",
     "source_name": "InforMálaga",
     "source_url": "https://informalaga.es/agenda/talleres-infantiles-de-halloween-en-la-plaza-de-las-carmelitas-qonnu",
-    "status": "publicada_en_fuente",
+    "status": "cancelada",
     "details": "Talleres infantiles de pintacaras, caracterización de heridas, tatuajes, globoflexia y manualidades.",
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-22",
     "last_checked": "2026-10-29T13:21:53+00:00",
     "origin": "json-ld",
-    "secondary_sources": []
+    "secondary_sources": [],
+    "status_source_url": "https://www.velezmalaga.es/index.php?id=8880&mod=noticias",
+    "last_status_checked": "2026-10-30T11:00:00+01:00"
   },
   {
     "id": "EVT-TXT-E60E94B4A0",
@@ -2256,7 +2266,7 @@
     "audience": "Infantil y familiar",
     "source_name": "Ayuntamiento Vélez-Málaga",
     "source_url": "https://www.velezmalaga.es/index.php?mod=noticias&id=8865",
-    "status": "publicada_en_fuente",
+    "status": "cancelada",
     "details": "Torre del Mar celebrará Halloween con un gran pasacalles, talleres infantiles y un renovado pasaje del terror",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2270,7 +2280,9 @@
     "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista",
     "secondary_sources": [
       "https://www.velezmalaga.es/index.php?mod=noticias&id=8865"
-    ]
+    ],
+    "status_source_url": "https://www.velezmalaga.es/index.php?id=8880&mod=noticias",
+    "last_status_checked": "2026-10-30T11:00:00+01:00"
   },
   {
     "id": "EVT-HALLOWEEN-CHURRIANA-2026",
@@ -2288,10 +2300,12 @@
     "town": "Málaga",
     "category": "Fiestas y celebraciones",
     "audience": "Familiar",
-    "status": "publicada_en_fuente",
+    "status": "cancelada",
     "first_seen": "2026-10-23",
     "last_checked": "2026-10-23",
-    "origin": "agenda oficial Ayuntamiento de Málaga"
+    "origin": "agenda oficial Ayuntamiento de Málaga",
+    "status_source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/?id=149114",
+    "last_status_checked": "2026-10-30T11:00:00+01:00"
   },
   {
     "id": "EVT-3309B82F055F",

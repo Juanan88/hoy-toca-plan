@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-30T09:57:23+00:00",
+  "generated_at": "2026-10-30T10:20:03+00:00",
   "level": "attention",
   "events": 149,
-  "sources": 78,
-  "catalog_drift": false,
+  "sources": 86,
+  "catalog_drift": true,
   "last_scan_snapshot": {
     "events": 149,
     "sources": 78
   },
   "discoveries_pending": 732,
   "discoveries_unresolved": 855,
-  "unverified_events": 9,
+  "unverified_events": 16,
   "known_age": 28,
-  "sources_never_checked": 0,
+  "sources_never_checked": 8,
   "sources_failed": 10,
   "source_errors": [
     {
@@ -104,6 +104,7 @@
   },
   "alerts": [
     "10 fuentes con error en su última consulta",
+    "8 fuentes aún sin primera revisión",
     "12 casos de alta confianza llevan más de 48 h sin resolverse"
   ]
 }
