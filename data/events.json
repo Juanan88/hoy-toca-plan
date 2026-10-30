@@ -700,41 +700,6 @@
     "secondary_sources": []
   },
   {
-    "id": "EVT-969A93DD4361",
-    "title": "AGENDA: Taller de repostería de Halloween para niños en Picofino, Málaga",
-    "start": "2026-10-30",
-    "end": "2026-10-30",
-    "time": "17:30",
-    "town": "Málaga",
-    "venue": "Escuela Picofino Málaga",
-    "category": "Talleres y aprendizaje",
-    "age_min": 4,
-    "age_max": 12,
-    "age_label": "4–12 años",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": "Av. María Victoria Atencia, 17, Teatinos-Universidad, 29010 Málaga",
-    "reservation_url": null,
-    "field_sources": {
-      "address": {
-        "source_url": "https://ladiversiva.com/actividad/agenda-taller-de-reposteria-de-halloween-para-ninos-en-picofino-malaga/",
-        "quote": "Av. María Victoria Atencia, 17, Teatinos-Universidad, 29010 Málaga",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "La Diversiva",
-    "source_url": "https://ladiversiva.com/actividad/agenda-taller-de-reposteria-de-halloween-para-ninos-en-picofino-malaga/",
-    "status": "publicada_en_fuente",
-    "details": "El viernes 30 de octubre, los niños y niñas de 4 a 12 años podrán preparar dulces terroríficos en un taller de repostería de Halloween en Picofino , Málaga. La actividad se celebrará […]",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-10-27",
-    "last_checked": "2026-10-29T13:20:18+00:00",
-    "origin": "json-ld",
-    "secondary_sources": []
-  },
-  {
     "id": "EVT-IA-9765FAA95B",
     "title": "Circo Berlín · Adrenalina 2.0 en Vélez-Málaga",
     "start": "2026-10-30",
@@ -783,56 +748,6 @@
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente"
-  },
-  {
-    "id": "EVT-TXT-D1261F662E",
-    "title": "Detalle actividad",
-    "start": "2026-10-30",
-    "end": "2026-10-30",
-    "time": "Por confirmar",
-    "town": "Málaga",
-    "venue": "Por confirmar",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_required": null,
-    "reservation_url": null,
-    "field_sources": {
-      "start": {
-        "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=149176",
-        "quote": "iones Actividades Servicios Generales Ordenanzas y Normativas La hora del Cuento. B.P.M. Manuel Altolaguirre Desde 30/10/2026 // Hasta 30/10/2026 Biblioteca Pública Municipal \"Manu",
-        "evidence": "Fecha futura explícita vinculada al evento."
-      },
-      "town": {
-        "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=149176",
-        "quote": "Málaga",
-        "evidence": "Municipio heredado del ámbito inequívoco de la fuente oficial."
-      },
-      "audience": {
-        "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=149176",
-        "quote": "infantil/familiar",
-        "evidence": "El evento se presenta explícitamente como infantil o familiar."
-      }
-    },
-    "audience": "Infantil y familiar",
-    "source_name": "Agenda Cultura Málaga",
-    "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=149176",
-    "status": "publicada_en_fuente",
-    "details": "iones Actividades Servicios Generales Ordenanzas y Normativas La hora del Cuento. B.P.M. Manuel Altolaguirre Desde 30/10/2026 // Hasta 30/10/2026 Biblioteca Pública Municipal \"Manuel Altolaguirre\" (Cruz) LA HORA DEL CUENTO Dirigido a: Niños",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "interval_kind": null,
-    "schedule_note": null,
-    "first_seen": "2026-10-24",
-    "last_checked": "2026-10-24T09:41:47+00:00",
-    "origin": "evidencia textual automatizada",
-    "confidence_score": 95,
-    "verification_method": "evidencia textual fuerte",
-    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio de fuente oficial fija · fuente aprobada del catálogo"
   },
   {
     "id": "EVT-97AA4E9CF503",
@@ -891,7 +806,7 @@
     "last_checked": "2026-10-13",
     "origin": "investigación IA + fuente oficial",
     "secondary_sources": [
-      "https://bibliotecas.malaga.eu/es/agenda/detalle-de-agenda/index.html?id=149176&tipoVO=2"
+      "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=149176"
     ]
   },
   {
@@ -944,29 +859,29 @@
     "price_label": "Gratis",
     "duration_minutes": null,
     "address": "Plaza entre la avenida Gregorio Prieto y la calle Franz Kafka, Teatinos",
-    "reservation_url": "https://informalaga.es/agenda/noche-de-halloween-de-la-asociacion-de-vecinos-de-teatinos-ciudad-de-l-wy9cg",
+    "reservation_url": null,
     "field_sources": {
       "address": {
         "source_url": "https://informalaga.es/agenda/noche-de-halloween-de-la-asociacion-de-vecinos-de-teatinos-ciudad-de-l-wy9cg",
         "quote": "Plaza entre la avenida Gregorio Prieto y la calle Franz Kafka, Teatinos",
         "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      },
-      "reservation_url": {
-        "source_url": "https://informalaga.es/agenda/noche-de-halloween-de-la-asociacion-de-vecinos-de-teatinos-ciudad-de-l-wy9cg",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
       }
     },
     "audience": "Consultar organizador",
-    "source_name": "InforMálaga",
-    "source_url": "https://informalaga.es/agenda/noche-de-halloween-de-la-asociacion-de-vecinos-de-teatinos-ciudad-de-l-wy9cg",
-    "status": "publicada_en_fuente",
+    "source_name": "Ayuntamiento de Málaga · cancelación oficial",
+    "source_url": "https://www.malaga.eu/el-ayuntamiento/notas-de-prensa/detalle-de-la-nota-de-prensa/index.html?id=178933",
+    "status": "cancelada",
     "details": "Globoflexia, juegos infantiles y espectáculo de magia. Gratis.",
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-29",
     "last_checked": "2026-10-29T13:21:53+00:00",
-    "origin": "json-ld"
+    "origin": "json-ld",
+    "status_source_url": "https://www.malaga.eu/el-ayuntamiento/notas-de-prensa/detalle-de-la-nota-de-prensa/index.html?id=178933",
+    "last_status_checked": "2026-10-30",
+    "secondary_sources": [
+      "https://informalaga.es/agenda/noche-de-halloween-de-la-asociacion-de-vecinos-de-teatinos-ciudad-de-l-wy9cg"
+    ]
   },
   {
     "id": "EVT-IA-822613151F",
@@ -1016,7 +931,9 @@
     "first_seen": "2026-10-13",
     "last_checked": "2026-10-29T13:26:54+00:00",
     "origin": "json-ld",
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://ladiversiva.com/actividad/agenda-taller-de-reposteria-de-halloween-para-ninos-en-picofino-malaga/"
+    ],
     "duration_minutes": 90,
     "address": "Av. María Victoria Atencia, 17",
     "reservation_url": "https://picofinoescuelamalaga.com/reservas/taller-de-reposteria-de-halloween-para-ninos/",
@@ -1211,56 +1128,6 @@
     "secondary_sources": []
   },
   {
-    "id": "EVT-TXT-2089F872C4",
-    "title": "Detalle actividad",
-    "start": "2026-10-31",
-    "end": "2026-10-31",
-    "time": "Por confirmar",
-    "town": "Málaga",
-    "venue": "Por confirmar",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_required": null,
-    "reservation_url": null,
-    "field_sources": {
-      "start": {
-        "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=142905",
-        "quote": "iones Actividades Servicios Generales Ordenanzas y Normativas Fiesta de Halloween en el Parque de San Rafael Desde 31/10/2026 // Hasta 31/10/2026 Fiesta de Halloween en el Parque d",
-        "evidence": "Fecha futura explícita vinculada al evento."
-      },
-      "town": {
-        "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=142905",
-        "quote": "Málaga",
-        "evidence": "Municipio heredado del ámbito inequívoco de la fuente oficial."
-      },
-      "audience": {
-        "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=142905",
-        "quote": "infantil/familiar",
-        "evidence": "El evento se presenta explícitamente como infantil o familiar."
-      }
-    },
-    "audience": "Infantil y familiar",
-    "source_name": "Agenda Cultura Málaga",
-    "source_url": "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=142905",
-    "status": "publicada_en_fuente",
-    "details": "iones Actividades Servicios Generales Ordenanzas y Normativas Fiesta de Halloween en el Parque de San Rafael Desde 31/10/2026 // Hasta 31/10/2026 Fiesta de Halloween en el Parque de San Rafael: Pasaje del Terror, Espectáculo Infantil y Show",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "interval_kind": null,
-    "schedule_note": null,
-    "first_seen": "2026-10-29",
-    "last_checked": "2026-10-29T13:34:42+00:00",
-    "origin": "evidencia textual automatizada",
-    "confidence_score": 95,
-    "verification_method": "evidencia textual fuerte",
-    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio de fuente oficial fija · fuente aprobada del catálogo"
-  },
-  {
     "id": "EVT-3F2476558718",
     "title": "Espectáculo de animación infantil «La noche de los villanos»",
     "start": "2026-10-31",
@@ -1360,7 +1227,9 @@
     "last_checked": "2026-10-30T09:55:49+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
-    "status": "publicada_en_fuente"
+    "status": "cancelada",
+    "status_source_url": "https://www.malaga.eu/el-ayuntamiento/notas-de-prensa/detalle-de-la-nota-de-prensa/index.html?id=178933",
+    "last_status_checked": "2026-10-30"
   },
   {
     "id": "EVT-MIRAMAR-HALLOWEEN-2026",
@@ -1773,10 +1642,13 @@
     "town": "Málaga",
     "category": "Fiestas y celebraciones",
     "audience": "Familiar",
-    "status": "publicada_en_fuente",
+    "status": "cancelada",
     "first_seen": "2026-10-23",
     "last_checked": "2026-10-23",
-    "origin": "agenda oficial Ayuntamiento de Málaga"
+    "origin": "agenda oficial Ayuntamiento de Málaga",
+    "secondary_sources": [],
+    "status_source_url": "https://www.malaga.eu/el-ayuntamiento/notas-de-prensa/detalle-de-la-nota-de-prensa/index.html?id=178933",
+    "last_status_checked": "2026-10-30"
   },
   {
     "id": "EVT-AD74041A7EA4",
