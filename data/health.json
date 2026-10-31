@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-30T13:17:58+00:00",
+  "generated_at": "2026-10-31T12:55:09+00:00",
   "level": "attention",
-  "events": 149,
+  "events": 147,
   "sources": 86,
   "catalog_drift": true,
   "last_scan_snapshot": {
-    "events": 149,
+    "events": 147,
     "sources": 78
   },
-  "discoveries_pending": 739,
-  "discoveries_unresolved": 854,
-  "unverified_events": 16,
-  "known_age": 28,
+  "discoveries_pending": 747,
+  "discoveries_unresolved": 851,
+  "unverified_events": 17,
+  "known_age": 21,
   "sources_never_checked": 3,
-  "sources_failed": 10,
+  "sources_failed": 11,
   "source_errors": [
     {
       "name": "Teatro Cervantes y Echegaray",
@@ -61,50 +61,56 @@
       "category": "access_restricted"
     },
     {
+      "name": "Mijas Información · agenda local de espectáculos",
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
+    },
+    {
       "name": "Luces de La Concepción · espectáculo navideño",
       "detail": "robots.txt no permite o no pudo comprobarse",
       "category": "access_restricted"
     }
   ],
   "last_full_scan": "2026-10-29T13:20:02+00:00",
-  "days_since_full_scan": 1.0,
-  "last_radar": "2026-10-30T13:13:05+00:00",
+  "days_since_full_scan": 2.0,
+  "last_radar": "2026-10-31T12:49:33+00:00",
   "days_since_radar": 0.0,
-  "last_verifier": "2026-10-30T13:16:02+00:00",
-  "cases_total": 543,
+  "last_verifier": "2026-10-31T12:52:48+00:00",
+  "cases_total": 545,
   "cases_to_investigate": 15,
   "cases_high_confidence": 14,
-  "cases_stale_high_confidence": 9,
-  "last_case_investigation": "2026-10-30T13:15:10+00:00",
-  "last_broad_scout": "2026-10-30T13:13:05+00:00",
-  "broad_scout_new_leads": 13,
-  "ai_hunt_brief_generated": "2026-10-30T13:17:17+00:00",
+  "cases_stale_high_confidence": 11,
+  "last_case_investigation": "2026-10-31T12:52:02+00:00",
+  "last_broad_scout": "2026-10-31T12:49:33+00:00",
+  "broad_scout_new_leads": 28,
+  "ai_hunt_brief_generated": "2026-10-31T12:54:30+00:00",
   "ai_hunt_broad_candidates": 22,
-  "ai_independent_published": 51,
-  "ai_case_published": 5,
-  "age_missing": 121,
-  "municipalities_with_events": 16,
+  "ai_independent_published": 53,
+  "ai_case_published": 6,
+  "age_missing": 126,
+  "municipalities_with_events": 17,
   "coverage_by_town": {
-    "Málaga": 81,
+    "Málaga": 75,
     "Benalmádena": 15,
-    "Fuengirola": 8,
+    "Marbella": 9,
+    "Fuengirola": 7,
+    "Ronda": 7,
     "Rincón de la Victoria": 5,
-    "Vélez-Málaga": 5,
-    "Estepona": 5,
     "Antequera": 5,
-    "Ronda": 5,
+    "Vélez-Málaga": 4,
     "Torremolinos": 4,
-    "Marbella": 4,
+    "Estepona": 4,
     "Alhaurín de la Torre": 3,
     "Mijas": 3,
-    "Almáchar": 2,
     "Colmenar": 2,
+    "Almáchar": 1,
     "Nerja": 1,
-    "Torre del Mar": 1
+    "Torre del Mar": 1,
+    "Alhaurín el Grande": 1
   },
   "alerts": [
-    "10 fuentes con error en su última consulta",
+    "11 fuentes con error en su última consulta",
     "3 fuentes aún sin primera revisión",
-    "9 casos de alta confianza llevan más de 48 h sin resolverse"
+    "11 casos de alta confianza llevan más de 48 h sin resolverse"
   ]
 }

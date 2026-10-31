@@ -72,100 +72,6 @@
     "schedule_change_pending_review": true
   },
   {
-    "id": "EVT-C297A337AB32",
-    "title": "Club de Lectura Infantil",
-    "start": "2026-10-16",
-    "end": "2026-10-30",
-    "time": "17:00",
-    "town": "Torremolinos",
-    "venue": "Biblioteca del Centro Cultural Pablo Ruiz Picasso (sala infantil)",
-    "category": "Lectura y cuentos",
-    "age_min": 7,
-    "age_max": 11,
-    "age_label": "7–11 años",
-    "price_label": "Gratis",
-    "audience": "Consultar organizador",
-    "source_name": "InforMálaga",
-    "source_url": "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-30",
-    "status": "publicada_en_fuente",
-    "details": "Club de lectura para niños de 7 a 11 años: cada semana leen y comentan un libro y leen en grupo cuentos y relatos. Gratis, con inscripción previa en la app Torremolinos Despega o en el 952 385 182. · Fechas de programación: consultar los días concretos de función.",
-    "first_seen": "2026-10-12",
-    "last_checked": "2026-10-15T10:08:25+00:00",
-    "origin": "json-ld",
-    "occurrences": [
-      "2026-10-30"
-    ],
-    "schedule_note": "Solo hemos podido identificar expresamente la sesión fechada del 30 de octubre. Puede haber más encuentros no comprobados.",
-    "schedule_verification": "fechas_contrastadas_en_fuente",
-    "schedule_checked_at": "2026-10-13",
-    "session_count": 1,
-    "schedule_unconfirmed": false,
-    "secondary_sources": [
-      "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-16",
-      "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-30"
-    ],
-    "schedule_change_pending_review": true,
-    "duration_minutes": null,
-    "address": "Calle de la Cruz, 42",
-    "reservation_url": "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-16",
-    "field_sources": {
-      "address": {
-        "source_url": "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-16",
-        "quote": "Calle de la Cruz, 42",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      },
-      "reservation_url": {
-        "source_url": "https://informalaga.es/agenda/club-de-lectura-infantil-2026-10-16",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
-      }
-    }
-  },
-  {
-    "id": "EVT-MIRAMAR-SPACE-2026",
-    "title": "Viaje al espacio · Miramar Kids",
-    "start": "2026-10-16",
-    "end": "2026-10-30",
-    "occurrences": [
-      "2026-10-16",
-      "2026-10-23",
-      "2026-10-30"
-    ],
-    "interval_kind": "recurring_dates",
-    "time": "Horario de actividades por confirmar",
-    "schedule_note": "Viernes; ludoteca 17:00–20:00.",
-    "town": "Fuengirola",
-    "venue": "Ludoteca Miramar Kids · Planta terraza, Centro Comercial Miramar",
-    "address": "Avda. de la Encarnación, s/n, Fuengirola",
-    "category": "Talleres y aprendizaje",
-    "age_min": 4,
-    "age_max": 12,
-    "age_label": "4–12 años",
-    "price_label": "Gratis",
-    "audience": "Infantil",
-    "source_name": "Miramar Kids · C.C. Miramar",
-    "source_url": "https://www.miramarcc.com/miramar-kids/",
-    "status": "publicada_en_fuente",
-    "details": "Aventura espacial con retos, pequeños experimentos y creación de un planeta fantástico. La fuente confirma los días programados; comprobar horario concreto, precio y condiciones.",
-    "first_seen": "2026-10-13",
-    "last_checked": "2026-10-13",
-    "origin": "programación infantil oficial",
-    "age_status": "documentada",
-    "age_kind": "explicit_audience",
-    "age_source_url": "https://www.miramarcc.com/establecimientos/miramar-kids-club-infantil-2/",
-    "age_quote": "los más pequeños de entre 4 Y 12 AÑOS podrán disfrutar de diferentes actividades, talleres y juegos de manera totalmente gratuita",
-    "age_evidence": "La web oficial del Miramar Kids Club indica 4 a 12 años para las actividades, talleres y juegos de este club.",
-    "age_last_verified": "2026-10-13",
-    "field_sources": {
-      "price_label": {
-        "source_url": "https://www.miramarcc.com/establecimientos/miramar-kids-club-infantil-2/",
-        "quote": "actividades, talleres y juegos de manera totalmente gratuita",
-        "evidence": "El club oficial anuncia participación gratuita en sus actividades y talleres.",
-        "last_verified": "2026-10-13"
-      }
-    }
-  },
-  {
     "id": "EVT-391FE1D10",
     "title": "Picasso en familia · Taller de los sábados",
     "start": "2026-10-17",
@@ -238,7 +144,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en La Térmica, Málaga, el 17 de octubre a las 10:00.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-10-29T13:21:53+00:00",
+    "last_checked": "2026-10-31T12:52:31+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -526,40 +432,6 @@
     "secondary_sources": []
   },
   {
-    "id": "EVT-A8F0B8F7330F",
-    "title": "AGENDA: Actividades para niños gratis en octubre del Centro Comercial Rosaleda de Málaga",
-    "start": "2026-10-30",
-    "end": "2026-10-30",
-    "time": "18:30",
-    "town": "Málaga",
-    "venue": "Centro Comercial Rosaleda",
-    "category": "Talleres y aprendizaje",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": "Av. Simón Bolívar, S/N, 29011 Málaga",
-    "reservation_url": null,
-    "field_sources": {
-      "address": {
-        "source_url": "https://ladiversiva.com/actividad/agenda-actividades-para-ninos-gratis-en-octubre-del-centro-comercial-rosaleda-de-malaga-2/2026-10-30/",
-        "quote": "Av. Simón Bolívar, S/N, 29011 Málaga",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "La Diversiva",
-    "source_url": "https://ladiversiva.com/actividad/agenda-actividades-para-ninos-gratis-en-octubre-del-centro-comercial-rosaleda-de-malaga-2/2026-10-30/",
-    "status": "publicada_en_fuente",
-    "details": "El Centro Comercial Rosaleda de Málaga tiene preparado para el mes de octubre varios talleres creativos y actividades para niños gratis donde lo pasarán de miedo (del bueno). Las actividades están diseñadas para peques desde los 3 a los 10 años. Desde La Diversiva os damos todos los detalles de lo que tiene preparado el Club Rositas: Descubre más sobre Actividades para niños gratis […]",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-10-29",
-    "last_checked": "2026-10-29T13:20:18+00:00",
-    "origin": "json-ld"
-  },
-  {
     "id": "EVT-540024A0E372",
     "title": "AGENDA: El Circo Berlín para toda la familia en Vélez-Málaga",
     "start": "2026-10-30",
@@ -665,91 +537,6 @@
     "secondary_sources": []
   },
   {
-    "id": "EVT-87375202A986",
-    "title": "AGENDA: Taller de cerámica para familias en Fuengirola",
-    "start": "2026-10-30",
-    "end": "2026-10-30",
-    "time": "17:00",
-    "town": "Fuengirola",
-    "venue": "Fuengirola",
-    "category": "Talleres y aprendizaje",
-    "age_min": 6,
-    "age_max": null,
-    "age_label": "Desde 6 años",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": "Fuengirola",
-    "reservation_url": null,
-    "field_sources": {
-      "address": {
-        "source_url": "https://ladiversiva.com/actividad/agenda-taller-de-ceramica-para-familias-en-fuengirola/2026-10-30/",
-        "quote": "Fuengirola",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "La Diversiva",
-    "source_url": "https://ladiversiva.com/actividad/agenda-taller-de-ceramica-para-familias-en-fuengirola/2026-10-30/",
-    "status": "publicada_en_fuente",
-    "details": "El Ayuntamiento de Fuengirola ha creado un taller de cerámica dirigido a familias. Podréis asistir con niños y niñas a partir de los 6 años. El taller para familias será en dos sesiones mensuales, los viernes de 17:00 a 19:00 horas. Descubre más sobre Taller de cerámica para familias en Fuengirola en La Diversiva.",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-10-27",
-    "last_checked": "2026-10-29T13:20:18+00:00",
-    "origin": "json-ld",
-    "secondary_sources": []
-  },
-  {
-    "id": "EVT-IA-9765FAA95B",
-    "title": "Circo Berlín · Adrenalina 2.0 en Vélez-Málaga",
-    "start": "2026-10-30",
-    "end": "2026-10-30",
-    "time": "Consultar",
-    "town": "Vélez-Málaga",
-    "venue": "Recinto Ferial de Vélez-Málaga",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "No indicada",
-    "price_label": "Por confirmar",
-    "audience": "Infantil y familiar",
-    "source_name": "Circo Berlín (organizador)",
-    "source_url": "https://circoberlin.com/velez-malaga/",
-    "secondary_sources": [],
-    "details": "Comienzo anunciado de la temporada de Adrenalina 2.0 en Vélez-Málaga. Espectáculo de acrobacias, motoristas, magia y música K-pop para familias. Consultar en el enlace oficial la sesión concreta y horario; no se presuponen funciones diarias.",
-    "evidence": "La ficha oficial de la parada de Vélez-Málaga anuncia expresamente el inicio el 30 de octubre y el final el 22 de noviembre, en el recinto ferial de Vélez-Málaga; la compañía describe el espectáculo Adrenalina 2.0 como apto para familias y todos los públicos.",
-    "first_seen": "2026-10-24",
-    "last_checked": "2026-10-24T08:19:19+00:00",
-    "origin": "Investigación IA independiente, con fuente",
-    "discovery_channel": "ai_independent",
-    "status": "publicada_en_fuente"
-  },
-  {
-    "id": "EVT-IA-9674D9D82A",
-    "title": "Cuéntame un cuento… de miedo · Halloween Almáchar",
-    "start": "2026-10-30",
-    "end": "2026-10-30",
-    "time": "18:30",
-    "town": "Almáchar",
-    "venue": "Biblioteca Municipal de Almáchar",
-    "category": "Lectura y cuentos",
-    "age_min": 3,
-    "age_max": 12,
-    "age_label": "3–12 años",
-    "price_label": "Por confirmar",
-    "audience": "Infantil y familiar",
-    "source_name": "Ayuntamiento de Almáchar · canal municipal Bandomóvil",
-    "source_url": "https://www.bandomovil.com/almachar/1664350/1",
-    "secondary_sources": [],
-    "details": "Sesión de cuentos de miedo para público infantil, integrada en el programa Halloween 2026: El Campamento Oscuro.",
-    "evidence": "El aviso municipal Halloween 2026 de Almáchar confirma viernes 30 de octubre a las 18:30 en la Biblioteca Municipal la actividad Cuéntame un cuento… de miedo, con edad recomendada de 3 a 12 años.",
-    "first_seen": "2026-10-23",
-    "last_checked": "2026-10-23T08:27:08+00:00",
-    "origin": "Investigación IA independiente, con fuente",
-    "discovery_channel": "ai_independent",
-    "status": "publicada_en_fuente"
-  },
-  {
     "id": "EVT-97AA4E9CF503",
     "title": "Halloween en los distritos de Málaga",
     "start": "2026-10-30",
@@ -785,105 +572,6 @@
     "secondary_sources": []
   },
   {
-    "id": "EVT-LIB-20261030-HC",
-    "title": "La hora del Cuento — Biblioteca Manuel Altolaguirre",
-    "start": "2026-10-30",
-    "end": "2026-10-30",
-    "time": "17:00",
-    "town": "Málaga",
-    "venue": "Biblioteca Manuel Altolaguirre · C. Calatrava, 6",
-    "category": "Lectura y cuentos",
-    "age_min": 4,
-    "age_max": 7,
-    "age_label": "4–7 años",
-    "price_label": "Gratis",
-    "audience": "Infantil y familiar",
-    "source_name": "Bibliotecas Municipales de Málaga (fuente oficial)",
-    "source_url": "https://bibliotecas.malaga.eu/es/agenda/detalle-de-agenda/index.html?id=149176&tipoVO=2",
-    "status": "publicada_en_fuente",
-    "details": "Narración participativa y juegos para niños y niñas de 4 a 7 años. Entrada libre.",
-    "first_seen": "2026-10-13",
-    "last_checked": "2026-10-13",
-    "origin": "investigación IA + fuente oficial",
-    "secondary_sources": [
-      "https://www.malaga.eu/la-ciudad/agenda/detalle-actividad/index.html?id=149176"
-    ]
-  },
-  {
-    "id": "EVT-E8C301369F1B",
-    "title": "Miércoles Addams. El secreto de la mansión",
-    "start": "2026-10-30",
-    "end": "2026-10-30",
-    "time": "18:00",
-    "town": "Benalmádena",
-    "venue": "Ópera Benalmádena",
-    "category": "Teatro y espectáculos",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "10.56 EUR",
-    "duration_minutes": null,
-    "address": "Parque de la Paloma (Av. de Rocío Jurado), Arroyo de la Miel, Benalmádena",
-    "reservation_url": "https://www.awin1.com/cread.php?awinmid=24761&awinaffid=2915561&clickref=&ued=https%3A%2F%2Fwww.entradas.com%2Fnoapp%2Ftickets.html%3Faffiliate%3DAWI%26doc%3Derdetaila%26fun%3Derdetail%26erid%3D4184762",
-    "field_sources": {
-      "reservation_url": {
-        "source_url": "https://teatromalaga.com/cartelera/miercoles-addams-el-secreto-de-la-mansion-opera-benalmadena",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "Teatro Málaga",
-    "source_url": "https://teatromalaga.com/cartelera/miercoles-addams-el-secreto-de-la-mansion-opera-benalmadena",
-    "status": "publicada_en_fuente",
-    "details": "Miércoles Addams. El secreto de la mansión llega al Auditorio Ópera Benalmádena el viernes 30 de octubre de 2026 a las 18:00, en plenas fechas de Halloween. Un musical familiar protagonizado por Miércoles y el resto del clan Addams, con una historia de misterio y humor negro en una mansión encantad",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-10-15",
-    "last_checked": "2026-10-29T13:21:35+00:00",
-    "origin": "json-ld",
-    "secondary_sources": []
-  },
-  {
-    "id": "EVT-384048678887",
-    "title": "Noche de Halloween de la Asociación de Vecinos de Teatinos-Ciudad de la Justicia",
-    "start": "2026-10-30",
-    "end": "2026-10-30",
-    "time": "18:00",
-    "town": "Málaga",
-    "venue": "Plaza entre la avenida Gregorio Prieto y la calle Franz Kafka, Teatinos",
-    "category": "Teatro y espectáculos",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Gratis",
-    "duration_minutes": null,
-    "address": "Plaza entre la avenida Gregorio Prieto y la calle Franz Kafka, Teatinos",
-    "reservation_url": null,
-    "field_sources": {
-      "address": {
-        "source_url": "https://informalaga.es/agenda/noche-de-halloween-de-la-asociacion-de-vecinos-de-teatinos-ciudad-de-l-wy9cg",
-        "quote": "Plaza entre la avenida Gregorio Prieto y la calle Franz Kafka, Teatinos",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "Ayuntamiento de Málaga · cancelación oficial",
-    "source_url": "https://www.malaga.eu/el-ayuntamiento/notas-de-prensa/detalle-de-la-nota-de-prensa/index.html?id=178933",
-    "status": "cancelada",
-    "details": "Globoflexia, juegos infantiles y espectáculo de magia. Gratis.",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-10-29",
-    "last_checked": "2026-10-29T13:21:53+00:00",
-    "origin": "json-ld",
-    "status_source_url": "https://www.malaga.eu/el-ayuntamiento/notas-de-prensa/detalle-de-la-nota-de-prensa/index.html?id=178933",
-    "last_status_checked": "2026-10-30",
-    "secondary_sources": [
-      "https://informalaga.es/agenda/noche-de-halloween-de-la-asociacion-de-vecinos-de-teatinos-ciudad-de-l-wy9cg"
-    ]
-  },
-  {
     "id": "EVT-IA-822613151F",
     "title": "Pasaje infantil de Halloween · Casa de la Juventud",
     "start": "2026-10-30",
@@ -909,101 +597,6 @@
     "status": "publicada_en_fuente"
   },
   {
-    "id": "EVT-8E7D2E26ADA0",
-    "title": "Taller de Repostería de Halloween para niños!",
-    "start": "2026-10-30",
-    "end": "2026-10-30",
-    "time": "17:30–19:00",
-    "town": "Málaga",
-    "venue": "Picofino Málaga",
-    "category": "Talleres y aprendizaje",
-    "age_min": 4,
-    "age_max": 12,
-    "age_label": "4–12 años",
-    "price_label": "25 €",
-    "audience": "Consultar organizador",
-    "source_name": "Picofino Escuela Málaga · talleres infantiles",
-    "source_url": "https://picofinoescuelamalaga.com/reservas/taller-de-reposteria-de-halloween-para-ninos/",
-    "status": "publicada_en_fuente",
-    "details": "¡Un plan espeluznantemente divertido para todas las edades! Este 30 de octubre, los más pequeños y los no tan pequeños se convertirán en maestros de la repostería monstruosa. Hemos diseñado un taller 100% práctico y seguro donde la magia ocurre en la decoración y creatividad. Desde los 4 hasta los 12 años, cada niño creará […]",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-10-13",
-    "last_checked": "2026-10-29T13:26:54+00:00",
-    "origin": "json-ld",
-    "secondary_sources": [
-      "https://ladiversiva.com/actividad/agenda-taller-de-reposteria-de-halloween-para-ninos-en-picofino-malaga/"
-    ],
-    "duration_minutes": 90,
-    "address": "Av. María Victoria Atencia, 17",
-    "reservation_url": "https://picofinoescuelamalaga.com/reservas/taller-de-reposteria-de-halloween-para-ninos/",
-    "field_sources": {
-      "address": {
-        "source_url": "https://picofinoescuelamalaga.com/reservas/taller-de-reposteria-de-halloween-para-ninos/",
-        "quote": "Av. María Victoria Atencia, 17",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      },
-      "reservation_url": {
-        "source_url": "https://picofinoescuelamalaga.com/reservas/taller-de-reposteria-de-halloween-para-ninos/",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
-      },
-      "price_label": {
-        "source_url": "https://picofinoescuelamalaga.com/reservas/taller-de-reposteria-de-halloween-para-ninos/",
-        "quote": "25,00€",
-        "evidence": "Tarifa oficial del taller del 30 de octubre."
-      },
-      "time": {
-        "source_url": "https://picofinoescuelamalaga.com/reservas/taller-de-reposteria-de-halloween-para-ninos/",
-        "quote": "17:30 - 19:00",
-        "evidence": "Horario oficial del taller del 30 de octubre."
-      },
-      "duration_minutes": {
-        "source_url": "https://picofinoescuelamalaga.com/reservas/taller-de-reposteria-de-halloween-para-ninos/",
-        "quote": "17:30 - 19:00",
-        "evidence": "La franja horaria publicada acredita 90 minutos."
-      },
-      "reservation_required": {
-        "source_url": "https://picofinoescuelamalaga.com/reservas/taller-de-reposteria-de-halloween-para-ninos/",
-        "quote": "Plazas limitadas. Reserva tu sitio",
-        "evidence": "El organizador solicita reservar plaza en el taller."
-      }
-    },
-    "age_status": "documentada",
-    "age_kind": "explicit_audience",
-    "age_source_url": "https://picofinoescuelamalaga.com/reservas/taller-de-reposteria-de-halloween-para-ninos/",
-    "age_quote": "Desde los 4 hasta los 12 años",
-    "age_evidence": "La ficha oficial confirma público infantil de 4 a 12 años.",
-    "reservation_required": true
-  },
-  {
-    "id": "EVT-IA-3D891458FE",
-    "title": "Taller infantil de pintura de caretas · Halloween Cancelada",
-    "start": "2026-10-30",
-    "end": "2026-10-30",
-    "time": "17:00",
-    "town": "Estepona",
-    "venue": "Plaza de la Juventud · Cancelada",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "No indicada",
-    "price_label": "Por confirmar",
-    "audience": "Infantil y familiar",
-    "source_name": "Ayuntamiento de Estepona",
-    "source_url": "https://ayuntamiento.estepona.es/agenda/halloween-cancelada-2026",
-    "secondary_sources": [],
-    "details": "Taller de pintura de caretas dentro de la fiesta de Halloween de Cancelada. La inscripción para el concurso de disfraces comienza a la misma hora; no se afirma que el taller requiera inscripción.",
-    "evidence": "Agenda oficial del Ayuntamiento de Estepona: viernes 30 de octubre de 2026, a partir de las 17:00, en la Plaza de la Juventud de Cancelada; anuncia un taller de pintura de caretas para los más pequeños.",
-    "first_seen": "2026-10-24",
-    "last_checked": "2026-10-24T08:19:19+00:00",
-    "origin": "Investigación IA independiente, con fuente",
-    "discovery_channel": "ai_independent",
-    "status": "cancelada",
-    "status_source_url": "https://ayuntamiento.estepona.es/noticias/suspension-fiestas-halloween",
-    "last_status_checked": "2026-10-30T11:00:00+01:00"
-  },
-  {
     "id": "EVT-IA-493BD19EBD",
     "title": "Alicia en el país de las pesadillas · Halloween Mijas Pueblo",
     "start": "2026-10-31",
@@ -1019,7 +612,9 @@
     "audience": "Infantil y familiar",
     "source_name": "Mijas Comunicación · empresa municipal",
     "source_url": "https://mijascomunicacion.com/actualidad/39721/juventud-organiza-fiestas-tematicas-en-los-tres-nucleos-para-celebrar-halloween/",
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://informalaga.es/agenda/halloween-en-mijas-pueblo-alicia-en-el-pais-de-las-pesadillas-fahxl"
+    ],
     "details": "Fiesta familiar temática de Halloween en Mijas Pueblo, con cuentacuentos a las 17:00, magia a las 18:00 y pasacalles. Hora de silencio de 16:00 a 17:00 para personas con hipersensibilidad sensorial.",
     "evidence": "La empresa municipal publica la fiesta del 31 de octubre de 2026 en plaza Virgen de la Peña, de 16:00 a 22:00, con cuentacuentos, magia y pasacalles. La concejala confirma que el programa está pensado para familias y es gratuito.",
     "first_seen": "2026-10-24",
@@ -1125,7 +720,9 @@
     "first_seen": "2026-10-22",
     "last_checked": "2026-10-29T13:21:53+00:00",
     "origin": "json-ld",
-    "secondary_sources": []
+    "secondary_sources": [
+      "https://informalaga.es/agenda/cuentacuentos-teatralizado-una-noche-de-halloween-en-el-centro-de-fo-vl66a"
+    ]
   },
   {
     "id": "EVT-3F2476558718",
@@ -1289,7 +886,9 @@
     "audience": "Infantil y familiar",
     "source_name": "Torremolinos Cultura · Ayuntamiento de Torremolinos",
     "source_url": "https://www.torremolinoscultura.es/es/eventos/detail/fiesta-del-terror-veks",
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://informalaga.es/agenda/fiesta-del-terror-2026-10-31"
+    ],
     "details": "Fiesta del terror con parque temático de hinchables, yincana, maquillaje de terror, tatuajes, heridas FX y pintapelos monstruosos. Talleres creativos para toda la familia de 17:00 a 19:00. La programación incluye además cuentacuentos y actividades inclusivas.",
     "evidence": "El programa municipal del 31 de octubre de 2026 confirma el parque temático de 12:00 a 21:30 y talleres creativos para toda la familia de 17:00 a 19:00 en los jardines del Centro Cultural Pablo Ruiz Picasso.",
     "first_seen": "2026-10-29",
@@ -1360,7 +959,9 @@
     "first_seen": "2026-10-19",
     "last_checked": "2026-10-29T13:21:53+00:00",
     "origin": "json-ld",
-    "secondary_sources": []
+    "secondary_sources": [
+      "https://informalaga.es/agenda/fiesta-infantil-de-halloween-en-la-plaza-de-las-tres-culturas-jc1zo"
+    ]
   },
   {
     "id": "EVT-IA-773B7262BC",
@@ -1844,7 +1445,9 @@
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://informalaga.es/agenda/jardin-del-terror-2026-10-31"
+    ],
     "duration_minutes": null,
     "address": "C. Cenit, 2, Puerto de la Torre",
     "reservation_url": "https://www.enterticket.es/eventos/jardin-del-terror-598014",
@@ -1902,7 +1505,9 @@
     "audience": "Infantil y familiar",
     "source_name": "Mijas Comunicación · empresa municipal",
     "source_url": "https://mijascomunicacion.com/actualidad/39721/juventud-organiza-fiestas-tematicas-en-los-tres-nucleos-para-celebrar-halloween/",
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://informalaga.es/agenda/halloween-en-la-cala-la-noche-encantada-8weu7"
+    ],
     "details": "Fiesta familiar de Halloween en La Cala de Mijas: cuentacuentos de 19:00 a 20:00, magia de 20:00 a 21:00 y pasacalles. Hora de silencio de 17:00 a 18:00.",
     "evidence": "La programación municipal del 31 de octubre de 2026 sitúa La noche encantada en el parque de La Butibamba, La Cala, de 17:00 a 23:00; incluye cuentacuentos y magia, dentro de las fiestas gratuitas diseñadas para familias.",
     "first_seen": "2026-10-24",
@@ -1962,6 +1567,74 @@
     "status": "publicada_en_fuente"
   },
   {
+    "id": "EVT-50AB9266D684",
+    "title": "Pasacalles infantil Halloween Ronda 2026.",
+    "start": "2026-10-31",
+    "end": "2026-10-31",
+    "time": "17:00",
+    "town": "Ronda",
+    "venue": "Avenida Martinez Astein, Avenida Martinez Astein",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "Avenida Martinez Astein, Avenida Martinez Astein",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/pasacalles-infantil-halloween-ronda-2026-2026-10-31",
+        "quote": "Avenida Martinez Astein, Avenida Martinez Astein",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · informalaga.es",
+    "source_url": "https://informalaga.es/agenda/pasacalles-infantil-halloween-ronda-2026-2026-10-31",
+    "status": "publicada_en_fuente",
+    "details": "Infantil en Avenida Martinez Astein, Avenida Martinez Astein, Ronda, el 31 de octubre a las 17:00.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-31",
+    "last_checked": "2026-10-31T12:52:31+00:00",
+    "origin": "json-ld"
+  },
+  {
+    "id": "EVT-FBC783EAD8E0",
+    "title": "Story time",
+    "start": "2026-10-31",
+    "end": "2026-10-31",
+    "time": "12:00",
+    "town": "Torremolinos",
+    "venue": "Calle de la Cruz, 42",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": "Calle de la Cruz, 42",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/story-time-2026-10-31",
+        "quote": "Calle de la Cruz, 42",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · informalaga.es",
+    "source_url": "https://informalaga.es/agenda/story-time-2026-10-31",
+    "status": "publicada_en_fuente",
+    "details": "Infantil en Calle de la Cruz, 42, Torremolinos, el 31 de octubre a las 12:00.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-31",
+    "last_checked": "2026-10-31T12:52:31+00:00",
+    "origin": "json-ld"
+  },
+  {
     "id": "EVT-IA-F7596CD3D2",
     "title": "Story time de Halloween · Truck or Treat (Kids&Us)",
     "start": "2026-10-31",
@@ -1987,6 +1660,40 @@
     "status": "publicada_en_fuente"
   },
   {
+    "id": "EVT-3CD74B46D35C",
+    "title": "Sábados en familia - ¡Mueve el esqueleto!",
+    "start": "2026-10-31",
+    "end": "2026-10-31",
+    "time": "11:30",
+    "town": "Málaga",
+    "venue": "Colección del Museo Ruso",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "Edificio de Tabacalera, avenida Sor Teresa Prat, 15",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/sabados-en-familia-mueve-el-esqueleto-2026-10-31",
+        "quote": "Edificio de Tabacalera, avenida Sor Teresa Prat, 15",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · informalaga.es",
+    "source_url": "https://informalaga.es/agenda/sabados-en-familia-mueve-el-esqueleto-2026-10-31",
+    "status": "publicada_en_fuente",
+    "details": "Cultura en Colección del Museo Ruso, Málaga, el 31 de octubre a las 11:30.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-31",
+    "last_checked": "2026-10-31T12:52:31+00:00",
+    "origin": "json-ld"
+  },
+  {
     "id": "EVT-BE50F5EF64CA",
     "title": "Sábados en familia | ¡Mueve el esqueleto!",
     "start": "2026-10-31",
@@ -2010,7 +1717,8 @@
     "last_checked": "2026-10-29T13:25:51+00:00",
     "origin": "json-ld",
     "secondary_sources": [
-      "https://www.coleccionmuseoruso.es/event/sabados-en-familia-mueve_el_esqueleto/"
+      "https://www.coleccionmuseoruso.es/event/sabados-en-familia-mueve_el_esqueleto/",
+      "https://informalaga.es/agenda/sabados-en-familia-mueve-el-esqueleto-2026-10-31-2"
     ],
     "duration_minutes": 90,
     "address": "Av. de Sor Teresa Prat, 15, 29003 Málaga",
@@ -2033,6 +1741,40 @@
       }
     },
     "reservation_required": true
+  },
+  {
+    "id": "EVT-33D6454C1217",
+    "title": "Taller de manualidades infantiles Halloween Ronda 2026.",
+    "start": "2026-10-31",
+    "end": "2026-10-31",
+    "time": "17:30",
+    "town": "Ronda",
+    "venue": "Plaza del Socorro",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "Plaza del Socorro",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/taller-de-manualidades-infantiles-halloween-ronda-2026-2026-10-31",
+        "quote": "Plaza del Socorro",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · informalaga.es",
+    "source_url": "https://informalaga.es/agenda/taller-de-manualidades-infantiles-halloween-ronda-2026-2026-10-31",
+    "status": "publicada_en_fuente",
+    "details": "Infantil en Plaza del Socorro, Ronda, el 31 de octubre a las 17:30.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-31",
+    "last_checked": "2026-10-31T12:52:31+00:00",
+    "origin": "json-ld"
   },
   {
     "id": "EVT-IA-17843B4866",
@@ -2180,6 +1922,34 @@
     "last_status_checked": "2026-10-30T11:00:00+01:00"
   },
   {
+    "id": "EVT-BBD15F442B56",
+    "title": "«Cementerio Guardián de Almas»: Halloween en el Edificio Innova",
+    "start": "2026-10-31",
+    "end": "2026-10-31",
+    "time": "17:00",
+    "town": "Benalmádena",
+    "venue": "Edificio Innova",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": null,
+    "field_sources": {},
+    "audience": "Consultar organizador",
+    "source_name": "Radar · informalaga.es",
+    "source_url": "https://informalaga.es/agenda/cementerio-guardian-de-almas-halloween-en-el-edificio-innova-0u31v",
+    "status": "publicada_en_fuente",
+    "details": "Jornada de puertas abiertas con talleres infantiles, búsqueda del tesoro, concurso de disfraces, DJ y pasaje del terror. Todas las actividades son gratuitas.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-31",
+    "last_checked": "2026-10-31T12:52:31+00:00",
+    "origin": "json-ld"
+  },
+  {
     "id": "EVT-3309B82F055F",
     "title": "Coco, Tributo Musical",
     "start": "2026-11-01",
@@ -2220,6 +1990,84 @@
         "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
       }
     }
+  },
+  {
+    "id": "EVT-58809201CAD1",
+    "title": "Feria del Juguete y Coleccionismo de Fuengirola 2026",
+    "start": "2026-11-01",
+    "end": "2026-11-01",
+    "time": "11:00",
+    "town": "Fuengirola",
+    "venue": "Castillo Sohail",
+    "category": "Fiestas y eventos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": null,
+    "field_sources": {},
+    "audience": "Consultar organizador",
+    "source_name": "Radar · mmalaga.es",
+    "source_url": "https://mmalaga.es/agenda/feria-juguete-moderno-y-coleccion-malaga/",
+    "status": "publicada_en_fuente",
+    "details": "¿Te acuerdas de los juguetes de tu infancia? 🧸 El Castillo Sohail de Fuengirola se convierte este puente de Todos los Santos en un paraíso para nostálgicos, coleccionistas y familias con la Feria Internacional del Juguete y el Coleccionismo. Durante dos días podrás descubrir juguetes clásicos, figuras de colección, LEGO, Playmobil y artículos de cultura pop, además de disfrutar de talleres infantiles, actividades de Halloween y juegos tradicional",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-10-31",
+    "last_checked": "2026-10-31T12:52:18+00:00",
+    "origin": "json-ld"
+  },
+  {
+    "id": "EVT-IA-95D6581006",
+    "title": "Halloween Marbella · El reino de las sombras",
+    "start": "2026-11-01",
+    "end": "2026-11-01",
+    "time": "18:00",
+    "town": "Marbella",
+    "venue": "Paseo de la Alameda",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "Por confirmar",
+    "audience": "Infantil y familiar",
+    "source_name": "Ayuntamiento de Marbella · Fiestas",
+    "source_url": "https://www.marbella.es/agenda/fiestas/halloween-marbella.html",
+    "secondary_sources": [],
+    "details": "Celebración municipal de Halloween reprogramada para el 1 de noviembre, con actividades para niños, jóvenes y familias en varios espacios del centro de Marbella.",
+    "evidence": "El Ayuntamiento de Marbella confirmó el 29 de octubre que la fiesta El reino de las sombras se aplaza al domingo 1 de noviembre de 2026 por el luto oficial. Programa dirigido también a niños y familias, de 18:00 a medianoche, con escenarios en Paseo de la Alameda, Avenida Nabeul y Parque de la Represa.",
+    "first_seen": "2026-10-31",
+    "last_checked": "2026-10-31T09:13:41+00:00",
+    "origin": "Investigación IA independiente, con fuente",
+    "discovery_channel": "ai_independent",
+    "status": "publicada_en_fuente"
+  },
+  {
+    "id": "EVT-IA-F4D9CCD335",
+    "title": "Halloween San Pedro Alcántara · La pasarela de los susurros",
+    "start": "2026-11-01",
+    "end": "2026-11-01",
+    "time": "18:00",
+    "town": "San Pedro Alcántara",
+    "venue": "Bulevar San Pedro",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "Por confirmar",
+    "audience": "Infantil y familiar",
+    "source_name": "Ayuntamiento de Marbella · Fiestas",
+    "source_url": "https://www.marbella.es/agenda/fiestas/halloween-san-pedro-alcantara.html",
+    "secondary_sources": [],
+    "details": "Celebración municipal de Halloween reprogramada al 1 de noviembre en el Bulevar de San Pedro Alcántara, dentro del programa familiar municipal.",
+    "evidence": "La nota oficial del Ayuntamiento de Marbella de 29 de octubre confirma el aplazamiento al domingo 1 de noviembre de 2026 de La pasarela de los susurros en el Bulevar de San Pedro Alcántara, de 18:00 a 24:00. El programa municipal de Halloween indica expresamente que las actividades están pensadas para niños, jóvenes y familias.",
+    "first_seen": "2026-10-31",
+    "last_checked": "2026-10-31T09:13:41+00:00",
+    "origin": "Investigación IA independiente, con fuente",
+    "discovery_channel": "ai_independent",
+    "status": "publicada_en_fuente"
   },
   {
     "id": "EVT-FAFF8E81D",
@@ -2341,6 +2189,31 @@
     }
   },
   {
+    "id": "EVT-IA-D1B4FBDA80",
+    "title": "Tostón Marbella 2026 · animación infantil y castillos hinchables",
+    "start": "2026-11-01",
+    "end": "2026-11-01",
+    "time": "Consultar",
+    "town": "Marbella",
+    "venue": "Parque de Nagüeles",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "Por confirmar",
+    "audience": "Infantil y familiar",
+    "source_name": "Ayuntamiento de Marbella · Fiestas",
+    "source_url": "https://www.marbella.es/agenda/fiestas/toston.html",
+    "secondary_sources": [],
+    "details": "Fiesta tradicional de castañas con propuestas específicas para niños: animación infantil y castillos hinchables. Reparto de castañas por la tarde.",
+    "evidence": "El Ayuntamiento de Marbella confirma para el domingo 1 de noviembre de 2026 el Tostón en el Parque de Nagüeles, con animación infantil, castillos hinchables, música y reparto de castañas de 16:00 a 18:00. Comunicado municipal del 29 de octubre ratifica su celebración.",
+    "first_seen": "2026-10-31",
+    "last_checked": "2026-10-31T09:13:41+00:00",
+    "origin": "Investigación IA independiente, con fuente",
+    "discovery_channel": "ai_independent",
+    "status": "publicada_en_fuente"
+  },
+  {
     "id": "EVT-IA-BDC53F95AD",
     "title": "Tardes de Biblioteca · cuentacuentos",
     "start": "2026-11-04",
@@ -2363,6 +2236,31 @@
     "evidence": "La agenda oficial de Bibliotecas de Benalmádena anuncia el miércoles 4 de noviembre de 2026 de 17:30 a 18:30 la actividad Tardes de Biblioteca en la Biblioteca Manuel Altolaguirre. La sección oficial Cuentacuentos la describe como narración oral para niños y familias.",
     "first_seen": "2026-10-26",
     "last_checked": "2026-10-26T09:25:03+00:00",
+    "origin": "Investigación IA independiente, con fuente",
+    "discovery_channel": "ai_independent",
+    "status": "publicada_en_fuente"
+  },
+  {
+    "id": "EVT-IA-5EADAAFFC2",
+    "title": "Factor onírico · concierto de títeres infantil",
+    "start": "2026-11-05",
+    "end": "2026-11-05",
+    "time": "17:30",
+    "town": "Marbella",
+    "venue": "Biblioteca Central Fernando Alcalá Marín",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "Entrada libre hasta completar aforo",
+    "audience": "Infantil y familiar",
+    "source_name": "Ayuntamiento de Marbella · Cultura y Enseñanza",
+    "source_url": "https://www.marbella.es/agenda/cultura-y-ensenanza/factor-onirico.html",
+    "secondary_sources": [],
+    "details": "Concierto de personajes-títeres y la reportera Mili, con música, humor y temas didácticos. La ficha municipal indica entrada libre hasta completar aforo.",
+    "evidence": "La agenda municipal fija el 5 de noviembre de 2026 en la Biblioteca Central Fernando Alcalá Marín la actividad Factor onírico, clasificada expresamente como teatro de títeres infantil. La sinopsis describe canciones interpretadas por títeres con humor y contenidos didácticos sobre ecología, bullying y vida saludable.",
+    "first_seen": "2026-10-31",
+    "last_checked": "2026-10-31T09:13:41+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente"
@@ -2442,7 +2340,7 @@
       }
     },
     "first_seen": "2026-10-18",
-    "last_checked": "2026-10-30T13:11:55+00:00",
+    "last_checked": "2026-10-31T12:48:17+00:00",
     "origin": "programación del organizador contrastada en dos funciones"
   },
   {
@@ -2929,7 +2827,7 @@
     "details": "Concierto participativo de canciones infantiles de Grupo Golosinas, con repertorio tradicional y moderno. No se infiere edad recomendada de las condiciones de pago de bebés.",
     "evidence": "La ficha del promotor GTM confirma sábado 14 de noviembre de 2026 a las 18:00 en Auditorio AM de Málaga y describe expresamente canciones infantiles, baile y participación de niños junto a sus familias.",
     "first_seen": "2026-10-23",
-    "last_checked": "2026-10-30T13:11:55+00:00",
+    "last_checked": "2026-10-31T12:48:17+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -3568,6 +3466,66 @@
     "status": "publicada_en_fuente"
   },
   {
+    "id": "EVT-IA-3EB7DFDB7D",
+    "title": "Circo Berlín · Adrenalina 2.0 en Alhaurín el Grande",
+    "start": "2026-11-27",
+    "end": "2026-11-29",
+    "time": "27 nov 18:00; 28 nov 17:00 y 19:30; 29 nov 12:00 y 18:00",
+    "town": "Alhaurín el Grande",
+    "venue": "Recinto Ferial de Alhaurín el Grande",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "Desde 20 € (+ gastos de gestión)",
+    "audience": "Infantil y familiar",
+    "source_name": "Circo Berlín · programación oficial",
+    "source_url": "https://circoberlin.com/show/",
+    "secondary_sources": [
+      "https://www.admin.ticketrona.com/evento/berlin-zirkus-presenta-adrenalina2-0-en-alhaurin-el-grande",
+      "https://events.ticketrona.com/es/entradas-berlin-zirkus-presenta-adrenalina20-en-alhaurin-el-grande-uzcz?s=link"
+    ],
+    "details": "Espectáculo de circo contemporáneo con tributo K-POP, acrobacias aéreas y motoristas. La venta oficial identifica el recinto y las fechas del 27 al 29 de noviembre. Sesiones: viernes 27 a las 18:00, sábado 28 a las 17:00 y 19:30, domingo 29 a las 12:00 y 18:00. Entradas desde 20 € más gastos de gestión.",
+    "evidence": "La web oficial del Circo Berlín anuncia Adrenalina 2.0: Las Guerreras en el Circo en Alhaurín el Grande del 27 al 29 de noviembre de 2026, y presenta este espectáculo concreto como apto para todos los públicos y para disfrutar en familia. La ticketera del organizador confirma el recinto ferial y las fechas. La compra de entradas del organizador enumera sesiones para los días 27 (18:00), 28 (17:00 y 19:30) y 29 (12:00 y 18:00) de noviembre.",
+    "first_seen": "2026-10-31",
+    "last_checked": "2026-10-31T09:13:41+00:00",
+    "origin": "Investigación IA programada, con fuente",
+    "discovery_channel": "ai_case",
+    "status": "publicada_en_fuente",
+    "occurrences": [
+      "2026-11-27",
+      "2026-11-28",
+      "2026-11-29"
+    ],
+    "schedule_note": "Sesiones confirmadas por la ticketera oficial: viernes 27 a las 18:00; sábado 28 a las 17:00 y 19:30; domingo 29 a las 12:00 y 18:00.",
+    "reservation_url": "https://events.ticketrona.com/es/entradas-berlin-zirkus-presenta-adrenalina20-en-alhaurin-el-grande-uzcz?s=link"
+  },
+  {
+    "id": "EVT-IA-F544CAD163",
+    "title": "La casa que duerme · cuentacuentos infantil",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "time": "17:30",
+    "town": "Marbella",
+    "venue": "Biblioteca Central Fernando Alcalá Marín",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "Entrada libre hasta completar aforo",
+    "audience": "Infantil y familiar",
+    "source_name": "Ayuntamiento de Marbella · Cultura y Enseñanza",
+    "source_url": "https://www.marbella.es/agenda/cultura-y-ensenanza/la-casa-que-duerme.html",
+    "secondary_sources": [],
+    "details": "Sesión infantil de narración con cuentos sobre el sueño y los personajes que despiertan, incluida una versión de Los músicos de Bremen.",
+    "evidence": "La agenda municipal anuncia La casa que duerme, cuentacuentos infantil el viernes 27 de noviembre de 2026 a las 17:30 en la Biblioteca Central Fernando Alcalá Marín. La sinopsis concreta historias inspiradas en La casa adormecida y Los músicos de Bremen, narradas por Silvina Rodríguez Fernández.",
+    "first_seen": "2026-10-31",
+    "last_checked": "2026-10-31T09:13:41+00:00",
+    "origin": "Investigación IA independiente, con fuente",
+    "discovery_channel": "ai_independent",
+    "status": "publicada_en_fuente"
+  },
+  {
     "id": "EVT-CONCEPCION-OZ-2026",
     "title": "Navidad en el Jardín de Oz · Luces del Botánico",
     "start": "2026-11-27",
@@ -4048,7 +4006,7 @@
     "details": "Espectáculo navideño musical en el que los elfos y Papá Noel intentan impedir que el Grinch arruine la Navidad. La descripción oficial confirma público familiar.",
     "evidence": "La ficha oficial de GTM anuncia el domingo 6 de diciembre de 2026 a las 12:30 en Auditorio AM de Málaga y describe expresamente una aventura navideña de elfos, Papá Noel y el Grinch con magia y música para toda la familia.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-30T13:11:55+00:00",
+    "last_checked": "2026-10-31T12:48:17+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -4197,7 +4155,7 @@
     "details": "Musical en directo protagonizado por los personajes Momonsters: canciones, bailes, humor y aventura sobre los talentos personales, la amistad y el trabajo en equipo. Público infantil y familiar.",
     "evidence": "La cartelera oficial GTM fija sábado 12 de diciembre de 2026 a las 17:00 en Auditorio AM, Málaga; la sinopsis presenta un musical interactivo en vivo donde los más pequeños cantan y bailan con Momonsters.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-30T13:11:55+00:00",
+    "last_checked": "2026-10-31T12:48:17+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
