@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T14:14:56+00:00",
+  "updated_at": "2026-11-01T17:14:14+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -38,15 +38,6 @@
             "16:15"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
-        },
-        {
-          "date": "2026-11-01",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "12:10"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
         },
         {
           "date": "2026-11-02",
@@ -212,15 +203,6 @@
             "18:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
-        },
-        {
-          "date": "2026-11-01",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "18:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
         },
         {
           "date": "2026-11-01",
@@ -624,17 +606,6 @@
         },
         {
           "date": "2026-11-01",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "12:20",
-            "15:55",
-            "17:45"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
-        },
-        {
-          "date": "2026-11-01",
           "cinema": "Yelmo Cines Rincón de la Victoria",
           "town": "Rincón de la Victoria",
           "times": [
@@ -992,15 +963,6 @@
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         },
         {
-          "date": "2026-11-01",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "12:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
-        },
-        {
           "date": "2026-11-02",
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
@@ -1040,15 +1002,6 @@
             "18:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
-        },
-        {
-          "date": "2026-11-01",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "18:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
         },
         {
           "date": "2026-11-01",
@@ -1144,8 +1097,6 @@
           "cinema": "Yelmo Cines Vialia",
           "town": "Málaga",
           "times": [
-            "12:55",
-            "16:15",
             "18:15"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
@@ -1552,7 +1503,6 @@
           "cinema": "Yelmo Cines Vialia",
           "town": "Málaga",
           "times": [
-            "15:45",
             "18:10"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
