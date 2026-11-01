@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T09:47:04+00:00",
+  "generated_at": "2026-11-01T13:43:52+00:00",
   "level": "attention",
   "events": 107,
   "sources": 86,
@@ -8,12 +8,12 @@
     "events": 107,
     "sources": 78
   },
-  "discoveries_pending": 747,
-  "discoveries_unresolved": 851,
+  "discoveries_pending": 779,
+  "discoveries_unresolved": 861,
   "unverified_events": 7,
   "known_age": 14,
   "sources_never_checked": 3,
-  "sources_failed": 11,
+  "sources_failed": 10,
   "source_errors": [
     {
       "name": "Teatro Cervantes y Echegaray",
@@ -61,29 +61,24 @@
       "category": "access_restricted"
     },
     {
-      "name": "Mijas Información · agenda local de espectáculos",
-      "detail": "robots.txt no permite o no pudo comprobarse",
-      "category": "access_restricted"
-    },
-    {
       "name": "Luces de La Concepción · espectáculo navideño",
       "detail": "robots.txt no permite o no pudo comprobarse",
       "category": "access_restricted"
     }
   ],
   "last_full_scan": "2026-10-29T13:20:02+00:00",
-  "days_since_full_scan": 2.9,
-  "last_radar": "2026-10-31T12:49:33+00:00",
-  "days_since_radar": 0.9,
-  "last_verifier": "2026-10-31T12:52:48+00:00",
-  "cases_total": 545,
-  "cases_to_investigate": 15,
-  "cases_high_confidence": 14,
-  "cases_stale_high_confidence": 13,
-  "last_case_investigation": "2026-10-31T12:52:02+00:00",
-  "last_broad_scout": "2026-10-31T12:49:33+00:00",
-  "broad_scout_new_leads": 28,
-  "ai_hunt_brief_generated": "2026-10-31T12:54:30+00:00",
+  "days_since_full_scan": 3.0,
+  "last_radar": "2026-11-01T13:38:37+00:00",
+  "days_since_radar": 0.0,
+  "last_verifier": "2026-11-01T13:41:47+00:00",
+  "cases_total": 533,
+  "cases_to_investigate": 16,
+  "cases_high_confidence": 15,
+  "cases_stale_high_confidence": 12,
+  "last_case_investigation": "2026-11-01T13:40:47+00:00",
+  "last_broad_scout": "2026-11-01T13:38:37+00:00",
+  "broad_scout_new_leads": 0,
+  "ai_hunt_brief_generated": "2026-11-01T13:43:17+00:00",
   "ai_hunt_broad_candidates": 22,
   "ai_independent_published": 41,
   "ai_case_published": 5,
@@ -106,8 +101,8 @@
     "Mijas": 1
   },
   "alerts": [
-    "11 fuentes con error en su última consulta",
+    "10 fuentes con error en su última consulta",
     "3 fuentes aún sin primera revisión",
-    "13 casos de alta confianza llevan más de 48 h sin resolverse"
+    "12 casos de alta confianza llevan más de 48 h sin resolverse"
   ]
 }
