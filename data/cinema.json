@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T21:41:42+00:00",
+  "updated_at": "2026-11-02T20:53:06+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -26,7 +26,16 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "12:10"
+            "15:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
+        },
+        {
+          "date": "2026-11-03",
+          "cinema": "Multicines Rosaleda",
+          "town": "Málaga",
+          "times": [
+            "17:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         },
@@ -85,7 +94,8 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "12:10"
+            "16:00",
+            "17:45"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         },
@@ -233,7 +243,8 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "12:20"
+            "16:20",
+            "18:25"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         },
@@ -312,8 +323,9 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "12:00",
-            "12:30"
+            "16:00",
+            "17:00",
+            "18:45"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         },
@@ -534,7 +546,7 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "12:20"
+            "16:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         }
@@ -577,7 +589,8 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "12:15"
+            "16:00",
+            "17:45"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         },
@@ -829,7 +842,7 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "12:10"
+            "17:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         },

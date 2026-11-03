@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T21:41:43.350248+00:00",
+  "generated_at": "2026-11-03T09:23:25.496685+00:00",
   "workflow": {
     "name": "Hoy Toca Plan · motor y publicación segura",
-    "event": "schedule",
+    "event": "issues",
     "schedule_cron": null,
-    "run_id": "41530621899",
+    "run_id": "41610591091",
     "run_attempt": "1",
-    "run_url": "https://github.com/Juanan88/hoy-toca-plan-motor/actions/runs/41530621899",
+    "run_url": "https://github.com/Juanan88/hoy-toca-plan-motor/actions/runs/41610591091",
     "job_status": "success"
   },
   "last_success": {
@@ -18,8 +18,8 @@
     "case_investigation": "2026-11-02T16:28:58+00:00"
   },
   "catalog": {
-    "events": 162,
-    "drift": true
+    "events": 159,
+    "drift": false
   },
   "radar": {
     "examined": 1022,
@@ -39,7 +39,7 @@
     "low_priority": 216,
     "ai_queue": 19,
     "high_priority": 18,
-    "stale_high_confidence": 13
+    "stale_high_confidence": 15
   },
   "investigation": {
     "examined": 10,
