@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T20:53:06+00:00",
+  "updated_at": "2026-11-03T14:28:07+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -13,33 +13,6 @@
       "source_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica",
       "showtimes": [
         {
-          "date": "2026-11-02",
-          "cinema": "Cines La Verónica",
-          "town": "Antequera",
-          "times": [
-            "17:30"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
-        },
-        {
-          "date": "2026-11-02",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
-            "15:50"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
-        },
-        {
-          "date": "2026-11-03",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
-            "17:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
-        },
-        {
           "date": "2026-11-04",
           "cinema": "Cines La Verónica",
           "town": "Antequera",
@@ -49,15 +22,6 @@
           "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
         },
         {
-          "date": "2026-11-04",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
-            "17:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
-        },
-        {
           "date": "2026-11-05",
           "cinema": "Cines La Verónica",
           "town": "Antequera",
@@ -65,18 +29,62 @@
             "17:30"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
-        },
-        {
-          "date": "2026-11-05",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
-            "17:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         }
       ],
       "id": "MOV-E1952705CC0E"
+    },
+    {
+      "title": "EL GATO CON SOMBRERO",
+      "classification": "Apta",
+      "duration_minutes": 107,
+      "genres": [
+        "Animación",
+        "Aventuras"
+      ],
+      "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
+      "source_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada",
+      "showtimes": [
+        {
+          "date": "2026-11-06",
+          "cinema": "Kinépolis La Cañada",
+          "town": "Marbella",
+          "times": [
+            "15:50",
+            "16:30",
+            "18:20",
+            "19:00",
+            "20:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
+        },
+        {
+          "date": "2026-11-07",
+          "cinema": "Kinépolis La Cañada",
+          "town": "Marbella",
+          "times": [
+            "12:30",
+            "14:50",
+            "16:00",
+            "17:20",
+            "18:30",
+            "19:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
+        },
+        {
+          "date": "2026-11-08",
+          "cinema": "Kinépolis La Cañada",
+          "town": "Marbella",
+          "times": [
+            "16:00",
+            "16:30",
+            "18:30",
+            "19:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
+        }
+      ],
+      "id": "MOV-576539DB8FC3"
     },
     {
       "title": "GUNGO Y LOS JUEGOS CAVERNÍCOLAS",
@@ -89,16 +97,6 @@
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
       "source_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar",
       "showtimes": [
-        {
-          "date": "2026-11-02",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
-            "16:00",
-            "17:45"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
-        },
         {
           "date": "2026-11-03",
           "cinema": "mk2 Cines Miramar",
@@ -197,28 +195,6 @@
       "id": "MOV-8B78EA7A8050"
     },
     {
-      "title": "HOTEL TRANSILVANIA",
-      "classification": "Apta",
-      "duration_minutes": 82,
-      "genres": [
-        "Animación"
-      ],
-      "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
-      "source_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada",
-      "showtimes": [
-        {
-          "date": "2026-11-02",
-          "cinema": "Kinépolis La Cañada",
-          "town": "Marbella",
-          "times": [
-            "16:30"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
-        }
-      ],
-      "id": "MOV-8F0A7E8D44E1"
-    },
-    {
       "title": "LA ISLA OLVIDADA",
       "classification": "7 años",
       "duration_minutes": 108,
@@ -229,25 +205,6 @@
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
       "source_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda",
       "showtimes": [
-        {
-          "date": "2026-11-02",
-          "cinema": "Kinépolis La Cañada",
-          "town": "Marbella",
-          "times": [
-            "12:40"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
-        },
-        {
-          "date": "2026-11-02",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
-            "16:20",
-            "18:25"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
-        },
         {
           "date": "2026-11-03",
           "cinema": "Multicines Rosaleda",
@@ -307,28 +264,6 @@
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
       "source_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar",
       "showtimes": [
-        {
-          "date": "2026-11-02",
-          "cinema": "Kinépolis La Cañada",
-          "town": "Marbella",
-          "times": [
-            "12:45",
-            "16:20",
-            "18:15"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
-        },
-        {
-          "date": "2026-11-02",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
-            "16:00",
-            "17:00",
-            "18:45"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
-        },
         {
           "date": "2026-11-03",
           "cinema": "mk2 Cines Miramar",
@@ -531,29 +466,6 @@
       "id": "MOV-704392D74FBB"
     },
     {
-      "title": "MASCOTAS AL RESCATE",
-      "classification": "7 años",
-      "duration_minutes": 86,
-      "genres": [
-        "Animación",
-        "Familiar"
-      ],
-      "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
-      "source_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda",
-      "showtimes": [
-        {
-          "date": "2026-11-02",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
-            "16:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
-        }
-      ],
-      "id": "MOV-4CE6D75539FD"
-    },
-    {
       "title": "SUPERTHINGS: LA PELÍCULA",
       "classification": "Apta",
       "duration_minutes": 93,
@@ -564,45 +476,6 @@
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
       "source_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica",
       "showtimes": [
-        {
-          "date": "2026-11-02",
-          "cinema": "Cines La Verónica",
-          "town": "Antequera",
-          "times": [
-            "17:30"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
-        },
-        {
-          "date": "2026-11-02",
-          "cinema": "Kinépolis La Cañada",
-          "town": "Marbella",
-          "times": [
-            "12:20",
-            "15:50",
-            "18:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
-        },
-        {
-          "date": "2026-11-02",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
-            "16:00",
-            "17:45"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
-        },
-        {
-          "date": "2026-11-02",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "18:15"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
-        },
         {
           "date": "2026-11-03",
           "cinema": "mk2 Cines Miramar",
@@ -829,24 +702,6 @@
       "source_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda",
       "showtimes": [
         {
-          "date": "2026-11-02",
-          "cinema": "Kinépolis La Cañada",
-          "town": "Marbella",
-          "times": [
-            "16:45"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
-        },
-        {
-          "date": "2026-11-02",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
-            "17:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
-        },
-        {
           "date": "2026-11-04",
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
@@ -878,15 +733,6 @@
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
       "source_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga",
       "showtimes": [
-        {
-          "date": "2026-11-02",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "18:10"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
-        },
         {
           "date": "2026-11-03",
           "cinema": "Yelmo Cines Vialia",
