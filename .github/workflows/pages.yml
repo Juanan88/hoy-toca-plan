@@ -1,4 +1,5 @@
 name: Publicar Hoy Toca Plan
+# Un despliegue nuevo debe ejecutarse como run nuevo: re-run acumula artefactos github-pages.
 on:
   push:
     branches: [main]
