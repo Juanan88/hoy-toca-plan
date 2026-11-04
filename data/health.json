@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-04T10:16:40+00:00",
+  "generated_at": "2026-11-04T13:09:42+00:00",
   "level": "attention",
-  "events": 160,
+  "events": 161,
   "sources": 86,
   "catalog_drift": false,
   "last_scan_snapshot": {
-    "events": 160,
+    "events": 161,
     "sources": 86
   },
   "discoveries_pending": 761,
   "discoveries_unresolved": 866,
   "unverified_events": 28,
-  "known_age": 17,
+  "known_age": 18,
   "sources_never_checked": 3,
   "sources_failed": 11,
   "source_errors": [
@@ -72,25 +72,27 @@
     }
   ],
   "last_full_scan": "2026-11-02T16:16:37+00:00",
-  "days_since_full_scan": 1.8,
+  "days_since_full_scan": 1.9,
   "last_radar": "2026-11-04T10:11:45+00:00",
-  "days_since_radar": 0.0,
+  "days_since_radar": 0.1,
   "last_verifier": "2026-11-04T10:14:43+00:00",
+  "days_since_verifier": 0.1,
   "cases_total": 536,
   "cases_to_investigate": 27,
   "cases_high_confidence": 25,
   "cases_stale_high_confidence": 16,
+  "cases_uninvestigated_high_confidence": 5,
   "last_case_investigation": "2026-11-04T10:13:47+00:00",
   "last_broad_scout": "2026-11-04T10:11:45+00:00",
   "broad_scout_new_leads": 28,
   "ai_hunt_brief_generated": "2026-11-04T10:15:57+00:00",
   "ai_hunt_broad_candidates": 22,
-  "ai_independent_published": 45,
+  "ai_independent_published": 46,
   "ai_case_published": 9,
   "age_missing": 143,
   "municipalities_with_events": 16,
   "coverage_by_town": {
-    "Málaga": 94,
+    "Málaga": 95,
     "Benalmádena": 19,
     "Marbella": 11,
     "Fuengirola": 9,
@@ -110,6 +112,6 @@
   "alerts": [
     "11 fuentes con error en su última consulta",
     "3 fuentes aún sin primera revisión",
-    "16 casos de alta confianza llevan más de 48 h sin resolverse"
+    "5 casos de alta confianza llevan más de 48 h sin investigar"
   ]
 }
