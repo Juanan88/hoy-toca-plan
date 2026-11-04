@@ -1290,6 +1290,33 @@
     "status": "publicada_en_fuente"
   },
   {
+    "id": "EVT-IA-FD78629625",
+    "title": "Tumbalafusta · teatro de objetos para familias",
+    "start": "2026-11-12",
+    "end": "2026-11-12",
+    "time": "10:30 y 12:00",
+    "town": "Málaga",
+    "venue": "Teatro Cánovas · Sala A",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "Por confirmar",
+    "audience": "Infantil y familiar",
+    "source_name": "Teatro Cánovas · Junta de Andalucía",
+    "source_url": "https://www.juntadeandalucia.es/aaiicc/teatros/teatro-canovas/tumbalafusta",
+    "secondary_sources": [
+      "https://ikebanah.es/es/tumbalafusta/"
+    ],
+    "details": "La Ruta 40 / Xavier Bobés. Dos intérpretes transforman piezas de madera en casas, barrios y ciudades para explorar la imaginación, la amistad y la infancia. La distribuidora recomienda el espectáculo a partir de 5 años.",
+    "evidence": "La ficha oficial del Teatro Cánovas anuncia Tumbalafusta el jueves 12 de noviembre de 2026 a las 10:30 y 12:00, y lo define expresamente como «un espectáculo para público familiar» que combina teatro de texto, objetos y música.",
+    "first_seen": "2026-11-04",
+    "last_checked": "2026-11-04T09:35:29+00:00",
+    "origin": "Investigación IA independiente, con fuente",
+    "discovery_channel": "ai_independent",
+    "status": "publicada_en_fuente"
+  },
+  {
     "id": "EVT-IA-E13ED157E3",
     "title": "Canta Juegos · Grupo Golosinas",
     "start": "2026-11-14",
