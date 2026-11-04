@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T13:09:42+00:00",
+  "generated_at": "2026-11-04T13:12:54+00:00",
   "level": "attention",
-  "events": 161,
+  "events": 162,
   "sources": 86,
   "catalog_drift": false,
   "last_scan_snapshot": {
-    "events": 161,
+    "events": 162,
     "sources": 86
   },
   "discoveries_pending": 761,
@@ -87,12 +87,12 @@
   "broad_scout_new_leads": 28,
   "ai_hunt_brief_generated": "2026-11-04T10:15:57+00:00",
   "ai_hunt_broad_candidates": 22,
-  "ai_independent_published": 46,
+  "ai_independent_published": 47,
   "ai_case_published": 9,
-  "age_missing": 143,
+  "age_missing": 144,
   "municipalities_with_events": 16,
   "coverage_by_town": {
-    "Málaga": 95,
+    "Málaga": 96,
     "Benalmádena": 19,
     "Marbella": 11,
     "Fuengirola": 9,
