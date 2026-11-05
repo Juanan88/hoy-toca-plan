@@ -1,8 +1,14 @@
 name: Publicar Hoy Toca Plan
-# Un despliegue nuevo debe ejecutarse como run nuevo: re-run acumula artefactos github-pages.
+# Cada intento usa un artefacto único; la recuperación reutiliza el mismo paquete.
 on:
   push:
     branches: [main]
+    paths:
+      - 'index.html'
+      - '.nojekyll'
+      - 'assets/**'
+      - 'data/**'
+      - '.github/workflows/pages.yml'
   workflow_dispatch:
 
 permissions:
@@ -17,10 +23,10 @@ concurrency:
 jobs:
   publicar:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 24
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.recovery.outputs.page_url || steps.deployment.outputs.page_url }}
     steps:
       - name: Descargar web pública
         uses: actions/checkout@v4
@@ -38,6 +44,7 @@ jobs:
           test ! -f requirements.txt
           python3 - <<'PY'
           import json
+          from datetime import date
           from pathlib import Path
           page=Path('index.html').read_text(encoding='utf-8')
           assert '<title>Hoy Toca Plan' in page, 'Identidad incorrecta'
@@ -47,6 +54,20 @@ jobs:
                   content=json.load(f)
               if name=='events':
                   assert isinstance(content,list) and content, 'El catálogo está vacío'
+                  seen = set()
+                  for event in content:
+                      identifier = event.get('id')
+                      assert identifier and identifier not in seen, 'Identificador ausente o duplicado'
+                      seen.add(identifier)
+                      for field in ('title', 'start', 'town', 'venue', 'source_url'):
+                          assert isinstance(event.get(field), str) and event[field].strip(), (identifier, field)
+                      start = date.fromisoformat(event['start'])
+                      end = date.fromisoformat(event.get('end') or event['start'])
+                      assert start <= end, (identifier, 'Intervalo invertido')
+                      if 'occurrences' in event:
+                          days = [date.fromisoformat(day) for day in event['occurrences']]
+                          assert days and days == sorted(set(days)), (identifier, 'Sesiones inválidas')
+                          assert start <= days[0] <= days[-1] <= end, (identifier, 'Sesión fuera del intervalo')
           paths={str(p.as_posix()) for p in Path('.').rglob('*') if p.is_file() and '.git' not in p.parts}
           static_paths={'index.html','.nojekyll','assets/app.js','assets/site.css'}
           static_paths|={f'data/{name}.json' for name in required}
@@ -72,14 +93,31 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: public
+          name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
+          retention-days: 1
 
       - name: Publicar página
         id: deployment
         uses: actions/deploy-pages@v4
+        continue-on-error: true
+        with:
+          artifact_name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
+
+      - name: Esperar antes del único reintento de Pages
+        if: ${{ !cancelled() && steps.deployment.outcome == 'failure' }}
+        run: sleep 20
+
+      # Crear otro despliegue del mismo artefacto, sin repetir upload ni motor.
+      - name: Recuperar publicación una sola vez
+        id: recovery
+        if: ${{ !cancelled() && steps.deployment.outcome == 'failure' }}
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
 
       - name: Verificar la web realmente publicada y el catálogo completo
         env:
-          PAGES_URL: ${{ steps.deployment.outputs.page_url }}
+          PAGES_URL: ${{ steps.recovery.outputs.page_url || steps.deployment.outputs.page_url }}
         shell: bash
         run: |
           python3 - <<'PY'
@@ -91,6 +129,10 @@ jobs:
           from urllib.parse import urljoin
 
           base = os.environ['PAGES_URL'].rstrip('/') + '/'
+          # También comprobar interfaz y estilos: un catálogo idéntico no prueba
+          # que la nueva versión de la aplicación haya llegado al CDN.
+          frontend = {name: Path(name).read_bytes() for name in
+                      ('index.html', 'assets/app.js', 'assets/site.css')}
           expected = Path('data/events.json').read_bytes()
           expected_digest = hashlib.sha256(expected).hexdigest()
           expected_cinema = Path('data/cinema.json').read_bytes()
@@ -104,6 +146,11 @@ jobs:
                   html = get(base).decode('utf-8')
                   if '<title>Hoy Toca Plan' not in html:
                       raise ValueError('No se encuentra la identidad Hoy Toca Plan en Pages')
+                  for name, expected_bytes in frontend.items():
+                      digest = hashlib.sha256(expected_bytes).hexdigest()
+                      actual_bytes = get(urljoin(base, name) + '?v=' + digest[:16])
+                      if hashlib.sha256(actual_bytes).hexdigest() != digest:
+                          raise ValueError('Pages todavía no sirve la versión actual de ' + name)
                   actual = get(urljoin(base, 'data/events.json') + '?v=' + expected_digest[:16])
                   if hashlib.sha256(actual).hexdigest() != expected_digest:
                       raise ValueError('Pages todavía no sirve el catálogo de este commit')
