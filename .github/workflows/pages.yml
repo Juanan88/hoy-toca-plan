@@ -64,7 +64,7 @@ jobs:
                       start = date.fromisoformat(event['start'])
                       end = date.fromisoformat(event.get('end') or event['start'])
                       assert start <= end, (identifier, 'Intervalo invertido')
-                      if 'occurrences' in event:
+                      if event.get('occurrences') is not None:
                           days = [date.fromisoformat(day) for day in event['occurrences']]
                           assert days and days == sorted(set(days)), (identifier, 'Sesiones inválidas')
                           assert start <= days[0] <= days[-1] <= end, (identifier, 'Sesión fuera del intervalo')
