@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:25:13+00:00",
+  "updated_at": "2026-11-05T17:23:53+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -50,7 +50,8 @@
           "town": "Antequera",
           "times": [
             "17:30",
-            "20:00"
+            "20:00",
+            "22:30"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
         },
@@ -141,7 +142,8 @@
           "town": "Antequera",
           "times": [
             "17:30",
-            "20:00"
+            "20:00",
+            "22:30"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
         },
@@ -164,6 +166,7 @@
           "cinema": "Kinépolis La Cañada",
           "town": "Marbella",
           "times": [
+            "12:10",
             "12:30",
             "14:50",
             "16:00",
@@ -480,7 +483,8 @@
           "town": "Antequera",
           "times": [
             "17:30",
-            "20:00"
+            "20:00",
+            "22:30"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
         },
