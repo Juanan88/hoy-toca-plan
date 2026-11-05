@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-04T13:12:54+00:00",
+  "generated_at": "2026-11-05T09:23:59+00:00",
   "level": "attention",
-  "events": 162,
+  "events": 170,
   "sources": 86,
   "catalog_drift": false,
   "last_scan_snapshot": {
-    "events": 162,
+    "events": 170,
     "sources": 86
   },
-  "discoveries_pending": 761,
-  "discoveries_unresolved": 866,
-  "unverified_events": 28,
+  "discoveries_pending": 774,
+  "discoveries_unresolved": 860,
+  "unverified_events": 29,
   "known_age": 18,
   "sources_never_checked": 3,
-  "sources_failed": 11,
+  "sources_failed": 10,
   "source_errors": [
     {
       "name": "Teatro Cervantes y Echegaray",
@@ -37,11 +37,6 @@
     },
     {
       "name": "Ayuntamiento Torremolinos",
-      "detail": "robots.txt no permite o no pudo comprobarse",
-      "category": "access_restricted"
-    },
-    {
-      "name": "Ayuntamiento Antequera",
       "detail": "robots.txt no permite o no pudo comprobarse",
       "category": "access_restricted"
     },
@@ -71,36 +66,37 @@
       "category": "access_restricted"
     }
   ],
-  "last_full_scan": "2026-11-02T16:16:37+00:00",
-  "days_since_full_scan": 1.9,
-  "last_radar": "2026-11-04T10:11:45+00:00",
-  "days_since_radar": 0.1,
-  "last_verifier": "2026-11-04T10:14:43+00:00",
-  "days_since_verifier": 0.1,
-  "cases_total": 536,
-  "cases_to_investigate": 27,
-  "cases_high_confidence": 25,
-  "cases_stale_high_confidence": 16,
-  "cases_uninvestigated_high_confidence": 5,
-  "last_case_investigation": "2026-11-04T10:13:47+00:00",
-  "last_broad_scout": "2026-11-04T10:11:45+00:00",
-  "broad_scout_new_leads": 28,
-  "ai_hunt_brief_generated": "2026-11-04T10:15:57+00:00",
+  "last_full_scan": "2026-11-05T09:08:26+00:00",
+  "days_since_full_scan": 0.0,
+  "last_radar": "2026-11-05T09:19:43+00:00",
+  "days_since_radar": 0.0,
+  "last_verifier": "2026-11-05T09:22:26+00:00",
+  "days_since_verifier": 0.0,
+  "cases_total": 548,
+  "cases_to_investigate": 24,
+  "cases_high_confidence": 23,
+  "cases_stale_high_confidence": 14,
+  "cases_uninvestigated_high_confidence": 4,
+  "last_case_investigation": "2026-11-05T09:21:30+00:00",
+  "last_broad_scout": "2026-11-05T09:19:43+00:00",
+  "broad_scout_new_leads": 6,
+  "ai_hunt_brief_generated": "2026-11-05T09:23:26+00:00",
   "ai_hunt_broad_candidates": 22,
   "ai_independent_published": 47,
   "ai_case_published": 9,
-  "age_missing": 144,
-  "municipalities_with_events": 16,
+  "age_missing": 152,
+  "municipalities_with_events": 17,
   "coverage_by_town": {
-    "Málaga": 96,
-    "Benalmádena": 19,
-    "Marbella": 11,
-    "Fuengirola": 9,
-    "Antequera": 5,
+    "Málaga": 101,
+    "Benalmádena": 18,
+    "Marbella": 12,
+    "Fuengirola": 10,
+    "Antequera": 6,
     "Estepona": 4,
     "Ronda": 4,
     "Vélez-Málaga": 4,
     "Mijas": 3,
+    "Coín": 1,
     "Rincón de la Victoria": 1,
     "Colmenar": 1,
     "Alhaurín de la Torre": 1,
@@ -110,8 +106,8 @@
     "Nerja": 1
   },
   "alerts": [
-    "11 fuentes con error en su última consulta",
+    "10 fuentes con error en su última consulta",
     "3 fuentes aún sin primera revisión",
-    "5 casos de alta confianza llevan más de 48 h sin investigar"
+    "4 casos de alta confianza llevan más de 48 h sin investigar"
   ]
 }
