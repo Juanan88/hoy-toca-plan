@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T18:57:36+00:00",
+  "updated_at": "2026-11-05T19:55:07+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -782,24 +782,6 @@
           "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
         },
         {
-          "date": "2026-11-05",
-          "cinema": "Yelmo Cines Plaza Mayor",
-          "town": "Málaga",
-          "times": [
-            "18:20"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
-        },
-        {
-          "date": "2026-11-05",
-          "cinema": "Yelmo Cines Rincón de la Victoria",
-          "town": "Rincón de la Victoria",
-          "times": [
-            "18:10"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/rincon-de-la-victoria/yelmo-cines-rincon-de-la-victoria"
-        },
-        {
           "date": "2026-11-06",
           "cinema": "mk2 Cines Miramar",
           "town": "Fuengirola",
@@ -1174,15 +1156,6 @@
             "17:15"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
-        },
-        {
-          "date": "2026-11-05",
-          "cinema": "Yelmo Cines Rincón de la Victoria",
-          "town": "Rincón de la Victoria",
-          "times": [
-            "18:20"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/rincon-de-la-victoria/yelmo-cines-rincon-de-la-victoria"
         },
         {
           "date": "2026-11-06",
