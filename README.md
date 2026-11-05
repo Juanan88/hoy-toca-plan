@@ -19,3 +19,5 @@ La dirección canónica y oficial es `https://juanan88.github.io/hoy-toca-plan/`
 ## Publicación
 
 `.github/workflows/pages.yml` revisa los archivos permitidos, valida el JSON, publica en GitHub Pages y compara el HTML y el hash del catálogo servidos realmente.
+
+Para recuperar un despliegue fallido de GitHub Pages, se inicia una ejecución nueva; no se reintenta un trabajo que pueda duplicar el artefacto `github-pages`.
