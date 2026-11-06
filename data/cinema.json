@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T14:59:06+00:00",
+  "updated_at": "2026-11-06T16:44:50+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -76,8 +76,6 @@
           "cinema": "Yelmo Cines Vialia",
           "town": "Málaga",
           "times": [
-            "15:45",
-            "17:00",
             "18:10",
             "20:35"
           ],
@@ -863,15 +861,6 @@
         },
         {
           "date": "2026-11-06",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "16:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
-        },
-        {
-          "date": "2026-11-06",
           "cinema": "mk2 Cines El Ingenio",
           "town": "Vélez-Málaga",
           "times": [
@@ -1263,15 +1252,6 @@
             "17:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
-        },
-        {
-          "date": "2026-11-06",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "16:10"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
         },
         {
           "date": "2026-11-06",
