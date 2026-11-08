@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T14:16:21+00:00",
+  "updated_at": "2026-11-08T17:13:59+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -76,8 +76,6 @@
           "cinema": "Yelmo Cines Vialia",
           "town": "Málaga",
           "times": [
-            "12:30",
-            "15:45",
             "18:10",
             "20:35"
           ],
@@ -443,15 +441,6 @@
             "16:15"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
-        },
-        {
-          "date": "2026-11-08",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "12:15"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
         }
       ],
       "id": "MOV-8A91EB2467B3"
@@ -613,16 +602,6 @@
             "16:05"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
-        },
-        {
-          "date": "2026-11-08",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "12:10",
-            "16:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
         },
         {
           "date": "2026-11-08",
@@ -813,29 +792,6 @@
       "id": "MOV-4CE6D75539FD"
     },
     {
-      "title": "PESADILLA ANTES DE NAVIDAD",
-      "classification": "7 años",
-      "duration_minutes": 76,
-      "genres": [
-        "Animación"
-      ],
-      "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
-      "source_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga",
-      "showtimes": [
-        {
-          "date": "2026-11-08",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "12:25",
-            "15:25"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
-        }
-      ],
-      "id": "MOV-330E905CA05E"
-    },
-    {
       "title": "SUPERTHINGS: LA PELÍCULA",
       "classification": "Apta",
       "duration_minutes": 93,
@@ -891,16 +847,6 @@
             "16:30"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
-        },
-        {
-          "date": "2026-11-08",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "12:05",
-            "16:10"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
         },
         {
           "date": "2026-11-08",
@@ -1111,29 +1057,6 @@
         }
       ],
       "id": "MOV-194524E05612"
-    },
-    {
-      "title": "TIEMPOS DE ILUSIÓN",
-      "classification": "7 años",
-      "duration_minutes": 119,
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
-      "source_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga",
-      "showtimes": [
-        {
-          "date": "2026-11-08",
-          "cinema": "Yelmo Cines Vialia",
-          "town": "Málaga",
-          "times": [
-            "13:15"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
-        }
-      ],
-      "id": "MOV-55C742F83AE7"
     }
   ],
   "sources_checked": 9,
