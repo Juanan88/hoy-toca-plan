@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T10:21:23+00:00",
+  "updated_at": "2026-11-08T14:16:21+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -27,8 +27,6 @@
           "cinema": "mk2 Cines Miramar",
           "town": "Fuengirola",
           "times": [
-            "12:05",
-            "12:20",
             "16:00",
             "17:00",
             "18:30",
@@ -53,8 +51,6 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "12:00",
-            "12:30",
             "16:00",
             "17:00",
             "18:00",
@@ -103,8 +99,6 @@
           "cinema": "mk2 Cines El Ingenio",
           "town": "Vélez-Málaga",
           "times": [
-            "12:00",
-            "12:05",
             "16:00",
             "17:00",
             "18:30",
@@ -446,7 +440,6 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "12:20",
             "16:15"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
@@ -479,27 +472,15 @@
           "cinema": "mk2 Cines Miramar",
           "town": "Fuengirola",
           "times": [
-            "12:15",
             "16:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
         },
         {
           "date": "2026-11-08",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
-            "12:25",
-            "16:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
-        },
-        {
-          "date": "2026-11-08",
           "cinema": "mk2 Cines El Ingenio",
           "town": "Vélez-Málaga",
           "times": [
-            "12:25",
             "16:20"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
@@ -568,7 +549,6 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "12:15",
             "16:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
@@ -601,7 +581,6 @@
           "cinema": "mk2 Cines Miramar",
           "town": "Fuengirola",
           "times": [
-            "12:25",
             "17:05"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
@@ -621,7 +600,6 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "12:30",
             "16:00",
             "17:45"
           ],
@@ -660,7 +638,6 @@
           "cinema": "mk2 Cines El Ingenio",
           "town": "Vélez-Málaga",
           "times": [
-            "12:15",
             "16:50"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
@@ -828,7 +805,6 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "12:20",
             "15:50"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
@@ -884,7 +860,6 @@
           "cinema": "mk2 Cines Miramar",
           "town": "Fuengirola",
           "times": [
-            "12:25",
             "16:10"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
@@ -904,7 +879,6 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "12:30",
             "17:15"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
@@ -942,7 +916,6 @@
           "cinema": "mk2 Cines El Ingenio",
           "town": "Vélez-Málaga",
           "times": [
-            "12:25",
             "17:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
@@ -1132,7 +1105,6 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "12:20",
             "16:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
