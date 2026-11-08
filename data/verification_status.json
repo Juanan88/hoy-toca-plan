@@ -1,12 +1,20 @@
 {
-  "last_run": "2026-11-07T09:41:51+00:00",
+  "last_run": "2026-11-08T10:25:28+00:00",
   "examined": 30,
-  "new_published_events": 0,
-  "jsonld_published": 0,
+  "new_published_events": 7,
+  "jsonld_published": 7,
   "text_published": 0,
-  "published_event_ids": [],
+  "published_event_ids": [
+    "EVT-34E22B7CAFAC",
+    "EVT-E80A682BC682",
+    "EVT-225A5A1F2105",
+    "EVT-20B8A3C1CF90",
+    "EVT-083B1FC09188",
+    "EVT-014D473BD629",
+    "EVT-D2EE1AB0A2EE"
+  ],
   "high_priority_pending": 0,
-  "inaccessible": 0,
-  "total_events": 170,
+  "inaccessible": 1,
+  "total_events": 174,
   "method": "JSON-LD preferente + evidencia textual ≥90/100 con fuente aprobada o corroboración independiente; respeta robots.txt"
 }

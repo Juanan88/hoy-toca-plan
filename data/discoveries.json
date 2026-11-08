@@ -1,888 +1,5 @@
 [
   {
-    "title": "SÉSAMO TEATRO",
-    "url": "https://www.juntadeandalucia.es/aaiicc/teatros/teatro-canovas/se-busca",
-    "source_name": "Teatro Cánovas",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "HISTRIÓN TEATRO",
-    "url": "https://www.juntadeandalucia.es/aaiicc/teatros/teatro-canovas/nevenka",
-    "source_name": "Teatro Cánovas",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "Domte (Espectáculo de calle)",
-    "url": "https://www.juntadeandalucia.es/aaiicc/teatros/teatro-canovas/domte-espectaculo-de-calle",
-    "source_name": "Teatro Cánovas",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "Moda infantil",
-    "url": "https://www.miramarcc.com/moda-infantil/",
-    "source_name": "CC Miramar Fuengirola",
-    "first_seen": "2026-11-02",
-    "status": "no_es_actividad",
-    "last_checked": "2026-11-02",
-    "last_text_checked": "2026-11-02",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "Página genérica o de navegación, sin sesión infantil concreta."
-  },
-  {
-    "title": "Eventos infantiles",
-    "url": "https://www.miramarcc.com/eventos-infantiles/",
-    "source_name": "CC Miramar Fuengirola",
-    "first_seen": "2026-11-02",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-06",
-    "last_text_checked": "2026-11-06",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Moda y ocio infantil",
-    "url": "https://www.miramarcc.com/moda-ocio-infantil/",
-    "source_name": "CC Miramar Fuengirola",
-    "first_seen": "2026-11-02",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-06",
-    "last_text_checked": "2026-11-06",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Eventos para todos",
-    "url": "https://www.miramarcc.com/eventos-generales/",
-    "source_name": "CC Miramar Fuengirola",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "Ideas para vestir en Navidad",
-    "url": "https://www.centrocomercialrosaleda.es/ideas-para-vestir-en-navidad/",
-    "source_name": "CC Rosaleda",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "¡Este Halloween, gana un iPhone 18 Pro!",
-    "url": "https://www.centrocomercialrosaleda.es/sorteo-iphone18pro-halloween/",
-    "source_name": "CC Rosaleda",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "Un Halloween terroríficamente dulce con Dunkin’",
-    "url": "https://www.centrocomercialrosaleda.es/ofertas-dunkin/",
-    "source_name": "CC Rosaleda",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "CLUB INFANTIL",
-    "url": "https://www.centrocomercialrosaleda.es/rosaleda-kids-club/",
-    "source_name": "CC Rosaleda",
-    "first_seen": "2026-11-02",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-06",
-    "last_text_checked": "2026-11-06",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Actividades familiares de otoño en La Concepción. Noviembre 2026",
-    "url": "https://laconcepcion.malaga.eu/es/noticias/detalle-de-la-noticia?id=178934",
-    "source_name": "Jardín Botánico La Concepción",
-    "first_seen": "2026-11-02",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Visitas guiadas y actividades. Pulse aquí",
-    "url": "https://laconcepcion.malaga.eu/es/servicios/",
-    "source_name": "Jardín Botánico La Concepción",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "Seguimiento prioritario",
-    "url": "https://www.fuengirola.es/agenda/2026-10-24/",
-    "source_name": "Ayuntamiento Fuengirola",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "Seguimiento prioritario",
-    "url": "https://www.fuengirola.es/evento/exposicion-del-juego-de-construccion-tente/",
-    "source_name": "Ayuntamiento Fuengirola",
-    "first_seen": "2026-11-02",
-    "status": "verificada_con_fecha",
-    "verified_event_ids": [
-      "EVT-FUEN-TENTE-2026"
-    ],
-    "review_reason": "Pista ya incorporada a la agenda; se conserva el vínculo de la fuente."
-  },
-  {
-    "title": "Mañana se celebra la XII Almijara Trail, la X Mini Trail y la primera edición de la Almijara Trail Kids",
-    "url": "https://www.nerja.es/manana-se-celebra-la-xii-almijara-trail-la-x-mini-trail-y-la-primera-edicion-de-la-almijara-trail-kids/",
-    "source_name": "Ayuntamiento Nerja",
-    "first_seen": "2026-11-02",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-06",
-    "last_text_checked": "2026-11-06",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Talleres vacacionales de verano 2026",
-    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/Talleres-vacacionales-de-verano-2026/",
-    "source_name": "Museo Casa Natal Picasso — actividades familiares",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "TALLER | Regina Dejiménez. «El proceso creativo: de la intuición al arte textil contemporáneo»",
-    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/TALLER-Regina-Dejimenez.-El-proceso-creativo-de-la-intuicion-al-arte-textil-contemporaneo/",
-    "source_name": "Museo Casa Natal Picasso — actividades familiares",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "Talleres 03.11.26 Masterclass de canto con Marina Lledó",
-    "url": "https://www.fundacionunicaja.com/event/masterclass-de-canto-con-marina-lledo/",
-    "source_name": "Fundación Unicaja — agenda cultural",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "Event Kids Pumpkin Painting by Creative Events Gib Gibraltar ? - ?",
-    "url": "https://littlefamilyhub.com/a/kids-pumpkin-painting-creative-events-gib/en",
-    "source_name": "Little Family Hub · eventos familiares Costa del Sol",
-    "first_seen": "2026-11-02",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "Event Miniature Christmas Village by Museo Cruz Herrera La Línea de la Concepción 0+",
-    "url": "https://littlefamilyhub.com/a/christmas-city-diorama/en",
-    "source_name": "Little Family Hub · eventos familiares Costa del Sol",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "taller niños",
-    "url": "https://picofinoescuelamalaga.com/talleres-y-cursos/etiqueta/taller-ninos/",
-    "source_name": "Picofino Escuela Málaga · talleres infantiles",
-    "first_seen": "2026-11-02",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "sin fecha futura demostrable"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100)."
-  },
-  {
-    "title": "FIESTA DE HALLOWEEN",
-    "url": "https://www.fuengirola.es/evento/fiesta-de-halloween/",
-    "source_name": "Fuengirola · Agenda municipal de eventos",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "TALLER DE BAILES LATINOS",
-    "url": "https://www.fuengirola.es/evento/taller-de-bailes-latinos/",
-    "source_name": "Fuengirola · Agenda municipal de eventos",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "AGENDA OCTUBRE",
-    "url": "https://www.fuengirola.es/evento/agenda-octubre/",
-    "source_name": "Fuengirola · Agenda municipal de eventos",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "TEATRO: «UN MATRIMONIO SIN FILTROS»",
-    "url": "https://www.fuengirola.es/evento/teatro-un-matrimonio-sin-filtros/",
-    "source_name": "Fuengirola · Agenda municipal de eventos",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar"
-  },
-  {
-    "title": "DESCUBRE EL MUSEO EN FAMILIA EDICIÓN ALTAR DE MUERTOS",
-    "url": "https://www.benalmadena.es/agenda/A8032/DESCUBRE-EL-MUSEO-EN-FAMILIA-EDICIN-ALTAR-DE-MUERTOS.html",
-    "source_name": "Benalmádena · calendario municipal de cultura",
-    "first_seen": "2026-11-02",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-06",
-    "last_text_checked": "2026-11-06",
-    "confidence_score": 0,
-    "confidence_reasons": [
-      "título sin actividad concreta"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
-  },
-  {
-    "title": "DE AMÉRICA A BENALMÁDENA: VISITA GUIADA AL MUSEO PRECOLOMBINO",
-    "url": "https://www.benalmadena.es/agenda/A8037/DE-AMRICA-A-BENALMDENA-VISITA-GUIADA-AL-MUSEO-PRECOLOMBINO.html",
-    "source_name": "Benalmádena · calendario municipal de cultura",
-    "first_seen": "2026-11-02",
-    "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-06",
-    "last_text_checked": "2026-11-06",
-    "confidence_score": 35,
-    "confidence_reasons": [
-      "actividad concreta",
-      "fecha futura explícita",
-      "sin evidencia infantil/familiar junto al evento"
-    ],
-    "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100)."
-  },
-  {
-    "title": "Teatro, talleres y actuaciones musicales despiden la programación cultural de octubre de la Diputación de Málaga - Diputación de Málaga",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPd1BDX21WemZmQkthWlNsdFRLNEdQbUxHRy1XR012dG9ZTWVDNVhqU2wtak1XamVpaFczTW9MTndLcnJyMVBHS0xFUkY1ZTNONnhvNExaaldSOFQ0MGRXV0ZZSk5PYzBmMTJVUE9tNTVNZ3U5ODd2YlFOU09maUhFWDBRYkdxX2czOER1R0xGb0RIODdtWmpNSDNBR3ZPZWpvS2hvdzUxVmNYS1YtdThsUFBWZl9iZjBRalJLUHcyOVZYTnlBYUpwb296bnZSbEFqMFFoTGt1WGlUejRCMjlSb01kOVpFRzlvME9xVks2ZTlhdTJRQzAw?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Teatro, talleres y actuaciones musicales despiden la programación cultural de octubre de la Diputación de Málaga Diputación de Málaga",
-    "discovery_method": "rss",
-    "query": "\"Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Sun, 25 Oct 2026 09:44:00 GMT"
-  },
-  {
-    "title": "Marbella comparte el Tostón y Todos los Santos con la fiesta de Halloween - Marbella24horas",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYVVxdW9CbGFkREZrYzdWX3p1aURIRDI3NTNORzEtMkdXdjFQVFFZUlQyMEFrb2FrdHZKYzhqaUR5azZEOFNoU3YwM3NvM3BBS2JJWWxqSFowT21HYU5WQzZOV01tT3Z2cVI1ZGgyclZWYkxqb0RkRDBadmhSUWloaGM3ZXVweDVXbVZNQjdiQnlHSVB4OWh4REZIankwaFFEWVFxT0dDdlRISlJSdW91MHpQZ0Vjbmc?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Marbella comparte el Tostón y Todos los Santos con la fiesta de Halloween Marbella24horas",
-    "discovery_method": "rss",
-    "query": "\"Marbella\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Sun, 01 Nov 2026 20:41:21 GMT"
-  },
-  {
-    "title": "El Circuito Joven programa en noviembre un taller gratuito para aprender a hacer jabones artesanales - Torremolinos Cultura",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSHZMNDhGQkxMSXVaMllRclJsVG5ocHh2SmFaZldNSnJKaDN5YzA2dGRmc2pSREpPZE5vMHlwQjZHckNXT3pwNkJZLVdzdVg0ZVVneHVjNXd2M1A4R2lEa2REcHVRc2IxUFhKa01ZVlJWaWt2V0JuODhLUHBhbFBVZWZQcGdsLUNBQXJTMWlyaUJuQW1yZ3JnYUVaUDFyaEdHcFNTbHd2em1QN2E0NnNidk96VlRYRmZVZ1I4cEwxcklFcm03bjBuOWx1NFB1UXJaTmZZQ3VWeEdrSGNXazRVNW1EdE5ad28?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "El Circuito Joven programa en noviembre un taller gratuito para aprender a hacer jabones artesanales Torremolinos Cultura",
-    "discovery_method": "rss",
-    "query": "\"Torremolinos\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Tue, 20 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "title": "La biblioteca municipal de Torremolinos recupera a partir de octubre su programación con literatura, talleres y actividades para todos los públicos - Radio Marca Málaga",
-    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQjJYN0tNQXRma2NxdUFCTmtxOWlNRVRldjhrYmJvVllNQ1p5TDZLcHBvdHdITVZKQ1dqRU1Nclg4bC1wZDNra0NXeEVCMTRRWEJIY2NRMkx6UEtST0xvU0l3UE8xbC12aWlINS1BMzNQYlN0aERFenZFMGtmcFpMNFdPdFNWaXVCLUdCSDNHOXV6d2F4blR6MUMtT3BIeEFfMFIweFZ6VmliOWdMVHQtczlkeEtTVy1GUW5nNXA2d0N1OXgyYXNoMW9FVGFjTmdMUkpsU21RdnJYMFFXSldMZWZ1MEpNeWhaeWt3Sy1IbEcwSkJCNUZmZDBQQVEtaW5mazlNbC1VX3hFUXM?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "La biblioteca municipal de Torremolinos recupera a partir de octubre su programación con literatura, talleres y actividades para todos los públicos Radio Marca Málaga",
-    "discovery_method": "rss",
-    "query": "\"Torremolinos\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Renovación del parque infantil en Torremolinos: un nuevo espacio familiar - Revista Lugar de Encuentro",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVW4tYnFtOGVOTGRNRjhaNUJqc2dZM3dodHd2UGxuazB5VFBNVm9zZ1I3ZUxoWEozWE5tRUl2MDFaMVN1RVhJX1VCSFVPbkpwa1lUbHZ6a2RJanZEWE1ZVDRZblBCR3g0VFk0NHBEYUY5ZmktY290ME51Qkx3STdfZjVBWFg2Z3ZiOWRXU0doTmU1UC1pdWZiZnBqbHR3QnZzREJJRWdyQmlBM21JbjZLekdRWGs2cGhJYkJHOQ?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Renovación del parque infantil en Torremolinos: un nuevo espacio familiar Revista Lugar de Encuentro",
-    "discovery_method": "rss",
-    "query": "\"Torremolinos\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Mon, 05 Oct 2026 15:31:53 GMT"
-  },
-  {
-    "title": "La «Fiesta del terror» de Torremolinos tendrá un aula sensorial y un horario sin sustos en el túnel para personas con autismo - El MIRA",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWHNzbmROb2Y4a1dJWkxaak5ZVldDdFZOMEwtZ19IZVZDNFNyU1JLb3FEazc2cEh0ZkxVM0lLMFdrSGV0X3FzSkxaZjlmSXJZTUZkTGZ5N0VWTEs0TjZRazk5N1NBWTNKN2FUWXRUNFE0UDhzdWZmV2pPT2FSb0MtSThtYmF4cWkwM0dNWC11RDAybHNBVS11NTd4cF84aHdmZVo0T001aVV5bkpudjhqU24tQ0ZRdjl3NWhreHlnSnItcjd3R3o4QkZnSkRHMW9CTXlTemlRbVBaS0ZXb2tGRGphb24?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "La «Fiesta del terror» de Torremolinos tendrá un aula sensorial y un horario sin sustos en el túnel para personas con autismo El MIRA",
-    "discovery_method": "rss",
-    "query": "\"Torremolinos\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Tue, 27 Oct 2026 19:15:07 GMT"
-  },
-  {
-    "title": "Gata Brass Band presenta este sábado en Nerja su espectáculo musical ‘PARAÍSO GATA’ - Ayuntamiento de Nerja",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmxQc050emxJRGdmYW9yTGpGTDdHOFRVbVdDY2tnQXZCbWdaV0NWVzJmLUVlN0hFcGlaaW1MOF9VMkJpVzlxQ0F2Mko0cm9yMUctYXl0Q3lqOTEwYnY4TTZTdTFtYnBPQ2FlLXVCWWpMdmd1YTJiRW8yVjlfNXBzcTJYVHNGemEzdlc0c2ZCRHU3TlZxbXM0UXZyTnV6YkN1VUdxbkFn?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Gata Brass Band presenta este sábado en Nerja su espectáculo musical ‘PARAÍSO GATA’ Ayuntamiento de Nerja",
-    "discovery_method": "rss",
-    "query": "\"Nerja\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Thu, 15 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "title": "El Ayuntamiento de Ronda prepara una noche de Halloween terrorífica y solidaria en el Convento de Santo Domingo - Ayuntamiento de Ronda",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdjQ1bEhremZ5aW1DUnBZeDlrT1JESm8zNVpPaEhDdGpET1g1YnkzUVdMLURqYkZMbVYya1N3Yk9tcWVMVXRGbmxmemZjMEFHZWlLSjJ5MHV4bjRJMzl3LWNYUXdOZnJ1aksxdVBOdGE4VGtVTXBRM29oc2hmNFhVQWJWQ05tTnVaZHZEWWF1Y1NJYk1KeGdfWndSU2ltNFFFZEh0ekpOeC15STZqQS05YzJVMFhfSUh6WnVOYkJpU1NQLV8tRGQ2TTdsYVBkMEI0aVE2Y1c0Rm4?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "El Ayuntamiento de Ronda prepara una noche de Halloween terrorífica y solidaria en el Convento de Santo Domingo Ayuntamiento de Ronda",
-    "discovery_method": "rss",
-    "query": "\"Ronda\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Thu, 08 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "title": "La barriada de la Feria prepara Halloween con una fiesta este sábado 24 de octubre - Diario Ronda",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRkJjeENLOTF2NzBvdFktbkdiRVdleGlwMkNOM0hBS0gza091ZXAxMnJ5dy1GLXU5bjgzT3MyTFZoR1I3LWpkTVd5WkNJMHhPd2FydC1VSUJ4UXBTTUZsQ1pCd1RmQ3hqUDV2ZE1hYVBYbUZQYjNyQmpqSTgxYVB1Q18wemJSS1VXYzRfNTFxWXVIay02dWNlbVh6eW5SRFVNelNlV2tZSU1jaVhnNHNJaDBvRUh4MmVaTGZaRzc1b1IxZzdwZU5hVGl3MjZ6cTU5X3NJamdWa1NRNXV2?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "La barriada de la Feria prepara Halloween con una fiesta este sábado 24 de octubre Diario Ronda",
-    "discovery_method": "rss",
-    "query": "\"Ronda\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
-    "published_at": "Tue, 20 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "title": "La Fiesta en el Aire de Arriate cumple 20 años y lo celebra con tres jornadas de música, arte y cultura - Diputación de Málaga",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ3VqazBFbG9Jekd3MU9aU0EzV2RYb3Z5Yk1RdGVkNVZZTlB5NjQwaVprMV8wVno0MWdfdDBZVjFrV054Qk9KWURENzBTQThLeU5kcEV0S2piTFY4cGRsc29OTDdFbWNYVXZmb2pJWkRtVVRuNnUxOXlhZm5raF9ITnRlcFNGVGQ5ZFRSTE1nUm1ieXpvcHlWVnliZDk1MTZGdnhwM0diTGlNbmJDOUVjb0w2bG84Z2M1RUxBVDRDTlUtSS02bV9qM1ljaFEzUlgyR2N2UzFzenlvTHQ4cGpEOWZMNFdsSURWcmpv?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "La Fiesta en el Aire de Arriate cumple 20 años y lo celebra con tres jornadas de música, arte y cultura Diputación de Málaga",
-    "discovery_method": "rss",
-    "query": "\"Arriate\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
-    "published_at": "Mon, 05 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Arriate se convierte en un 'gran escenario cultural' para celebrar veinte ediciones de la Fiesta en el Aire - Diario Sur",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFpwYmppSXJRTjNuMDJQZTRMZEtiV2xOek5OazhadTVzZjBucUFZc3JjM0t3QnE4RGRoNmUzM0E0TkJtUThEejBVaWtFbnBIa0plRU94bDhpbml1YVF2MGh2NmdZdFN5YnFiS2RZYXgyQ0xQc0tEU2RyMDhnMzJjcEFoMkJibS1HbHBBM1phQXBaTngtOHdCeFRrOHRaWGtSdEp0QV9qbmRzbWpnV1pzYjM5MFJtSW5FSlR3UWl2aHhYSmvSAcgBQVVfeXFMTXFfbjViRk1wLWFGS3dpNFI5QlFCYXBOb2ROOHZpdFh4NFQtOTI3XzU2SjdTWWhTdEgtWlZmZGZnX3FxME1XOElqME9kNjg2bjJpOFl2clRXX29kVHVPQmJQNmo2Q1ZvZW14QnQwWDhoMzQ4TTZZTkZfSVB1RjZrbzVGeUF0RldSR3lYdGo2V3JFYjltX2ZMdGdwZGVEV3ZJRTlISlVHWFp5NjUzWVN4MnVvWENUN2xVOERla2tFaVJRSGU2a1lxLWo?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Arriate se convierte en un 'gran escenario cultural' para celebrar veinte ediciones de la Fiesta en el Aire Diario Sur",
-    "discovery_method": "rss",
-    "query": "\"Arriate\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
-    "published_at": "Mon, 05 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Arriate se prepara para celebrar su XX Fiesta en el Aire - Cadena SER",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUnhTbUtmblZwM1Bzbm5FUlFwQk1OMVY4eWdzaHFPQkVPWndSamxEaWc5VTgtM21ObUNtdlBjOFJVMGNYQnB2dkVweFBXRW5kZFlJaU0yekRPcV9JQ1pRM3RXd3BJdGRVU2RySzdfbC1fT3pNdmN2Rk1YaWN5YXpzT1hJZHB0OHFpS09SNGpQYldUdFQxMFQyRUVaNUNFcGtRLU96YzhHMnFWV1A0RjhPcjJvNGRvNUJybVpfQy1n0gHSAUFVX3lxTE83eTFTODdScjBncnJLbmJ6VUZsY2R6cmZiazZxbjB1LXV1RVRnbkFqZ0xMYlVBRGNCV3ptdUZVOTBINGU1a3dVLXdhQi1MSjBJbmJnOWdPNGMtckN4Zld3VWtFVjVMcFRfbmNOTnowRVRlMXcxaGdyLW9NdDVkUFRrczduVmVZczBHdmNZbzZIRnFNbmpnRnJveEw3Smhka0p1X0VrVU1IcGpPSXV4bFY1WFhzWUdMWG0yVGduUHgxTEhNR3hyaERjYTNSNTNpaG5EZw?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Arriate se prepara para celebrar su XX Fiesta en el Aire Cadena SER",
-    "discovery_method": "rss",
-    "query": "\"Arriate\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
-    "published_at": "Thu, 08 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Yunquera se suma a la suspensión de actividades por Halloween - La Tribuna de Guadalajara",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTnJZYlU3OUJnV0g4ZXhhZ0FOZk1GVzV0aEd0OW91a0wtOG5TcVZ2WTJzQnVJOHd3WGUwenRjVHEzdnR3ejhxTGpid29CdUpybWN2OGRndEtreWZXRWxTcThJRmF3QlRYTURzVGI4Rmg3Yml5bjY0X3BsVGpSbnhJdlVsM2JFQ2VVbkMxX0NfcHp5R3VnMnB6YjNRS0JrMzQ3dFptVXdwSFB4OFpYMDVZbGc2LUNqS2c0cWJkV0Vid2F6Z0c3Nm5PUy0zUTNINnBWRW9ZTmUwM2wwX2ZtRHNuLUM0SGIyZw?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Yunquera se suma a la suspensión de actividades por Halloween La Tribuna de Guadalajara",
-    "discovery_method": "rss",
-    "query": "\"Yunquera\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
-    "published_at": "Thu, 29 Oct 2026 11:00:30 GMT"
-  },
-  {
-    "title": "Yunquera celebrará HALLOWEEN 2026 con un escalofriante «PASAJE DEL TERROR» el próximo 31 de octubre - Guada News",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSUF2LXMySml3RUcxc2k5SFpfcVdIRVRkRnd4b0duTVhONC10Z3FuQkhvbDlRbUJXVnVtOTZoX2MycjBtakh5MzFUamlfekRtY2RvLWVKOUJCYlZGT3g1dE9uMzJQT0wzdHBoOW1td192TFJqeW9WRU1qTXV5UUFBZGFka2ptUm1nNWVMYWhkRUI0RE5naXRBa3F3YXZlVldDVFlQYzRDV3NPVkZTVEF0dnd3ZDZ3OTlfQ3dvemdpa285WVk2NU1zcmZxbU1TYjM1Q2lQTy0yT2hZTERTenNLNC1ZQTMyWmZQRVE?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Yunquera celebrará HALLOWEEN 2026 con un escalofriante «PASAJE DEL TERROR» el próximo 31 de octubre Guada News",
-    "discovery_method": "rss",
-    "query": "\"Yunquera\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
-    "published_at": "Mon, 26 Oct 2026 17:04:00 GMT"
-  },
-  {
-    "title": "Fiesta del terror - Torremolinos Cultura",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvRmdMYTdqMW9WY3NtdTczY3ZhRElVYlkwVWhyeFlsczJ5SW8yaE5qVUtWMWJDRTgxd05xN0VfMmlKYm9BdHl2UWp1LS02eVdnTmNzcVl6UFQ1MXRZdW9PYTFRRzlrdGEzd252OWQ0NWJiRnhvSGRr?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Fiesta del terror Torremolinos Cultura",
-    "discovery_method": "rss",
-    "query": "\"Torremolinos\" (\"este fin de semana\" OR agenda OR programa) (niños OR familia OR infantil OR \"todos los públicos\") when:45d",
-    "published_at": "Sun, 01 Nov 2026 15:21:26 GMT"
-  },
-  {
-    "title": "Rincón de la Victoria celebra su Oktoberfest con 30 cervezas, música en directo y tres días de fiesta - La Opinión de Málaga",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSjZ4YUtYbEdtcG1RSVhyWUs3SVdGNkdCRUxSZEg0anViNVBUcVlQNVFTWEpSR1ZqY0pYMmZKSzZ4aDNKbjVNM0wzaTNSVk9oM2FCUkNLMF9MTHgteHlsaFFnU0NtbkRDVVdGTWVoNDVFbldTUnA0dGhvS0ZYT0F2cE80Qk5pNkNiS0kzS0g5TFhPNGV6QV9uWDVKb2VjLTd2S0tfOHJUU2g1S0Z6R2lxcnFyUXFXSE15Vl96OTZB0gHDAUFVX3lxTFBxZFVEYVZSenZZanMyUHRpdGktTkhhUWZValh1ejdmSjlyY3lBbnZldlZFZnBRVzEtYnU0NmZXNlExcWNac0t4S1FYSVZTa3lodGxnOVlId1pDUGZ1U3dXY1pCa3RyQnE4dzVUVThOLURJdFFDaWw0TUszWkpkbWVuRUZIRnVHdGF3Z0dwUzk5ZTgtZ3l0dWw1cG9sT2pyYTdKMlBrVDgwcmRocWhYWnJneHF6R0NadlgwWjNUVGt5WXczcw?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Rincón de la Victoria celebra su Oktoberfest con 30 cervezas, música en directo y tres días de fiesta La Opinión de Málaga",
-    "discovery_method": "rss",
-    "query": "\"Rincón de la Victoria\" (\"este fin de semana\" OR agenda OR programa) (niños OR familia OR infantil OR \"todos los públicos\") when:45d",
-    "published_at": "Wed, 23 Sep 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Mijas repartirá las fiestas de Halloween entre Las Lagunas, La Cala y Mijas Pueblo - Andalucía Información",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeXNGY0hENzlLTG5sd21pSDhwQllxRldKZVZyRTY0TC1ueExyZ0gyalZlb3hUWjVQS0J1cWhBX3Q5VWtLMFU2aUh3ZHptV3BvYUMyOG9JdnlGXzFlbDBlRm4ycnJRRDc2bVdCeE8zUUVkMXlvRDZXTGlsdHZTV1Njb29rZTBNOTZub2RiWGpGenJaMXJxWVJWeERWWGlNeTFFT3VESjBjN1JIUUx0eGdOeExRTFFoVU56aUdvTC1JeW9MZFgzMWhYYTlPX3dGakI4T3l4R19jWmZhNTDSAeABQVVfeXFMUElKcGtGVUUtZmwwNUVfUnAzbVhlYk5jNlV0azh2aFlSdW5CT0U3NnJLZDI2TDM0VXhLZm5PRlBUYUJoTXhEZGl6OG1YVGR2YXQ1aFBoYVpOTUM5Q2ZMRnN1ODVYaW9YUzlsTVR5M1Aybmd1TTB6RGtsYW10cHpsM2pHb3RwVnhlLUFabFRGSXVjRlVndlpuRzRoOHJmdnpYM1kya3cyVkN5Y2RNZEplNmlJd091Rk5wZTZSd0E2VWlnUTNENDZPSU5nUzMzRzk4dFQyeV9WcTJOTTR0dGRCQTQ?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Mijas repartirá las fiestas de Halloween entre Las Lagunas, La Cala y Mijas Pueblo Andalucía Información",
-    "discovery_method": "rss",
-    "query": "\"Mijas\" (\"este fin de semana\" OR agenda OR programa) (niños OR familia OR infantil OR \"todos los públicos\") when:45d",
-    "published_at": "Thu, 22 Oct 2026 11:42:30 GMT"
-  },
-  {
-    "title": "El Ayuntamiento de Málaga cancela las actividades municipales de Halloween programadas para este fin de semana - La Razón",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWDdnT1JwUE9GSWtfaEFtZ3UxVnhxaXVQdmxPZ1hUSXh0Ri1mRmlGS2stMUdBam1zclgxTnE3R25aVzI5NDdhWnJzaU0tQnFYSVNWejNzR0NBdnhnT0JtRXlicnd4UF9fNkJ0aXhFckJyT3B2RUxTblNLeS1QN21QUG5rQmIxWU4yTkdyNnRsdU4xMVRQNlJDRnVvZmtuUDlzR2RSdkNSSTBxNG5wUl83ME9NM19NbWtfdjFuMzVFcmZZODcwamoyRlBqRWJzekJCUGNpWU1Zc1BQcVpQdU50ay1ESlZfNGZjVnJuc1NkWHJyWi1qRlBFSlhPMNIBjwJBVV95cUxPOVZ0R0VmOFNJR0ZWdnRsX0ppRmlaRXVKczBzOUcwdUF0Wjc3c3JuTkMwQ01vVGZHVng3ZEJiSTA4LXphdG9QRG5xc1BGeU5iUXF3SDZLNmg2NGtxLS1UN3BaOEUxYXY5WUhLQmhHTk0tYnoyczljcUNMNnA2N25zcm9PcjRLSUI0SW9uTlFfdEtwcTBuUUMyM1BsRC1LUHlsc0JSdHdzNzBqcWMxLW1OSlJ6M1l6RjA3OW11YTRoVmdMbkhkSGlQZXdaN1RxUjljd2xTUVdZYUkxQXhxZnpVcWhxMjJRRUh0a2dqeVpBeEx1dUFzNFVFbmZ2VnM0UmExZF95c0VydTBmZVl4R0lr?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "El Ayuntamiento de Málaga cancela las actividades municipales de Halloween programadas para este fin de semana La Razón",
-    "discovery_method": "rss",
-    "query": "Málaga actividades en familia este fin de semana when:45d",
-    "published_at": "Thu, 29 Oct 2026 10:31:56 GMT"
-  },
-  {
-    "title": "De Halloween a Navidad: magia y diversión en familia en Costa del sol Glamping village - Sapos y Princesas",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObHRFOUpYVWhJRFc0MWhIb2p6amM2LU9YRFZQVEVTOUJWMnk0ZEN5SmRnanEzZnp3am91YWFhTHotQ0g4M1dwRzdwcS1ueVViNUJBSDdxV19ja1dNRDZyWWxaUmRwajdBR1JoVnR2LVZWVnZGY19abGoySlQ1bGhORTRPeS1XaFhLNVZRZUlfYWM1WEttbWFKdXl4TGFsLVJtZVp4cUJB?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "De Halloween a Navidad: magia y diversión en familia en Costa del sol Glamping village Sapos y Princesas",
-    "discovery_method": "rss",
-    "query": "Málaga actividades en familia este fin de semana when:45d",
-    "published_at": "Mon, 26 Oct 2026 08:50:20 GMT"
-  },
-  {
-    "title": "🎪✨ ¡El @circoberlin ya está en Vélez-Málaga! *publi Prepárate para vivir una experiencia llena de magia, emoción y adrenalina con su nuevo espectáculo «Adrenalina 2.0». 🤩 Acrobacias impresionantes, motoristas, magia, hum",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mMzRSUktUc3hzZ0RCdF81cEZJOU5qS0wxT1RqWF9YbFkyR2pGSURnVEc3bWNaQk9jQ2YtcU5RdGdsRUZRVW5rTWQxN29EcTgyOVhiNDhR?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "🎪✨ ¡El @circoberlin ya está en Vélez-Málaga! *publi Prepárate para vivir una experiencia llena de magia, emoción y adrenalina con su nuevo espectáculo «Adrenalina 2.0». 🤩 Acrobacias impresionantes, motoristas, magia, humor y un increíble tributo al K-P Instagram",
-    "discovery_method": "rss",
-    "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
-    "published_at": "Mon, 02 Nov 2026 08:35:48 GMT"
-  },
-  {
-    "title": "El Ayuntamiento de Marbella adapta la programación de Halloween al luto nacional y traslada las celebraciones al domingo 1 de noviembre. 🕯️ Las actividades se desarrollarán en Marbella, San Pedro Alcántara, Nueva Andaluc",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mZ0lGQ1VCOFpTbUxxZDhEY1FiUUpjVUhxSDUxRnJ3ZDYyQ0cwZnFEVm9SWEttdklIQnctRThoY25DSU4xRnY0RjJUU2dZODhUQkE?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "El Ayuntamiento de Marbella adapta la programación de Halloween al luto nacional y traslada las celebraciones al domingo 1 de noviembre. 🕯️ Las actividades se desarrollarán en Marbella, San Pedro Alcántara, Nueva Andalucía y Las Chapas, con propue Instagram",
-    "discovery_method": "rss",
-    "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
-    "published_at": "Thu, 29 Oct 2026 11:39:04 GMT"
-  },
-  {
-    "title": "❌️CANCELADO❌️ 🎃👻 ¡Benalmádena se prepara para un Halloween terroríficamente divertido! 🦇💀 El próximo 31 de octubre, Benalmádena Pueblo y Arroyo de la Miel se llenarán de ambiente de Halloween con fiestas infantiles, pasa",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00dVRMX2N4emZYU3VSSTNSOG5ZUmxZRm9QUmx5Qm80SWdFMFRwTmdISm12em53UW4tbjJaV2k4M18yRFZQc2xZd0c2R1lzd2twemc?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "❌️CANCELADO❌️ 🎃👻 ¡Benalmádena se prepara para un Halloween terroríficamente divertido! 🦇💀 El próximo 31 de octubre, Benalmádena Pueblo y Arroyo de la Miel se llenarán de ambiente de Halloween con fiestas infantiles, pasacalles, concursos y rin Instagram",
-    "discovery_method": "rss",
-    "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
-    "published_at": "Sat, 17 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "title": "La Fiesta del Cine vuelve a Málaga con entradas a 3,50 € 🎬🍿 Cuatro días para disfrutar de la cartelera por menos de cuatro euros en las principales salas de la capital y la provincia. Conseguir entradas de cine baratas e",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oX2N4aWNTWExFMWhzYkFibWZ6MVRTVTlYci1DNUhLZ0Z5ejJVaTBIYlFUMERNSjJTNEJjT1pTaFM1YWNJNS1meFhPVURzQ3BBaGc?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "La Fiesta del Cine vuelve a Málaga con entradas a 3,50 € 🎬🍿 Cuatro días para disfrutar de la cartelera por menos de cuatro euros en las principales salas de la capital y la provincia. Conseguir entradas de cine baratas en Málaga durante esta edición otoñal Instagram",
-    "discovery_method": "rss",
-    "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
-    "published_at": "Tue, 13 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "title": "🥓🎉 ¡CAMPILLOS SE PREPARA PARA SU GRAN FIESTA DEL JAMÓN! 🌿🍷 Llega la XVIII Feria del Jamón y productos derivados del cerdo de Campillos, una de las citas gastronómicas más destacadas de la provincia de Málaga, declarada F",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiZUdscHNMNmFzMzZHaF9WUzBkbXFtcHlKWlZEMWVJZHBjU3pObXBPbTFlWHRqMjJzYzdNMlJzbmtHc0VaQzVkU2J3S0R6UzNuVkE?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "🥓🎉 ¡CAMPILLOS SE PREPARA PARA SU GRAN FIESTA DEL JAMÓN! 🌿🍷 Llega la XVIII Feria del Jamón y productos derivados del cerdo de Campillos, una de las citas gastronómicas más destacadas de la provincia de Málaga, declarada Fiesta de Singular Instagram",
-    "discovery_method": "rss",
-    "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
-    "published_at": "Sun, 01 Nov 2026 12:06:53 GMT"
-  },
-  {
-    "title": "📍Un plan con niños que no te puedes perder. #malaga #diversion #niños #amigos - Instagram",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jV2REZXV6dnJXVGFXVlBubUJ2RVo5aVp2WXVoLUkzMzVpUFpoVE81SndXRVducUJmajM3SWJVYjlDS3VyUEFlMFpTNHVyN3QxWjhheWp3?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "📍Un plan con niños que no te puedes perder. #malaga #diversion #niños #amigos Instagram",
-    "discovery_method": "rss",
-    "query": "site:www.instagram.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
-    "published_at": "Tue, 20 Oct 2026 12:13:19 GMT"
-  },
-  {
-    "title": "📢¡Quedan muy pocos días!📢 ♻️🌱 Antequera acogerá el taller comarcal gratuito del programa BioAction Social Málaga: “Del olivar y los frutos secos a la bioeconomía circular: biochar, biodigestión, compostaje y biocomposite",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MczB0TGFrSDRZazhTNHFkZFZZbllhX1E1UE9pRGNNN2JtUWttLUMxYnVLWWVkYjlFUlFPTFRvSzZqOG1DX004RjI4THhDbG9kUWc?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "📢¡Quedan muy pocos días!📢 ♻️🌱 Antequera acogerá el taller comarcal gratuito del programa BioAction Social Málaga: “Del olivar y los frutos secos a la bioeconomía circular: biochar, biodigestión, compostaje y biocomposites”. 🏛️ Un encuentro clave impul Instagram",
-    "discovery_method": "rss",
-    "query": "site:www.instagram.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
-    "published_at": "Sun, 18 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "title": "🎭✨ ¡Noviembre llega cargado de espectáculos infantiles al @teatroechegaray de Málaga! 🎶🐺 ¿Buscáis un plan cultural para disfrutar con vuestros peques? Este mes, el Teatro Echegaray os propone cuatro espectáculos para dej",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xdUpheGdPUktESVV2bVowY080bGRKRUloUFdvMThpQjNRUTVSajB4RzJ5SElfUEZ2TDlTQjZkR0hPZUhPWExGdWVBZlFMalByVGc?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "🎭✨ ¡Noviembre llega cargado de espectáculos infantiles al @teatroechegaray de Málaga! 🎶🐺 ¿Buscáis un plan cultural para disfrutar con vuestros peques? Este mes, el Teatro Echegaray os propone cuatro espectáculos para dejar volar la imaginación, desc Instagram",
-    "discovery_method": "rss",
-    "query": "site:www.instagram.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
-    "published_at": "Fri, 30 Oct 2026 11:30:05 GMT"
-  },
-  {
-    "title": "Ronda con mi niña el mejor plan 🤍💯#ronda#malaga#familia#amor - Instagram",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KMWszaF9xUl8zMDRRMkZrYmtnWGVKODU3V2UwZDFMYkdsdUNjTWR0dFo0ZWU2MDRFNGROd2NTbVZoRlc4WlJBaGdVVUZVM2RNYUE?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Ronda con mi niña el mejor plan 🤍💯#ronda#malaga#familia#amor Instagram",
-    "discovery_method": "rss",
-    "query": "site:www.instagram.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
-    "published_at": "Sun, 25 Oct 2026 14:20:42 GMT"
-  },
-  {
-    "title": "¡Comenzamos el taller de memoria en Vélez-Málaga! 🧠✨ Mantener la mente activa es tan importante como cuidar nuestro cuerpo. Por eso, en la Asociación Dyar trabajamos el envejecimiento activo a través de nuestras activida",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KUkFmdVZEWEY4RjhwQWxwTV91ejM5SEs4dGFZaTRrNGYwUFh1U3VibllQR0ZjenVLVWIwc1VCNVg0NHFtWWZvWXFDRGwxd3JOMWoyMmRB?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "¡Comenzamos el taller de memoria en Vélez-Málaga! 🧠✨ Mantener la mente activa es tan importante como cuidar nuestro cuerpo. Por eso, en la Asociación Dyar trabajamos el envejecimiento activo a través de nuestras actividades de estimulación cognitiva. Instagram",
-    "discovery_method": "rss",
-    "query": "site:www.instagram.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
-    "published_at": "Tue, 06 Oct 2026 07:00:00 GMT"
-  },
-  {
-    "title": "Si formas parte de una startup o empresa tecnológica en Málaga, este taller es una oportunidad para avanzar en el desarrollo de tus proyectos de I+D+i. Transforma oportunidades de innovación en propuestas estructurad�as,",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lV2NNMDlxekoyRHZHS1RpTTNRaFhDWF9vNzFydUMtcml5OUFOTVBHcC1pM3oxT0U2QXp0U3g0bFRDMEVnd3AzUEtpQnU0UGkxc3c?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "Si formas parte de una startup o empresa tecnológica en Málaga, este taller es una oportunidad para avanzar en el desarrollo de tus proyectos de I+D+i. Transforma oportunidades de innovación en propuestas estructurad�as, conocer los mecanismos de ap Instagram",
-    "discovery_method": "rss",
-    "query": "site:www.instagram.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
-    "published_at": "Mon, 26 Oct 2026 15:00:10 GMT"
-  },
-  {
-    "title": "🎓✨ ¡Estudia a distancia y transforma tu futuro con la UIS Málaga! ¿Quieres avanzar profesionalmente sin dejar de lado tu trabajo, tu familia o tus proyectos? 💻📚 La UIS Málaga tiene abiertas las inscripciones para sus pro",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xMElXSXgzQTlILVFuUGdJSF9BNl96MTB6eUtPZV9neU1VY3d1dHBuRkdiQUhBRW1XRXNZLW11VUxoRXhaS2djRHUxeTVYdGhyNlE?oc=5",
-    "source_name": "Radar de noticias",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
-    "snippet": "🎓✨ ¡Estudia a distancia y transforma tu futuro con la UIS Málaga! ¿Quieres avanzar profesionalmente sin dejar de lado tu trabajo, tu familia o tus proyectos? 💻📚 La UIS Málaga tiene abiertas las inscripciones para sus programas académicos en modalidad a d Instagram",
-    "discovery_method": "rss",
-    "query": "site:www.instagram.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
-    "published_at": "Sat, 31 Oct 2026 12:47:37 GMT"
-  },
-  {
-    "title": "Visitas guiadas y otros servicios de Mediación",
-    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/Visitas-guiadas-y-otros-servicios-de-Mediacion/",
-    "source_name": "Museo Casa Natal Picasso — actividades familiares",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-039",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "XX Picasso en las Bibliotecas",
-    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/XX-Picasso-en-las-Bibliotecas/",
-    "source_name": "Museo Casa Natal Picasso — actividades familiares",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-039",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "XXXIX Octubre Picassiano",
-    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/XXXIX-Octubre-Picassiano/",
-    "source_name": "Museo Casa Natal Picasso — actividades familiares",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-039",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "«Birthing Picasso». Museo Casa Natal Picasso Málaga-Round Rock",
-    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/Birthing-Picasso.-Museo-Casa-Natal-Picasso-Malaga-Round-Rock/",
-    "source_name": "Museo Casa Natal Picasso — actividades familiares",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-039",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "Presentación de los escritos de Ramón Gómez de la Serna sobre Picasso",
-    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/Presentacion-de-los-escritos-de-Ramon-Gomez-de-la-Serna-sobre-Picasso/",
-    "source_name": "Museo Casa Natal Picasso — actividades familiares",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-039",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "Día Mundial del Turismo",
-    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/Dia-Mundial-del-Turismo-00003/",
-    "source_name": "Museo Casa Natal Picasso — actividades familiares",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-039",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "Encuentro del profesorado y los museos de la Agencia",
-    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/Encuentro-del-profesorado-y-los-museos-de-la-Agencia/",
-    "source_name": "Museo Casa Natal Picasso — actividades familiares",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-039",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "Presentación del libro «Crónica de los tiempos heroicos», de Max Jacob",
-    "url": "https://museocasanatalpicasso.malaga.eu/actividades/detalle-de-actividad/Presentacion-del-libro-Cronica-de-los-tiempos-heroicos-de-Max-Jacob/",
-    "source_name": "Museo Casa Natal Picasso — actividades familiares",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-039",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "Ver todas las actividades pasadas",
-    "url": "https://museocasanatalpicasso.malaga.eu/actividades/actividades-anteriores/",
-    "source_name": "Museo Casa Natal Picasso — actividades familiares",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-039",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "Talleres 20.09.26 — 10.01.27 Talleres infantiles ‘Descubriendo a Goya: crear, imaginar y contar’",
-    "url": "https://www.fundacionunicaja.com/event/talleres-infantiles-descubriendo-a-goya-crear-imaginar-y-contar/",
-    "source_name": "Fundación Unicaja — agenda cultural",
-    "first_seen": "2026-11-02",
-    "status": "sin_fecha_estructurada",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-041",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
-    "confidence_score": 15,
-    "confidence_reasons": [
-      "actividad concreta",
-      "página de ciclo/programación, no sesión concreta"
-    ],
-    "review_priority": "normal"
-  },
-  {
-    "title": "Todo el día Ciclo ‘Fe, ciencia, religión y ética en la vida de hoy’ Agrupación de Cofradías de Málaga, Málaga",
-    "url": "https://www.fundacionunicaja.com/event/ciclo-fe-ciencia-religion-y-etica-en-la-vida-de-hoy/",
-    "source_name": "Fundación Unicaja — agenda cultural",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-041",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "Todo el día Exposición ‘Guillermo Pérez Villalta’. El Laboratorio infinito’ Centro Fundación Unicaja Cádiz, Cádiz",
-    "url": "https://www.fundacionunicaja.com/event/exposicion-guillermo-perez-villalta-el-laboratorio-infinito/",
-    "source_name": "Fundación Unicaja — agenda cultural",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-041",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "Todo el día Exposición ‘La sombra de Goya en el Museo Lázaro Galdiano’ Centro Fundación Unicaja Granada, Granada",
-    "url": "https://www.fundacionunicaja.com/event/exposicion-la-sombra-de-goya-en-el-museo-lazaro-galdiano/",
-    "source_name": "Fundación Unicaja — agenda cultural",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-041",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "Todo el día Exposición ‘XXVI Premio Fundación Unicaja de Artesanía’ en el MACP Museo Fundación Unicaja de Artes y Costumbres Populares, Málaga",
-    "url": "https://www.fundacionunicaja.com/event/exposicion-xxvi-premio-fundacion-unicaja-de-artesania-en-el-macp/",
-    "source_name": "Fundación Unicaja — agenda cultural",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-041",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "Todo el día Exposición inmersiva ‘Los sentidos de Andalucía’ Centro Fundación Unicaja Granada, Granada",
-    "url": "https://www.fundacionunicaja.com/event/exposicion-inmersiva-los-sentidos-de-andalucia/",
-    "source_name": "Fundación Unicaja — agenda cultural",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-041",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "Todo el día III Ciclo ImproVables de improvisación escénica Centro Fundación Unicaja Almería, Almería",
-    "url": "https://www.fundacionunicaja.com/event/iii-ciclo-improvables-de-improvisacion-escenica/",
-    "source_name": "Fundación Unicaja — agenda cultural",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-041",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "« octubre",
-    "url": "https://www.fuengirola.es/agenda/2026-10/",
-    "source_name": "Fuengirola · Agenda municipal de eventos",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-053",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "diciembre »",
-    "url": "https://www.fuengirola.es/agenda/2026-12/",
-    "source_name": "Fuengirola · Agenda municipal de eventos",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-053",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "CALENDARIO DE CARRERAS 2026",
-    "url": "https://www.fuengirola.es/evento/calendario-de-carreras-2026/",
-    "source_name": "Fuengirola · Agenda municipal de eventos",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-053",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "PROGRAMA TRIMESTRAL IGUALDAD",
-    "url": "https://www.fuengirola.es/evento/programa-trimestral/",
-    "source_name": "Fuengirola · Agenda municipal de eventos",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-053",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "ENCUENTRO: MARTA SAN MIGUEL",
-    "url": "https://www.fuengirola.es/evento/encuentro-marta-san-miguel/",
-    "source_name": "Fuengirola · Agenda municipal de eventos",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-053",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
-    "title": "CONCIERTO:»DE CÁDIZ A BUENOS AIRES»",
-    "url": "https://www.fuengirola.es/evento/conciertode-cadiz-a-buenos-aires/",
-    "source_name": "Fuengirola · Agenda municipal de eventos",
-    "first_seen": "2026-11-02",
-    "status": "por_revisar",
-    "discovery_method": "broad_official",
-    "known_source_id": "SRC-053",
-    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
-  },
-  {
     "title": "PASAJE DEL TERROR",
     "url": "https://www.fuengirola.es/evento/pasaje-del-terror/",
     "source_name": "Fuengirola · Agenda municipal de eventos",
@@ -1049,7 +166,9 @@
     "query": "site:teatrocervantes.com \"teatro\" teatro \"Málaga\" 2026",
     "first_seen": "2026-11-02",
     "status": "por_revisar",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-11-08",
+    "resolution_version": 2
   },
   {
     "title": "ECHEGARAY DE MÁLAGA - Teatro Cervantes",
@@ -1062,7 +181,9 @@
     "query": "site:teatrocervantes.com \"teatro\" teatro \"Málaga\" 2026",
     "first_seen": "2026-11-02",
     "status": "por_revisar",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-11-08",
+    "resolution_version": 2
   },
   {
     "title": "ECHEGARAY DE MÁLAGA - Teatro Cervantes",
@@ -1265,8 +386,8 @@
     "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTEpmQm83LVctTFRsWEZRNUFYSVpKX0tRVmctdll4RVVQZk9WbXN4YU55WWRVX2NOeFV4S0x5OVNHNGk0dW1Nb29yZHdFYVh2OXFfelVUWVBNdmQ4emdJdnVIekIyblMxT2RuOXVISVFiNHNSRHFqTy13Z2YzMUVFM3YzSF9JcHI0SnVEV05tNlFmY2RTQjM2c0h1YW5hN2dzbnBIV2ljMl9wZjhqcDMtTGY0RWJ6YzNYSW5wZWJ4VVVuLTUw0gHYAUFVX3lxTE5Dd1hUNUdQaWRrcGlyVnY4NG1vWHZkMUtIZDhpY2hmVlhSYVhOejF1YkRsdUoxckFFU1ZTVkcxWlJ4bW00UGlNUDNjby1SVFpMOElldGY2SE1ER3Jta05TQnVPeXhuUlhRaGVhRlZxWnFIMlBrN0lzMkVqMHhpNU1Od1RJSHJ6MEdYX2ZpRFdoTGlkUS1QZTZNNXRvbUUzRTFkWUYyZVh0emgzOHNnclZ6WE8zeElVRHpzc0dObzhZWHVtdF8zRkRBUVk0UTBOaFhWdTJ6M2V6Rg?oc=5",
     "resolved_from_google_news": true,
     "resolution_method": "title_match",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
     "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
@@ -3267,7 +2388,9 @@
     "query": "site:bioparcfuengirola.es \"abre\" naturaleza \"Fuengirola\" 2026",
     "first_seen": "2026-11-03",
     "status": "por_revisar",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-11-08",
+    "resolution_version": 2
   },
   {
     "title": "El Pase Anual B! de Bioparc Fuengirola: una puerta abierta para la conservación de la naturaleza - BIOPARC Fuengirola",
@@ -3384,7 +2507,9 @@
     "query": "site:bioparcfuengirola.es \"abre\" naturaleza \"Fuengirola\" 2026",
     "first_seen": "2026-11-03",
     "status": "por_revisar",
-    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-11-08",
+    "resolution_version": 2
   },
   {
     "title": "La sequía en los humedales andaluces convierte a BIOPARC Fuengirola en un refugio en el que las aves encuentran alimento y agua - BIOPARC Fuengirola",
@@ -5170,8 +4295,8 @@
       "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVpta1YzTDBfU2hOQmpyWms2QnpBOWVtZmZnM28zSVd0ODd6X0NDdzVfU0JnQk5TblJVb25hNWp1ZjRoQTlsbDBxM2tpd1FnOWJxM1FNcE85dlBhanU4a01wZFB6cDV2NmRDQ1dxVGlKY2VVUE5pWG9UWDBRdUlZeDR6VDNLdGVnRlA3aA?oc=5",
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVpPT21pRWluSVk1TXZRTmgxblFwejlya2NHQ1hYYkhvcVd1Y0w1a1U1UERjZDdkbXhPOF9qUGUwUl82TVhRYjVETHlybzZwckRCSUJJbkRXcWh5dm90aHg1WnI2a0RQcG1HcnBvOHc2LTQzWDhDckN1aDJSV0JiZUVfc0Vmb3U2MlE?oc=5"
     ],
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
     "confidence_score": 25,
     "confidence_reasons": [
       "actividad concreta",
@@ -5229,8 +4354,8 @@
     "source_name": "Ayuntamiento Fuengirola",
     "first_seen": "2026-11-05",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
     "confidence_score": 0,
     "confidence_reasons": [
       "título sin actividad concreta"
@@ -5538,17 +4663,15 @@
     "source_name": "Fundación Unicaja — agenda cultural",
     "first_seen": "2026-11-05",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
-    "confidence_score": 60,
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
+    "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
-      "fecha futura explícita",
-      "público infantil/familiar",
-      "municipio malagueño no demostrado"
+      "página de ciclo/programación, no sesión concreta"
     ],
     "review_priority": "normal",
-    "review_reason": "No alcanza evidencia suficiente para publicación automática (60/100)."
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100)."
   },
   {
     "title": "Talleres 17.10.26 — 19.06.27 Talleres ‘Aula Abierta’ en Cádiz",
@@ -5666,8 +4789,8 @@
     "source_name": "Little Family Hub · eventos familiares Costa del Sol",
     "first_seen": "2026-11-05",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
     "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
@@ -5682,8 +4805,8 @@
     "source_name": "Little Family Hub · eventos familiares Costa del Sol",
     "first_seen": "2026-11-05",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
     "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
@@ -5730,8 +4853,8 @@
     "source_name": "ScandiCandy Marbella · talleres temáticos",
     "first_seen": "2026-11-05",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
     "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
@@ -5762,8 +4885,8 @@
     "source_name": "Área de Deporte del Ayuntamiento de Málaga",
     "first_seen": "2026-11-05",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
     "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
@@ -5832,7 +4955,16 @@
     "url": "https://www.fuengirola.es/evento/concierto-de-halloween-banda-municipal/",
     "source_name": "Fuengirola · Agenda municipal de eventos",
     "first_seen": "2026-11-05",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100)."
   },
   {
     "title": "AGENDA NOVIEMBRE",
@@ -5846,21 +4978,49 @@
     "url": "https://www.fuengirola.es/evento/feria-del-juguete/",
     "source_name": "Fuengirola · Agenda municipal de eventos",
     "first_seen": "2026-11-05",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100)."
   },
   {
     "title": "TEATRO: «SÓLO EXISTE LA NOCHE»",
     "url": "https://www.fuengirola.es/evento/teatro-solo-existe-la-noche/",
     "source_name": "Fuengirola · Agenda municipal de eventos",
     "first_seen": "2026-11-05",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
+    "confidence_score": 35,
+    "confidence_reasons": [
+      "actividad concreta",
+      "fecha futura explícita",
+      "sin evidencia infantil/familiar junto al evento"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (35/100)."
   },
   {
     "title": "TEATRO: «EL COLOQUIO DE LOS PERROS»",
     "url": "https://www.fuengirola.es/evento/teatro-el-coloquio-de-los-perros/",
     "source_name": "Fuengirola · Agenda municipal de eventos",
     "first_seen": "2026-11-05",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100)."
   },
   {
     "title": "Seguimiento prioritario",
@@ -5874,14 +5034,32 @@
     "url": "https://www.bioparcfuengirola.es/halloween-bioparc-fuengirola-2/",
     "source_name": "Bioparc Fuengirola · agenda de actividades",
     "first_seen": "2026-11-05",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100)."
   },
   {
     "title": "Actividades y talleres",
     "url": "https://www.bioparcfuengirola.es/prepara-tu-visita/actividades-y-talleres/",
     "source_name": "Bioparc Fuengirola · agenda de actividades",
     "first_seen": "2026-11-05",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100)."
   },
   {
     "title": "Actos y eventos",
@@ -5895,7 +5073,16 @@
     "url": "https://cultura.antequera.es/presentado-el-nuevo-proyecto-de-terminacion-rehabilitacion-y-modernizacion-con-el-que-el-teatro-torcal-recuperara-su-actividad-cultural/",
     "source_name": "Cultura Antequera · talleres municipales 2026/27",
     "first_seen": "2026-11-05",
-    "status": "por_revisar"
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "página de ciclo/programación, no sesión concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100)."
   },
   {
     "title": "Taller Navidad Creativa",
@@ -5960,8 +5147,8 @@
     "source_name": "Mijas · noticias y actividades municipales",
     "first_seen": "2026-11-05",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
     "confidence_score": 0,
     "confidence_reasons": [
       "título sin actividad concreta"
@@ -5975,8 +5162,8 @@
     "source_name": "Mijas · noticias y actividades municipales",
     "first_seen": "2026-11-05",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
     "confidence_score": 0,
     "confidence_reasons": [
       "título sin actividad concreta"
@@ -6123,8 +5310,8 @@
     "source_name": "La Térmica Mini · programación infantil (agenda oficial)",
     "first_seen": "2026-11-05",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
     "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
@@ -6139,8 +5326,8 @@
     "source_name": "La Térmica Mini · programación infantil (agenda oficial)",
     "first_seen": "2026-11-05",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
     "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
@@ -6155,8 +5342,8 @@
     "source_name": "La Térmica Mini · programación infantil (agenda oficial)",
     "first_seen": "2026-11-05",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
     "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
@@ -6171,8 +5358,8 @@
     "source_name": "La Térmica Mini · programación infantil (agenda oficial)",
     "first_seen": "2026-11-05",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
     "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
@@ -6187,8 +5374,8 @@
     "source_name": "La Térmica Mini · programación infantil (agenda oficial)",
     "first_seen": "2026-11-05",
     "status": "sin_fecha_estructurada",
-    "last_checked": "2026-11-05",
-    "last_text_checked": "2026-11-05",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
     "confidence_score": 15,
     "confidence_reasons": [
       "actividad concreta",
@@ -11210,6 +10397,1029 @@
     "case_id": "CASE-520F07238A",
     "query": "site:bioparcfuengirola.es \"conocer\" naturaleza \"Fuengirola\" 2026",
     "first_seen": "2026-11-07",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "La magia llega al Teatro Manuel España de la mano de ‘Dreaming Bubbles’",
+    "url": "https://www.mijasinformacion.com/evento/la-magia-llega-al-teatro-manuel-espana-de-la-mano-de-dreaming-bubbles/",
+    "source_name": "Mijas Información · agenda local de espectáculos",
+    "first_seen": "2026-11-08",
+    "status": "sin_fecha_estructurada",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100)."
+  },
+  {
+    "title": "Proyección y taller con Lorenzo Casali - Universidad de Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYnFmV3hqYWd2LUx0N1I4ekpyWXpRS2x0UnpqTmpHQlpxUDAtZENrekJiTFJFYTljRm9qSjFzX19qX01fNzh6SEpGR0NZYmh0QkFLSXFzRnF5WUhVRVhDRC1oYldwM1EtbkdHRWw4dWVsWGxGYUFUOUc5Z3NLLUZ5cUVxQ0NNMmZFanZWMGc3Sm96cDdaakRYUTltN3VJR05QVlctZjI0NUh1Z2VzSF9ISGF4ZVJxZ0hJTGc?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Proyección y taller con Lorenzo Casali Universidad de Málaga",
+    "discovery_method": "rss",
+    "query": "\"Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Sat, 07 Nov 2026 11:52:14 GMT"
+  },
+  {
+    "title": "Más de 2,77 millones de puntos de luz iluminarán Fuengirola desde el 27 de noviembre hasta el 6 de enero para celebrar la Navidad - Home - Fuengirola",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTG54LU00c3Q4d1VSWWNFdUw2dGtQaWgwdEoyNEJSTU1OZHFJNzVsLXV3allaSVpOazdGS1RabVZKMURiTjdHQnFwOUxVeF91c2ROXzVvdlRtWnF0Z1FiV1RDRVBMOGNlcUtHLWk3b0VQN0t1LUc4RldXMTBRckRUdmN3QTl4a2tkZ24wOW1qNEg2ZnVkZm1FMmQ2YUVPQkt3VTI0Qno4OGRCcWZBa3diUDRiQXZrMWh5RWtEelR6V0cyVVhnbUsxRktUWWdBVEVXdkhBM2g5Wl9ZUWJmR2F3ZXAyZEhTdjNkQUV3?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Más de 2,77 millones de puntos de luz iluminarán Fuengirola desde el 27 de noviembre hasta el 6 de enero para celebrar la Navidad Home - Fuengirola",
+    "discovery_method": "rss",
+    "query": "\"Fuengirola\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Mon, 19 Oct 2026 12:25:17 GMT"
+  },
+  {
+    "title": "El Circo Berlín para toda la familia en Vélez-Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONVR5SEVMZGpVREFPWm9qazRHOUpTSTVzME55d0RGVHozSE94QWwtT093QWIxZzJodWxIZEt4UTc3NWd0amJVYW5tQlh2M09nbWZYdlFfVkN1akg4eHc1UmJFMEwzaEljRDFKaVQyT3A1R0F4UkxOWVF4eWkxREdXVVFqbw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "El Circo Berlín para toda la familia en Vélez-Málaga La Diversiva",
+    "discovery_method": "rss",
+    "query": "\"Vélez-Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Fri, 30 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "La Fiesta de la Madera busca transformar la exposición en negocios: más de 100 inscriptos para la primera ronda comercial - Enfoque Misiones",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaHFQX296MHIzbWtNb1hiM0tvYnhLRDVSakVLaHUwQ2F0a1hRUmZjRG11YWhXMDI2TDBuN3Q0TVhKckJRaE9SY2ppUTA3TFdCOEx1T1BjYXlDX0NQY1BtNW53SjY1MkM4d1ZWVG1WTm1EUXQ2YW5zRWpBR3JsTnBvZkoxbEpMVU9kWUxTelF0WjN5QjF4bEJSNmFaS0NnNC1CWnVvbVFSM1h5dnBuRGtHUkJmVmhQOEpLblJ4OEhPQkxpcWZObnMxcll0TUFxcWU1UlRjZHFvOE0tM3g4ZFc0V3lPQQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "La Fiesta de la Madera busca transformar la exposición en negocios: más de 100 inscriptos para la primera ronda comercial Enfoque Misiones",
+    "discovery_method": "rss",
+    "query": "\"Ronda\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Fri, 06 Nov 2026 15:36:51 GMT"
+  },
+  {
+    "title": "SAN VICENTE INAUGURÓ LA 41.ª FIESTA NACIONAL DE LA MADERA CON 150 EXPOSITORES, CAPACITACIONES, ESPECTÁCULOS ARTÍSTICOS Y UNA PRIMERA RONDA DE NEGOCIOS - misiones.gob.ar",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQmxJZG9heHNLVUhWX0ZQb0hYWFpkQWkwZEJtRi12WllCQ0NRcWdJakNvLVd2WklwVE5zR1JwbGZ4MGNkQTJ0UnA5S0M2SDUtVG9sR0VXNkxyYkJJTDZUM0FrOGpiWE8wdlgtTl9lZlNWQ25hQndQSkZiQ2VzWDU2OGN4OUNnQ3JSbXhpZjVWYW9od2tGOUlJYmJHVjVnLTlMOFhOVUQzTFRJYUpOMm9jeXZBNzBSWVEydkxDRDJFU3BPV2psSWxZdDh4WXlpdnFrdFJUdVVUc1IzV000Q1RLLUlKNWJraVB0a3phTENHdGo3YXpEQnpCVi16VE5zdVBzYnhV?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "SAN VICENTE INAUGURÓ LA 41.ª FIESTA NACIONAL DE LA MADERA CON 150 EXPOSITORES, CAPACITACIONES, ESPECTÁCULOS ARTÍSTICOS Y UNA PRIMERA RONDA DE NEGOCIOS misiones.gob.ar",
+    "discovery_method": "rss",
+    "query": "\"Ronda\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:30d",
+    "published_at": "Sat, 07 Nov 2026 00:11:30 GMT"
+  },
+  {
+    "title": "Alpandeire se convierte este sábado en un paraíso para los amantes de la naturaleza: rutas, talleres y actividades gratuitas - La Opinión de Málaga",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONkwwcnhDVFE0MVg0cDlhQkFwZmVIMVhVTkRVVG9yUkxzU1RscEl4dEUzUHFuMUhCZ2djUU1PTUhwQTFCRGRkNWxqX2xROWN3MWF6RVV3LWlmOUpYX2wxa2U1ZHJTdmdoXzBHbnhCX0hQbkJzWktLY3dFanlPdklTVHl3Sy02U0lBM21vcUlYMmlTdF8xQmtPbWRJSDRwbjAtcG1pNmpwanDSAa4BQVVfeXFMTzU5M0g1UHFOakhSTnhaR05rc2JoMW02YlBNcDhQTlhXN1ZfblhqaTRqVzZ6Mk5kc3dYQUhxMDY0ZVBQYmJxMExOOVhaX3FYRkljYXg1dE51OFFja21ydlJMOUlJYnlvUFBlSVBNaEdVX2RWdGgyQVh1c1dYRnNuYkpUQWUtNXQxR2hYcTBZcDhGTXZjS1I1akcxMVJxc2JWUFBmNVZtV1JKUURGSS13?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Alpandeire se convierte este sábado en un paraíso para los amantes de la naturaleza: rutas, talleres y actividades gratuitas La Opinión de Málaga",
+    "discovery_method": "rss",
+    "query": "\"Alpandeire\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Mon, 19 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Parauta pone la mesa este fin de semana con arroz con conejo gratis y tres días de fiesta - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclRaSjhxbHRWZkF1a2JpekVsbUxKbmk4YWRQc21QUndoSVBRUXhkYk9MdnRUM3pSaEJQZHRpakhUY2FaR2VBMFl3T1JhdEl6bG5iSFN5OS0yOGE4WVJLSU5kNnpoM0ZqOUJ1TFBjajFYaG1PQ25Kc2VzNjREa24wU0lBUnpUS3ZYMGZsVjY5a241Y0M0bDhlaDdNdnY4UDNZT1N2cXB0b9IBrAFBVV95cUxNQldFRXBBTnAzanFGQmpEeDJrSlFMZmFlS2Q2RGVlV2xoQWtLTDVZS3d3V3MtWWUtX0I4U1lDZEpXWVFyLWJtZk1RQkRIdWJzQ0JQYzFFLXl3d1pWRDBBWFJMU0VxY2cyNnlydGU3VUpjNTRXQnZhN0RlMGdJY0lTNHBwQUgzRW5lbVFHWU1Ka1hWZEo1VXpBeTd3S0NMOUJGcXVaYmdxQ2dEN2hP?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Parauta pone la mesa este fin de semana con arroz con conejo gratis y tres días de fiesta Diario Sur",
+    "discovery_method": "rss",
+    "query": "\"Parauta\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Thu, 05 Nov 2026 17:29:31 GMT"
+  },
+  {
+    "title": "Fiesta del Conejo de Parauta 2026: 6, 7 y 8 nov - marbella-sanpedro.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fWVFtYnE3dXJVQjJ6bE5JMWk3T2kxYkVSN0lLVFFJVGVzb1A4VEdmVl9qUEJUdU5YSTU3aEMwekhVNWdnSDdIczdaV21tYlVBTVVuVEhBRk5ORlJJV2FEekh6ZUllOF9SVi10Q3ZXTl9IMEhoSWww?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Fiesta del Conejo de Parauta 2026: 6, 7 y 8 nov marbella-sanpedro.com",
+    "discovery_method": "rss",
+    "query": "\"Parauta\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Sat, 31 Oct 2026 20:39:08 GMT"
+  },
+  {
+    "title": "Torre del Mar prepara Halloween con pasacalles, talleres y un renovado pasaje del terror - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGlYdGxOS3pRc05DU0U5Y2k5UThsY1hEY2tuYTRsbWRlTFI0SGpQQWtseHdoR0dIVVNfQXFmZkZMSDRjZU42cFhTWXRNSUN0SHNNUkZuX0piT1k3NXpzc1JZRWN3SzFMSktwNFd6Q3NYY21UX1RmblV0UkdfX0xlSEt2SGliM2tmTS1fdXQxYlNSZFZRbjVEa1RSbUR0YWFaTWFZYXNFTmpJMDhWbW9RYjlLOGdvb2l2RUVRVFR2M21MSzFY0gHKAUFVX3lxTE5tdHVPNkRBam55djFzeWh2Q2F1RHdQWnU2OENXVk9NM1QzTXpTVlZnLUl2Rm52OTR0dFlRdzZRcWtLVXpaaDdlZ21LR1R6UXpTbS1ySW1kc1FudmtHOVota1RGSk5LVlJ3bVA3VEhRNkJfVGtveS1vWm9SWmpKTDUzSG0yTE1PU1lPbTZ3bGpTdkdhamxaMjNSQk5SY1BrUTFMZzhQTGZsMXJ2dWhJMHZWSnh2NllBWmVMdzAtSzRlemtaMmhJTzI1Nmc?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Torre del Mar prepara Halloween con pasacalles, talleres y un renovado pasaje del terror Diario Sur",
+    "discovery_method": "rss",
+    "query": "\"Torre del Mar\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Thu, 15 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Torre del Mar celebrará Halloween con un gran pasacalles, talleres infantiles y un renovado pasaje del terror - AxarquiaPlus",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGltQ09lYl9EakxvbFlVN0ZWREhKQ3pLSEZDa2E5TmVIU1R2Ykx2LV80eS1rR05ObmFzNTlSMnZlZDgwbzdVOGFjQUNBakJzWGlONTdBMDdRMVlBZFE3a3JCVjJ5cVNpYnFleDBEQi1EQjRGM3ByMEIxa0VXSzVQcmFaNndqTmkzbXpXcEhTcVZUUzlaeWxJaGlUMWVKVF9GQ2k5OXcwd3hpOTI1Mm4yUF9RWEFUOUp6S0JmTmotV2RXWmJRTmIteTdQeUYzSTh5MVpr?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Torre del Mar celebrará Halloween con un gran pasacalles, talleres infantiles y un renovado pasaje del terror AxarquiaPlus",
+    "discovery_method": "rss",
+    "query": "\"Torre del Mar\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Thu, 15 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Halloween en Torre del Mar: El mejor plan para pasarlo en familia - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNODZVdGhjb3k0LXZDSnZ2ejdOYWV5aVpLWk91aTdoLUNpWGVhOFRlZHBRSXp5RDIwa3VRVE50cEdfblZEdi0yOUNhVDRkTUhjRnVZUk5LSWVTLUVjNFpJMndEOS0zQlhsRUt0OElIajJYQ29mTTg1SDc1ZlVKQndWdUtnbFNfUnUtVkZpb21VTVlIeFVzRDlTdFE2ck1BU1JvbzFmZU4yRDRVQXMwS2VTeXVDVEJ1cF9mVVhEZFJiMmNEdw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Halloween en Torre del Mar: El mejor plan para pasarlo en familia La Diversiva",
+    "discovery_method": "rss",
+    "query": "\"Torre del Mar\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Tue, 20 Oct 2026 11:55:22 GMT"
+  },
+  {
+    "title": "Torre del Mar prepara un Halloween con pasacalles, talleres y un pasaje del terror - Andalucía Información",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOXA4SkQ1blhaQjM1OEJyMnJ4Z1RCdjZBakpST0lWV2NHalJhUzFQdE1yMEZTRmNCeFlYblp4WHoyVXZQZHI2aGxCcXRJbGlMV05NWndfUlZOMjl1Y3FwSklncHU3ZGhzZi1wd3NleDYxaENkbDdpa2FqQnBBOFJLbXlwZGpmSW1pSkNSdXFnc2I4SndjQWVtMERTYWlXSXMySzc2VExlcVRVd0JRNGItY0RhazVrSFZCOEs3ZktVdENlakRlRk9KbXRSMUtuTFZIcVdVaUNlZkNZOVRHWjdj0gHkAUFVX3lxTE8zVGdmWkQ2VkgyR0F1dzJCZXRrYUFjX0tENF9nckN5SFJiUTZFUDl2Wk5wUzd5NlBMWWVIYk5BdHgwM0ZMaHJ0ZjJRT0xSYzNITGRtQnFSVDhXay1QYWdwejNxRXdYVUpCN0Zid1NLUXJIakhWOFBYRkNaUTg5elo0ckp0ZG1BMXZXLTltSFUxcjFhWXBzd09IbElVU3FGMkFlVk5ZdEU4UU00Sk1nUjhRVDVCbVl1TVNJRE84T2VBX3RJekdxT0d5bWRvdVFWeEg5UFRtTUNLZE1Udi1HTUxIZ3VkNQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Torre del Mar prepara un Halloween con pasacalles, talleres y un pasaje del terror Andalucía Información",
+    "discovery_method": "rss",
+    "query": "\"Torre del Mar\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Thu, 15 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Halloween 2026 en Torre del Mar - Malaguear",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZN1drc3duUl9oZmtLQW8yQUVheG5nTERNNnBmVV8yOGtEelYybG05djhBQ2FXWGNzTUR0dVQ1alV6UHI0S1h2b1Z5dWxIRUxoZHVMM0dQaTI1WGxkNEhGUmg5SXR2Y3pnQlVqeGQwVQ?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Halloween 2026 en Torre del Mar Malaguear",
+    "discovery_method": "rss",
+    "query": "\"Torre del Mar\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Sat, 31 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Colmenar del Arroyo revive su historia con un taller sobre el Privilegio del Villazgo - Espacio Diario",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQUZXNkZXWnp3YjVORktUTmlHSUMzUFV3ZmtfTEJSaWRKVGs5TVpHSXlyLXByWU1qSGJ3OU9YbHg0a2Rfa24zVzJYb1ZTOWNkNmQ5TWF0QVlSWTI5RmlVbXJiRzhGa2JPRVZrWUdCTkU3R0FDUW9GanpkQmE1dG5DOHlHcjBpRTV1Q09FMEF6enQzUE55bGZsM2lHbW9obVoxUzFyVlg1andmbjA1UDNvZmdn?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Colmenar del Arroyo revive su historia con un taller sobre el Privilegio del Villazgo Espacio Diario",
+    "discovery_method": "rss",
+    "query": "\"Colmenar\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+    "published_at": "Mon, 02 Nov 2026 17:06:48 GMT"
+  },
+  {
+    "title": "Suspendidas las actividades municipales de Halloween en Málaga capital - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjFUd0JrNm1HVmdNeklUOFQ0ZUZaMmpRbVQzMmRiR2N6UlhRWWZ5TFhDODVBb3RReUlSdzFyeUhlb3lXeVBYbHRMMk92WlFoaExoRllvZkItSC1QM2tkRkJMSnJkQ0NtS0JOSWJIOU9wQ1FlRUZiRXpHa1pLTnZjWE1WX0szcVdETWlhMXg3V0FId25GSm5rbi1BTUN5cFl4NG5JcEFwbWPSAa4BQVVfeXFMTUZmNEExLUw1N1FGWW9jc25VYzB0LTAtbW5SeTU0VE9Sd2JleDdtZC1MeG9uWGJiSkVGM0dsRkJ6YThUcC1FczVjU0Z4TXpfLWE4M0xIcmRsOHhJakZZd2tSQXlHNGwxRGIwb1NWS2c1SXQtTEY4WlpQRVhQZ2YxNFJUZUdsbHE1V3QyMkwxVVhUbDNfTWZpeGgyNDV2Z0dlc2JLZG9MTTZjZElEUUp3?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Suspendidas las actividades municipales de Halloween en Málaga capital Diario Sur",
+    "discovery_method": "rss",
+    "query": "Málaga Navidad niños actividades when:45d",
+    "published_at": "Thu, 29 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Circo, batalla de bandas y teatro para disfrutar del puente de octubre en Málaga con niños - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHhMZ290SUpZb1p2SnVaeHJlS0VURGJIT0JJb0VFd1ZocmxXYkpoU3RxbUl2cmdnbVpvRVNxVUU5UkZweE5GYzA2MzdUVzRsdU9sazB4bFBMWUIzaG0tV3I1TlhGWHVJVjdKWEo4LVBpbjk0YmhIMnZCZGJzQlozQ01DZG5IdnFGbHFxOS1ZSVQ3RGdfVXRuOWFId0ozMjBJdGwxY9IBqgFBVV95cUxNaUxLcjRCaUFIU0IydUZVTjBkdzhHREZjLTd4SlJLYUhxRlBqWnBablBsemlfZTJwT3BBS2VzNHJQT0t3WEJuMnFxZmdHU0ZmX19YOFlzUjF2S0NrdDQ3YnRzZmFmQ3Q5dTE1cjBPUTlyNlRpZjRtVGdObnJpT2FyT0FYdWRxc1RPSzlQbDFnblI4VzZJTEhqZjNvZnZMV0d2eWdSRGdPYmZlZw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Circo, batalla de bandas y teatro para disfrutar del puente de octubre en Málaga con niños Diario Sur",
+    "discovery_method": "rss",
+    "query": "Málaga Navidad niños actividades when:45d",
+    "published_at": "Wed, 07 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Cambios y cancelaciones de las actividades de Halloween en Málaga capital y provincia - Diario Sur",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdEhJY3BkbnFiSTZUQVpRQ2VsZjlLQVJUVzVGekRJS3NBQzVJb2ZfUzFlUE5xRndKd0Q0eUUzSFR2ZnJTVlV3Zl91a0Z5YlpyZkUwa0pTLXc4YjdrbWZJUnI5dXV5OU9IbkhFeHMwWFdkb05XcEdFWDZXTjlQSFFVcm5GNFRhMm93ZEVxWk9QZU5oeXB3dnlsT9IBngFBVV95cUxOd3RHQ3RpOFNZQVozRHg1dGRfRVdwaHd0RGQ3SHB4N1lJY1luQTBudUt3SXhza2ZzeFptMTlOWUs5U2NUYk5VOTd6LWloVmNCTU9OYllya1ZRNGpYZjY3RjFTSENja0ZyLVVselBNYjRXZkZzcnZYY1ZLZ0dUNkNvb1RZT1RGNG1YZzdXMUJaVXJFNWdLRHgtS1h3bTc3dw?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Cambios y cancelaciones de las actividades de Halloween en Málaga capital y provincia Diario Sur",
+    "discovery_method": "rss",
+    "query": "Málaga Navidad niños actividades when:45d",
+    "published_at": "Fri, 30 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Agenda cultural Málaga 2026 (Música, teatro, ocio) | Más Málaga",
+    "url": "https://mmalaga.es/",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "no_es_actividad",
+    "review_reason": "Contenedor o programación general: usar solo para descubrir planes concretos.",
+    "snippet": "Descubre la agenda cultural de Málaga más completa: conciertos, teatro, exposiciones, talleres y planes para hoy y este fin de semana. ¡Actualizada a diario!",
+    "discovery_method": "rss",
+    "query": "Málaga Navidad niños actividades when:45d",
+    "published_at": "dom, 08 nov 2026 03:19:00 GMT"
+  },
+  {
+    "title": "Halloween en Málaga - Entradas",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM2RneTY1NnZTN1BpYklKMDZHMlpCQnFHNWVadHZDc0MtVE41MU1YdENsREJTOFdhLW5STEFLSFMzRkNMWEh3NWNKem9mSWVXTFBhQU1QUmJPNEU3OEdfNzlYR0pvdGI2TXdFQlZva1E4Wll2R2wtQ1NaT1lqcWZDbVgtZTRrNzg?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Halloween en Málaga Entradas",
+    "discovery_method": "rss",
+    "query": "site:entradas.com Málaga (circo OR infantil OR familiar OR niños OR magia) when:60d",
+    "published_at": "Fri, 23 Oct 2026 10:55:54 GMT"
+  },
+  {
+    "title": "🫧✨️¡La Maga de las Burbujas!✨️🫧 Llega a MÁLAGA Con un espectáculo para toda la familia, ideal para los niños, emocionante para los adultos. Animate a vivir una experiencia mágica. 📆 Sábado 17 de Octubre 17:00h 📅 Sábado 7",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqU0Q5UHRtOXRDbElla0h0ZThBRmVCbnpRNkpJNGJqYlFqOFlxRnR1a3VkYkN4bElPYU84UUtYRFRwTTNFTFBYRjJOT1lUWFU2c1E?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "🫧✨️¡La Maga de las Burbujas!✨️🫧 Llega a MÁLAGA Con un espectáculo para toda la familia, ideal para los niños, emocionante para los adultos. Animate a vivir una experiencia mágica. 📆 Sábado 17 de Octubre 17:00h 📅 Sábado 7 de Noviembre 17:00h 📍 Instagram",
+    "discovery_method": "rss",
+    "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
+    "published_at": "Thu, 15 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "🎪✨ ¡El @circoberlin llega a Vélez-Málaga con un espectáculo para toda la familia! ❤️‍🔥🤩 ¿Buscáis un plan diferente para disfrutar con vuestros hijos? ¡Preparaos para vivir una experiencia llena de música, emoción y acrob",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42dzhOakZwd2MxSWR1d1ltZW5mbTNCY3dydTF4S2xYZjZzakt0dDlaWDNTUjVPUFR3MXJVMi1BRTdUOVJvVXJ5bFJHRWhNWFRTUEE?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "🎪✨ ¡El @circoberlin llega a Vélez-Málaga con un espectáculo para toda la familia! ❤️‍🔥🤩 ¿Buscáis un plan diferente para disfrutar con vuestros hijos? ¡Preparaos para vivir una experiencia llena de música, emoción y acrobacias! 🎶 💃 ‘Adrenalina 2.0: Las Gu Instagram",
+    "discovery_method": "rss",
+    "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
+    "published_at": "Mon, 26 Oct 2026 11:30:06 GMT"
+  },
+  {
+    "title": "Málaga recibe «La magia de las burbujas» el día 7 de noviembre 2026, un espectáculo lleno de fantasía, creatividad y sorpresas protagonizado por la artista Dalma Contreras, que llega a la Sala Mirari para ofrecer una exp",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FSklSYzh4TFF6NFloSXhGVS1KdkNlb2JBV1lpZGlJQzNjNDgycFBISFZHUktJXzNBYUVLQXRFMHlaOXZBTnNtdURMMnJEcTFXVGc?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Málaga recibe «La magia de las burbujas» el día 7 de noviembre 2026, un espectáculo lleno de fantasía, creatividad y sorpresas protagonizado por la artista Dalma Contreras, que llega a la Sala Mirari para ofrecer una experiencia diferente para disfrutar en f Instagram",
+    "discovery_method": "rss",
+    "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
+    "published_at": "Mon, 02 Nov 2026 13:49:29 GMT"
+  },
+  {
+    "title": "TICKET SELLING | X Muestras Mágicas Malagueñas: Gala Familiar | SALA JOAQUÍN ELEJAR (MAYNAKE) | Málaga(MÁLAGA) - GIGLON",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaTFlbl9nOTY0bWIyZWFUaVdOYUdQSDdZREVabnVsSVdsSlpFZ2Z1YU1RelVRLUlSb2NiTjVnN05tWmxIZzZtMUFnOFFjcHJ0YW5VMjNDSUYzd18tUFBaT3N0T29ib2MtVTFUQlhteHNoWmxPNmFDUko1bXZBZUJ4TlNxOURvMFduYUVyZFhJeFhheVFBVWhz?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "TICKET SELLING | X Muestras Mágicas Malagueñas: Gala Familiar | SALA JOAQUÍN ELEJAR (MAYNAKE) | Málaga(MÁLAGA) GIGLON",
+    "discovery_method": "rss",
+    "query": "site:giglon.com Málaga (infantil OR familiar OR niños OR cuento OR musical OR teatro) when:90d",
+    "published_at": "Mon, 26 Oct 2026 05:00:29 GMT"
+  },
+  {
+    "title": "¿Cuándo es el encendido de luces de Navidad en Málaga? Fecha y novedades de 2026 - Viajes National Geographic",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMk5yMG5JVmxpeHVpM2oyYkV6aHBFNkVzWHlTNVJxa1h3WkxWV2J5ZmZuelRiM2gwM1k3MVpNQjVXTDBNMklJRWoxMUdjRHl3WkVoRS1jaEQxTzVwaEh4TGM3LVNnaEprUmsyelcwQmxQTWdiNzh3X0JTN2s4WlZ2WWNvSl9TMGdFNVNheW5CSGNWRl9qdjYyOTNUd3lqYUJ5UlBGdTRTb3RycklUaG1n?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "¿Cuándo es el encendido de luces de Navidad en Málaga? Fecha y novedades de 2026 Viajes National Geographic",
+    "discovery_method": "rss",
+    "query": "Málaga (\"luces de navidad\" OR \"espectáculo de luces\" OR \"jardín de luces\") entradas 2026 when:90d",
+    "published_at": "Mon, 26 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Málaga adjudica el contrato de las luces de Navidad y Carnaval por 1,6 millones de euros - Málaga Hoy",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUk0dzhIYXB2bnJtMzEtVE1IdzVKcnpfeWVNYWVaZmx0NllYUi16MDhhNzBxN255UEZ5OXoycm04LUR3SXVPTUItVGQzUG5QM2ZfMkRtY2Ezclo0M0N3WDZlaDFYXzBXU3NnYWN0TThEODR2MjVodTE5NjFmMDR6R3owbDZaQndqNUptYmdUU3J2Snh5c1lmX0VsWUdVWk9ENHBiX0hybXp3Z9IBrwFBVV95cUxNTk5mdDZOMG50aXFaYW9RVFAxUjVZSXkta3B4LVhnMTAwaFVtWC1OVklKcGhXTEhUMUNYNElxTHFNZVl2RkgwclM3VV85Q19WMlBHX0dHN3dqSHlpNW9QT3ZUUE84bmx0d3RRZUR3Qml5LXYyMFlOZndEenlRcEsyWng2dzNDbXYtWFNSMHNfNkRPNEFhMG9HWXRMXzFjOVBlRmZQUXNSeURjUFBRZWZv?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Málaga adjudica el contrato de las luces de Navidad y Carnaval por 1,6 millones de euros Málaga Hoy",
+    "discovery_method": "rss",
+    "query": "Málaga (\"luces de navidad\" OR \"espectáculo de luces\" OR \"jardín de luces\") entradas 2026 when:90d",
+    "published_at": "Mon, 26 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "La Feria de Mijas comienza hoy con el tradicional Día del Niño - Mijas Comunicación",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPejJ0bVU3cndlQU1LZ2psZHN4NFAyZmNxNTNlc09xcUJNOGRCa0tJVXZ5eEVSTzB5alRSUHhkYjdXVXBleDcwa3pDMTVJZXhUc3ZtVEZnOENUWm5RRUZPcjNhLUxhejBraXhHWi10VklKOEYxRUhhRGVuVE9VYjZZWFYtOGYxTnVwWGpkQmNpTFhoZm5VR3ZtYVlDbWJaMTJuTlJMbVpzYlhlamh1TDBv?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "La Feria de Mijas comienza hoy con el tradicional Día del Niño Mijas Comunicación",
+    "discovery_method": "rss",
+    "query": "\"Mijas\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Mijas\" when:90d",
+    "published_at": "Fri, 04 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Mijas presenta el taller ‘Mensajes que construyen convivencia’ - Mijas Comunicación",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSjZhZF9JMkt0MlNaenF2OS1NQ19IYkxPUXlTaHZqazNpSFoybGZjc1NwY3c1WmV1eThKcmZCRWRTZXdUUkZyaE5iSzBDUy03SFZRN1NJUmk5UGV0Sy1DRkNob0tWMjlEcEw4T0EyTWlVZF9ERUJZU1RKd0dPRkFmRmVWX0IzQUszWmYxUVhzMjFzMmtMRE5KQ3RJTGMyZnNlMVJ0WlpkVjgwcGdN?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Mijas presenta el taller ‘Mensajes que construyen convivencia’ Mijas Comunicación",
+    "discovery_method": "rss",
+    "query": "\"Mijas\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Mijas\" when:90d",
+    "published_at": "Wed, 23 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Los 40 años del Festival de Teatro Villa de Mijas prometen cuatro noches de espectáculo - Mijas Comunicación",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV2c4dDFlOUhKR1hlUUQwT0xJU1BxNGVUbDVTMnJ6bWUzMW1oVkZjSVhsRlIzb3FrU291b0tmVmxzZ3FvU1hGb0cyVno4SGd0ZWRWWHc4MEF5Wk9OMk1jYjhwemVLZlBzZW43djFqak5hcms2NWZ3eDBLWF93Rm1oRGF1Qkk1ZDlUSEIxTl9YM1hNWmxSQkFxNW9FNG9jU1dHeUd5MlAxa29KM05GNnhZRHlxQmg4WGlCQndpMFc1SW1ZRm1hdFdWLWFZQ1VNRDQz?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Los 40 años del Festival de Teatro Villa de Mijas prometen cuatro noches de espectáculo Mijas Comunicación",
+    "discovery_method": "rss",
+    "query": "\"Mijas\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo OR musical OR fiesta) \"Mijas\" when:90d",
+    "published_at": "Mon, 21 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "🐺🎶 ¡MÁLAGA, OS ESPERAMOS! 🎶🐦 ✨ PEDRO Y EL LOBO ✨ 🎻 ¡Un maravilloso cuento musical con ORQUESTA EN DIRECTO para disfrutar en familia de una bella historia! ❤️ Un cuento lleno de emoción que nos enseña a respetar a los dem",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FRV81ZEFNbUdUMzhWV0ZQWERIM203SmxNZGN4YzVCQUZoSV9aT2hkYUVWaUg3SXYzVHdTVzZkZlpZTXdEWHFwWFNRYjhWdXB3Sm9KRmdn?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "🐺🎶 ¡MÁLAGA, OS ESPERAMOS! 🎶🐦 ✨ PEDRO Y EL LOBO ✨ 🎻 ¡Un maravilloso cuento musical con ORQUESTA EN DIRECTO para disfrutar en familia de una bella historia! ❤️ Un cuento lleno de emoción que nos enseña a respetar a los demás y a no deja Instagram",
+    "discovery_method": "rss",
+    "query": "site:www.instagram.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
+    "published_at": "Sat, 31 Oct 2026 18:18:06 GMT"
+  },
+  {
+    "title": "Si eres de Málaga y no sabes qué hacer con los niños te propongo PLANES FAMILIARES 🫂❤️ Te presento La Laguna De La Barrera podrás disfrutar de un bonito paisaje mientras das un paseo o haces deporte 🏃‍♂️ Además tiene zon",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aZXR1dExEQkZGVjVPNXdnSHJ3TWVCMF9LanFKTzBpVFlQVnNZLS05THRxOTJtYkc0WVFienBHUThRSmt6RWRkZWV4NVBoR09FNmVrVEtB?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Si eres de Málaga y no sabes qué hacer con los niños te propongo PLANES FAMILIARES 🫂❤️ Te presento La Laguna De La Barrera podrás disfrutar de un bonito paisaje mientras das un paseo o haces deporte 🏃‍♂️ Además tiene zona de juego infantil 🛝, Instagram",
+    "discovery_method": "rss",
+    "query": "site:www.instagram.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
+    "published_at": "Fri, 02 Oct 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Si eres de Málaga y no sabes qué hacer con los niños te propongo PLANES FAMILIARES 🫂❤️ Te presento Parque San Miguel (Plan Gratuito) ubicado en Málaga Capital, concretamente en el Barrio De Las Flores Podremos encontrar:",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93VFU3LVNGNU1Gb25KRTdXQi03LXRYd3BqMENTQzUxNHkweHVINER3VVoya1ItTGczdmxrQk8yN0hqT1hMSGpGWThQazhoblAyRDlTenRB?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "Si eres de Málaga y no sabes qué hacer con los niños te propongo PLANES FAMILIARES 🫂❤️ Te presento Parque San Miguel (Plan Gratuito) ubicado en Málaga Capital, concretamente en el Barrio De Las Flores Podremos encontrar: Pistas De Fútbol ⚽️ P Instagram",
+    "discovery_method": "rss",
+    "query": "site:www.instagram.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
+    "published_at": "Fri, 25 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "🎡🎠 Feria de Vélez-Málaga con niños: programación infantil completa 2026 🎠🎡 Llega la programación infantil de la Feria de Vélez – Málaga. Del 29 de septiembre al 4 de octubre, con una gran variedad de actividades gratis. ",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LRFhFM3B1UHhtVnhJOEtlZDdZcVFIaUtzWjRFYXhzVnFhTkxqZzI3V2huR05naElhU1E0WWtJUmFOMzRqRkpkaFpCeUFSRWFrN1E?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "🎡🎠 Feria de Vélez-Málaga con niños: programación infantil completa 2026 🎠🎡 Llega la programación infantil de la Feria de Vélez – Málaga. Del 29 de septiembre al 4 de octubre, con una gran variedad de actividades gratis. 🎟️ Todos los días mini feria infan Instagram",
+    "discovery_method": "rss",
+    "query": "site:www.instagram.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
+    "published_at": "Sat, 26 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "👑Vélez-Málaga ya tiene a los ganadores del Certamen infantil Amparo Muñoz para la Real Feria de San Miguel 2026 ✨ #AxarquiaPlus #Axarquia #VélezMalaga #FeriaSanMiguel - Instagram",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50ajE0VlBSdFp2LWRiUkRscWU0cGtRdHZNcS00WnJCRmFaOUxVNDN6WnVGR1lXQ2xaVjdTc2VkVDllZ2lCUkpPcGtwR3VMdlhnZVE?oc=5",
+    "source_name": "Radar de noticias",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Detectado automáticamente; confirmar fecha, provincia y organizador.",
+    "snippet": "👑Vélez-Málaga ya tiene a los ganadores del Certamen infantil Amparo Muñoz para la Real Feria de San Miguel 2026 ✨ #AxarquiaPlus #Axarquia #VélezMalaga #FeriaSanMiguel Instagram",
+    "discovery_method": "rss",
+    "query": "site:www.instagram.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
+    "published_at": "Wed, 30 Sep 2026 07:00:00 GMT"
+  },
+  {
+    "title": "Rubén y Cecilia saltan desde la pantalla de TikTok a Mijas con ‘Noches de panceta e ilusión’",
+    "url": "https://www.mijasinformacion.com/evento/ruben-y-cecilia-saltan-desde-la-pantalla-de-tiktok-a-mijas-con-noches-de-panceta-e-ilusion/",
+    "source_name": "Mijas Información · agenda local de espectáculos",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-075",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "El monólogo salvaje ‘Suerte de Manicomio’ llega a Mijas",
+    "url": "https://www.mijasinformacion.com/evento/el-monologo-salvaje-suerte-de-manicomio-llega-a-mijas/",
+    "source_name": "Mijas Información · agenda local de espectáculos",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-075",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "NO ME TOQUES EL CUENTO",
+    "url": "https://lacocheraentradas.com/shows/details/2464/no-me-toques-el-cuento",
+    "source_name": "La Cochera Entradas · cartelera de Málaga y Las Lagunas",
+    "first_seen": "2026-11-08",
+    "status": "sin_fecha_estructurada",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-076",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "TOMÁS GARCÍA \"VIVIENDO DEL CUENTO\"",
+    "url": "https://lacocheraentradas.com/shows/details/2565/tomas-garcia-viviendo-del-cuento",
+    "source_name": "La Cochera Entradas · cartelera de Málaga y Las Lagunas",
+    "first_seen": "2026-11-08",
+    "status": "sin_fecha_estructurada",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-076",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "LOS DOMINGOS AL SWING",
+    "url": "https://lacocheraentradas.com/shows/details/2681/los-domingos-al-swing",
+    "source_name": "La Cochera Entradas · cartelera de Málaga y Las Lagunas",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-076",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "FERNANDO SANJIAO \"QUEMADO\"",
+    "url": "https://lacocheraentradas.com/shows/details/2620/fernando-sanjiao-quemado",
+    "source_name": "La Cochera Entradas · cartelera de Málaga y Las Lagunas",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-076",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "JESÚS PIÑA \"SIN LENGUA EN LOS PELOS\"",
+    "url": "https://lacocheraentradas.com/shows/details/2672/jesus-pina-sin-lengua-en-los-pelos",
+    "source_name": "La Cochera Entradas · cartelera de Málaga y Las Lagunas",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-076",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "AGUANTÁME EL CUBATA",
+    "url": "https://lacocheraentradas.com/shows/details/2409/aguantame-el-cubata",
+    "source_name": "La Cochera Entradas · cartelera de Málaga y Las Lagunas",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-076",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "PACO CALAVERA Y PEPE CÉSPEDES",
+    "url": "https://lacocheraentradas.com/shows/details/2368/paco-calavera-y-pepe-cespedes",
+    "source_name": "La Cochera Entradas · cartelera de Málaga y Las Lagunas",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-076",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "LOS TRES CERDITOS",
+    "url": "https://lacocheraentradas.com/shows/details/2693/los-tres-cerditos",
+    "source_name": "La Cochera Entradas · cartelera de Málaga y Las Lagunas",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-076",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "VERDADES Y MENTIRAS",
+    "url": "https://lacocheraentradas.com/shows/details/2528/verdades-y-mentiras",
+    "source_name": "La Cochera Entradas · cartelera de Málaga y Las Lagunas",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-076",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "LOS HOMBRES RANA – TRIBUTO A EL ÚLTIMO DE LA FILA",
+    "url": "https://lacocheraentradas.com/shows/details/2699/los-hombres-rana-tributo-a-el-ultimo-de-la-fila",
+    "source_name": "La Cochera Entradas · cartelera de Málaga y Las Lagunas",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-076",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Planes con niños →",
+    "url": "https://informalaga.es/agenda/con-ninos",
+    "source_name": "InforMálaga",
+    "first_seen": "2026-11-08",
+    "status": "verificada_con_fecha",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-012",
+    "review_reason": "Evento con fecha y lugar estructurados.",
+    "last_checked": "2026-11-08",
+    "review_priority": "resuelta",
+    "verification_method": "json-ld",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "evento estructurado con fecha y municipio"
+    ],
+    "verified_event_ids": [
+      "EVT-5B93A8F20F63",
+      "EVT-50A8C5C94B75",
+      "EVT-04DDFA2C9994",
+      "EVT-89C308EEEA29",
+      "EVT-34E22B7CAFAC",
+      "EVT-E80A682BC682",
+      "EVT-225A5A1F2105",
+      "EVT-20B8A3C1CF90",
+      "EVT-083B1FC09188",
+      "EVT-IA-02DA28B793",
+      "EVT-014D473BD629",
+      "EVT-IA-F5B61E88D9",
+      "EVT-5DA42612CC70"
+    ]
+  },
+  {
+    "title": "Charla «Conocer para proteger: la defensa de niños, niñas y adolescentes frente a la violencia sexual digital»",
+    "url": "https://informalaga.es/agenda/charla-conocer-para-proteger-la-defensa-de-ninos-ninas-y-adolescent-u0gaw",
+    "source_name": "InforMálaga",
+    "first_seen": "2026-11-08",
+    "status": "verificada_con_fecha",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-012",
+    "review_reason": "Evento con fecha y lugar estructurados.",
+    "last_checked": "2026-11-08",
+    "review_priority": "resuelta",
+    "verification_method": "json-ld",
+    "confidence_score": 100,
+    "confidence_reasons": [
+      "evento estructurado con fecha y municipio"
+    ],
+    "verified_event_ids": [
+      "EVT-D2EE1AB0A2EE"
+    ]
+  },
+  {
+    "title": "Fin de semana",
+    "url": "https://informalaga.es/agenda/este-fin-de-semana",
+    "source_name": "InforMálaga",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-012",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Esta semana",
+    "url": "https://informalaga.es/agenda/esta-semana",
+    "source_name": "InforMálaga",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-012",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Este mes",
+    "url": "https://informalaga.es/agenda/este-mes",
+    "source_name": "InforMálaga",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-012",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "De noche",
+    "url": "https://informalaga.es/agenda/planes-de-noche",
+    "source_name": "InforMálaga",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-012",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Conciertos",
+    "url": "https://informalaga.es/agenda/conciertos",
+    "source_name": "InforMálaga",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-012",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Deporte",
+    "url": "https://informalaga.es/agenda/deporte",
+    "source_name": "InforMálaga",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-012",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Kybba - 8 Nov",
+    "url": "https://informalaga.es/agenda/kybba-8-nov-2026-11-08",
+    "source_name": "InforMálaga",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-012",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Tributo de Alejandro Sanz",
+    "url": "https://informalaga.es/agenda/tributo-de-alejandro-sanz-2026-11-08",
+    "source_name": "InforMálaga",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-012",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Visitas guiadas",
+    "url": "https://www.carmenthyssenmalaga.org/actividades/visita-guiada",
+    "source_name": "Museo Carmen Thyssen (web cultural)",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-015",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Cursos y conferencias",
+    "url": "https://www.carmenthyssenmalaga.org/actividades/curso-conferencia",
+    "source_name": "Museo Carmen Thyssen (web cultural)",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-015",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Museo en acción",
+    "url": "https://www.carmenthyssenmalaga.org/actividades/museo-accion",
+    "source_name": "Museo Carmen Thyssen (web cultural)",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-015",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Amigos del Museo",
+    "url": "https://www.carmenthyssenmalaga.org/actividades/amigos-museo",
+    "source_name": "Museo Carmen Thyssen (web cultural)",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-015",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Visitas guiadas Visitas guiadas exposición \"Olé\" 13 de noviembre de 2026",
+    "url": "https://www.carmenthyssenmalaga.org/actividad/visitas-guiadas-ole",
+    "source_name": "Museo Carmen Thyssen (web cultural)",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-015",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Museo en acción Flamenco en el Patio. Vuelta a las raíces 13 de noviembre de 2026",
+    "url": "https://www.carmenthyssenmalaga.org/actividad/flamenco-en-el-patio-oct-nov-2026",
+    "source_name": "Museo Carmen Thyssen (web cultural)",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "discovery_method": "broad_official",
+    "known_source_id": "SRC-015",
+    "review_reason": "Ficha encontrada sin filtrar el título por edad. Investigar público, fecha exacta y localidad antes de publicar."
+  },
+  {
+    "title": "Ekan turns six: learning through play, an essential part of the care and well-being of gorillas at BIOPARC Fuengirola",
+    "url": "https://www.bioparcfuengirola.es/en/Ekan-turns-six-years-old.-Gorilla-welfare-at-Bioparc-Fuengirola/",
+    "snippet": "Ekan turns six: learning through play, an essential part of the care and well-being of gorillas at BIOPARC Fuengirola",
+    "source_name": "Bioparc Fuengirola · agenda de actividades",
+    "discovery_method": "case_official_crawl",
+    "case_id": "CASE-7F0BE8C98D",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Ficha localizada navegando una fuente oficial relacionada con el caso; requiere verificación de contenido."
+  },
+  {
+    "title": "Magallanes y Elcano inspiran una semana de actividades familiares en la selva de Bioparc Fuengirola - BIOPARC Fuengirola",
+    "url": "https://www.europapress.es/andalucia/malaga-00356/noticia-magallanes-elcano-inspiran-semana-actividades-familiares-selva-bioparc-fuengirola-20250828161049.html",
+    "snippet": "Magallanes y Elcano inspiran una semana de actividades familiares en la selva de Bioparc Fuengirola BIOPARC Fuengirola",
+    "published_at": "Wed, 27 Aug 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-7F0BE8C98D",
+    "query": "site:bioparcfuengirola.es \"secretos\" naturaleza \"Fuengirola\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (15/100).",
+    "resolution_checked": "2026-11-08",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXllY285QnhYUWd4d0ozY3p6MjBKYjdRYmp4Yi01bEhpYV81Rk43SVRNMVVTWG9ZUlMxTzNCQVhyWks0OWYzclVlXzZ5TEJKRlhwNmJaYndoMk83Umx4N1RrZUFUWUVOR2lDQjlZRzB0QTEzVlF2YTkyUVRGbkhQekMwU1R2RWtk?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
+    "confidence_score": 15,
+    "confidence_reasons": [
+      "actividad concreta",
+      "sin fecha futura demostrable"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "El agua como fuente de vida y aprendizaje en el campamento infantil de Semana Santa \"El Viaje del Agua\" de Bioparc Fuengirola - BIOPARC Fuengirola",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNM1RNSkZDQlJSTnpLaHRMOENBSnlKVXpPLXpld0IxUU95R0gwNXBKOWRUQmJmUzgtVkNBdmctM1FwcFpXSzlNdklrS1hZQmRrNjJWd0NSRjBJNWsyQklVUVZJTE95UnFVeFZuZ1hkQm9xeGdaNHNYRjZoNjRYcF8xWkFEZTVPX3NjR3VxQU1YbFp6YjV3TVQyN1dCWWl1Ql9jMFg4Q0d6UjlJbllFb3ZqSllidWUtdjc1djZFaUI1Zi1IYUh2cjUyektYYXdhc28yYUZndWxJTHpXakRESVh3OGhaZVZZb2tZSnJNeXV3?oc=5",
+    "snippet": "El agua como fuente de vida y aprendizaje en el campamento infantil de Semana Santa \"El Viaje del Agua\" de Bioparc Fuengirola BIOPARC Fuengirola",
+    "published_at": "Tue, 18 Mar 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-7F0BE8C98D",
+    "query": "site:bioparcfuengirola.es \"secretos\" naturaleza \"Fuengirola\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-11-08",
+    "resolution_version": 2
+  },
+  {
+    "title": "La familia de orangutanes de Bioparc Fuengirola representa un valioso núcleo de conservación - BIOPARC Fuengirola",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ0FJN2lkdk5hcGd1V1UwX0wxRUxMOXczem5fa0Z5UGxXN3o3NzluZnV4NGxuaC1Edi1USGZET2xOUGpNQUdmTGltck14eEJ5WXptejdBYW53ZWcwaHQxUUwtLWFFNHZmaXZzQ0p3RTZtc1dYVDNSQzRoUE5qbWk5ekROVHZDYnBTVy1TU0tONV9Fei1vX1E?oc=5",
+    "snippet": "La familia de orangutanes de Bioparc Fuengirola representa un valioso núcleo de conservación BIOPARC Fuengirola",
+    "published_at": "Tue, 19 Aug 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-7F0BE8C98D",
+    "query": "site:bioparcfuengirola.es \"secretos\" naturaleza \"Fuengirola\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-11-08",
+    "resolution_version": 2
+  },
+  {
+    "title": "Los BIOPARC llaman a la conservación del “planeta Agua” - BIOPARC Fuengirola",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN1M0MEVUd0NYRnQyRWwyNFhhTFJldXJFSnNRVmxPWUU5QlpEZng3cEJNcmF4ZWowSWZUcnRPVzJZVlgtT2dwNWtLb21VbGZQYkl2VjhEQ0pzS2RjWnJETnU4bDU3UzhMc05BUFFHVFhZbUFKcU9NU05LU2xybUJNTFZ5YWxURVVTeF9NbW5RVWw?oc=5",
+    "snippet": "Los BIOPARC llaman a la conservación del “planeta Agua” BIOPARC Fuengirola",
+    "published_at": "Wed, 22 Mar 2023 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-7F0BE8C98D",
+    "query": "site:bioparcfuengirola.es \"secretos\" naturaleza \"Fuengirola\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Los Reyes Magos sorprenden a la familia de orangutanes de Borneo en Bioparc fuengirola - BIOPARC Fuengirola",
+    "url": "https://www.laopiniondemalaga.es/costa-sol-occidental/2026/01/05/reyes-magos-sorprenden-familia-orangutanes-125394358.html",
+    "snippet": "Los Reyes Magos sorprenden a la familia de orangutanes de Borneo en Bioparc fuengirola BIOPARC Fuengirola",
+    "published_at": "Mon, 05 Jan 2026 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-A1551320D7",
+    "query": "site:bioparcfuengirola.es \"acerca\" magia \"Fuengirola\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "sin_acceso_automatico",
+    "review_reason": "Fuente no disponible para lectura automática: 406 Client Error: WAF Forbidden for url: https://www.laopiniondemalaga.es/costa-sol-occidental/2026/01/05/reyes-magos-sorprenden-f",
+    "resolution_checked": "2026-11-08",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVko2am5fbzdIWk5HTmlkX1VDTjdJN3dwb2FyQ0EwdEFEamRMR25nbjIyM0ZmdXktS3ZCbWZvU0dsVXZ5S3pKODI3WTg2NnhWa0x3R0xCdzFTSjdLTFMxQjdtVUcxM3U3VEV1Zjljc1puSWQ3MDhTblZaak85SlA2cnZEcUlQendUR2l3TWt4aENFeWdvZG9UdEVlbkdGNzcyUWpQeXB2bFkwNVBZcW8zYjFBaGVpNzVpbWhPMg?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-11-08"
+  },
+  {
+    "title": "Promoción 2 - BIOPARC Fuengirola",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1UmhXcW9BMzVRemJKb3JoZ0tabllKSWc1c3dFM3BSZ1k1UXV5LXhOT09hcHVWcmVaWEhKLUtmOXlmenoySmxNQzhGQXZXcHVldEpFaUlJbXA0SnlwMWhjTld5VQ?oc=5",
+    "snippet": "Promoción 2 BIOPARC Fuengirola",
+    "published_at": "Tue, 20 May 2025 18:18:21 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-A1551320D7",
+    "query": "site:bioparcfuengirola.es \"acerca\" magia \"Fuengirola\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Los Reyes Magos hacen una parada en BIOPARC Fuengirola para sorprender a los animales antes de su habitual ruta por los hogares españoles - BIOPARC Fuengirola",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWU1PQzNuQ09leXFFckxmTkIzSkFrMkg0T0llVmlnRkwwWHB4NWM4VndnYTA2ZUJzMzVKMko4QmVncWVQSnhpV0RnQktxTS1ac2Z3Nm9YczZQV3JwcU03VW12ejhLR2JjWm5NNi1DQVZuOXF6cGNQb3hPYTVadjkwbllIc1NwT053UUNYUTYxRmc4Ni15eVRXTm5Za09Bdw?oc=5",
+    "snippet": "Los Reyes Magos hacen una parada en BIOPARC Fuengirola para sorprender a los animales antes de su habitual ruta por los hogares españoles BIOPARC Fuengirola",
+    "published_at": "Fri, 05 Jan 2024 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-A1551320D7",
+    "query": "site:bioparcfuengirola.es \"acerca\" magia \"Fuengirola\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Bioparc Fuengirola inaugura la temporada escolar con una nueva oferta educativa tras recibir a más de 25.000 estudiantes el pasado curso - BIOPARC Fuengirola",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS3d2cFczb0xBQ094VjdXZ1FiRTZPVklRd2N4QzlhSVBERGU4cTdFakpmekl6empBRjQyQVdDM19vSzVMY3BaX1M3aDdZcWc2Z2MwSld4cEpqd1F4UzNjTTRGODNjYVlBQTFlVWdaYzd0Nm54akR2bnN4bEtBbEVMMDNEcmU5M2tJQnc?oc=5",
+    "snippet": "Bioparc Fuengirola inaugura la temporada escolar con una nueva oferta educativa tras recibir a más de 25.000 estudiantes el pasado curso BIOPARC Fuengirola",
+    "published_at": "Fri, 26 Sep 2025 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-A1551320D7",
+    "query": "site:bioparcfuengirola.es \"acerca\" magia \"Fuengirola\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Ernie, el pequeño gorila nacido en BIOPARC Fuengirola, cumple un mes: un comienzo excepcional junto a su madre Wefa - BIOPARC Fuengirola",
+    "url": "https://www.europapress.es/andalucia/malaga-00356/noticia-ernie-pequeno-gorila-nacido-bioparc-fuengirola-cumple-mes-20251229161050.html",
+    "snippet": "Ernie, el pequeño gorila nacido en BIOPARC Fuengirola, cumple un mes: un comienzo excepcional junto a su madre Wefa BIOPARC Fuengirola",
+    "published_at": "Mon, 29 Dec 2025 08:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-A1551320D7",
+    "query": "site:bioparcfuengirola.es \"acerca\" magia \"Fuengirola\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "sin_fecha_estructurada",
+    "review_reason": "No alcanza evidencia suficiente para publicación automática (0/100).",
+    "resolution_checked": "2026-11-08",
+    "resolution_version": 2,
+    "google_news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOUU3WmNVUTUyWTAza193WVB3R1VUeVM0b0xQSF9CN05UU1BKOVkzdWthZzhKSks3Ykw4WkNWc2hGaXZOU3lLNUthcDEwaDhEcHBLWkEyN0Y1NU03UGJWQ2g2VmhRVk9MX0V1NEFWQ3dTbHY5eC1UdkFDbG9tTDU2bnBJQU40dTBOM3RqdU0xZDZqY1hMcmU4dnJGQl9BQ25OMjl3Y3lvdVI4RHFjN1ZIQTdxb1JfRGJzc2lhLVgwMk1VX3BndjNXdXNDUlJPaFZPSmY4a2tTTUZBcU04TlVn?oc=5",
+    "resolved_from_google_news": true,
+    "resolution_method": "title_match",
+    "last_checked": "2026-11-08",
+    "last_text_checked": "2026-11-08",
+    "confidence_score": 0,
+    "confidence_reasons": [
+      "título sin actividad concreta"
+    ],
+    "review_priority": "normal"
+  },
+  {
+    "title": "Bienvenido al Circo Berlín - Circo Berlín",
+    "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE12RkU4LTZPQWYzVmxrcXVYb0dJUFFtU2RQRFZ2VEtUZHZMQ2MxajZTUkZtRTF0V1J1VWhSQg?oc=5",
+    "snippet": "Bienvenido al Circo Berlín Circo Berlín",
+    "published_at": "Tue, 04 May 2021 16:12:09 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-06F7A21990",
+    "query": "site:circoberlin.com \"toda\" circo \"Vélez-Málaga\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "El Circo Berlín para toda la familia en Ronda, Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNTQ4eXB1THJua1E0N3NpYkk3eU14UXU2bmlidTBsZFpLSVpja3Z1eThVUFA3NDFBVFlMS081bzBNeHE0Wl8xRTJYMXkyek5xTWUzZkstTVR2YkZ6TEdYLWVZRmtON2NCZnZQWm1VZm9EQ3d4T0xISWNrZHktRmEyOU9zUQ?oc=5",
+    "snippet": "El Circo Berlín para toda la familia en Ronda, Málaga La Diversiva",
+    "published_at": "Tue, 13 Oct 2026 07:30:15 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-06F7A21990",
+    "query": "\"Circo Berlín\" \"toda\" circo \"Vélez-Málaga\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-11-08",
+    "resolution_version": 2
+  },
+  {
+    "title": "El Circo Berlín para toda la familia en Coín, Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX3VKemRMV2doTGlRbFNUa2lnZFZVNlYzSmprUXIxX05RMzNLV2Y5R0Y4U1dMWThXdzZTQm42TVlIUGhQbHdRd0RmcmpicTZOMVA1WEQ0Y1I3aEFXbEtJRmV2SE5uM1lWVElmVWNKdEp3LW1aQndRTjMzaWVTVWVOSlln?oc=5",
+    "snippet": "El Circo Berlín para toda la familia en Coín, Málaga La Diversiva",
+    "published_at": "Fri, 02 Oct 2026 12:06:23 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-06F7A21990",
+    "query": "\"Circo Berlín\" \"toda\" circo \"Vélez-Málaga\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-11-08",
+    "resolution_version": 2
+  },
+  {
+    "title": "Espectáculo para niños y para toda la familia con El Circo del Sol en Málaga - La Diversiva",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdk9ZQk4yUUZzM0lzUzNUWGxrZUR6MDd3ZWhhdlBKOUlhNEdrai11YXpaX0FrSlZTZHRCcFVmQWhPaUxxRmNGUjRrbzZWeG5OcldOSW9mTGdnSXVyUUVWcFFhanRuSWQyQ19pTDlhTDItNEt6ZVY4Y1VnVmRPNEN3a08tTGhDd2hUWGh5Yy1oQUx6RUZyb1NrRHQxYXhhM1IwSzZR?oc=5",
+    "snippet": "Espectáculo para niños y para toda la familia con El Circo del Sol en Málaga La Diversiva",
+    "published_at": "Thu, 28 Sep 2023 10:02:56 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-06F7A21990",
+    "query": "\"Circo Berlín\" \"toda\" circo \"Vélez-Málaga\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Google News: no se confirmó la URL original ni una página compatible en una fuente conocida.",
+    "resolution_checked": "2026-11-08",
+    "resolution_version": 2
+  },
+  {
+    "title": "Centros de Atención a las Adicciones CAD - Madrid",
+    "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Salud/Publicaciones/Centros-de-Atencion-a-las-Adicciones-CAD/?vgnextoid=7bf749231c48b310VgnVCM1000000b205a0aRCRD&vgnextchannel=e6898fb9458fe410VgnVCM1000000b205a0aRCRD",
+    "snippet": "Portal web del Ayuntamiento de Madrid Sede Electrónica Actualidad El Ayuntamiento Distritos Oposiciones Contacto SALUD",
+    "published_at": "mar, 08 jul 2025 02:35:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-66341873F3",
+    "query": "site:deporte.malaga.eu \"eres\"  \"Málaga\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Cortes tráfico Madrid por la celebración del Mundial 2026",
+    "url": "https://diario.madrid.es/blog/notas-de-prensa/madrid-prepara-cibeles-y-su-entorno-para-la-celebracion-de-la-copa-del-mundo-este-lunes-con-la-prevision-de-mas-de-60-000-asistentes/",
+    "snippet": "El Ayuntamiento de Madrid ha diseñado un plan especial de seguridad y movilidad de cara a la celebración de la victoria de la selección española como campeona del mundo de fútbol 2026, que incluye la ocupación del entorno de la plaza de Cibeles e inevitables repercusiones en la movilidad ...",
+    "published_at": "lun, 20 jul 2026 06:14:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-66341873F3",
+    "query": "site:deporte.malaga.eu \"eres\"  \"Málaga\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Organigramas y competencias - Portal de transparencia del ... - Madrid",
+    "url": "https://transparencia.madrid.es/portales/transparencia/es/Organizacion/Organigramas-y-competencias/?vgnextchannel=6039508929a56510VgnVCM1000008a4a900aRCRD",
+    "snippet": "El organigrama municipal permite conocer la estructura organizativa del Ayuntamiento y cómo se distribuyen sus distintas áreas, distritos, organismos y unidades administrativas, así como las relaciones de dependencia entre ellas. También identifica a las personas titulares de los puestos con nivel de subdirección general o asimilado y superiores.",
+    "published_at": "sáb, 07 nov 2026 09:47:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-66341873F3",
+    "query": "site:deporte.malaga.eu \"eres\"  \"Málaga\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "Calendario de carreras populares 2026 2027 en España: 10K, medias maratones y maratones - Deporte del Sur",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QMi1JamluSktEQTJPMEFJZHFsTUJDRDd6aFhFRjRPWFI3dlh6NkhQVWhPd3ZNX1RDdGhIbHE0SUJwVC1iUFEtT3hLYUVsRlEzVi1Ub1ozWFNHalRnYXlHQTNJRzlYT0k?oc=5",
+    "snippet": "Calendario de carreras populares 2026 2027 en España: 10K, medias maratones y maratones Deporte del Sur",
+    "published_at": "Wed, 29 Sep 2021 14:59:36 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-66341873F3",
+    "query": "\"Área de Deporte del Ayuntamiento de Málaga\" \"eres\"  \"Málaga\" 2026",
+    "first_seen": "2026-11-08",
+    "status": "por_revisar",
+    "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
+  },
+  {
+    "title": "El área de Juventud de Mijas lanza retos semanales para conseguir entradas gratuitas para AquaMijas - Ayuntamiento de Mijas",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYllQU2gyUTFNSjJHUXVkb2doeVZ3LW5lRnp0OF9rSUZzVDg1Z1huZnc1ejFrUDBlR3Y2SVQwT3I5OEEwcmszdWVqWHBFNXFKNkxDcTVQTjRpckdVSGpsUHhBT1RIQVZQQk5hRUM2c1ppVllYRXI4NGJ3dkhYeFRLRG1DQ3VTWXAwS2pRRXhianY1RmQtVDZ5NHBZS0Z5RXAwTm4tdTNHZExCQkpSYXBJSUNYS1lfTk5weFEtYmdPd2dOdDZ4N19R?oc=5",
+    "snippet": "El área de Juventud de Mijas lanza retos semanales para conseguir entradas gratuitas para AquaMijas Ayuntamiento de Mijas",
+    "published_at": "Tue, 20 Jul 2021 07:00:00 GMT",
+    "source_name": "Investigación por caso",
+    "discovery_method": "case_rescue",
+    "case_id": "CASE-58982D2FA4",
+    "query": "site:mijas.es \"area\"  \"Mijas\" 2026",
+    "first_seen": "2026-11-08",
     "status": "por_revisar",
     "review_reason": "Encontrado por búsqueda dirigida de un caso prometedor; requiere verificación completa."
   }
