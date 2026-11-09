@@ -5583,5 +5583,32 @@
     "confidence_score": 95,
     "verification_method": "evidencia textual fuerte",
     "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo"
+  },
+  {
+    "id": "EVT-IA-CABALGATA-FUENGIROLA-2027",
+    "title": "Participación infantil en la Cabalgata de Reyes de Fuengirola 2027",
+    "start": "2027-01-05",
+    "end": "2027-01-05",
+    "time": "Horario por confirmar",
+    "town": "Fuengirola",
+    "venue": "Fuengirola · recorrido por confirmar",
+    "category": "Otros planes familiares",
+    "age_min": 6,
+    "age_max": 17,
+    "age_label": "6–17 años",
+    "price_label": "Por confirmar",
+    "audience": "Infantil y juvenil",
+    "source_name": "Ayuntamiento de Fuengirola",
+    "source_url": "https://www.fuengirola.es/el-ayuntamiento-de-fuengirola-abre-el-lunes-el-plazo-de-inscripcion-para-que-los-ninos-puedan-participar-en-la-cabalgata-de-reyes-2027/",
+    "secondary_sources": [],
+    "reservation_required": true,
+    "reservation_url": "https://sede.fuengirola.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269031140918536405304",
+    "details": "Solicitudes del 9 al 16 de noviembre de 2026 (cierre a las 14:00 del día 16), una por unidad familiar y firmada por padre, madre o tutor. De 6 a 12 años, carrozas infantiles; de 13 a 17, carrozas reales. Preferencia para empadronados en Fuengirola; otros menores solo si quedan plazas. La solicitud no garantiza plaza. Indicar intolerancias alimentarias. Consultar bases oficiales.",
+    "evidence": "Noticia municipal de 4-11-2026: participación de menores de 6 a 17 años en la Cabalgata del 5 de enero de 2027; solicitudes del 9 de noviembre a las 09:00 al 16 de noviembre a las 14:00, vía sede electrónica o registros municipales.",
+    "first_seen": "2026-11-09",
+    "last_checked": "2026-11-09T13:13:22+00:00",
+    "origin": "Investigación IA · auditoría manual de casos",
+    "discovery_channel": "ai_case",
+    "status": "publicada_en_fuente"
   }
 ]

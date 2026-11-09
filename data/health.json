@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-09T09:31:22+00:00",
+  "generated_at": "2026-11-09T13:16:32+00:00",
   "level": "attention",
-  "events": 165,
+  "events": 166,
   "sources": 86,
   "catalog_drift": false,
   "last_scan_snapshot": {
-    "events": 165,
+    "events": 166,
     "sources": 86
   },
   "discoveries_pending": 754,
   "discoveries_unresolved": 862,
   "unverified_events": 33,
-  "known_age": 14,
-  "sources_never_checked": 3,
-  "sources_failed": 10,
+  "known_age": 15,
+  "sources_never_checked": 4,
+  "sources_failed": 8,
   "source_errors": [
     {
       "name": "Teatro Cervantes y Echegaray",
@@ -46,11 +46,6 @@
       "category": "access_restricted"
     },
     {
-      "name": "Ayuntamiento de Colmenar · Cultura y fiestas",
-      "detail": "405 Client Error: Not Allowed for url: https://www.colmenar.es/",
-      "category": "method_not_allowed"
-    },
-    {
       "name": "Entradas.com Málaga · espectáculos",
       "detail": "robots.txt no permite o no pudo comprobarse",
       "category": "access_restricted"
@@ -59,38 +54,33 @@
       "name": "AVV Teatinos Ciudad de la Justicia",
       "detail": "robots.txt no permite o no pudo comprobarse",
       "category": "access_restricted"
-    },
-    {
-      "name": "Luces de La Concepción · espectáculo navideño",
-      "detail": "robots.txt no permite o no pudo comprobarse",
-      "category": "access_restricted"
     }
   ],
   "last_full_scan": "2026-11-09T09:16:16+00:00",
-  "days_since_full_scan": 0.0,
+  "days_since_full_scan": 0.2,
   "last_radar": "2026-11-09T09:26:42+00:00",
-  "days_since_radar": 0.0,
+  "days_since_radar": 0.2,
   "last_verifier": "2026-11-09T09:29:35+00:00",
-  "days_since_verifier": 0.0,
+  "days_since_verifier": 0.2,
   "cases_total": 527,
-  "cases_to_investigate": 24,
-  "cases_high_confidence": 23,
-  "cases_stale_high_confidence": 14,
-  "cases_uninvestigated_high_confidence": 8,
+  "cases_to_investigate": 14,
+  "cases_high_confidence": 13,
+  "cases_stale_high_confidence": 4,
+  "cases_uninvestigated_high_confidence": 5,
   "last_case_investigation": "2026-11-09T09:28:49+00:00",
   "last_broad_scout": "2026-11-09T09:26:42+00:00",
   "broad_scout_new_leads": 28,
-  "ai_hunt_brief_generated": "2026-11-09T09:30:45+00:00",
+  "ai_hunt_brief_generated": "2026-11-09T13:15:11+00:00",
   "ai_hunt_broad_candidates": 22,
   "ai_independent_published": 44,
-  "ai_case_published": 10,
+  "ai_case_published": 11,
   "age_missing": 151,
   "municipalities_with_events": 15,
   "coverage_by_town": {
     "Málaga": 98,
     "Benalmádena": 17,
     "Marbella": 12,
-    "Fuengirola": 8,
+    "Fuengirola": 9,
     "Antequera": 7,
     "Vélez-Málaga": 7,
     "Ronda": 4,
@@ -104,8 +94,8 @@
     "Estepona": 1
   },
   "alerts": [
-    "10 fuentes con error en su última consulta",
-    "3 fuentes aún sin primera revisión",
-    "8 casos de alta confianza llevan más de 48 h sin investigar"
+    "8 fuentes con error en su última consulta",
+    "4 fuentes aún sin primera revisión",
+    "5 casos de alta confianza llevan más de 48 h sin investigar"
   ]
 }

@@ -55,7 +55,15 @@
     "status": "error",
     "last_checked": "2026-11-09T09:16:16+00:00",
     "notes": "Comprobar sesiones y entradas",
-    "last_error": "403 Client Error: Forbidden for url: https://teatrocervantes.com/es/programacion/teatro-cervantes/"
+    "last_error": "403 Client Error: Forbidden for url: https://teatrocervantes.com/es/programacion/teatro-cervantes/",
+    "access_audit": {
+      "checked_at": "2026-11-09T13:13:22+00:00",
+      "result": "robots_disallow",
+      "url": "https://teatrocervantes.com/es/programacion/teatro-cervantes/",
+      "robots_http_status": 200,
+      "page_http_status": null,
+      "fallback_source_id": "SRC-011"
+    }
   },
   {
     "id": "SRC-005",
@@ -68,7 +76,15 @@
     "status": "error",
     "last_checked": "2026-11-09T09:16:16+00:00",
     "notes": "Programación infantil y familiar",
-    "last_error": "403 Client Error: Forbidden for url: https://www.teatrocervantes.com/es/programacion/teatro-echegaray/"
+    "last_error": "403 Client Error: Forbidden for url: https://www.teatrocervantes.com/es/programacion/teatro-echegaray/",
+    "access_audit": {
+      "checked_at": "2026-11-09T13:13:22+00:00",
+      "result": "robots_disallow",
+      "url": "https://www.teatrocervantes.com/es/programacion/teatro-echegaray/",
+      "robots_http_status": 200,
+      "page_http_status": null,
+      "fallback_source_id": "SRC-011"
+    }
   },
   {
     "id": "SRC-006",
@@ -389,7 +405,15 @@
     "status": "error",
     "last_checked": "2026-11-09T09:16:16+00:00",
     "notes": "Acciones temáticas y familiares",
-    "last_error": "robots.txt no permite o no pudo comprobarse"
+    "last_error": "robots.txt no permite o no pudo comprobarse",
+    "access_audit": {
+      "checked_at": "2026-11-09T13:13:22+00:00",
+      "result": "robots_disallow",
+      "url": "https://www.vialiamalaga.es/",
+      "robots_http_status": 200,
+      "page_http_status": null,
+      "fallback_source_id": null
+    }
   },
   {
     "id": "SRC-028",
@@ -428,7 +452,15 @@
     "status": "error",
     "last_checked": "2026-11-09T09:16:16+00:00",
     "notes": "Eventos municipales y propuestas familiares",
-    "last_error": "405 Client Error: Not Allowed for url: https://www.visitacostadelsol.com/"
+    "last_error": "405 Client Error: Not Allowed for url: https://www.visitacostadelsol.com/",
+    "access_audit": {
+      "checked_at": "2026-11-09T13:13:22+00:00",
+      "result": "captcha",
+      "url": "https://www.visitacostadelsol.com/",
+      "robots_http_status": 405,
+      "page_http_status": 405,
+      "fallback_source_id": null
+    }
   },
   {
     "id": "SRC-031",
@@ -485,7 +517,15 @@
     "status": "error",
     "last_checked": "2026-11-09T09:16:16+00:00",
     "notes": "Fiestas, actividades y cultura",
-    "last_error": "robots.txt no permite o no pudo comprobarse"
+    "last_error": "robots.txt no permite o no pudo comprobarse",
+    "access_audit": {
+      "checked_at": "2026-11-09T13:13:22+00:00",
+      "result": "robots_disallow",
+      "url": "https://www.torremolinos.es/",
+      "robots_http_status": 200,
+      "page_http_status": null,
+      "fallback_source_id": "SRC-082"
+    }
   },
   {
     "id": "SRC-035",
@@ -658,7 +698,15 @@
     "watch_urls": [
       "https://www.laberintuspark.com/en/scream-park-event/"
     ],
-    "last_error": "robots.txt no permite o no pudo comprobarse"
+    "last_error": "robots.txt no permite o no pudo comprobarse",
+    "access_audit": {
+      "checked_at": "2026-11-09T13:13:22+00:00",
+      "result": "access_denied",
+      "url": "https://www.laberintuspark.com/",
+      "robots_http_status": 403,
+      "page_http_status": null,
+      "fallback_source_id": null
+    }
   },
   {
     "id": "SRC-046",
@@ -722,18 +770,25 @@
   },
   {
     "id": "SRC-050",
-    "name": "Ayuntamiento de Colmenar · Cultura y fiestas",
-    "url": "https://www.colmenar.es/",
+    "name": "Ayuntamiento de Colmenar · Colmenar Informa",
+    "url": "https://www.bandomovil.com/colmenar",
     "type": "Ayuntamiento",
     "area": "Colmenar",
     "priority": "Media",
-    "notes": "El dominio colmenar.es consta en fuente institucional. Comprobar que publica una agenda y, de lo contrario, usarlo solo como fuente candidata.",
+    "notes": "El dominio colmenar.es consta en fuente institucional. Comprobar que publica una agenda y, de lo contrario, usarlo solo como fuente candidata. Auditoría 09-11-2026: colmenar.es devuelve CAPTCHA 405. Sustituido por el canal municipal Colmenar Informa, verificado accesible respetando robots. Sus publicaciones pueden ser antiguas: contrastar siempre el año.",
     "max_links": 4,
     "approved": true,
-    "status": "error",
-    "last_checked": "2026-11-09T09:16:16+00:00",
+    "status": "pendiente",
     "first_seen": "2026-10-13",
-    "last_error": "405 Client Error: Not Allowed for url: https://www.colmenar.es/"
+    "access_audit": {
+      "checked_at": "2026-11-09T13:13:22+00:00",
+      "result": "captcha",
+      "url": "https://www.colmenar.es/",
+      "robots_http_status": 405,
+      "page_http_status": 405,
+      "fallback_source_id": null,
+      "replacement_url": "https://www.bandomovil.com/colmenar"
+    }
   },
   {
     "id": "SRC-051",
@@ -1020,7 +1075,15 @@
       "https://www.entradas.com/artist/circo-quiros/circo-quiros-malaga-4233182/"
     ],
     "last_checked": "2026-11-09T09:16:16+00:00",
-    "last_error": "robots.txt no permite o no pudo comprobarse"
+    "last_error": "robots.txt no permite o no pudo comprobarse",
+    "access_audit": {
+      "checked_at": "2026-11-09T13:13:22+00:00",
+      "result": "temporary_unavailable",
+      "url": "https://www.entradas.com/city/malaga-490/musicales-y-shows-83/",
+      "robots_http_status": 503,
+      "page_http_status": 503,
+      "fallback_source_id": null
+    }
   },
   {
     "id": "SRC-068",
@@ -1069,7 +1132,15 @@
     "max_links": 4,
     "watch_urls": [],
     "last_checked": "2026-11-09T09:16:16+00:00",
-    "last_error": "robots.txt no permite o no pudo comprobarse"
+    "last_error": "robots.txt no permite o no pudo comprobarse",
+    "access_audit": {
+      "checked_at": "2026-11-09T13:13:22+00:00",
+      "result": "robots_disallow",
+      "url": "https://www.instagram.com/avvteatinos/",
+      "robots_http_status": 200,
+      "page_http_status": null,
+      "fallback_source_id": null
+    }
   },
   {
     "id": "SRC-071",
@@ -1198,11 +1269,19 @@
     "priority": "Alta",
     "notes": "Temporada navideña, espectáculos de luces familiares; contrastar cartel y fechas con ticketing oficial",
     "approved": true,
-    "status": "error",
+    "status": "consultada",
     "broad_discovery": true,
     "id": "SRC-077",
-    "last_checked": "2026-11-09T09:16:16+00:00",
-    "last_error": "robots.txt no permite o no pudo comprobarse"
+    "last_checked": "2026-11-09T13:13:22+00:00",
+    "access_audit": {
+      "checked_at": "2026-11-09T13:13:22+00:00",
+      "result": "recovered",
+      "url": "https://lucesdelaconcepcion.es/",
+      "robots_http_status": 200,
+      "page_http_status": 200,
+      "fallback_source_id": null,
+      "detail": "Fetch directo verificado con update.Fetcher, respetando robots; no equivale a un rastreo completo de sus enlaces."
+    }
   },
   {
     "name": "Surentradas · espectáculos familiares",
