@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T00:15:27+00:00",
+  "updated_at": "2026-11-10T15:33:23+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -254,6 +254,36 @@
             "17:30"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
+        },
+        {
+          "date": "2026-11-13",
+          "cinema": "Cines La Verónica",
+          "town": "Antequera",
+          "times": [
+            "17:15",
+            "20:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
+        },
+        {
+          "date": "2026-11-14",
+          "cinema": "Cines La Verónica",
+          "town": "Antequera",
+          "times": [
+            "17:15",
+            "20:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
+        },
+        {
+          "date": "2026-11-15",
+          "cinema": "Cines La Verónica",
+          "town": "Antequera",
+          "times": [
+            "17:15",
+            "20:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
         }
       ],
       "id": "MOV-576539DB8FC3"
