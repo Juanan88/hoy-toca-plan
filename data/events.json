@@ -1034,7 +1034,7 @@
     "details": "Concierto participativo de canciones infantiles de Grupo Golosinas, con repertorio tradicional y moderno. No se infiere edad recomendada de las condiciones de pago de bebés.",
     "evidence": "La ficha del promotor GTM confirma sábado 14 de noviembre de 2026 a las 18:00 en Auditorio AM de Málaga y describe expresamente canciones infantiles, baile y participación de niños junto a sus familias.",
     "first_seen": "2026-10-23",
-    "last_checked": "2026-11-10T00:15:30+00:00",
+    "last_checked": "2026-11-11T09:34:16+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -3501,7 +3501,7 @@
     "details": "Espectáculo navideño musical en el que los elfos y Papá Noel intentan impedir que el Grinch arruine la Navidad. La descripción oficial confirma público familiar.",
     "evidence": "La ficha oficial de GTM anuncia el domingo 6 de diciembre de 2026 a las 12:30 en Auditorio AM de Málaga y describe expresamente una aventura navideña de elfos, Papá Noel y el Grinch con magia y música para toda la familia.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-10T00:15:30+00:00",
+    "last_checked": "2026-11-11T09:34:16+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -3790,7 +3790,7 @@
     "details": "Musical en directo protagonizado por los personajes Momonsters: canciones, bailes, humor y aventura sobre los talentos personales, la amistad y el trabajo en equipo. Público infantil y familiar.",
     "evidence": "La cartelera oficial GTM fija sábado 12 de diciembre de 2026 a las 17:00 en Auditorio AM, Málaga; la sinopsis presenta un musical interactivo en vivo donde los más pequeños cantan y bailan con Momonsters.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-10T00:15:30+00:00",
+    "last_checked": "2026-11-11T09:34:16+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -4787,7 +4787,7 @@
     "title": "Navidad Creativa con A2PC · Ronda",
     "start": "2026-12-28",
     "end": "2026-12-30",
-    "time": "11:00",
+    "time": "Horarios según sesión",
     "town": "Ronda",
     "venue": "Centro Fundación Unicaja Ronda · C/ Sor Ángela de la Cruz",
     "category": "Otros planes familiares",
@@ -4802,7 +4802,7 @@
     "details": "Sesión creativa de manualidades navideñas, dibujo y pintura abierta a participantes de todas las edades. Inscripciones a partir del 14 de diciembre.",
     "evidence": "La agenda oficial de Aula Abierta Ronda anuncia el 28 de diciembre de 2026, de 11:00 a 13:00, Navidad Creativa con A2PC: dibujo, pintura y manualidades para participantes tengan la edad que tengan.",
     "first_seen": "2026-10-28",
-    "last_checked": "2026-10-28T09:41:22+00:00",
+    "last_checked": "2026-11-11T09:40:09+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -4812,7 +4812,7 @@
       "2026-12-30"
     ],
     "interval_kind": "recurring_dates",
-    "schedule_note": "Solo los días concretos indicados."
+    "schedule_note": "Horarios publicados por sesión: 28/12: 11:00; 29/12: 11:00–13:00; 30/12: 11:00–13:00"
   },
   {
     "id": "EVT-IA-B52F845312",
