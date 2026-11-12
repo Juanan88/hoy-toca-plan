@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-11T09:40:09+00:00",
+  "generated_at": "2026-11-12T15:42:59+00:00",
   "level": "attention",
-  "events": 165,
+  "events": 174,
   "sources": 86,
   "catalog_drift": false,
   "last_scan_snapshot": {
-    "events": 165,
+    "events": 174,
     "sources": 86
   },
-  "discoveries_pending": 782,
-  "discoveries_unresolved": 871,
-  "unverified_events": 33,
-  "known_age": 15,
+  "discoveries_pending": 779,
+  "discoveries_unresolved": 870,
+  "unverified_events": 35,
+  "known_age": 16,
   "sources_never_checked": 3,
-  "sources_failed": 8,
+  "sources_failed": 10,
   "source_errors": [
     {
       "name": "Teatro Cervantes y Echegaray",
-      "detail": "403 Client Error: Forbidden for url: https://teatrocervantes.com/es/programacion/teatro-cervantes/",
-      "category": "access_denied"
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     },
     {
       "name": "Teatro Echegaray",
-      "detail": "403 Client Error: Forbidden for url: https://www.teatrocervantes.com/es/programacion/teatro-echegaray/",
-      "category": "access_denied"
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     },
     {
       "name": "CC Vialia Málaga",
@@ -46,6 +46,11 @@
       "category": "access_restricted"
     },
     {
+      "name": "Puente Romano Marbella · actividades para familias",
+      "detail": "404 Client Error: Not Found for url: https://www.puenteromano.com/es/actividades/halloween-weekend/",
+      "category": "broken_url"
+    },
+    {
       "name": "Entradas.com Málaga · espectáculos",
       "detail": "robots.txt no permite o no pudo comprobarse",
       "category": "access_restricted"
@@ -54,33 +59,38 @@
       "name": "AVV Teatinos Ciudad de la Justicia",
       "detail": "robots.txt no permite o no pudo comprobarse",
       "category": "access_restricted"
+    },
+    {
+      "name": "Luces de La Concepción · espectáculo navideño",
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     }
   ],
-  "last_full_scan": "2026-11-09T09:16:16+00:00",
-  "days_since_full_scan": 2.0,
-  "last_radar": "2026-11-11T09:35:26+00:00",
+  "last_full_scan": "2026-11-12T15:26:17+00:00",
+  "days_since_full_scan": 0.0,
+  "last_radar": "2026-11-12T15:37:08+00:00",
   "days_since_radar": 0.0,
-  "last_verifier": "2026-11-11T09:38:04+00:00",
+  "last_verifier": "2026-11-12T15:41:08+00:00",
   "days_since_verifier": 0.0,
-  "cases_total": 536,
-  "cases_to_investigate": 25,
-  "cases_high_confidence": 24,
-  "cases_stale_high_confidence": 21,
+  "cases_total": 496,
+  "cases_to_investigate": 32,
+  "cases_high_confidence": 31,
+  "cases_stale_high_confidence": 24,
   "cases_uninvestigated_high_confidence": 6,
-  "last_case_investigation": "2026-11-11T09:37:16+00:00",
-  "last_broad_scout": "2026-11-11T09:35:26+00:00",
-  "broad_scout_new_leads": 11,
-  "ai_hunt_brief_generated": "2026-11-11T09:39:16+00:00",
+  "last_case_investigation": "2026-11-12T15:39:27+00:00",
+  "last_broad_scout": "2026-11-12T15:37:08+00:00",
+  "broad_scout_new_leads": 20,
+  "ai_hunt_brief_generated": "2026-11-12T15:42:31+00:00",
   "ai_hunt_broad_candidates": 22,
   "ai_independent_published": 44,
   "ai_case_published": 11,
-  "age_missing": 150,
-  "municipalities_with_events": 15,
+  "age_missing": 158,
+  "municipalities_with_events": 16,
   "coverage_by_town": {
-    "Málaga": 98,
+    "Málaga": 105,
     "Benalmádena": 17,
     "Marbella": 12,
-    "Fuengirola": 9,
+    "Fuengirola": 10,
     "Vélez-Málaga": 7,
     "Antequera": 6,
     "Ronda": 4,
@@ -88,13 +98,14 @@
     "Alhaurín de la Torre": 2,
     "Nerja": 2,
     "Colmenar": 1,
+    "Yunquera": 1,
     "Torremolinos": 1,
     "Alhaurín el Grande": 1,
     "Torrox": 1,
     "Estepona": 1
   },
   "alerts": [
-    "8 fuentes con error en su última consulta",
+    "10 fuentes con error en su última consulta",
     "3 fuentes aún sin primera revisión",
     "6 casos de alta confianza llevan más de 48 h sin investigar"
   ]

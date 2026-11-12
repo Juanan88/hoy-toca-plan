@@ -18,7 +18,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en La Térmica, Málaga, el 16 de octubre a las 17:00.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:17:41+00:00",
+    "last_checked": "2026-11-12T15:28:03+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -71,7 +71,7 @@
     "status": "publicada_en_fuente",
     "details": "Taller de programación de videojuegos con Roblox y Unity en La Térmica (Málaga), a las 10:00. Sesiones registradas los sábados 17, 24 y 31 de octubre y 7, 14, 21 y 28 de noviembre de 2026. Consulta la ficha del organizador para confirmar cada sesión.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:17:41+00:00",
+    "last_checked": "2026-11-12T15:28:03+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -342,12 +342,11 @@
       "2026-11-29"
     ],
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-09T09:16:26+00:00",
+    "last_checked": "2026-11-12T15:26:25+00:00",
     "origin": "json-ld",
     "interval_kind": "recurring_dates",
-    "schedule_note": "Horarios publicados por sesión: 07/11: 20:00; 08/11: 12:00; 12/11: 10:30; 14/11: 19:00; 15/11: 12:00; 17/11: 10:30; 18/11: 10:30; 19/11: 10:30; 20/11: 20:00; 21/11: 20:00; 22/11: 12:00; 24/11: 10:30; 25/11: 10:30; 26/11: 10:30; 27/11: 20:00; 28/11: 20:00; 29/11: 12:00",
+    "schedule_note": "Horarios publicados por sesión: 07/11: Horarios según sesión; 12/11: 10:30; 14/11: 19:00; 15/11: 12:00; 17/11: 10:30; 18/11: 10:30; 19/11: 10:30; 20/11: 20:00; 21/11: 20:00; 22/11: 12:00; 24/11: 10:30; 25/11: 10:30; 26/11: 10:30; 27/11: 20:00; 28/11: 20:00; 29/11: 12:00",
     "secondary_sources": [
-      "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-08/",
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-12/",
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-14/",
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-15/",
@@ -362,7 +361,8 @@
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-26/",
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-27/",
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-28/",
-      "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-29/"
+      "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-29/",
+      "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-08/"
     ]
   },
   {
@@ -598,38 +598,39 @@
     "origin": "json-ld"
   },
   {
-    "id": "EVT-6AA6B82FCBEC",
-    "title": "AGENDA: Consultoría educativa gratis para niños y adolescentes: gestión del tiempo y productividad en el estudio",
-    "start": "2026-11-11",
-    "end": "2026-11-11",
-    "time": "11:00",
+    "id": "EVT-F2517B5D4A8A",
+    "title": "AGENDA: El CC Miramar inaugura la Navidad con ‘El Poblado de los Sueños’: talleres, teatro y visita a Papá Noel",
+    "start": "2026-11-10",
+    "end": "2027-01-07",
+    "time": "00:00",
     "town": "Málaga",
-    "venue": "Biblioteca Cánovas del Castillo",
-    "category": "Lectura y cuentos",
+    "venue": "Centro Comercial Miramar",
+    "category": "Talleres y aprendizaje",
     "age_min": null,
     "age_max": null,
     "age_label": "Edad sin confirmar",
     "price_label": "Por confirmar",
     "duration_minutes": null,
-    "address": "C. Ollerías, 34",
+    "address": "CC. Miramar- Avda. de la Encarnación, s/n, 29640 - Fuengirola (Málaga)",
     "reservation_url": null,
     "field_sources": {
       "address": {
-        "source_url": "https://ladiversiva.com/actividad/agenda-consultoria-educativa-gratis-para-ninos-y-adolescentes-gestion-del-tiempo-y-productividad-en-el-estudio-2/2026-11-11/",
-        "quote": "C. Ollerías, 34",
+        "source_url": "https://ladiversiva.com/actividad/agenda-el-cc-miramar-inaugura-la-navidad-con-el-poblado-de-los-suenos-talleres-teatro-y-visita-a-papa-noel-2/",
+        "quote": "CC. Miramar- Avda. de la Encarnación, s/n, 29640 - Fuengirola (Málaga)",
         "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
       }
     },
     "audience": "Consultar organizador",
     "source_name": "La Diversiva",
-    "source_url": "https://ladiversiva.com/actividad/agenda-consultoria-educativa-gratis-para-ninos-y-adolescentes-gestion-del-tiempo-y-productividad-en-el-estudio-2/2026-11-11/",
-    "status": "publicada_en_fuente",
-    "details": "La Biblioteca Cánovas del Castillo de la Diputación de Málaga organiza sesiones de consultoría educativa gratis durante todo el año 2026 (excepto junio, julio y agosto). A lo largo de cada mes habrá cuatro sesiones de esta actividad, que irán alternando en horario de mañana y de tarde, para adaptarse a todos los usuarios. Descubre más información sobre […]",
-    "schedule_unconfirmed": false,
+    "source_url": "https://ladiversiva.com/actividad/agenda-el-cc-miramar-inaugura-la-navidad-con-el-poblado-de-los-suenos-talleres-teatro-y-visita-a-papa-noel-2/",
+    "status": "pendiente",
+    "details": "El centro comercial Miramar de Fuengirola se llena de magia para recibir la Navidad con ‘El Poblado de los Sueños’. Esto es una propuesta pensada para que niños y familias […] · Fechas de programación: consultar los días concretos de función.",
+    "schedule_unconfirmed": true,
     "occurrences": null,
-    "first_seen": "2026-11-09",
-    "last_checked": "2026-11-09T09:16:26+00:00",
-    "origin": "json-ld"
+    "first_seen": "2026-11-12",
+    "last_checked": "2026-11-12T15:26:25+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-F1AF30820BFA",
@@ -659,7 +660,7 @@
       "2026-11-12"
     ],
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-09T09:18:34+00:00",
+    "last_checked": "2026-11-12T15:28:48+00:00",
     "origin": "json-ld",
     "secondary_sources": [],
     "interval_kind": "recurring_dates",
@@ -696,8 +697,9 @@
     "schedule_unconfirmed": true,
     "occurrences": null,
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-09T09:16:26+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-11-12T15:26:25+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-IA-A05E724142",
@@ -725,6 +727,61 @@
     "status": "publicada_en_fuente"
   },
   {
+    "id": "EVT-TXT-4634CD503D",
+    "title": "SERPeques: espectáculos infantiles, cuentayoga y Halloween en Málaga",
+    "start": "2026-11-12",
+    "end": "2026-11-12",
+    "time": "Por confirmar",
+    "town": "Málaga",
+    "venue": "Por confirmar",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {
+      "start": {
+        "source_url": "https://cadenaser.com/andalucia/2026/10/23/serpeques-espectaculos-infantiles-cuentayoga-y-halloween-en-malaga-ser-malaga/",
+        "quote": "laga Colapso total este jueves en las carreteras de Málaga tras el accidente del camión en el túnel de Carlos Haya 12/11/2026 12/11/2026 De plantar al PSOE a encerrarse en Gran Her",
+        "evidence": "Fecha futura explícita vinculada al evento."
+      },
+      "town": {
+        "source_url": "https://cadenaser.com/andalucia/2026/10/23/serpeques-espectaculos-infantiles-cuentayoga-y-halloween-en-malaga-ser-malaga/",
+        "quote": "Málaga",
+        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
+      },
+      "audience": {
+        "source_url": "https://cadenaser.com/andalucia/2026/10/23/serpeques-espectaculos-infantiles-cuentayoga-y-halloween-en-malaga-ser-malaga/",
+        "quote": "infantil/familiar",
+        "evidence": "El evento se presenta explícitamente como infantil o familiar."
+      },
+      "corroboration": {
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0hVWGUyTVZ1UFc4UjVNY19VRVEtTVdqSTFnMGx6SGlIa3NiX1B5d3ViNktVNXlJelB3VlFyMDk2S2NWS21tellZOGk0dno1UDc0RG40dTNIM2JzV2ZPN1NmSkRFZmtxSGNRVzVVb1ZSRG5hdzd5T3ZaWkV1RUtzZjYybTR5dm9WQ1lKTlJjYXdxbUlBQUdNaXc3d0U1QUx5aGZ5Zk81NmU5TDQyb3lOc21UNDJpbmUzSEFubFV30gHSAUFVX3lxTE11V0l1MlBfenAzMC1BWkRlazdvUTk4MTh2R1p5ZGJ2Rk1ibWlzNkZUMWdBOHFlWDRwTWpMUHhER01zT1BEMm51WXhjeC01eVQxTnp0VldmUWR0ZUM3R0lwa1B2QTNhaWhZQkZKeERLdmZfSFRGa0dTcXhYQzdNZjRicmttY04xUUhSWklHQktBX0VSS1IzcGZ1eVNNVmtFSlFpdUdWWlpSRkl0ejBfOHcycGZrZmR1OWNYSG1vckpuRTF0ZGNxN3BhTFdMVC1VZEZKQQ?oc=5",
+        "quote": "SERPeques: espectáculos infantiles, cuentayoga y Halloween en Málaga - Cadena SER",
+        "evidence": "Segunda fuente independiente con varias palabras relevantes coincidentes."
+      }
+    },
+    "audience": "Infantil y familiar",
+    "source_name": "SERpeques / Cadena SER Málaga",
+    "source_url": "https://cadenaser.com/andalucia/2026/10/23/serpeques-espectaculos-infantiles-cuentayoga-y-halloween-en-malaga-ser-malaga/",
+    "status": "publicada_en_fuente",
+    "details": "La agenda para las familias con niños en SER Málaga con La Diversiva",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "interval_kind": null,
+    "schedule_note": null,
+    "first_seen": "2026-11-09",
+    "last_checked": "2026-11-12T15:39:43+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 100,
+    "verification_method": "evidencia textual fuerte",
+    "evidence": "actividad concreta · fecha futura explícita · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
+  },
+  {
     "id": "EVT-IA-FD78629625",
     "title": "Tumbalafusta · teatro de objetos para familias",
     "start": "2026-11-12",
@@ -750,6 +807,74 @@
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente"
+  },
+  {
+    "id": "EVT-C72560823926",
+    "title": "Visita de la Nao Santa María a Fuengirola",
+    "start": "2026-11-12",
+    "end": "2026-11-13",
+    "time": "10:00",
+    "town": "Málaga",
+    "venue": "Puerto deportivo de Fuengirola",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": null,
+    "field_sources": {},
+    "audience": "Consultar organizador",
+    "source_name": "Más Málaga",
+    "source_url": "https://mmalaga.es/agenda/visita-barco-nao-santa-maria-a-malaga/",
+    "status": "publicada_en_fuente",
+    "details": "La Nao Santa María, uno de los barcos del viaje de Cristóbal Colón, atraca en el Puerto deportivo de Fuengirola del 11 al 22 noviembre 2026. Visita auto guiada por las diferentes cubiertas del barco.Localización: Puerto deportivo de Fuengirola Una oportunidad única para subir a bordo, recorrer sus cubiertas y descubrir cómo se vivía en el mar hace más de 500 años. Una experiencia para toda la familia y también para colegios, con visitas guiadas !",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-11-12",
+      "2026-11-13"
+    ],
+    "first_seen": "2026-11-12",
+    "last_checked": "2026-11-12T15:28:48+00:00",
+    "origin": "json-ld",
+    "secondary_sources": [],
+    "interval_kind": "recurring_dates",
+    "schedule_note": "Solo los días concretos indicados."
+  },
+  {
+    "id": "EVT-8E847EFAD8E2",
+    "title": "AGENDA: Actividades para niños gratis en noviembre del Centro Comercial Rosaleda de Málaga",
+    "start": "2026-11-13",
+    "end": "2026-11-13",
+    "time": "18:30",
+    "town": "Málaga",
+    "venue": "Centro Comercial Rosaleda",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "Av. Simón Bolívar, S/N, 29011 Málaga",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://ladiversiva.com/actividad/agenda-actividades-para-ninos-gratis-en-noviembre-del-centro-comercial-rosaleda-de-malaga-3/2026-11-13/",
+        "quote": "Av. Simón Bolívar, S/N, 29011 Málaga",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "La Diversiva",
+    "source_url": "https://ladiversiva.com/actividad/agenda-actividades-para-ninos-gratis-en-noviembre-del-centro-comercial-rosaleda-de-malaga-3/2026-11-13/",
+    "status": "publicada_en_fuente",
+    "details": "El Centro Comercial Rosaleda de Málaga tiene preparado para el mes de noviembre varios talleres creativos y actividades para niños gratis donde lo pasarán genial. Las actividades están diseñadas para peques desde los 3 a los 10 años. Desde La Diversiva os damos todos los detalles de lo que tiene preparado el Club Rositas: Descubre más sobre Actividades para niños gratis en noviembre del […]",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-12",
+    "last_checked": "2026-11-12T15:26:25+00:00",
+    "origin": "json-ld"
   },
   {
     "id": "EVT-B23A0B7596AE",
@@ -817,8 +942,44 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-09T09:16:26+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-11-12T15:26:25+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
+  },
+  {
+    "id": "EVT-EFA6396261EB",
+    "title": "AGENDA: Taller de cerámica para familias en Fuengirola",
+    "start": "2026-11-13",
+    "end": "2026-11-13",
+    "time": "17:00",
+    "town": "Fuengirola",
+    "venue": "Fuengirola",
+    "category": "Talleres y aprendizaje",
+    "age_min": 6,
+    "age_max": null,
+    "age_label": "Desde 6 años",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "Tenencia de Alcaldía de El Boquetillo, en la calle Miguel Bueno, 18",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://ladiversiva.com/actividad/agenda-taller-de-ceramica-para-familias-en-fuengirola/2026-11-13/",
+        "quote": "Tenencia de Alcaldía de El Boquetillo, en la calle Miguel Bueno, 18",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "La Diversiva",
+    "source_url": "https://ladiversiva.com/actividad/agenda-taller-de-ceramica-para-familias-en-fuengirola/2026-11-13/",
+    "status": "publicada_en_fuente",
+    "details": "El Ayuntamiento de Fuengirola ha creado un taller de cerámica dirigido a familias. Podréis asistir con niños y niñas a partir de los 6 años. El taller para familias será […]",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-12",
+    "last_checked": "2026-11-12T15:26:25+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-C17FC314F4A0",
@@ -851,8 +1012,9 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-09T09:16:26+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-11-12T15:26:25+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-0A9977CE4A39",
@@ -885,8 +1047,9 @@
     "schedule_unconfirmed": true,
     "occurrences": null,
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-09T09:16:26+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-11-12T15:26:25+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-5D2562302344",
@@ -913,8 +1076,9 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-09T09:18:34+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-11-12T15:28:48+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-E80A682BC682",
@@ -986,8 +1150,9 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-09T09:17:33+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-11-12T15:27:55+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-IA-C621BCFB62",
@@ -1015,6 +1180,41 @@
     "status": "publicada_en_fuente"
   },
   {
+    "id": "EVT-94C68EE969E0",
+    "title": "AGENDA: Mercadillos temáticos para disfrutar en familia en Málaga Factory",
+    "start": "2026-11-14",
+    "end": "2026-11-14",
+    "time": "00:00",
+    "town": "Málaga",
+    "venue": "Málaga Factory",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "C. Jaén, 3,",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://ladiversiva.com/actividad/agenda-mercadillos-tematicos-para-disfrutar-en-familia-en-malaga-factory/2026-11-14/",
+        "quote": "C. Jaén, 3,",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "La Diversiva",
+    "source_url": "https://ladiversiva.com/actividad/agenda-mercadillos-tematicos-para-disfrutar-en-familia-en-malaga-factory/2026-11-14/",
+    "status": "publicada_en_fuente",
+    "details": "Los populares mercadillos temáticos de Málaga Nostrum cambian de ubicación. A partir del mes de mayo, estas actividades mensuales, que hasta ahora se realizaban en el espacio de ocio del parque comercial, pasarán […]",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-12",
+    "last_checked": "2026-11-12T15:26:25+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
+  },
+  {
     "id": "EVT-IA-E13ED157E3",
     "title": "Canta Juegos · Grupo Golosinas",
     "start": "2026-11-14",
@@ -1034,7 +1234,7 @@
     "details": "Concierto participativo de canciones infantiles de Grupo Golosinas, con repertorio tradicional y moderno. No se infiere edad recomendada de las condiciones de pago de bebés.",
     "evidence": "La ficha del promotor GTM confirma sábado 14 de noviembre de 2026 a las 18:00 en Auditorio AM de Málaga y describe expresamente canciones infantiles, baile y participación de niños junto a sus familias.",
     "first_seen": "2026-10-23",
-    "last_checked": "2026-11-11T09:34:16+00:00",
+    "last_checked": "2026-11-12T15:36:00+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -1064,7 +1264,7 @@
     "details": "Espectáculo musical de La Cajita Musical de Málaga basado en el cuento de Cenicienta, con canciones, baile y personajes infantiles. Función el 14 de noviembre a las 12:30 en el Auditorio La Caja Blanca. Edad recomendada no publicada; el requisito de entrada para mayores de 12 meses no es una recomendación de edad.",
     "evidence": "Giglon confirma 'CUENTO MUSICAL CENICIENTA', Auditorio La Caja Blanca, Málaga, 14/11/2026 a las 12:30, con entradas desde 7 € y descripción infantil de un cuento musical. La agenda municipal de Juventud Málaga lista 'CENICIENTA' EL MUSICAL para el 14/11/2026 en La Caja Blanca. No interpretar la condición de entrada de mayores de 12 meses como edad recomendada.",
     "first_seen": "2026-10-18",
-    "last_checked": "2026-11-09T09:17:41+00:00",
+    "last_checked": "2026-11-12T15:28:03+00:00",
     "origin": "Investigación IA programada, con fuente",
     "status": "publicada_en_fuente",
     "duration_minutes": null,
@@ -1135,7 +1335,7 @@
     "details": "Representación familiar del cuento clásico de los tres cerditos y el lobo.",
     "evidence": "La venta oficial de La Cochera confirma LOS TRES CERDITOS, Infantil / Familiar, sábado 14 de noviembre de 2026 a las 12:00, en La Cochera Cabaret de Málaga.",
     "first_seen": "2026-10-30",
-    "last_checked": "2026-11-09T09:17:41+00:00",
+    "last_checked": "2026-11-12T15:28:03+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -1180,7 +1380,7 @@
     "details": "Mago Nómada y Pirincho presentan un show de magia familiar en Sala Mirari.",
     "evidence": "La página oficial de Sala Mirari confirma «Magiliar» el sábado 14 de noviembre a las 17:00; la cartelera oficial lo identifica como En familia, +4 y 12 €.",
     "first_seen": "2026-10-17",
-    "last_checked": "2026-11-09T09:17:41+00:00",
+    "last_checked": "2026-11-12T15:28:03+00:00",
     "origin": "Investigación IA programada, con fuente",
     "status": "publicada_en_fuente",
     "reservation_url": "https://salamirari.com/reservar/?evento=546",
@@ -1266,7 +1466,7 @@
     "status": "publicada_en_fuente",
     "details": "Nuevos Mundos, de Modus Ensemble, llega al Teatro Cánovas de Málaga el sábado 14 de noviembre a las 19:00 y el domingo 15 de noviembre de 2026 a las 12:00. Un concierto para público familiar que descubre a niños y jóvenes la música sinfónica a partir de la Sinfonía del Nuevo Mundo de Antonín Dvořák",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-11-14",
@@ -1395,7 +1595,7 @@
       "2026-11-21"
     ],
     "first_seen": "2026-11-02",
-    "last_checked": "2026-11-09T09:17:41+00:00",
+    "last_checked": "2026-11-12T15:28:03+00:00",
     "origin": "json-ld",
     "secondary_sources": [
       "https://informalaga.es/agenda/taller-de-robotica-educativa-de-fin-de-semana-galilei-kids-noviembre-2026-2026-11-21"
@@ -1476,7 +1676,7 @@
     "status": "publicada_en_fuente",
     "details": "Robin Hood, de Jabetín Teatro, llega a La Cochera Cabaret de Málaga los domingos 15 y 22 de noviembre de 2026 a las 12:00. La compañía malagueña adapta la leyenda en clave de comedia musical para todos los públicos. Robin y Little John, dos amigos aventureros, se cruzan con personajes entrañables c · Fechas de programación: consultar los días concretos de función.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:17:41+00:00",
+    "last_checked": "2026-11-12T15:28:03+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-11-15",
@@ -1525,7 +1725,7 @@
     "status": "publicada_en_fuente",
     "details": "Peneque, cien por cien valiente, de Los Títeres de Miguel Pino, se representa en el Teatro Echegaray de Málaga el domingo 15 de noviembre de 2026, con pases a las 11:00 y a las 13:00. Una calabaza, un bigote y una maleta guían este homenaje a Miguel Pino, el titiritero extremeño que en 1959 empezó",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:17:41+00:00",
+    "last_checked": "2026-11-12T15:28:03+00:00",
     "origin": "json-ld",
     "age_source_url": "https://www.teatroechegaray.com/es/genero/teatro-infantil/temporada-2026-27/peneque-cien-por-cien-valiente-2152",
     "age_quote": "Títeres y actores. A partir de 3 años",
@@ -1610,9 +1810,43 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-05",
-    "last_checked": "2026-11-09T09:23:17+00:00",
+    "last_checked": "2026-11-12T15:33:35+00:00",
     "origin": "json-ld",
     "secondary_sources": []
+  },
+  {
+    "id": "EVT-EBB87D653A35",
+    "title": "Clases de psicomotricidad para niños de 3 a 6 años en Yunquera",
+    "start": "2026-11-17",
+    "end": "2026-11-17",
+    "time": "16:00",
+    "town": "Yunquera",
+    "venue": "CEIP Sierra de las Nieves",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": "https://forms.gle/qzehjinyYCiHmFqL9",
+    "field_sources": {
+      "reservation_url": {
+        "source_url": "https://informalaga.es/agenda/clases-de-psicomotricidad-para-ninos-de-3-a-6-anos-en-yunquera-ubkdu",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "InforMálaga",
+    "source_url": "https://informalaga.es/agenda/clases-de-psicomotricidad-para-ninos-de-3-a-6-anos-en-yunquera-ubkdu",
+    "status": "publicada_en_fuente",
+    "details": "Juego y movimiento para los más pequeños con la monitora Raquel Torres.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-12",
+    "last_checked": "2026-11-12T15:28:03+00:00",
+    "origin": "json-ld"
   },
   {
     "id": "EVT-IA-B900BDECF9",
@@ -1702,8 +1936,9 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-09T09:17:33+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-11-12T15:27:55+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-IA-C95552E1D5",
@@ -1752,7 +1987,7 @@
     "status": "publicada_en_fuente",
     "details": "El lago de los cisnes, por el Imperial Heritage Ballet, llega al Auditorio Municipal Príncipe de Asturias de Torremolinos el viernes 20 de noviembre de 2026 a las 20:30 (apertura de puertas a las 19:30). El gran clásico del ballet romántico, con música de Chaikovski y coreografía de Petipa e Ivanov",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -1787,7 +2022,7 @@
     "status": "publicada_en_fuente",
     "details": "El Rey León, tributo musical, se representa en el Teatro ESAD de Málaga del 20 de noviembre de 2026 al 3 de enero de 2027. El horario se elige al seleccionar el día en la web de entradas. Un espectáculo familiar en homenaje a la película de Disney, con Simba, Timón, Pumba, Scar y Rafiki recorriendo · Fechas de programación: consultar los días concretos de función.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-11-20"
@@ -1849,6 +2084,35 @@
     "origin": "json-ld"
   },
   {
+    "id": "EVT-18472D448366",
+    "title": "«De Simba a Kiara», musical familiar en el colegio La Salle",
+    "start": "2026-11-20",
+    "end": "2026-11-20",
+    "time": "17:00",
+    "town": "Málaga",
+    "venue": "Colegio La Salle",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": null,
+    "field_sources": {},
+    "audience": "Consultar organizador",
+    "source_name": "InforMálaga",
+    "source_url": "https://informalaga.es/agenda/de-simba-a-kiara-musical-familiar-en-el-colegio-la-salle-weivy",
+    "status": "publicada_en_fuente",
+    "details": "Tributo musical a El Rey León con voces en directo, para ver en familia.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-12",
+    "last_checked": "2026-11-12T15:28:03+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
+  },
+  {
     "id": "EVT-IA-3759D211F6",
     "title": "Bote navideño · Taller Pequesábados de la Biblioteca",
     "start": "2026-11-21",
@@ -1896,7 +2160,7 @@
     "details": "El Mago Cristian ofrece magia cómica e interactiva para público familiar en Sala Mirari.",
     "evidence": "La página oficial confirma «Jugando con la imaginación» el sábado 21 de noviembre a las 17:00; la cartelera oficial lo marca En familia, +4 y 12 €.",
     "first_seen": "2026-10-17",
-    "last_checked": "2026-11-09T09:17:41+00:00",
+    "last_checked": "2026-11-12T15:28:03+00:00",
     "origin": "Investigación IA programada, con fuente",
     "status": "publicada_en_fuente",
     "reservation_url": "https://salamirari.com/reservar/?evento=532",
@@ -1932,7 +2196,7 @@
     "status": "publicada_en_fuente",
     "details": "Mito sonoro llega a La Cochera Cabaret de Málaga el sábado 21 de noviembre de 2026 a las 12:30. En un mundo en el que los sonidos están desapareciendo, tres historias antiguas ayudan a recuperar la armonía: Orfeo, que demuestra que el arte puede superar cualquier obstáculo; una musa traviesa que de",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2016,7 +2280,7 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-02",
-    "last_checked": "2026-11-09T09:22:16+00:00",
+    "last_checked": "2026-11-12T15:32:34+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -2050,6 +2314,41 @@
     "secondary_sources": [
       "https://www.coleccionmuseoruso.es/event/sabados-en-familia-la-mejor-version/"
     ]
+  },
+  {
+    "id": "EVT-31782400BE15",
+    "title": "Taller de cerámica infantil",
+    "start": "2026-11-21",
+    "end": "2026-11-21",
+    "time": "10:30",
+    "town": "Málaga",
+    "venue": "La Térmica",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "avenida de los Guindos, 48",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/taller-de-ceramica-infantil-2026-11-28",
+        "quote": "avenida de los Guindos, 48",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "InforMálaga",
+    "source_url": "https://informalaga.es/agenda/taller-de-ceramica-infantil-2026-11-28",
+    "status": "publicada_en_fuente",
+    "details": "Infantil en La Térmica, Málaga, el 21 de noviembre a las 10:30.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-12",
+    "last_checked": "2026-11-12T15:28:03+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-699CF6FAC7E1",
@@ -2500,7 +2799,7 @@
     "status": "publicada_en_fuente",
     "details": "Mestizaje: redescubriendo el mundo del flamenco llega a La Cochera Cabaret de Málaga el sábado 28 de noviembre de 2026 a las 12:30. Un explorador y un investigador se intercambian las maletas por error, y de ese despiste nace una historia en la que un bailaor contemporáneo y DJ, aparentemente desor",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:17:41+00:00",
+    "last_checked": "2026-11-12T15:28:03+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2703,7 +3002,7 @@
     "reservation_required": true,
     "reservation_url": "https://docs.google.com/forms/d/e/1FAIpQLSdb5plTEetFDBDdGflPYxHvMMhMF03vGwTNg9_mnw4q7HI0iQ/viewform?usp=header",
     "origin": "programación oficial y formulario del organizador",
-    "last_checked": "2026-11-09T09:17:41+00:00",
+    "last_checked": "2026-11-12T15:28:03+00:00",
     "interval_kind": "recurring_dates",
     "schedule_unconfirmed": false,
     "schedule_verification": "fechas_contrastadas_en_fuente",
@@ -2780,7 +3079,7 @@
     "status": "publicada_en_fuente",
     "details": "Tributo Musical \"El Rey León\" Sábado 28 de Noviembre. 17:00h. Entradas en www.giglon.com y El Corte Inglés. Teatro Vicente Espinel.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:20:58+00:00",
+    "last_checked": "2026-11-12T15:31:19+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2797,6 +3096,34 @@
         "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
       }
     }
+  },
+  {
+    "id": "EVT-2341711E1F8C",
+    "title": "«Parque de la Fantasía», visita teatralizada en el Parque del Norte",
+    "start": "2026-11-28",
+    "end": "2026-12-06",
+    "time": "11:00",
+    "town": "Málaga",
+    "venue": "Parque del Norte",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": null,
+    "field_sources": {},
+    "audience": "Consultar organizador",
+    "source_name": "InforMálaga",
+    "source_url": "https://informalaga.es/agenda/parque-de-la-fantasia-visita-teatralizada-en-el-parque-del-norte-e712j",
+    "status": "pendiente",
+    "details": "Personajes de fantasía guían a las familias en una aventura para aprender a cuidar el medio ambiente. · Fechas de programación: consultar los días concretos de función.",
+    "schedule_unconfirmed": true,
+    "occurrences": null,
+    "first_seen": "2026-11-12",
+    "last_checked": "2026-11-12T15:28:03+00:00",
+    "origin": "json-ld"
   },
   {
     "id": "EVT-IA-577A340610",
@@ -2820,7 +3147,7 @@
     "details": "Bella y Bestia se representa en el Teatro Manuel España de Las Lagunas (Mijas) el domingo 29 de noviembre de 2026 a las 12:00. Un espectáculo infantil y familiar para la mañana del domingo. Entradas sin numerar a 10 € en venta anticipada en La Cochera Entradas.",
     "evidence": "La agenda oficial de Jabetín Teatro indica Bella y Bestia el domingo 29 de noviembre de 2026 en el Teatro Manuel España de Mijas a las 12:00.",
     "first_seen": "2026-10-13",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "status": "publicada_en_fuente",
     "duration_minutes": null,
@@ -2899,7 +3226,7 @@
     "status": "publicada_en_fuente",
     "details": "En las nubes, de la compañía valenciana La Negra, se representa en el Teatro Echegaray de Málaga el domingo 29 de noviembre de 2026, con pases a las 11:00 y a las 13:00. Un espectáculo de teatro de objetos para la primera infancia sobre un niño que a veces se siente diferente, que querría salir vol",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -3015,8 +3342,9 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-09T09:17:33+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-11-12T15:27:55+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-IA-0625F6DF80",
@@ -3097,7 +3425,7 @@
     "status": "publicada_en_fuente",
     "details": "¿Navidad? ¿Ezo qué eeeeeeeeh? llega a La Cochera Cabaret de Málaga los domingos 29 de noviembre y 13 de diciembre de 2026 a las 12:00. Dos sirvientes reciben un encargo de su patrón: quiere vivir la Navidad más espectacular de su vida. El problema es que ellos nunca la han celebrado y no tienen ni idea de cómo hacerlo. Para conseguirlo emprenden un viaje por las costumbres y tradiciones navideñas más populares en busca de la fórmula perfecta… y d · Fechas de programación: consultar los días concretos de función.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-11-29",
@@ -3438,8 +3766,9 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-09T09:17:33+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-11-12T15:27:55+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-6481337BBD24",
@@ -3460,7 +3789,7 @@
     "status": "publicada_en_fuente",
     "details": "Drilo Rock, de La pandilla de Drilo, llega al Teatro Echegaray de Málaga el domingo 6 de diciembre de 2026, con pases a las 11:00 y a las 13:00. Drilo organiza un gran concierto y llama a toda su pandilla: Guau a la batería, Peligre al bajo, Pom-pom a los teclados, Era a las maracas, Huga al ukelele y Rafa a la trompeta. Junto a los actores, interpretan muchas de sus canciones más conocidas en un espectáculo con música, baile, teatro y humor. La",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -3501,7 +3830,7 @@
     "details": "Espectáculo navideño musical en el que los elfos y Papá Noel intentan impedir que el Grinch arruine la Navidad. La descripción oficial confirma público familiar.",
     "evidence": "La ficha oficial de GTM anuncia el domingo 6 de diciembre de 2026 a las 12:30 en Auditorio AM de Málaga y describe expresamente una aventura navideña de elfos, Papá Noel y el Grinch con magia y música para toda la familia.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-11T09:34:16+00:00",
+    "last_checked": "2026-11-12T15:36:00+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -3742,7 +4071,7 @@
     "status": "publicada_en_fuente",
     "details": "El bosque de Coco, de La Buena Compañía, se representa en el Teatro Cánovas de Málaga el sábado 12 de diciembre a las 19:00 y el domingo 13 de diciembre de 2026 a las 12:00. Existe un bosque cuyos árboles se iluminan con la chispa del pensamiento, un lugar mágico donde viven las ideas, los recuerdo",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-12-12",
@@ -3790,7 +4119,7 @@
     "details": "Musical en directo protagonizado por los personajes Momonsters: canciones, bailes, humor y aventura sobre los talentos personales, la amistad y el trabajo en equipo. Público infantil y familiar.",
     "evidence": "La cartelera oficial GTM fija sábado 12 de diciembre de 2026 a las 17:00 en Auditorio AM, Málaga; la sinopsis presenta un musical interactivo en vivo donde los más pequeños cantan y bailan con Momonsters.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-11T09:34:16+00:00",
+    "last_checked": "2026-11-12T15:36:00+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -3959,7 +4288,7 @@
     "status": "publicada_en_fuente",
     "details": "Nova. Más allá de la imaginación, de la compañía malagueña Índigo Teatro, se representa en el Teatro Echegaray de Málaga el 15 y 16 de diciembre de 2026 a las 18:00. A Nova le encanta leer, y un día se queda dormida con su libro favorito entre las manos. Al despertar está en el mundo de la imaginac",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-12-15",
@@ -4048,7 +4377,7 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-27",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -4113,7 +4442,7 @@
     "schedule_unconfirmed": true,
     "occurrences": null,
     "first_seen": "2026-10-19",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -4194,7 +4523,7 @@
       "2026-12-20"
     ],
     "first_seen": "2026-10-13",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "schedule_note": "Dos funciones: sábado 19 de diciembre a las 19:00 y domingo 20 a las 12:00.",
     "schedule_verification": "oficial Junta de Andalucía",
@@ -4359,7 +4688,7 @@
     "schedule_unconfirmed": true,
     "occurrences": null,
     "first_seen": "2026-11-02",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -4385,7 +4714,7 @@
     "details": "El fantástico viaje de Jonás el espermatozoide, de El Espejo Negro, se representa en el Teatro Echegaray de Málaga el 21 y 22 de diciembre de 2026 a las 18:00. Jonás es un espermatozoide diminuto y perezoso que no tiene ninguna intención de participar en la gran carrera de la fecundación: prefiere",
     "evidence": "La programación oficial del Teatro Echegaray incluye esta obra de títeres en teatro infantil los días 21 y 22 de diciembre de 2026 a las 18:00. La sinopsis narra la aventura de Jonás en busca del óvulo; la Red Aragonesa de Espacios Escénicos clasifica la obra para público infantil de 3 a 6 años.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-09T09:17:33+00:00",
+    "last_checked": "2026-11-12T15:27:55+00:00",
     "origin": "json-ld",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -4540,7 +4869,7 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-18",
-    "last_checked": "2026-11-09T09:24:15+00:00",
+    "last_checked": "2026-11-12T15:34:28+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },

@@ -1,21 +1,21 @@
 {
-  "last_run": "2026-11-09T09:16:16+00:00",
+  "last_run": "2026-11-12T15:26:17+00:00",
   "checked": 73,
   "attempted": 83,
   "failed": 10,
-  "new_events": 41,
-  "new_discoveries": 95,
+  "new_events": 33,
+  "new_discoveries": 77,
   "new_sources_suggested": 0,
   "merged_duplicates": 0,
   "sources_without_structured_events": 63,
   "errors": [
     {
       "source": "Teatro Cervantes y Echegaray",
-      "reason": "403 Client Error: Forbidden for url: https://teatrocervantes.com/es/programacion/teatro-cervantes/"
+      "reason": "robots.txt no permite o no pudo comprobarse"
     },
     {
       "source": "Teatro Echegaray",
-      "reason": "403 Client Error: Forbidden for url: https://www.teatrocervantes.com/es/programacion/teatro-echegaray/"
+      "reason": "robots.txt no permite o no pudo comprobarse"
     },
     {
       "source": "CC Vialia Málaga",
@@ -38,16 +38,16 @@
       "reason": "robots.txt no permite o no pudo comprobarse"
     },
     {
-      "source": "Ayuntamiento de Colmenar · Cultura y fiestas",
-      "reason": "405 Client Error: Not Allowed for url: https://www.colmenar.es/"
-    },
-    {
       "source": "Cultura Antequera · talleres municipales 2026/27",
       "reason": "enlace secundario: No es una página HTML"
     },
     {
       "source": "Nerja · ludoteca y pintura infantil",
       "reason": "enlace secundario: No es una página HTML"
+    },
+    {
+      "source": "Puente Romano Marbella · actividades para familias",
+      "reason": "404 Client Error: Not Found for url: https://www.puenteromano.com/es/actividades/halloween-weekend/"
     },
     {
       "source": "Entradas.com Málaga · espectáculos",
@@ -58,18 +58,18 @@
       "reason": "robots.txt no permite o no pudo comprobarse"
     },
     {
-      "source": "Luces de La Concepción · espectáculo navideño",
-      "reason": "robots.txt no permite o no pudo comprobarse"
-    },
-    {
       "source": "Benalmádena · calendario municipal de cultura",
       "reason": "enlace secundario: No es una página HTML"
+    },
+    {
+      "source": "Luces de La Concepción · espectáculo navideño",
+      "reason": "robots.txt no permite o no pudo comprobarse"
     }
   ],
   "scan_partial": false,
-  "scan_elapsed_seconds": 562.3,
+  "scan_elapsed_seconds": 572.8,
   "sources_pending_next_cycle": 0,
-  "total_events": 165,
+  "total_events": 174,
   "total_sources": 86,
   "method": "rastreo prudente por fuentes, enlaces estacionales y JSON-LD con validación geográfica",
   "caveat": "No se garantizan plazas ni exhaustividad; comprobar organizador.",
@@ -91,6 +91,6 @@
       "result": "accepted"
     }
   ],
-  "last_expiration_check": "2026-11-11T09:40:09+00:00",
-  "expired_removed_this_run": 0
+  "last_expiration_check": "2026-11-12T15:42:59+00:00",
+  "expired_removed_this_run": 1
 }

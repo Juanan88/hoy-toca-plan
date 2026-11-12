@@ -1,51 +1,51 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T09:40:12.563585+00:00",
+  "generated_at": "2026-11-12T15:43:03.577825+00:00",
   "workflow": {
     "name": "Hoy Toca Plan · motor y publicación segura",
-    "event": "issues",
+    "event": "schedule",
     "schedule_cron": null,
-    "run_id": "42996255972",
+    "run_id": "43247729468",
     "run_attempt": "1",
-    "run_url": "https://github.com/Juanan88/hoy-toca-plan-motor/actions/runs/42996255972",
+    "run_url": "https://github.com/Juanan88/hoy-toca-plan-motor/actions/runs/43247729468",
     "job_status": "success"
   },
   "last_success": {
-    "full_scan": "2026-11-09T09:16:16+00:00",
-    "radar": "2026-11-11T09:35:26+00:00",
-    "verifier": "2026-11-11T09:38:04+00:00",
-    "cases": "2026-11-11T09:39:16+00:00",
-    "case_investigation": "2026-11-11T09:37:16+00:00"
+    "full_scan": "2026-11-12T15:26:17+00:00",
+    "radar": "2026-11-12T15:37:08+00:00",
+    "verifier": "2026-11-12T15:41:08+00:00",
+    "cases": "2026-11-12T15:42:30+00:00",
+    "case_investigation": "2026-11-12T15:39:27+00:00"
   },
   "catalog": {
-    "events": 165,
+    "events": 174,
     "drift": false
   },
   "radar": {
-    "examined": 928,
-    "new_candidates": 57,
+    "examined": 887,
+    "new_candidates": 32,
     "warnings_count": 0
   },
   "verifier": {
     "examined": 30,
-    "published": 0,
-    "inaccessible": 3
+    "published": 1,
+    "inaccessible": 12
   },
   "cases": {
-    "total": 536,
-    "investigate": 25,
-    "resolved": 22,
-    "monitor": 223,
-    "low_priority": 261,
+    "total": 496,
+    "investigate": 32,
+    "resolved": 24,
+    "monitor": 240,
+    "low_priority": 194,
     "ai_queue": 20,
-    "high_priority": 24,
-    "stale_high_confidence": 21
+    "high_priority": 31,
+    "stale_high_confidence": 24
   },
   "investigation": {
     "examined": 10,
-    "new_evidence": 66,
+    "new_evidence": 30,
     "skipped_same_day": 10,
     "warnings_count": 0
   },
-  "sources_failed": 8
+  "sources_failed": 10
 }
