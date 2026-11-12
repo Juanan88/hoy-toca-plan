@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T15:56:43+00:00",
+  "updated_at": "2026-11-12T19:06:41+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -10,8 +10,36 @@
         "Animación"
       ],
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
-      "source_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor",
+      "source_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar",
       "showtimes": [
+        {
+          "date": "2026-11-13",
+          "cinema": "mk2 Cines Miramar",
+          "town": "Fuengirola",
+          "times": [
+            "16:45"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
+        },
+        {
+          "date": "2026-11-13",
+          "cinema": "mk2 Cines El Ingenio",
+          "town": "Vélez-Málaga",
+          "times": [
+            "16:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
+        },
+        {
+          "date": "2026-11-14",
+          "cinema": "mk2 Cines Miramar",
+          "town": "Fuengirola",
+          "times": [
+            "12:25",
+            "16:45"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
+        },
         {
           "date": "2026-11-14",
           "cinema": "Kinépolis La Cañada",
@@ -25,6 +53,15 @@
         },
         {
           "date": "2026-11-14",
+          "cinema": "Multicines Rosaleda",
+          "town": "Málaga",
+          "times": [
+            "16:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
+        },
+        {
+          "date": "2026-11-14",
           "cinema": "Yelmo Cines Plaza Mayor",
           "town": "Málaga",
           "times": [
@@ -34,12 +71,40 @@
         },
         {
           "date": "2026-11-14",
+          "cinema": "Yelmo Cines Vialia",
+          "town": "Málaga",
+          "times": [
+            "16:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
+        },
+        {
+          "date": "2026-11-14",
           "cinema": "Yelmo Cines Rincón de la Victoria",
           "town": "Rincón de la Victoria",
           "times": [
             "16:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/rincon-de-la-victoria/yelmo-cines-rincon-de-la-victoria"
+        },
+        {
+          "date": "2026-11-14",
+          "cinema": "mk2 Cines El Ingenio",
+          "town": "Vélez-Málaga",
+          "times": [
+            "16:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
+        },
+        {
+          "date": "2026-11-15",
+          "cinema": "mk2 Cines Miramar",
+          "town": "Fuengirola",
+          "times": [
+            "12:25",
+            "16:45"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
         },
         {
           "date": "2026-11-15",
@@ -52,6 +117,16 @@
         },
         {
           "date": "2026-11-15",
+          "cinema": "Multicines Rosaleda",
+          "town": "Málaga",
+          "times": [
+            "12:30",
+            "16:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
+        },
+        {
+          "date": "2026-11-15",
           "cinema": "Yelmo Cines Plaza Mayor",
           "town": "Málaga",
           "times": [
@@ -61,12 +136,67 @@
         },
         {
           "date": "2026-11-15",
+          "cinema": "Yelmo Cines Vialia",
+          "town": "Málaga",
+          "times": [
+            "16:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
+        },
+        {
+          "date": "2026-11-15",
           "cinema": "Yelmo Cines Rincón de la Victoria",
           "town": "Rincón de la Victoria",
           "times": [
             "16:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/rincon-de-la-victoria/yelmo-cines-rincon-de-la-victoria"
+        },
+        {
+          "date": "2026-11-15",
+          "cinema": "mk2 Cines El Ingenio",
+          "town": "Vélez-Málaga",
+          "times": [
+            "12:30",
+            "16:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
+        },
+        {
+          "date": "2026-11-16",
+          "cinema": "mk2 Cines Miramar",
+          "town": "Fuengirola",
+          "times": [
+            "16:45"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
+        },
+        {
+          "date": "2026-11-16",
+          "cinema": "mk2 Cines El Ingenio",
+          "town": "Vélez-Málaga",
+          "times": [
+            "16:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
+        },
+        {
+          "date": "2026-11-17",
+          "cinema": "mk2 Cines Miramar",
+          "town": "Fuengirola",
+          "times": [
+            "16:45"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
+        },
+        {
+          "date": "2026-11-18",
+          "cinema": "mk2 Cines Miramar",
+          "town": "Fuengirola",
+          "times": [
+            "16:45"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
         }
       ],
       "id": "MOV-E58CB7899C07"
@@ -93,16 +223,6 @@
         },
         {
           "date": "2026-11-12",
-          "cinema": "mk2 Cines Miramar",
-          "town": "Fuengirola",
-          "times": [
-            "16:00",
-            "18:30"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
-        },
-        {
-          "date": "2026-11-12",
           "cinema": "Kinépolis La Cañada",
           "town": "Marbella",
           "times": [
@@ -117,8 +237,6 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "17:00",
-            "18:00",
             "19:30",
             "20:15"
           ],
@@ -129,7 +247,6 @@
           "cinema": "Yelmo Cines Plaza Mayor",
           "town": "Málaga",
           "times": [
-            "18:15",
             "20:40"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
@@ -149,20 +266,9 @@
           "cinema": "Yelmo Cines Rincón de la Victoria",
           "town": "Rincón de la Victoria",
           "times": [
-            "18:10",
             "20:35"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/rincon-de-la-victoria/yelmo-cines-rincon-de-la-victoria"
-        },
-        {
-          "date": "2026-11-12",
-          "cinema": "mk2 Cines El Ingenio",
-          "town": "Vélez-Málaga",
-          "times": [
-            "16:00",
-            "18:30"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
         },
         {
           "date": "2026-11-13",
@@ -647,29 +753,6 @@
       "id": "MOV-576539DB8FC3"
     },
     {
-      "title": "GUNGO Y LOS JUEGOS CAVERNÍCOLAS",
-      "classification": "7 años",
-      "duration_minutes": 95,
-      "genres": [
-        "Animación",
-        "Aventuras"
-      ],
-      "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
-      "source_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio",
-      "showtimes": [
-        {
-          "date": "2026-11-12",
-          "cinema": "mk2 Cines El Ingenio",
-          "town": "Vélez-Málaga",
-          "times": [
-            "16:20"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
-        }
-      ],
-      "id": "MOV-8B78EA7A8050"
-    },
-    {
       "title": "LA ISLA OLVIDADA",
       "classification": "7 años",
       "duration_minutes": 108,
@@ -701,17 +784,8 @@
         "Comedia"
       ],
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
-      "source_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar",
+      "source_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda",
       "showtimes": [
-        {
-          "date": "2026-11-12",
-          "cinema": "mk2 Cines Miramar",
-          "town": "Fuengirola",
-          "times": [
-            "17:05"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
-        },
         {
           "date": "2026-11-12",
           "cinema": "Kinépolis La Cañada",
@@ -720,24 +794,6 @@
             "17:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
-        },
-        {
-          "date": "2026-11-12",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
-            "17:45"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
-        },
-        {
-          "date": "2026-11-12",
-          "cinema": "mk2 Cines El Ingenio",
-          "town": "Vélez-Málaga",
-          "times": [
-            "16:50"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
         },
         {
           "date": "2026-11-13",
@@ -849,8 +905,36 @@
         "Familiar"
       ],
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
-      "source_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor",
+      "source_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica",
       "showtimes": [
+        {
+          "date": "2026-11-13",
+          "cinema": "Cines La Verónica",
+          "town": "Antequera",
+          "times": [
+            "17:30"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
+        },
+        {
+          "date": "2026-11-13",
+          "cinema": "mk2 Cines Miramar",
+          "town": "Fuengirola",
+          "times": [
+            "15:45",
+            "17:30"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
+        },
+        {
+          "date": "2026-11-13",
+          "cinema": "Multicines Rosaleda",
+          "town": "Málaga",
+          "times": [
+            "18:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
+        },
         {
           "date": "2026-11-13",
           "cinema": "Yelmo Cines Plaza Mayor",
@@ -863,12 +947,61 @@
         },
         {
           "date": "2026-11-13",
+          "cinema": "Yelmo Cines Vialia",
+          "town": "Málaga",
+          "times": [
+            "16:15",
+            "18:05"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
+        },
+        {
+          "date": "2026-11-13",
           "cinema": "Yelmo Cines Rincón de la Victoria",
           "town": "Rincón de la Victoria",
           "times": [
             "17:50"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/rincon-de-la-victoria/yelmo-cines-rincon-de-la-victoria"
+        },
+        {
+          "date": "2026-11-13",
+          "cinema": "mk2 Cines El Ingenio",
+          "town": "Vélez-Málaga",
+          "times": [
+            "16:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
+        },
+        {
+          "date": "2026-11-14",
+          "cinema": "Cines La Verónica",
+          "town": "Antequera",
+          "times": [
+            "17:30"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
+        },
+        {
+          "date": "2026-11-14",
+          "cinema": "mk2 Cines Miramar",
+          "town": "Fuengirola",
+          "times": [
+            "12:15",
+            "15:45",
+            "17:30"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
+        },
+        {
+          "date": "2026-11-14",
+          "cinema": "Multicines Rosaleda",
+          "town": "Málaga",
+          "times": [
+            "15:50",
+            "18:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         },
         {
           "date": "2026-11-14",
@@ -881,6 +1014,16 @@
         },
         {
           "date": "2026-11-14",
+          "cinema": "Yelmo Cines Vialia",
+          "town": "Málaga",
+          "times": [
+            "16:15",
+            "18:05"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
+        },
+        {
+          "date": "2026-11-14",
           "cinema": "Yelmo Cines Rincón de la Victoria",
           "town": "Rincón de la Victoria",
           "times": [
@@ -888,6 +1031,46 @@
             "17:50"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/rincon-de-la-victoria/yelmo-cines-rincon-de-la-victoria"
+        },
+        {
+          "date": "2026-11-14",
+          "cinema": "mk2 Cines El Ingenio",
+          "town": "Vélez-Málaga",
+          "times": [
+            "16:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
+        },
+        {
+          "date": "2026-11-15",
+          "cinema": "Cines La Verónica",
+          "town": "Antequera",
+          "times": [
+            "17:30"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
+        },
+        {
+          "date": "2026-11-15",
+          "cinema": "mk2 Cines Miramar",
+          "town": "Fuengirola",
+          "times": [
+            "12:15",
+            "15:45",
+            "17:30"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
+        },
+        {
+          "date": "2026-11-15",
+          "cinema": "Multicines Rosaleda",
+          "town": "Málaga",
+          "times": [
+            "12:20",
+            "15:50",
+            "18:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         },
         {
           "date": "2026-11-15",
@@ -901,6 +1084,17 @@
         },
         {
           "date": "2026-11-15",
+          "cinema": "Yelmo Cines Vialia",
+          "town": "Málaga",
+          "times": [
+            "12:25",
+            "16:15",
+            "18:05"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
+        },
+        {
+          "date": "2026-11-15",
           "cinema": "Yelmo Cines Rincón de la Victoria",
           "town": "Rincón de la Victoria",
           "times": [
@@ -908,6 +1102,26 @@
             "17:50"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/rincon-de-la-victoria/yelmo-cines-rincon-de-la-victoria"
+        },
+        {
+          "date": "2026-11-15",
+          "cinema": "mk2 Cines El Ingenio",
+          "town": "Vélez-Málaga",
+          "times": [
+            "12:05",
+            "16:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
+        },
+        {
+          "date": "2026-11-16",
+          "cinema": "mk2 Cines Miramar",
+          "town": "Fuengirola",
+          "times": [
+            "15:45",
+            "17:30"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
         },
         {
           "date": "2026-11-16",
@@ -920,12 +1134,40 @@
         },
         {
           "date": "2026-11-16",
+          "cinema": "Yelmo Cines Vialia",
+          "town": "Málaga",
+          "times": [
+            "17:25"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
+        },
+        {
+          "date": "2026-11-16",
           "cinema": "Yelmo Cines Rincón de la Victoria",
           "town": "Rincón de la Victoria",
           "times": [
             "17:50"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/rincon-de-la-victoria/yelmo-cines-rincon-de-la-victoria"
+        },
+        {
+          "date": "2026-11-16",
+          "cinema": "mk2 Cines El Ingenio",
+          "town": "Vélez-Málaga",
+          "times": [
+            "16:50"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
+        },
+        {
+          "date": "2026-11-17",
+          "cinema": "mk2 Cines Miramar",
+          "town": "Fuengirola",
+          "times": [
+            "15:45",
+            "17:30"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
         },
         {
           "date": "2026-11-17",
@@ -947,12 +1189,40 @@
         },
         {
           "date": "2026-11-18",
+          "cinema": "Cines La Verónica",
+          "town": "Antequera",
+          "times": [
+            "17:30"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
+        },
+        {
+          "date": "2026-11-18",
+          "cinema": "mk2 Cines Miramar",
+          "town": "Fuengirola",
+          "times": [
+            "15:45",
+            "17:30"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
+        },
+        {
+          "date": "2026-11-18",
           "cinema": "Yelmo Cines Plaza Mayor",
           "town": "Málaga",
           "times": [
             "18:05"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
+        },
+        {
+          "date": "2026-11-18",
+          "cinema": "Yelmo Cines Vialia",
+          "town": "Málaga",
+          "times": [
+            "17:25"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-vialia-malaga"
         },
         {
           "date": "2026-11-18",
@@ -988,39 +1258,12 @@
         },
         {
           "date": "2026-11-12",
-          "cinema": "mk2 Cines Miramar",
-          "town": "Fuengirola",
-          "times": [
-            "16:10"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/fuengirola/mk2-cines-miramar"
-        },
-        {
-          "date": "2026-11-12",
           "cinema": "Kinépolis La Cañada",
           "town": "Marbella",
           "times": [
             "16:40"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
-        },
-        {
-          "date": "2026-11-12",
-          "cinema": "Yelmo Cines Plaza Mayor",
-          "town": "Málaga",
-          "times": [
-            "17:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/yelmo-cines-plaza-mayor"
-        },
-        {
-          "date": "2026-11-12",
-          "cinema": "mk2 Cines El Ingenio",
-          "town": "Vélez-Málaga",
-          "times": [
-            "17:00"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/velez-malaga/mk2-cines-el-ingenio"
         },
         {
           "date": "2026-11-13",
@@ -1208,15 +1451,6 @@
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
       "source_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda",
       "showtimes": [
-        {
-          "date": "2026-11-14",
-          "cinema": "Kinépolis La Cañada",
-          "town": "Marbella",
-          "times": [
-            "12:10"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
-        },
         {
           "date": "2026-11-14",
           "cinema": "Multicines Rosaleda",
