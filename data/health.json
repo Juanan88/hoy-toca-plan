@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-15T12:01:39+00:00",
+  "generated_at": "2026-11-16T11:21:28+00:00",
   "level": "attention",
-  "events": 152,
+  "events": 161,
   "sources": 86,
   "catalog_drift": false,
   "last_scan_snapshot": {
-    "events": 152,
+    "events": 161,
     "sources": 86
   },
-  "discoveries_pending": 742,
-  "discoveries_unresolved": 872,
-  "unverified_events": 32,
+  "discoveries_pending": 784,
+  "discoveries_unresolved": 877,
+  "unverified_events": 33,
   "known_age": 16,
   "sources_never_checked": 3,
-  "sources_failed": 10,
+  "sources_failed": 13,
   "source_errors": [
     {
       "name": "Teatro Cervantes y Echegaray",
@@ -22,6 +22,11 @@
     },
     {
       "name": "Teatro Echegaray",
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
+    },
+    {
+      "name": "Agenda Cultura Ayuntamiento Málaga",
       "detail": "robots.txt no permite o no pudo comprobarse",
       "category": "access_restricted"
     },
@@ -51,7 +56,17 @@
       "category": "broken_url"
     },
     {
+      "name": "La Térmica Mini · programación infantil (agenda oficial)",
+      "detail": "HTTPSConnectionPool(host='latermicamalaga.com', port=443): Read timed out. (read timeout=15)",
+      "category": "other"
+    },
+    {
       "name": "Entradas.com Málaga · espectáculos",
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
+    },
+    {
+      "name": "Distrito 11 Teatinos-Universidad · Ayuntamiento de Málaga",
       "detail": "robots.txt no permite o no pudo comprobarse",
       "category": "access_restricted"
     },
@@ -66,37 +81,37 @@
       "category": "access_restricted"
     }
   ],
-  "last_full_scan": "2026-11-12T15:26:17+00:00",
-  "days_since_full_scan": 2.9,
-  "last_radar": "2026-11-15T11:57:38+00:00",
+  "last_full_scan": "2026-11-16T11:05:17+00:00",
+  "days_since_full_scan": 0.0,
+  "last_radar": "2026-11-16T11:16:37+00:00",
   "days_since_radar": 0.0,
-  "last_verifier": "2026-11-15T12:00:12+00:00",
+  "last_verifier": "2026-11-16T11:19:33+00:00",
   "days_since_verifier": 0.0,
-  "cases_total": 500,
-  "cases_to_investigate": 27,
-  "cases_high_confidence": 27,
-  "cases_stale_high_confidence": 24,
-  "cases_uninvestigated_high_confidence": 12,
-  "last_case_investigation": "2026-11-15T11:59:20+00:00",
-  "last_broad_scout": "2026-11-15T11:57:38+00:00",
-  "broad_scout_new_leads": 0,
-  "ai_hunt_brief_generated": "2026-11-15T12:01:14+00:00",
+  "cases_total": 505,
+  "cases_to_investigate": 24,
+  "cases_high_confidence": 24,
+  "cases_stale_high_confidence": 20,
+  "cases_uninvestigated_high_confidence": 4,
+  "last_case_investigation": "2026-11-16T11:18:41+00:00",
+  "last_broad_scout": "2026-11-16T11:16:38+00:00",
+  "broad_scout_new_leads": 4,
+  "ai_hunt_brief_generated": "2026-11-16T11:21:00+00:00",
   "ai_hunt_broad_candidates": 22,
-  "ai_independent_published": 38,
+  "ai_independent_published": 37,
   "ai_case_published": 13,
-  "age_missing": 136,
+  "age_missing": 145,
   "municipalities_with_events": 15,
   "coverage_by_town": {
-    "Málaga": 89,
-    "Benalmádena": 16,
-    "Marbella": 11,
-    "Fuengirola": 9,
+    "Málaga": 96,
+    "Benalmádena": 17,
+    "Fuengirola": 10,
+    "Marbella": 10,
     "Vélez-Málaga": 7,
     "Antequera": 4,
     "Ronda": 4,
     "Mijas": 3,
+    "Nerja": 3,
     "Estepona": 2,
-    "Nerja": 2,
     "Colmenar": 1,
     "Yunquera": 1,
     "Torremolinos": 1,
@@ -104,8 +119,8 @@
     "Torrox": 1
   },
   "alerts": [
-    "10 fuentes con error en su última consulta",
+    "13 fuentes con error en su última consulta",
     "3 fuentes aún sin primera revisión",
-    "12 casos de alta confianza llevan más de 48 h sin investigar"
+    "4 casos de alta confianza llevan más de 48 h sin investigar"
   ]
 }
