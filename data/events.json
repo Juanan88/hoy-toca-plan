@@ -18,7 +18,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en La Térmica, Málaga, el 16 de octubre a las 17:00.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-16T11:06:52+00:00",
+    "last_checked": "2026-11-17T00:18:10+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -73,7 +73,7 @@
     "status": "publicada_en_fuente",
     "details": "Taller de programación de videojuegos con Roblox y Unity en La Térmica (Málaga), a las 10:00. Sesiones registradas los sábados 17, 24 y 31 de octubre y 7, 14, 21 y 28 de noviembre de 2026. Consulta la ficha del organizador para confirmar cada sesión.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-16T11:06:52+00:00",
+    "last_checked": "2026-11-17T00:18:10+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -495,40 +495,6 @@
     }
   },
   {
-    "id": "EVT-E2D8CB975601",
-    "title": "Abierto el plazo para la Cabalgata de Reyes 2027 de Fuengirola",
-    "start": "2026-11-09",
-    "end": "2026-11-16",
-    "time": "09:00",
-    "town": "Fuengirola",
-    "venue": "Ayuntamiento de Fuengirola",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": "Tenencias de alcaldía de El Boquetillo y Los Boliches",
-    "reservation_url": null,
-    "field_sources": {
-      "address": {
-        "source_url": "https://ladiversiva.com/actividad/abierto-el-plazo-para-la-cabalgata-de-reyes-2027-de-fuengirola/",
-        "quote": "Tenencias de alcaldía de El Boquetillo y Los Boliches",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "La Diversiva",
-    "source_url": "https://ladiversiva.com/actividad/abierto-el-plazo-para-la-cabalgata-de-reyes-2027-de-fuengirola/",
-    "status": "pendiente",
-    "details": "El Ayuntamiento de Fuengirola abrirá el lunes 9 de noviembre, a las 9:00 horas, el plazo de inscripción para que niños y jóvenes puedan participar en la Cabalgata de Reyes 2027, que se celebrará el 5 de enero. Las familias podrán presentar su solicitud hasta el 16 de noviembre, a las 14:00 horas. En La […] · Fechas de programación: consultar los días concretos de función.",
-    "schedule_unconfirmed": true,
-    "occurrences": null,
-    "first_seen": "2026-11-09",
-    "last_checked": "2026-11-09T09:16:26+00:00",
-    "origin": "json-ld"
-  },
-  {
     "id": "EVT-0043B14A4EA0",
     "title": "Fuengirola abre las inscripciones para una nueva Escuela de Navidad",
     "start": "2026-11-09",
@@ -699,7 +665,7 @@
       "2026-11-21"
     ],
     "first_seen": "2026-11-02",
-    "last_checked": "2026-11-16T11:06:52+00:00",
+    "last_checked": "2026-11-17T00:18:10+00:00",
     "origin": "json-ld",
     "secondary_sources": [
       "https://informalaga.es/agenda/taller-de-robotica-educativa-de-fin-de-semana-galilei-kids-noviembre-2026-2026-11-21"
@@ -756,41 +722,6 @@
         "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
       }
     }
-  },
-  {
-    "id": "EVT-2F7B44AE7E87",
-    "title": "PRESENTACIÓN LIBRO: «IA EN FAMILIA»",
-    "start": "2026-11-16",
-    "end": "2026-11-16",
-    "time": "19:00",
-    "town": "Fuengirola",
-    "venue": "Biblioteca Lope de Vega",
-    "category": "Lectura y cuentos",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": "C/ Mallorca 14",
-    "reservation_url": null,
-    "field_sources": {
-      "address": {
-        "source_url": "https://www.fuengirola.es/evento/presentacion-libro-ia-en-familia/",
-        "quote": "C/ Mallorca 14",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "Bibliotecas Fuengirola · programación octubre",
-    "source_url": "https://www.fuengirola.es/evento/presentacion-libro-ia-en-familia/",
-    "status": "publicada_en_fuente",
-    "details": "del autor Guille Lorbada Más información en la web de la Red de Bibliotecas. Inscripciones aquí.",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-11-05",
-    "last_checked": "2026-11-16T11:12:59+00:00",
-    "origin": "json-ld",
-    "secondary_sources": []
   },
   {
     "id": "EVT-TXT-10DC50B361",
@@ -875,7 +806,37 @@
     "first_seen": "2026-11-12",
     "last_checked": "2026-11-16T11:06:52+00:00",
     "origin": "json-ld",
-    "secondary_sources": []
+    "secondary_sources": [
+      "https://informalaga.es/agenda/clases-de-psicomotricidad-para-ninos-de-3-a-6-anos-en-yunquera-ubkdu"
+    ]
+  },
+  {
+    "id": "EVT-10DC50B3617F",
+    "title": "Cuentacuentos en inglés",
+    "start": "2026-11-17",
+    "end": "2026-11-17",
+    "time": "17:30",
+    "town": "Benalmádena",
+    "venue": "Biblioteca de Arroyo de la Miel",
+    "category": "Lectura y cuentos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": null,
+    "field_sources": {},
+    "audience": "Consultar organizador",
+    "source_name": "Radar · informalaga.es",
+    "source_url": "https://informalaga.es/agenda/cuentacuentos-en-ingles-2026-11-17",
+    "status": "publicada_en_fuente",
+    "details": "Infantil en Biblioteca de Arroyo de la Miel, Benalmádena, el 17 de noviembre a las 17:30.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-17",
+    "last_checked": "2026-11-17T00:18:10+00:00",
+    "origin": "json-ld"
   },
   {
     "id": "EVT-IA-B900BDECF9",
@@ -1449,7 +1410,9 @@
     "first_seen": "2026-11-12",
     "last_checked": "2026-11-16T11:06:52+00:00",
     "origin": "json-ld",
-    "secondary_sources": []
+    "secondary_sources": [
+      "https://informalaga.es/agenda/de-simba-a-kiara-musical-familiar-en-el-colegio-la-salle-weivy"
+    ]
   },
   {
     "id": "EVT-C37A7D12F2AE",
@@ -1756,7 +1719,37 @@
     "first_seen": "2026-11-12",
     "last_checked": "2026-11-16T11:06:52+00:00",
     "origin": "json-ld",
-    "secondary_sources": []
+    "secondary_sources": [
+      "https://informalaga.es/agenda/taller-de-ceramica-infantil-2026-11-28"
+    ]
+  },
+  {
+    "id": "EVT-E2270E45895B",
+    "title": "Primer concierto del ciclo 'La banda en familia'",
+    "start": "2026-11-22",
+    "end": "2026-11-22",
+    "time": "12:00",
+    "town": "Málaga",
+    "venue": "Recinto Eduardo Ocón",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": null,
+    "field_sources": {},
+    "audience": "Consultar organizador",
+    "source_name": "Radar · informalaga.es",
+    "source_url": "https://informalaga.es/agenda/concierto-la-banda-en-familia-en-el-recinto-eduardo-ocon-2026-11-22",
+    "status": "publicada_en_fuente",
+    "details": "Concierto de la Banda Municipal de Música de Málaga con repertorio para público infantil y juvenil.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-17",
+    "last_checked": "2026-11-17T00:18:10+00:00",
+    "origin": "json-ld"
   },
   {
     "id": "EVT-699CF6FAC7E1",
@@ -3335,7 +3328,7 @@
     "details": "Espectáculo navideño musical en el que los elfos y Papá Noel intentan impedir que el Grinch arruine la Navidad. La descripción oficial confirma público familiar.",
     "evidence": "La ficha oficial de GTM anuncia el domingo 6 de diciembre de 2026 a las 12:30 en Auditorio AM de Málaga y describe expresamente una aventura navideña de elfos, Papá Noel y el Grinch con magia y música para toda la familia.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-16T11:15:26+00:00",
+    "last_checked": "2026-11-17T00:14:56+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -3624,7 +3617,7 @@
     "details": "Musical en directo protagonizado por los personajes Momonsters: canciones, bailes, humor y aventura sobre los talentos personales, la amistad y el trabajo en equipo. Público infantil y familiar.",
     "evidence": "La cartelera oficial GTM fija sábado 12 de diciembre de 2026 a las 17:00 en Auditorio AM, Málaga; la sinopsis presenta un musical interactivo en vivo donde los más pequeños cantan y bailan con Momonsters.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-16T11:15:26+00:00",
+    "last_checked": "2026-11-17T00:14:56+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",

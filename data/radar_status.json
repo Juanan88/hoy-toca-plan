@@ -1,12 +1,88 @@
 {
-  "last_run": "2026-11-16T11:16:37+00:00",
+  "last_run": "2026-11-17T00:16:16+00:00",
   "queries": 44,
-  "items_examined": 922,
-  "new_candidates": 41,
+  "items_examined": 681,
+  "new_candidates": 18,
   "candidates_discarded_for_quality": 0,
-  "feeds_google": 39,
-  "feeds_bing_web": 30,
-  "total_discoveries": 971,
-  "warnings": [],
+  "feeds_google": 23,
+  "feeds_bing_web": 28,
+  "total_discoveries": 918,
+  "warnings": [
+    {
+      "query": "\"Málaga\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) when:3",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22M%C3%A1laga%22+%28ni%C3%B1os+OR+inf"
+    },
+    {
+      "query": "\"Fuengirola\" (niños OR infantil OR familia OR \"todos los públicos\" OR taller OR teatro OR fiesta) wh",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Fuengirola%22+%28ni%C3%B1os+OR+infa"
+    },
+    {
+      "query": "\"Villanueva de Algaidas\" (niños OR infantil OR familia OR Halloween OR taller OR fiesta) when:30d",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Villanueva+de+Algaidas%22+%28ni%C3%"
+    },
+    {
+      "query": "\"Rincón de la Victoria\" (\"este fin de semana\" OR agenda OR programa) (niños OR familia OR infantil O",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Rinc%C3%B3n+de+la+Victoria%22+%28%2"
+    },
+    {
+      "query": "\"Torremolinos\" (\"este fin de semana\" OR agenda OR programa) (niños OR familia OR infantil OR \"todos ",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Torremolinos%22+%28%22este+fin+de+s"
+    },
+    {
+      "query": "\"Estepona\" (\"este fin de semana\" OR agenda OR programa) (niños OR familia OR infantil OR \"todos los ",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Estepona%22+%28%22este+fin+de+seman"
+    },
+    {
+      "query": "Málaga talleres gratuitos niños when:45d",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=M%C3%A1laga+talleres+gratuitos+ni%C3%B"
+    },
+    {
+      "query": "Málaga actividades dinosaurios niños when:45d",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=M%C3%A1laga+actividades+dinosaurios+ni"
+    },
+    {
+      "query": "site:entradas.com Málaga (circo OR infantil OR familiar OR niños OR magia) when:60d",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Aentradas.com+M%C3%A1laga+%28cir"
+    },
+    {
+      "query": "\"Distrito 11 Teatinos-Universidad\" (niños OR infantil OR familia OR taller OR fiesta OR Navidad OR C",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Distrito+11+Teatinos-Universidad%22"
+    },
+    {
+      "query": "site:instagram.com Málaga (infantil OR niños OR familia) (taller OR fiesta OR espectáculo) when:30d",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Ainstagram.com+M%C3%A1laga+%28in"
+    },
+    {
+      "query": "Málaga (\"Jardín Botánico\" OR \"La Concepción\") (luces OR Navidad OR Oz) entradas when:90d",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=M%C3%A1laga+%28%22Jard%C3%ADn+Bot%C3%A"
+    },
+    {
+      "query": "site:surentradas.com Málaga (infantil OR familiar OR musical OR luces) when:120d",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Asurentradas.com+M%C3%A1laga+%28"
+    },
+    {
+      "query": "\"Sapos y Princesas — Málaga\" (infantil OR niños OR familia OR taller OR cuentacuentos OR espectáculo",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Sapos+y+Princesas+%E2%80%94+M%C3%A1"
+    },
+    {
+      "query": "site:www.visitacostadelsol.com (infantil OR niños OR familia OR taller OR evento) Málaga when:45d",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Awww.visitacostadelsol.com+%28in"
+    }
+  ],
   "method": "RSS público sin API; municipios grandes diarios, refuerzo por huecos de cobertura, fuentes conocidas y corroboración entre pistas"
 }
