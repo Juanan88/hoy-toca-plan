@@ -1,25 +1,21 @@
 {
-  "last_run": "2026-11-16T11:05:17+00:00",
+  "last_run": "2026-11-19T15:54:31+00:00",
   "checked": 70,
   "attempted": 83,
   "failed": 13,
-  "new_events": 18,
-  "new_discoveries": 30,
+  "new_events": 22,
+  "new_discoveries": 101,
   "new_sources_suggested": 0,
   "merged_duplicates": 0,
-  "sources_without_structured_events": 60,
+  "sources_without_structured_events": 62,
   "errors": [
     {
       "source": "Teatro Cervantes y Echegaray",
-      "reason": "robots.txt no permite o no pudo comprobarse"
+      "reason": "403 Client Error: Forbidden for url: https://teatrocervantes.com/es/programacion/teatro-cervantes/"
     },
     {
       "source": "Teatro Echegaray",
-      "reason": "robots.txt no permite o no pudo comprobarse"
-    },
-    {
-      "source": "Agenda Cultura Ayuntamiento Málaga",
-      "reason": "robots.txt no permite o no pudo comprobarse"
+      "reason": "403 Client Error: Forbidden for url: https://www.teatrocervantes.com/es/programacion/teatro-echegaray/"
     },
     {
       "source": "CC Vialia Málaga",
@@ -30,8 +26,16 @@
       "reason": "405 Client Error: Not Allowed for url: https://www.visitacostadelsol.com/"
     },
     {
+      "source": "Ayuntamiento Mijas",
+      "reason": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
       "source": "Ayuntamiento Torremolinos",
       "reason": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
+      "source": "Ayuntamiento Vélez-Málaga",
+      "reason": "503 Server Error: Service Unavailable for url: https://www.velezmalaga.es/"
     },
     {
       "source": "Ayuntamiento Nerja",
@@ -50,19 +54,15 @@
       "reason": "enlace secundario: No es una página HTML"
     },
     {
+      "source": "Mijas · noticias y actividades municipales",
+      "reason": "robots.txt no permite o no pudo comprobarse"
+    },
+    {
       "source": "Puente Romano Marbella · actividades para familias",
       "reason": "404 Client Error: Not Found for url: https://www.puenteromano.com/es/actividades/halloween-weekend/"
     },
     {
-      "source": "La Térmica Mini · programación infantil (agenda oficial)",
-      "reason": "HTTPSConnectionPool(host='latermicamalaga.com', port=443): Read timed out. (read timeout=15)"
-    },
-    {
       "source": "Entradas.com Málaga · espectáculos",
-      "reason": "robots.txt no permite o no pudo comprobarse"
-    },
-    {
-      "source": "Distrito 11 Teatinos-Universidad · Ayuntamiento de Málaga",
       "reason": "robots.txt no permite o no pudo comprobarse"
     },
     {
@@ -79,9 +79,9 @@
     }
   ],
   "scan_partial": false,
-  "scan_elapsed_seconds": 596.6,
+  "scan_elapsed_seconds": 518.1,
   "sources_pending_next_cycle": 0,
-  "total_events": 159,
+  "total_events": 164,
   "total_sources": 86,
   "method": "rastreo prudente por fuentes, enlaces estacionales y JSON-LD con validación geográfica",
   "caveat": "No se garantizan plazas ni exhaustividad; comprobar organizador.",
@@ -103,6 +103,6 @@
       "result": "accepted"
     }
   ],
-  "last_expiration_check": "2026-11-17T23:36:51+00:00",
-  "expired_removed_this_run": 4
+  "last_expiration_check": "2026-11-19T16:09:11+00:00",
+  "expired_removed_this_run": 5
 }
