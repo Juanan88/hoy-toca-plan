@@ -564,41 +564,6 @@
     "secondary_sources": []
   },
   {
-    "id": "EVT-B23A0B7596AE",
-    "title": "AGENDA: Bioparc Fuengirola celebra Halloween con muchas actividades para niños y niñas",
-    "start": "2026-11-13",
-    "end": "2026-11-19",
-    "time": "00:00",
-    "town": "Fuengirola",
-    "venue": "Bioparc Fuengirola",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": "C. Camilo José Cela, 6, y 8,",
-    "reservation_url": null,
-    "field_sources": {
-      "address": {
-        "source_url": "https://ladiversiva.com/actividad/agenda-bioparc-fuengirola-celebra-halloween-con-muchas-actividades-para-ninos-y-ninas-2/2026-11-13/",
-        "quote": "C. Camilo José Cela, 6, y 8,",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "La Diversiva",
-    "source_url": "https://ladiversiva.com/actividad/agenda-bioparc-fuengirola-celebra-halloween-con-muchas-actividades-para-ninos-y-ninas-2/2026-11-13/",
-    "status": "pendiente",
-    "details": "Bioparc Fuengirola se prepara para vivir uno de los momentos más mágicos del año. El 17 de octubre y los días 31, 1 y 2 de noviembre, el parque se […] · Fechas de programación: consultar los días concretos de función.",
-    "schedule_unconfirmed": true,
-    "occurrences": null,
-    "first_seen": "2026-11-09",
-    "last_checked": "2026-11-09T09:16:26+00:00",
-    "origin": "json-ld",
-    "secondary_sources": []
-  },
-  {
     "id": "EVT-CIRCO-NAV-20261114",
     "title": "La Fábrica de Papá Noel · Circo Escuela Fantasía",
     "start": "2026-11-14",
@@ -846,41 +811,6 @@
     "origin": "json-ld",
     "interval_kind": "recurring_dates",
     "schedule_note": "Solo los días concretos indicados.",
-    "secondary_sources": []
-  },
-  {
-    "id": "EVT-6630375EE65E",
-    "title": "AGENDA: Taller de viñetas gratis en Málaga para jóvenes entre 12 y 17 años",
-    "start": "2026-11-19",
-    "end": "2026-11-19",
-    "time": "17:30",
-    "town": "Málaga",
-    "venue": "Biblioteca Cánovas del Castillo",
-    "category": "Lectura y cuentos",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": "C. Ollerías, 34",
-    "reservation_url": null,
-    "field_sources": {
-      "address": {
-        "source_url": "https://ladiversiva.com/actividad/agenda-taller-de-vinetas-gratis-en-malaga-para-jovenes-entre-12-y-17-anos-2/2026-11-19/",
-        "quote": "C. Ollerías, 34",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "La Diversiva",
-    "source_url": "https://ladiversiva.com/actividad/agenda-taller-de-vinetas-gratis-en-malaga-para-jovenes-entre-12-y-17-anos-2/2026-11-19/",
-    "status": "publicada_en_fuente",
-    "details": "La Biblioteca Cánovas del Castillo de la Diputación de Málaga ofrece este 2026 su Taller de viñetas. Una actividad que está enfocada a desarrollar el proceso creativo del cómic y humor gráfico […]",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-11-16",
-    "last_checked": "2026-11-19T15:54:41+00:00",
-    "origin": "json-ld",
     "secondary_sources": []
   },
   {
@@ -3328,7 +3258,7 @@
     "details": "Espectáculo navideño musical en el que los elfos y Papá Noel intentan impedir que el Grinch arruine la Navidad. La descripción oficial confirma público familiar.",
     "evidence": "La ficha oficial de GTM anuncia el domingo 6 de diciembre de 2026 a las 12:30 en Auditorio AM de Málaga y describe expresamente una aventura navideña de elfos, Papá Noel y el Grinch con magia y música para toda la familia.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-19T16:03:20+00:00",
+    "last_checked": "2026-11-19T23:03:22+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -3617,7 +3547,7 @@
     "details": "Musical en directo protagonizado por los personajes Momonsters: canciones, bailes, humor y aventura sobre los talentos personales, la amistad y el trabajo en equipo. Público infantil y familiar.",
     "evidence": "La cartelera oficial GTM fija sábado 12 de diciembre de 2026 a las 17:00 en Auditorio AM, Málaga; la sinopsis presenta un musical interactivo en vivo donde los más pequeños cantan y bailan con Momonsters.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-19T16:03:20+00:00",
+    "last_checked": "2026-11-19T23:03:22+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
