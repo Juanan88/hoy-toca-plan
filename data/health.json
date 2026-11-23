@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-22T12:03:45+00:00",
+  "generated_at": "2026-11-23T23:56:42+00:00",
   "level": "attention",
-  "events": 147,
+  "events": 155,
   "sources": 86,
   "catalog_drift": false,
   "last_scan_snapshot": {
-    "events": 147,
+    "events": 155,
     "sources": 86
   },
-  "discoveries_pending": 797,
-  "discoveries_unresolved": 877,
-  "unverified_events": 33,
+  "discoveries_pending": 819,
+  "discoveries_unresolved": 885,
+  "unverified_events": 31,
   "known_age": 16,
   "sources_never_checked": 3,
-  "sources_failed": 13,
+  "sources_failed": 14,
   "source_errors": [
     {
       "name": "Teatro Cervantes y Echegaray",
@@ -47,8 +47,13 @@
     },
     {
       "name": "Ayuntamiento Vélez-Málaga",
-      "detail": "503 Server Error: Service Unavailable for url: https://www.velezmalaga.es/",
-      "category": "server_error"
+      "detail": "404 Client Error: Not Found for url: https://www.velezmalaga.es/",
+      "category": "broken_url"
+    },
+    {
+      "name": "Colección Museo Ruso — mediación familiar",
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     },
     {
       "name": "Laberintus Park · eventos y Halloween",
@@ -61,9 +66,9 @@
       "category": "access_restricted"
     },
     {
-      "name": "Puente Romano Marbella · actividades para familias",
-      "detail": "404 Client Error: Not Found for url: https://www.puenteromano.com/es/actividades/halloween-weekend/",
-      "category": "broken_url"
+      "name": "La Térmica Mini · programación infantil (agenda oficial)",
+      "detail": "robots.txt no permite o no pudo comprobarse",
+      "category": "access_restricted"
     },
     {
       "name": "Entradas.com Málaga · espectáculos",
@@ -81,49 +86,48 @@
       "category": "access_restricted"
     }
   ],
-  "last_full_scan": "2026-11-19T15:54:31+00:00",
-  "days_since_full_scan": 2.8,
-  "last_radar": "2026-11-22T09:07:35+00:00",
-  "days_since_radar": 0.1,
-  "last_verifier": "2026-11-22T09:10:41+00:00",
-  "days_since_verifier": 0.1,
-  "cases_total": 547,
-  "cases_to_investigate": 26,
-  "cases_high_confidence": 24,
-  "cases_stale_high_confidence": 19,
-  "cases_uninvestigated_high_confidence": 5,
-  "last_case_investigation": "2026-11-22T09:09:38+00:00",
-  "last_broad_scout": "2026-11-22T09:07:35+00:00",
-  "broad_scout_new_leads": 25,
-  "ai_hunt_brief_generated": "2026-11-22T09:12:18+00:00",
+  "last_full_scan": "2026-11-23T10:08:56+00:00",
+  "days_since_full_scan": 0.6,
+  "last_radar": "2026-11-23T23:51:25+00:00",
+  "days_since_radar": 0.0,
+  "last_verifier": "2026-11-23T23:54:50+00:00",
+  "days_since_verifier": 0.0,
+  "cases_total": 521,
+  "cases_to_investigate": 21,
+  "cases_high_confidence": 20,
+  "cases_stale_high_confidence": 10,
+  "cases_uninvestigated_high_confidence": 2,
+  "last_case_investigation": "2026-11-23T23:53:50+00:00",
+  "last_broad_scout": "2026-11-23T23:51:25+00:00",
+  "broad_scout_new_leads": 9,
+  "ai_hunt_brief_generated": "2026-11-23T23:56:26+00:00",
   "ai_hunt_broad_candidates": 22,
-  "ai_independent_published": 40,
-  "ai_case_published": 13,
-  "age_missing": 131,
-  "municipalities_with_events": 18,
+  "ai_independent_published": 42,
+  "ai_case_published": 14,
+  "age_missing": 139,
+  "municipalities_with_events": 17,
   "coverage_by_town": {
-    "Málaga": 83,
+    "Málaga": 89,
     "Benalmádena": 19,
+    "Fuengirola": 8,
     "Marbella": 8,
-    "Fuengirola": 7,
     "Vélez-Málaga": 7,
-    "Ronda": 4,
+    "Ronda": 5,
+    "Nerja": 4,
     "Mijas": 3,
     "Antequera": 3,
-    "Nerja": 3,
     "Estepona": 2,
     "Colmenar": 1,
-    "Torre de Benagalbón": 1,
-    "Valle de Abdalajís": 1,
-    "Rincón de la Victoria": 1,
     "Villanueva del Trabuco": 1,
     "Alhaurín el Grande": 1,
+    "Coín": 1,
+    "Cañete la Real": 1,
     "Torrox": 1,
     "Torremolinos": 1
   },
   "alerts": [
-    "13 fuentes con error en su última consulta",
+    "14 fuentes con error en su última consulta",
     "3 fuentes aún sin primera revisión",
-    "5 casos de alta confianza llevan más de 48 h sin investigar"
+    "2 casos de alta confianza llevan más de 48 h sin investigar"
   ]
 }

@@ -3,7 +3,7 @@
     "id": "EVT-B87BC39E5A7D",
     "title": "Animación, arte y diseño gráfico para manga, anime y videojuegos. Con EducaGamer",
     "start": "2026-10-16",
-    "end": "2026-12-04",
+    "end": "2026-12-11",
     "time": "17:00",
     "town": "Málaga",
     "venue": "La Térmica",
@@ -18,7 +18,7 @@
     "status": "publicada_en_fuente",
     "details": "Infantil en La Térmica, Málaga, el 16 de octubre a las 17:00.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-19T15:55:52+00:00",
+    "last_checked": "2026-11-23T10:10:25+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -29,12 +29,14 @@
       "2026-11-13",
       "2026-11-20",
       "2026-11-27",
-      "2026-12-04"
+      "2026-12-04",
+      "2026-12-11"
     ],
     "secondary_sources": [
-      "https://informalaga.es/agenda/animacion-arte-y-diseno-grafico-para-manga-anime-y-videojuegos-con-educagamer-2026-11-20",
       "https://informalaga.es/agenda/animacion-arte-y-diseno-grafico-para-manga-anime-y-videojuegos-con-educagamer-2026-11-27",
       "https://informalaga.es/agenda/animacion-arte-y-diseno-grafico-para-manga-anime-y-videojuegos-con-educagamer-2026-12-04",
+      "https://informalaga.es/agenda/animacion-arte-y-diseno-grafico-para-manga-anime-y-videojuegos-con-educagamer-2026-12-11",
+      "https://informalaga.es/agenda/animacion-arte-y-diseno-grafico-para-manga-anime-y-videojuegos-con-educagamer-2026-11-20",
       "https://informalaga.es/agenda/animacion-arte-y-diseno-grafico-para-manga-anime-y-videojuegos-con-educagamer-2026-11-13",
       "https://informalaga.es/agenda/animacion-arte-y-diseno-grafico-para-manga-anime-y-videojuegos-con-educagamer-2026-11-06",
       "https://informalaga.es/agenda/animacion-arte-y-diseno-grafico-para-manga-anime-y-videojuegos-con-educagamer-2026-10-30",
@@ -58,7 +60,7 @@
     "id": "EVT-2D35DB554D7E",
     "title": "Programación de videojuegos con roblox y unity",
     "start": "2026-10-17",
-    "end": "2026-12-05",
+    "end": "2026-12-12",
     "time": "10:00",
     "town": "Málaga",
     "venue": "La Térmica",
@@ -73,7 +75,7 @@
     "status": "publicada_en_fuente",
     "details": "Taller de programación de videojuegos con Roblox y Unity en La Térmica (Málaga), a las 10:00. Sesiones registradas los sábados 17, 24 y 31 de octubre y 7, 14, 21 y 28 de noviembre de 2026. Consulta la ficha del organizador para confirmar cada sesión.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-19T15:55:52+00:00",
+    "last_checked": "2026-11-23T10:10:25+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": [
@@ -84,12 +86,14 @@
       "2026-11-14",
       "2026-11-21",
       "2026-11-28",
-      "2026-12-05"
+      "2026-12-05",
+      "2026-12-12"
     ],
     "secondary_sources": [
-      "https://informalaga.es/agenda/programacion-de-videojuegos-con-roblox-y-unity-2026-11-21",
       "https://informalaga.es/agenda/programacion-de-videojuegos-con-roblox-y-unity-2026-11-28",
       "https://informalaga.es/agenda/programacion-de-videojuegos-con-roblox-y-unity-2026-12-05",
+      "https://informalaga.es/agenda/programacion-de-videojuegos-con-roblox-y-unity-2026-12-12",
+      "https://informalaga.es/agenda/programacion-de-videojuegos-con-roblox-y-unity-2026-11-21",
       "https://informalaga.es/agenda/programacion-de-videojuegos-con-roblox-y-unity-2026-11-14",
       "https://informalaga.es/agenda/programacion-de-videojuegos-con-roblox-y-unity-2026-11-07",
       "https://informalaga.es/agenda/programacion-de-videojuegos-con-roblox-y-unity-2026-10-31",
@@ -190,41 +194,6 @@
     "schedule_change_pending_review": true
   },
   {
-    "id": "EVT-540024A0E372",
-    "title": "AGENDA: El Circo Berlín para toda la familia en Vélez-Málaga",
-    "start": "2026-10-30",
-    "end": "2026-11-22",
-    "time": "00:00",
-    "town": "Málaga",
-    "venue": "Recinto Ferial ‘Vélez – Málaga’",
-    "category": "Fiestas y eventos",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": "Av. del Rey Juan Carlos I, 48, 29740 Vélez-Málaga, Málaga",
-    "reservation_url": null,
-    "field_sources": {
-      "address": {
-        "source_url": "https://ladiversiva.com/actividad/agenda-el-circo-berlin-para-toda-la-familia-en-velez-malaga/",
-        "quote": "Av. del Rey Juan Carlos I, 48, 29740 Vélez-Málaga, Málaga",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "La Diversiva",
-    "source_url": "https://ladiversiva.com/actividad/agenda-el-circo-berlin-para-toda-la-familia-en-velez-malaga/",
-    "status": "pendiente",
-    "details": "El Circo Berlín llega al Recinto Ferial de Vélez-Málaga, del 30 de octubre al 22 de noviembre, con su nuevo espectáculo ‘Adrenalina 2.0: Las Guerreras en el Circo’, una propuesta para disfrutar en familia que combina música, acrobacias, efectos visuales y números de riesgo. Además, con la compra de la entrada, una hora antes del ‘show’, los peques […] · Fechas de programación: consultar los días concretos de función.",
-    "schedule_unconfirmed": true,
-    "occurrences": null,
-    "first_seen": "2026-10-27",
-    "last_checked": "2026-10-29T13:20:18+00:00",
-    "origin": "json-ld",
-    "secondary_sources": []
-  },
-  {
     "id": "EVT-072291328300",
     "title": "AGENDA: Extraescolares de cocina para niños y adolescentes en Teatinos, Málaga con Picofino",
     "start": "2026-11-01",
@@ -307,11 +276,12 @@
       "2026-11-29"
     ],
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-19T15:54:41+00:00",
+    "last_checked": "2026-11-23T10:09:06+00:00",
     "origin": "json-ld",
     "interval_kind": "recurring_dates",
-    "schedule_note": "Horarios publicados por sesión: 07/11: Horarios según sesión; 20/11: 20:00",
+    "schedule_note": "Horarios publicados por sesión: 07/11: Horarios según sesión; 24/11: 10:30",
     "secondary_sources": [
+      "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-24/",
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-20/",
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-17/",
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-12/",
@@ -321,7 +291,6 @@
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-19/",
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-21/",
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-22/",
-      "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-24/",
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-25/",
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-26/",
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-27/",
@@ -329,45 +298,6 @@
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-29/",
       "https://ladiversiva.com/actividad/agenda-teatro-para-ninas-y-ninos-en-noviembre-en-el-teatro-canovas-de-malaga-2/2026-11-08/"
     ]
-  },
-  {
-    "id": "EVT-3820C7B966DB",
-    "title": "AGENDA: Actividades para familias este otoño con un especial Halloween en el Jardín Botánico Histórico La Concepción",
-    "start": "2026-11-08",
-    "end": "2026-11-22",
-    "time": "11:00",
-    "town": "Málaga",
-    "venue": "Jardín Botánico Histórico La Concepción de Málaga",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": null,
-    "field_sources": {},
-    "audience": "Consultar organizador",
-    "source_name": "La Diversiva",
-    "source_url": "https://ladiversiva.com/actividad/agenda-actividades-para-familias-este-otono-con-un-especial-halloween-en-el-jardin-botanico-historico-la-concepcion/2026-11-08/",
-    "status": "publicada_en_fuente",
-    "details": "El Jardín Botánico Histórico La Concepción trae una gran variedad de actividades para las familias durante todo el otoño. Desde La Diversiva te damos todos los detalles de su programación: Descubre más sobre Actividades […]",
-    "schedule_unconfirmed": false,
-    "occurrences": [
-      "2026-11-08",
-      "2026-11-15",
-      "2026-11-22"
-    ],
-    "first_seen": "2026-11-02",
-    "last_checked": "2026-11-05T09:08:38+00:00",
-    "origin": "json-ld",
-    "secondary_sources": [
-      "https://ladiversiva.com/actividad/agenda-actividades-para-familias-este-otono-con-un-especial-halloween-en-el-jardin-botanico-historico-la-concepcion/2026-11-15/",
-      "https://ladiversiva.com/actividad/agenda-actividades-para-familias-este-otono-con-un-especial-halloween-en-el-jardin-botanico-historico-la-concepcion/2026-11-22/"
-    ],
-    "interval_kind": "recurring_dates",
-    "schedule_note": "Solo los días concretos indicados.",
-    "schedule_change_pending_review": true
   },
   {
     "id": "EVT-F6D057DB76A8",
@@ -524,55 +454,6 @@
     "secondary_sources": []
   },
   {
-    "id": "EVT-3BC366AFE75F",
-    "title": "JABETÍN TEATRO – ROBIN HOOD",
-    "start": "2026-11-15",
-    "end": "2026-11-22",
-    "time": "12:00",
-    "town": "Málaga",
-    "venue": "La Cochera Cabaret",
-    "category": "Teatro y espectáculos",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "No indicada",
-    "price_label": "10 EUR",
-    "audience": "Consultar organizador",
-    "source_name": "Teatro Málaga",
-    "source_url": "https://teatromalaga.com/cartelera/jabetin-teatro-robin-hood-la-cochera-malaga",
-    "status": "publicada_en_fuente",
-    "details": "Robin Hood, de Jabetín Teatro, llega a La Cochera Cabaret de Málaga los domingos 15 y 22 de noviembre de 2026 a las 12:00. La compañía malagueña adapta la leyenda en clave de comedia musical para todos los públicos. Robin y Little John, dos amigos aventureros, se cruzan con personajes entrañables c · Fechas de programación: consultar los días concretos de función.",
-    "first_seen": "2026-10-12",
-    "last_checked": "2026-11-16T11:06:52+00:00",
-    "origin": "json-ld",
-    "occurrences": [
-      "2026-11-15",
-      "2026-11-22"
-    ],
-    "schedule_note": "Dos únicas funciones confirmadas: 15 y 22 de noviembre a las 12:00.",
-    "schedule_verification": "fechas_contrastadas_en_fuente",
-    "schedule_checked_at": "2026-10-13",
-    "session_count": 2,
-    "schedule_unconfirmed": true,
-    "secondary_sources": [
-      "https://informalaga.es/agenda/jabetin-teatro-robin-hood-3s4yu"
-    ],
-    "duration_minutes": null,
-    "address": "Av. de los Guindos, 19",
-    "reservation_url": "https://lacocheracabaret.com/evento/jabetin-teatro-robin-hood-3/",
-    "field_sources": {
-      "address": {
-        "source_url": "https://teatromalaga.com/cartelera/jabetin-teatro-robin-hood-la-cochera-malaga",
-        "quote": "Av. de los Guindos, 19",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      },
-      "reservation_url": {
-        "source_url": "https://teatromalaga.com/cartelera/jabetin-teatro-robin-hood-la-cochera-malaga",
-        "quote": "Enlace de oferta para la sesión",
-        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
-      }
-    }
-  },
-  {
     "id": "EVT-IA-2910F33637",
     "title": "Cita con el Tablero: taller de ajedrez infantil",
     "start": "2026-11-18",
@@ -602,98 +483,6 @@
     ],
     "interval_kind": "recurring_dates",
     "schedule_note": "Solo los días concretos indicados."
-  },
-  {
-    "id": "EVT-TXT-F68D2EE3B4",
-    "title": "SERPeques: circo, teatros y actividades para toda la familia este finde en Málaga",
-    "start": "2026-11-18",
-    "end": "2026-11-22",
-    "time": "Por confirmar",
-    "town": "Málaga",
-    "venue": "Por confirmar",
-    "category": "Teatro y espectáculos",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_required": null,
-    "reservation_url": null,
-    "field_sources": {
-      "start": {
-        "source_url": "https://cadenaser.com/andalucia/2026/11/12/serpeques-circo-teatros-y-actividades-para-toda-la-familia-y-mascotas-este-finde-en-malaga-ser-malaga/",
-        "quote": "26 El puente sobre el río Guadalquivir entre Úbeda y Jódar, en la A401, se abrirá al tráfico el próximo miércoles, 18 de noviembre 13/11/2026 13/11/2026 Disparan en el pecho al por",
-        "evidence": "Fecha futura explícita vinculada al evento."
-      },
-      "town": {
-        "source_url": "https://cadenaser.com/andalucia/2026/11/12/serpeques-circo-teatros-y-actividades-para-toda-la-familia-y-mascotas-este-finde-en-malaga-ser-malaga/",
-        "quote": "Málaga",
-        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
-      },
-      "audience": {
-        "source_url": "https://cadenaser.com/andalucia/2026/11/12/serpeques-circo-teatros-y-actividades-para-toda-la-familia-y-mascotas-este-finde-en-malaga-ser-malaga/",
-        "quote": "infantil/familiar",
-        "evidence": "El evento se presenta explícitamente como infantil o familiar."
-      },
-      "corroboration": {
-        "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVE12TVdCaWZMdEpId01qa2M5dVhyNl9HTE8yeHpLOEFVZm1GT0FtekdJZDFQY0NnYUFuTld1aFI3U3haUEp0TGNoaEJIZXZuLWI0YzZEcUFSVGhRekdkSXUxQWRjSWFVOUtoMXlCdjVwLU5hNDNhUEQ4QlN0NHdEaVFqV0hhQmtVVXVxeE5maS00WHNyUkFlOE1RVjBab0Y1Z0toSmdEMGFKM1BlaFlYWUJCMlpXalNrTkNxcTN4ZG40cWRDaXViZjhRNHpXR0dkaDlhU01MUmpGNE4zN3ViMXdBU2czdnhJVW5RcjJQZ25pZ9IB8gFBVV95cUxNVE12TVdCaWZMdEpId01qa2M5dVhyNl9HTE8yeHpLOEFVZm1GT0FtekdJZDFQY0NnYUFuTld1aFI3U3haUEp0TGNoaEJIZXZuLWI0YzZEcUFSVGhRekdkSXUxQWRjSWFVOUtoMXlCdjVwLU5hNDNhUEQ4QlN0NHdEaVFqV0hhQmtVVXVxeE5maS00WHNyUkFlOE1RVjBab0Y1Z0toSmdEMGFKM1BlaFlYWUJCMlpXalNrTkNxcTN4ZG40cWRDaXViZjhRNHpXR0dkaDlhU01MUmpGNE4zN3ViMXdBU2czdnhJVW5RcjJQZ25pZw?oc=5",
-        "quote": "SERPeques: circo, teatros y actividades para toda la familia y mascotas este finde en Málaga - Cadena SER",
-        "evidence": "Segunda fuente independiente con varias palabras relevantes coincidentes."
-      }
-    },
-    "audience": "Infantil y familiar",
-    "source_name": "SERpeques / Cadena SER Málaga",
-    "source_url": "https://cadenaser.com/andalucia/2026/11/12/serpeques-circo-teatros-y-actividades-para-toda-la-familia-y-mascotas-este-finde-en-malaga-ser-malaga/",
-    "status": "publicada_en_fuente",
-    "details": "La agenda del ocio para los pequeños de la casa",
-    "schedule_unconfirmed": false,
-    "occurrences": [
-      "2026-11-18",
-      "2026-11-22"
-    ],
-    "interval_kind": "recurring_dates",
-    "schedule_note": "Se celebra únicamente en las fechas indicadas.",
-    "first_seen": "2026-11-13",
-    "last_checked": "2026-11-16T11:18:50+00:00",
-    "origin": "evidencia textual automatizada",
-    "confidence_score": 100,
-    "verification_method": "evidencia textual fuerte",
-    "evidence": "actividad concreta · evento multidía con fechas explícitas · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
-  },
-  {
-    "id": "EVT-E466D2801839",
-    "title": "AGENDA: RincónGO! 2026, el Salón del Manga y la Cultura Alternativa vuelve a Rincón de la Victoria",
-    "start": "2026-11-21",
-    "end": "2026-11-22",
-    "time": "11:00",
-    "town": "Torre de Benagalbón",
-    "venue": "Pabellón Cubierto Municipal Rubén Ruzafa",
-    "category": "Talleres y aprendizaje",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Por confirmar",
-    "duration_minutes": null,
-    "address": "C. Oleaje, s/n, 29738 Torre de Benagalbón, Málaga",
-    "reservation_url": null,
-    "field_sources": {
-      "address": {
-        "source_url": "https://ladiversiva.com/actividad/rincongo-2026-el-salon-del-manga-y-la-cultura-alternativa-vuelve-a-rincon-de-la-victoria/",
-        "quote": "C. Oleaje, s/n, 29738 Torre de Benagalbón, Málaga",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "La Diversiva",
-    "source_url": "https://ladiversiva.com/actividad/rincongo-2026-el-salon-del-manga-y-la-cultura-alternativa-vuelve-a-rincon-de-la-victoria/",
-    "status": "pendiente",
-    "details": "Si en casa hay fans del anime, los videojuegos o el K-pop, apuntad este plan para el fin de semana. RincónGO!, el Salón del Manga y la Cultura Alternativa de Rincón de la Victoria, celebra una nueva edición el sábado 21 y el domingo 22 de noviembre. En La Diversiva puedes conocer más detalles sobre […]",
-    "schedule_unconfirmed": true,
-    "occurrences": null,
-    "first_seen": "2026-11-19",
-    "last_checked": "2026-11-19T15:54:41+00:00",
-    "origin": "json-ld"
   },
   {
     "id": "EVT-E8802BF58C02",
@@ -738,88 +527,37 @@
     "schedule_note": "Horarios publicados por sesión: 21/11: 11:00; 18/12: 18:00"
   },
   {
-    "id": "EVT-46901B888E98",
-    "title": "Talleres infantiles de elaboración de pan en la Fiesta del Pan Duro",
-    "start": "2026-11-21",
-    "end": "2026-11-22",
-    "time": "12:00",
-    "town": "Valle de Abdalajís",
-    "venue": "Punto de información de calle Real",
-    "category": "Talleres y aprendizaje",
+    "id": "EVT-B695CE49DCE9",
+    "title": "AGENDA: Consultoría educativa gratis para niños y adolescentes: gestión del tiempo y productividad en el estudio",
+    "start": "2026-11-25",
+    "end": "2026-11-25",
+    "time": "17:00",
+    "town": "Málaga",
+    "venue": "Biblioteca Cánovas del Castillo",
+    "category": "Lectura y cuentos",
     "age_min": null,
     "age_max": null,
     "age_label": "Edad sin confirmar",
-    "price_label": "Gratis",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": null,
-    "field_sources": {},
-    "audience": "Consultar organizador",
-    "source_name": "InforMálaga",
-    "source_url": "https://informalaga.es/agenda/talleres-infantiles-de-elaboracion-de-pan-en-la-fiesta-del-pan-duro-1pkph",
-    "status": "pendiente",
-    "details": "Talleres gratuitos para que niños y niñas aprendan a amasar y dar forma al pan, con el Horno de Leña Jose, en la Fiesta del Pan Duro.",
-    "schedule_unconfirmed": true,
-    "occurrences": null,
-    "first_seen": "2026-11-19",
-    "last_checked": "2026-11-19T15:55:52+00:00",
-    "origin": "json-ld"
-  },
-  {
-    "id": "EVT-95D2B76CFCDC",
-    "title": "La Nanny en Parada en la Granja: especial superhéroes",
-    "start": "2026-11-22",
-    "end": "2026-11-22",
-    "time": "14:30",
-    "town": "Rincón de la Victoria",
-    "venue": "Parada en la Granja",
-    "category": "Otros planes familiares",
-    "age_min": 3,
-    "age_max": 6,
-    "age_label": "3–6 años",
     "price_label": "Por confirmar",
     "duration_minutes": null,
-    "address": null,
+    "address": "C. Ollerías, 34",
     "reservation_url": null,
-    "field_sources": {},
+    "field_sources": {
+      "address": {
+        "source_url": "https://ladiversiva.com/actividad/agenda-consultoria-educativa-gratis-para-ninos-y-adolescentes-gestion-del-tiempo-y-productividad-en-el-estudio-2/2026-11-25/",
+        "quote": "C. Ollerías, 34",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
     "audience": "Consultar organizador",
-    "source_name": "InforMálaga",
-    "source_url": "https://informalaga.es/agenda/la-nanny-en-parada-en-la-granja-especial-superheroes-2026-11-22",
+    "source_name": "La Diversiva",
+    "source_url": "https://ladiversiva.com/actividad/agenda-consultoria-educativa-gratis-para-ninos-y-adolescentes-gestion-del-tiempo-y-productividad-en-el-estudio-2/2026-11-25/",
     "status": "publicada_en_fuente",
-    "details": "Tarde de actividades infantiles temática de superhéroes para niños de 3 a 6 años.",
+    "details": "La Biblioteca Cánovas del Castillo de la Diputación de Málaga organiza sesiones de consultoría educativa gratis durante todo el año 2026 (excepto junio, julio y agosto). A lo largo de cada mes habrá cuatro sesiones de esta actividad, que irán alternando en horario de mañana y de tarde, para adaptarse a todos los usuarios. Descubre más información sobre […]",
     "schedule_unconfirmed": false,
     "occurrences": null,
-    "first_seen": "2026-11-19",
-    "last_checked": "2026-11-19T15:55:52+00:00",
-    "origin": "json-ld",
-    "secondary_sources": []
-  },
-  {
-    "id": "EVT-E2270E45895B",
-    "title": "Primer concierto del ciclo 'La banda en familia'",
-    "start": "2026-11-22",
-    "end": "2026-11-22",
-    "time": "12:00",
-    "town": "Málaga",
-    "venue": "Recinto Eduardo Ocón",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Gratis",
-    "duration_minutes": null,
-    "address": null,
-    "reservation_url": null,
-    "field_sources": {},
-    "audience": "Consultar organizador",
-    "source_name": "Radar · informalaga.es",
-    "source_url": "https://informalaga.es/agenda/concierto-la-banda-en-familia-en-el-recinto-eduardo-ocon-2026-11-22",
-    "status": "publicada_en_fuente",
-    "details": "Concierto de la Banda Municipal de Música de Málaga con repertorio para público infantil y juvenil.",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-11-17",
-    "last_checked": "2026-11-17T00:18:10+00:00",
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:09:06+00:00",
     "origin": "json-ld"
   },
   {
@@ -847,8 +585,9 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-19",
-    "last_checked": "2026-11-19T15:55:52+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-11-23T10:10:25+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-699CF6FAC7E1",
@@ -911,6 +650,41 @@
     "first_seen": "2026-11-02",
     "last_checked": "2026-11-02T16:17:58+00:00",
     "origin": "json-ld"
+  },
+  {
+    "id": "EVT-FAFFBDE6F643",
+    "title": "AGENDA: Taller de cerámica para familias en Fuengirola",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "time": "17:00",
+    "town": "Fuengirola",
+    "venue": "Fuengirola",
+    "category": "Talleres y aprendizaje",
+    "age_min": 6,
+    "age_max": null,
+    "age_label": "Desde 6 años",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "Tenencia de Alcaldía de El Boquetillo, en la calle Miguel Bueno, 18",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://ladiversiva.com/actividad/agenda-taller-de-ceramica-para-familias-en-fuengirola/2026-11-27/",
+        "quote": "Tenencia de Alcaldía de El Boquetillo, en la calle Miguel Bueno, 18",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "La Diversiva",
+    "source_url": "https://ladiversiva.com/actividad/agenda-taller-de-ceramica-para-familias-en-fuengirola/2026-11-27/",
+    "status": "publicada_en_fuente",
+    "details": "El Ayuntamiento de Fuengirola ha creado un taller de cerámica dirigido a familias. Podréis asistir con niños y niñas a partir de los 6 años. El taller para familias será […]",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:09:06+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-31BB40FE4B48",
@@ -1231,6 +1005,195 @@
     ]
   },
   {
+    "id": "EVT-IA-12B05999C2",
+    "title": "Visita a Papá Noel en Centro Comercial Rosaleda",
+    "start": "2026-11-27",
+    "end": "2026-11-27",
+    "time": "16:00–21:00",
+    "town": "Málaga",
+    "venue": "Centro Comercial Rosaleda",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "Por confirmar",
+    "audience": "Infantil y familiar",
+    "source_name": "Centro Comercial Rosaleda",
+    "source_url": "https://www.centrocomercialrosaleda.es/eventos/calendario-papa-noel-y-reyes-magos/",
+    "secondary_sources": [],
+    "details": "Primera sesión de visitas de Papá Noel en Rosaleda. Hay otras sesiones entre el 28 de noviembre y el 24 de diciembre, detalladas en el calendario oficial.",
+    "evidence": "El calendario oficial de Navidad 2026/27 indica visita de Papá Noel el viernes 27 de noviembre de 16:00 a 21:00 para recibir a los más pequeños y escuchar sus deseos.",
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:24:22+00:00",
+    "origin": "Investigación IA independiente, con fuente",
+    "discovery_channel": "ai_independent",
+    "status": "publicada_en_fuente"
+  },
+  {
+    "id": "EVT-E2A1C821C537",
+    "title": "AGENDA: Actividades para niños en el Museo Carmen Thyssen Málaga en noviembre de 2026",
+    "start": "2026-11-28",
+    "end": "2026-11-28",
+    "time": "11:00",
+    "town": "Málaga",
+    "venue": "Museo Carmen Thyssen Málaga",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "Plaza Carmen Thyssen, 29008 Málaga",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://ladiversiva.com/actividad/agenda-actividades-para-ninos-en-el-museo-carmen-thyssen-malaga-en-noviembre-de-2026/2026-11-28/",
+        "quote": "Plaza Carmen Thyssen, 29008 Málaga",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "La Diversiva",
+    "source_url": "https://ladiversiva.com/actividad/agenda-actividades-para-ninos-en-el-museo-carmen-thyssen-malaga-en-noviembre-de-2026/2026-11-28/",
+    "status": "publicada_en_fuente",
+    "details": "El Museo Carmen Thyssen de Málaga ofrece actividades para niños y niñas este mes de noviembre. Desde La Diversiva te ampliamos el programa de las actividades culturales para peques y familias. Descubre más sobre Actividades para niños en el Museo Carmen Thyssen Málaga en noviembre de 2026 en La Diversiva.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:09:06+00:00",
+    "origin": "json-ld"
+  },
+  {
+    "id": "EVT-BDC84DA0D5E3",
+    "title": "AGENDA: Actividades para niños gratis en el Museo Casa Natal Picasso de Málaga este noviembre",
+    "start": "2026-11-28",
+    "end": "2026-11-28",
+    "time": "11:00",
+    "town": "Málaga",
+    "venue": "Museo Casa Natal Picasso",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "Pl. de la Merced, 15, 29012 Málaga",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://ladiversiva.com/actividad/actividades-para-ninos-gratis-en-el-museo-casa-natal-picasso-de-malaga-este-noviembre/2026-11-28/",
+        "quote": "Pl. de la Merced, 15, 29012 Málaga",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "La Diversiva",
+    "source_url": "https://ladiversiva.com/actividad/actividades-para-ninos-gratis-en-el-museo-casa-natal-picasso-de-malaga-este-noviembre/2026-11-28/",
+    "status": "publicada_en_fuente",
+    "details": "El Museo Casa Natal Picasso te trae diferentes talleres gratis para niños y niñas a lo largo del mes de noviembre. Los talleres se llevan a cabo en el Aula Didáctica del Museo Casa Natal Picasso y se celebran todos los sábados del mes con aforo limitado. El horario es de 11:00 a 12:30 horas. En La Diversiva puedes descubrir más detalles […]",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:09:06+00:00",
+    "origin": "json-ld"
+  },
+  {
+    "id": "EVT-AC53DB97395C",
+    "title": "AGENDA: Empieza la navidad en Coín: planes para los peques desde el 28 de noviembre hasta el 5 de enero",
+    "start": "2026-11-28",
+    "end": "2027-01-05",
+    "time": "00:00",
+    "town": "Coín",
+    "venue": "Coin",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_url": null,
+    "field_sources": {},
+    "audience": "Consultar organizador",
+    "source_name": "Radar · ladiversiva.com",
+    "source_url": "https://ladiversiva.com/actividad/agenda-empieza-la-navidad-en-coin-planes-para-los-peques-desde-el-28-de-noviembre-hasta-el-5-de-enero/",
+    "status": "pendiente",
+    "details": "La Navidad llega a Coín del 28 de noviembre hasta el 5 de enero, su programación abarca desde conciertos y zambombas hasta actividades pensadas para los niños y niñas. En […] · Fechas de programación: consultar los días concretos de función.",
+    "schedule_unconfirmed": true,
+    "occurrences": null,
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:21:44+00:00",
+    "origin": "json-ld"
+  },
+  {
+    "id": "EVT-383F49475C9B",
+    "title": "AGENDA: ¡Descubre la orientación en familia! 3 pruebas para todos los públicos en Málaga",
+    "start": "2026-11-28",
+    "end": "2026-11-28",
+    "time": "09:30",
+    "town": "Cañete la Real",
+    "venue": "Cañete la Real, Vva de la Concepcion y Benagalbón",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "Cañete la Real, Vva de la Concepción y Benagalbón",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://ladiversiva.com/actividad/agenda-descubre-la-orientacion-en-familia-2-pruebas-para-todos-los-publicos-en-malaga/2026-11-28/",
+        "quote": "Cañete la Real, Vva de la Concepción y Benagalbón",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "La Diversiva",
+    "source_url": "https://ladiversiva.com/actividad/agenda-descubre-la-orientacion-en-familia-2-pruebas-para-todos-los-publicos-en-malaga/2026-11-28/",
+    "status": "publicada_en_fuente",
+    "details": "Un mapa, una brújula y ganas de pasarlo bien. El 14, 15 y 28 de noviembre llegan dos nuevas pruebas del Circuito Provincial de Orientación y la Diputación de Málaga con categorías para peques, mayores, familias y hasta mascotas para participar en las próximas pruebas de orientación. Descubre más sobre esta noticia ¡Descubre la orientación […]",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:09:06+00:00",
+    "origin": "json-ld"
+  },
+  {
+    "id": "EVT-35825EE388B9",
+    "title": "AGENDA: ‘Sábados en familia’, programación de actividades familiares gratis en el Museo Ruso de Málaga este noviembre",
+    "start": "2026-11-28",
+    "end": "2026-11-28",
+    "time": "11:30",
+    "town": "Málaga",
+    "venue": "Museo Ruso de Málaga",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "Edificio de Tabacalera, Av de Sor Teresa Prat, 15",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://ladiversiva.com/actividad/sabados-en-familia-programacion-de-actividades-familiares-gratis-en-el-museo-ruso-de-malaga-este-noviembre/2026-11-28/1/",
+        "quote": "Edificio de Tabacalera, Av de Sor Teresa Prat, 15",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "La Diversiva",
+    "source_url": "https://ladiversiva.com/actividad/sabados-en-familia-programacion-de-actividades-familiares-gratis-en-el-museo-ruso-de-malaga-este-noviembre/2026-11-28/1/",
+    "status": "publicada_en_fuente",
+    "details": "El Museo Ruso de Málaga ofrece los sábados de noviembre una programación de actividades culturales gratis para niños y niñas en edades comprendidas desde los 5 a los 12 años. Los peques se lo pasarán en grande y aprenderán jugando con los ‘Sábados en Familia’ y sus actividades familiares divertidas. Si quieres conocer más detalles desde La Diversiva os detallamos como serán los talleres de […]",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:09:06+00:00",
+    "origin": "json-ld"
+  },
+  {
     "id": "EVT-IA-2DD945433E",
     "title": "Bella y Bestia, Más Allá del Cuento",
     "start": "2026-11-28",
@@ -1256,6 +1219,31 @@
     "status": "publicada_en_fuente"
   },
   {
+    "id": "EVT-IA-598A87CDF7",
+    "title": "Bingo de Navidad · Club Rositas",
+    "start": "2026-11-28",
+    "end": "2026-11-28",
+    "time": "12:00–14:00 / 17:30–19:30",
+    "town": "Málaga",
+    "venue": "Club Rositas · Centro Comercial Rosaleda",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "Por confirmar",
+    "audience": "Infantil y familiar",
+    "source_name": "Centro Comercial Rosaleda",
+    "source_url": "https://www.centrocomercialrosaleda.es/club-infantil/",
+    "secondary_sources": [],
+    "details": "Juego infantil de bingo navideño del Club Rositas, en planta alta frente a Juguettos. Actividad exclusiva para miembros del club; inscripción al club disponible en el centro.",
+    "evidence": "La programación oficial de talleres infantiles de noviembre 2026 indica «Sábado 28: Juego: Bingo de Navidad»; talleres exclusivos para miembros del Club Rositas.",
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:24:22+00:00",
+    "origin": "Investigación IA programada, con fuente",
+    "discovery_channel": "ai_case",
+    "status": "publicada_en_fuente"
+  },
+  {
     "id": "EVT-IA-1368D47C43",
     "title": "Descubre el museo en familia · Edición Navidad",
     "start": "2026-11-28",
@@ -1271,7 +1259,9 @@
     "audience": "Infantil y familiar",
     "source_name": "Ayuntamiento de Benalmádena · Agenda cultural",
     "source_url": "https://www.benalmadena.es/agenda/A8081/DESCUBRE-EL-MUSEO-EN-FAMILIA-EDICIN-NAVIDAD.html",
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://www.benalmadena.es/agenda/A8081/DESCUBRE-EL-MUSEO-EN-FAMILIA-EDICIN-NAVIDAD.html"
+    ],
     "details": "Actividad participativa para familias sobre el Belén mexicano del museo, con juegos, retos y preguntas para descubrir las tradiciones navideñas de México. Reserva de plaza por teléfono al 952 449 527.",
     "evidence": "La agenda municipal confirma el 28/11/2026 a las 17:30 en el Museo Arqueológico y Precolombino una actividad participativa para toda la familia con juegos, retos y preguntas sobre el Belén mexicano; gratuita con reserva de plaza.",
     "first_seen": "2026-10-29",
@@ -1299,7 +1289,7 @@
     "status": "publicada_en_fuente",
     "details": "Mestizaje: redescubriendo el mundo del flamenco llega a La Cochera Cabaret de Málaga el sábado 28 de noviembre de 2026 a las 12:30. Un explorador y un investigador se intercambian las maletas por error, y de ese despiste nace una historia en la que un bailaor contemporáneo y DJ, aparentemente desor",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-19T15:55:52+00:00",
+    "last_checked": "2026-11-23T10:10:25+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -1502,7 +1492,7 @@
     "reservation_required": true,
     "reservation_url": "https://docs.google.com/forms/d/e/1FAIpQLSdb5plTEetFDBDdGflPYxHvMMhMF03vGwTNg9_mnw4q7HI0iQ/viewform?usp=header",
     "origin": "programación oficial y formulario del organizador",
-    "last_checked": "2026-11-19T15:55:52+00:00",
+    "last_checked": "2026-11-23T10:10:25+00:00",
     "interval_kind": "recurring_dates",
     "schedule_unconfirmed": false,
     "schedule_verification": "fechas_contrastadas_en_fuente",
@@ -1579,7 +1569,7 @@
     "status": "publicada_en_fuente",
     "details": "Tributo Musical \"El Rey León\" Sábado 28 de Noviembre. 17:00h. Entradas en www.giglon.com y El Corte Inglés. Teatro Vicente Espinel.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-19T15:58:53+00:00",
+    "last_checked": "2026-11-23T10:13:26+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -1622,7 +1612,7 @@
     "schedule_unconfirmed": true,
     "occurrences": null,
     "first_seen": "2026-11-12",
-    "last_checked": "2026-11-19T15:55:52+00:00",
+    "last_checked": "2026-11-23T10:10:25+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -1648,7 +1638,7 @@
     "details": "Bella y Bestia se representa en el Teatro Manuel España de Las Lagunas (Mijas) el domingo 29 de noviembre de 2026 a las 12:00. Un espectáculo infantil y familiar para la mañana del domingo. Entradas sin numerar a 10 € en venta anticipada en La Cochera Entradas.",
     "evidence": "La agenda oficial de Jabetín Teatro indica Bella y Bestia el domingo 29 de noviembre de 2026 en el Teatro Manuel España de Mijas a las 12:00.",
     "first_seen": "2026-10-13",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "status": "publicada_en_fuente",
     "duration_minutes": null,
@@ -1691,7 +1681,7 @@
     "details": "Musical familiar basado en el cuento clásico, con voces en directo. Función distinta del musical El Rey León del mismo día en otro teatro.",
     "evidence": "La venta directa de Giglon confirma 29/11/2026 a las 17:00 en Teatro del Carmen de Vélez-Málaga y una sinopsis específica que invita a pequeños y mayores a soñar en familia.",
     "first_seen": "2026-11-02",
-    "last_checked": "2026-11-19T15:55:52+00:00",
+    "last_checked": "2026-11-23T10:10:25+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -1727,7 +1717,7 @@
     "status": "publicada_en_fuente",
     "details": "En las nubes, de la compañía valenciana La Negra, se representa en el Teatro Echegaray de Málaga el domingo 29 de noviembre de 2026, con pases a las 11:00 y a las 13:00. Un espectáculo de teatro de objetos para la primera infancia sobre un niño que a veces se siente diferente, que querría salir vol",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -1779,7 +1769,7 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-19T15:55:52+00:00",
+    "last_checked": "2026-11-23T10:10:25+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -1844,7 +1834,7 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -1904,7 +1894,7 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-19T15:55:52+00:00",
+    "last_checked": "2026-11-23T10:10:25+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -1927,7 +1917,7 @@
     "status": "publicada_en_fuente",
     "details": "¿Navidad? ¿Ezo qué eeeeeeeeh? llega a La Cochera Cabaret de Málaga los domingos 29 de noviembre y 13 de diciembre de 2026 a las 12:00. Dos sirvientes reciben un encargo de su patrón: quiere vivir la Navidad más espectacular de su vida. El problema es que ellos nunca la han celebrado y no tienen ni idea de cómo hacerlo. Para conseguirlo emprenden un viaje por las costumbres y tradiciones navideñas más populares en busca de la fórmula perfecta… y d · Fechas de programación: consultar los días concretos de función.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-19T15:55:52+00:00",
+    "last_checked": "2026-11-23T10:10:25+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-11-29",
@@ -2243,8 +2233,9 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-16",
-    "last_checked": "2026-11-16T11:06:52+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-11-23T10:10:25+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-C3FD8DFE5986",
@@ -2290,14 +2281,33 @@
     "audience": "Infantil y familiar",
     "source_name": "Turismo Vélez-Málaga",
     "source_url": "https://turismo.velezmalaga.es/noticias/cantajuego-el-payaso-tallarin",
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://informalaga.es/agenda/cantajuego-el-payaso-tallarin-su-gran-circo-en-velez-malaga-xlu3j"
+    ],
     "details": "Espectáculo infantil de canciones, humor, baile y circo musical.",
     "evidence": "Turismo municipal anuncia el 5 de diciembre de 2026 el espectáculo CantaJuego El Payaso Tallarín - Su Gran Circo para familias; la cartelera oficial del Lope de Vega confirma las 17:00.",
     "first_seen": "2026-11-02",
-    "last_checked": "2026-11-02T09:32:28+00:00",
+    "last_checked": "2026-11-23T10:10:25+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
-    "status": "publicada_en_fuente"
+    "status": "publicada_en_fuente",
+    "duration_minutes": null,
+    "address": "Calle Lope de Vega, 9",
+    "reservation_url": "https://www.elcorteingles.es/entradas/en-familia/entradas-payaso-tallarin-velez-malaga/",
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/cantajuego-el-payaso-tallarin-su-gran-circo-en-velez-malaga-xlu3j",
+        "quote": "Calle Lope de Vega, 9",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      },
+      "reservation_url": {
+        "source_url": "https://informalaga.es/agenda/cantajuego-el-payaso-tallarin-su-gran-circo-en-velez-malaga-xlu3j",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "schedule_unconfirmed": false,
+    "occurrences": null
   },
   {
     "id": "EVT-IA-834A2AE231",
@@ -2353,6 +2363,45 @@
     "origin": "json-ld"
   },
   {
+    "id": "EVT-D2E99CBF8632",
+    "title": "Magiliar",
+    "start": "2026-12-05",
+    "end": "2026-12-05",
+    "time": "17:00",
+    "town": "Málaga",
+    "venue": "Sala Mirari",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "12 EUR",
+    "duration_minutes": null,
+    "address": "C. Luis Carreras, 7",
+    "reservation_url": "https://salamirari.com/reservar/?evento=536",
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/magiliar-2026-12-05-2",
+        "quote": "C. Luis Carreras, 7",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      },
+      "reservation_url": {
+        "source_url": "https://informalaga.es/agenda/magiliar-2026-12-05-2",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "InforMálaga",
+    "source_url": "https://informalaga.es/agenda/magiliar-2026-12-05-2",
+    "status": "publicada_en_fuente",
+    "details": "Mirari, la primera sala de Mentalismo y Magia de Cerca de Andalucía, abre sus puertas en Málaga para daros la bienvenida al show más exclusivo: Magiliar ¡Un show de magia familiar!",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:10:25+00:00",
+    "origin": "json-ld"
+  },
+  {
     "id": "EVT-3A1A07B9ECE7",
     "title": "Rapunzel, el musical",
     "start": "2026-12-05",
@@ -2388,7 +2437,47 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-09",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
+  },
+  {
+    "id": "EVT-C13BFD6C2F35",
+    "title": "«Navidad en la granja», con Papá Noel, de La Cajita Musical",
+    "start": "2026-12-05",
+    "end": "2026-12-05",
+    "time": "17:00",
+    "town": "Málaga",
+    "venue": "La Caja Blanca",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "Avenida Editor Ángel Caffarena, 8",
+    "reservation_url": "https://www.giglon.com/web/guest/todos?idEvent=navidad-en-la-granja--con-papa-noel",
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/navidad-en-la-granja-con-papa-noel-de-la-cajita-musical-xc3lo",
+        "quote": "Avenida Editor Ángel Caffarena, 8",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      },
+      "reservation_url": {
+        "source_url": "https://informalaga.es/agenda/navidad-en-la-granja-con-papa-noel-de-la-cajita-musical-xc3lo",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "InforMálaga",
+    "source_url": "https://informalaga.es/agenda/navidad-en-la-granja-con-papa-noel-de-la-cajita-musical-xc3lo",
+    "status": "publicada_en_fuente",
+    "details": "Espectáculo musical infantil con los animales de la granja (el Gallo Bartolito, la Gallina Turuleca, el Patito Juan…) y la visita de Papá Noel.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:10:25+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -2411,7 +2500,7 @@
     "status": "publicada_en_fuente",
     "details": "Drilo Rock, de La pandilla de Drilo, llega al Teatro Echegaray de Málaga el domingo 6 de diciembre de 2026, a las 18:00. Drilo organiza un gran concierto y llama a toda su pandilla: Guau a la batería, Peligre al bajo, Pom-pom a los teclados, Era a las maracas, Huga al ukelele y Rafa a la trompeta.",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "schedule_unconfirmed": false,
     "occurrences": null,
@@ -2448,16 +2537,34 @@
     "audience": "Infantil y familiar",
     "source_name": "GTM Málaga · Auditorio AM",
     "source_url": "https://gtmmalaga.com/evento/a_60501-papa-noel-mision-salvar-la-navidad-en-malaga",
-    "secondary_sources": [],
+    "secondary_sources": [
+      "https://informalaga.es/agenda/papa-noel-mision-salvar-la-navidad-en-malaga-2026-12-06-2"
+    ],
     "details": "Espectáculo navideño musical en el que los elfos y Papá Noel intentan impedir que el Grinch arruine la Navidad. La descripción oficial confirma público familiar.",
     "evidence": "La ficha oficial de GTM anuncia el domingo 6 de diciembre de 2026 a las 12:30 en Auditorio AM de Málaga y describe expresamente una aventura navideña de elfos, Papá Noel y el Grinch con magia y música para toda la familia.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-22T09:06:21+00:00",
+    "last_checked": "2026-11-23T23:50:14+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
     "reservation_required": true,
-    "reservation_url": "https://gtmmalaga.com/evento/a_60501-papa-noel-mision-salvar-la-navidad-en-malaga"
+    "reservation_url": "https://gtmmalaga.com/evento/a_60501-papa-noel-mision-salvar-la-navidad-en-malaga",
+    "duration_minutes": null,
+    "address": "Av de Sor Teresa Prat, 51, Carretera de Cádiz",
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/papa-noel-mision-salvar-la-navidad-en-malaga-2026-12-06-2",
+        "quote": "Av de Sor Teresa Prat, 51, Carretera de Cádiz",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      },
+      "reservation_url": {
+        "source_url": "https://informalaga.es/agenda/papa-noel-mision-salvar-la-navidad-en-malaga-2026-12-06-2",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "schedule_unconfirmed": false,
+    "occurrences": null
   },
   {
     "id": "EVT-7FB924EAF650",
@@ -2542,6 +2649,59 @@
     "first_seen": "2026-11-02",
     "last_checked": "2026-11-02T16:17:58+00:00",
     "origin": "json-ld"
+  },
+  {
+    "id": "EVT-TXT-11DF959FAF",
+    "title": "Representación teatral navideña ‘Beto, una historia de Navidad’",
+    "start": "2026-12-11",
+    "end": "2026-12-18",
+    "time": "19:30",
+    "town": "Ronda",
+    "venue": "Por confirmar",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": null,
+    "reservation_required": null,
+    "reservation_url": null,
+    "field_sources": {
+      "start": {
+        "source_url": "https://www.fundacionunicaja.com/event/representacion-teatral-navidena-beto-una-historia-de-navidad/",
+        "quote": "o de Ronda la representación teatral ‘Beto, una historia de Navidad’ de la compañía Teatro del Firulete el viernes 11 de diciembre a las 19:30 horas con entrada libre hasta complet",
+        "evidence": "Fecha futura explícita vinculada al evento."
+      },
+      "town": {
+        "source_url": "https://www.fundacionunicaja.com/event/representacion-teatral-navidena-beto-una-historia-de-navidad/",
+        "quote": "Ronda",
+        "evidence": "Municipio mencionado en el titular, entradilla o contexto inmediato de la fecha."
+      },
+      "audience": {
+        "source_url": "https://www.fundacionunicaja.com/event/representacion-teatral-navidena-beto-una-historia-de-navidad/",
+        "quote": "infantil/familiar",
+        "evidence": "El evento se presenta explícitamente como infantil o familiar."
+      }
+    },
+    "audience": "Infantil y familiar",
+    "source_name": "Fundación Unicaja — agenda cultural",
+    "source_url": "https://www.fundacionunicaja.com/event/representacion-teatral-navidena-beto-una-historia-de-navidad/",
+    "status": "publicada_en_fuente",
+    "details": "o de Ronda la representación teatral ‘Beto, una historia de Navidad’ de la compañía Teatro del Firulete el viernes 11 de diciembre a las 19:30 horas con entrada libre hasta completar aforo. Se trata de una divertida comedia de títeres de mesa qu",
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2026-12-11",
+      "2026-12-18"
+    ],
+    "interval_kind": "recurring_dates",
+    "schedule_note": "Se celebra únicamente en las fechas indicadas.",
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T23:54:22+00:00",
+    "origin": "evidencia textual automatizada",
+    "confidence_score": 100,
+    "verification_method": "evidencia textual fuerte",
+    "evidence": "actividad concreta · evento multidía con fechas explícitas · público infantil/familiar · municipio malagueño explícito · fuente aprobada del catálogo · titular coherente con la pista"
   },
   {
     "id": "EVT-1DF023DCEE07",
@@ -2697,7 +2857,7 @@
     "status": "publicada_en_fuente",
     "details": "El bosque de Coco, de La Buena Compañía, se representa en el Teatro Cánovas de Málaga el sábado 12 de diciembre a las 19:00 y el domingo 13 de diciembre de 2026 a las 12:00. Existe un bosque cuyos árboles se iluminan con la chispa del pensamiento, un lugar mágico donde viven las ideas, los recuerdo",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-12-12",
@@ -2745,12 +2905,47 @@
     "details": "Musical en directo protagonizado por los personajes Momonsters: canciones, bailes, humor y aventura sobre los talentos personales, la amistad y el trabajo en equipo. Público infantil y familiar.",
     "evidence": "La cartelera oficial GTM fija sábado 12 de diciembre de 2026 a las 17:00 en Auditorio AM, Málaga; la sinopsis presenta un musical interactivo en vivo donde los más pequeños cantan y bailan con Momonsters.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-22T09:06:21+00:00",
+    "last_checked": "2026-11-23T23:50:14+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
     "reservation_required": true,
     "reservation_url": "https://gtmmalaga.com/evento/a_56679-momonsters-mi-primer-musical-en-malaga"
+  },
+  {
+    "id": "EVT-A07E4BFA8279",
+    "title": "Taller de cerámica infantil",
+    "start": "2026-12-12",
+    "end": "2026-12-12",
+    "time": "10:30",
+    "town": "Málaga",
+    "venue": "La Térmica",
+    "category": "Talleres y aprendizaje",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Por confirmar",
+    "duration_minutes": null,
+    "address": "avenida de los Guindos, 48",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/taller-de-ceramica-infantil-2026-12-12",
+        "quote": "avenida de los Guindos, 48",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "InforMálaga",
+    "source_url": "https://informalaga.es/agenda/taller-de-ceramica-infantil-2026-12-12",
+    "status": "publicada_en_fuente",
+    "details": "Infantil en La Térmica, Málaga, el 12 de diciembre a las 10:30.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:10:25+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-675EC9BAC637",
@@ -2939,7 +3134,7 @@
     "status": "publicada_en_fuente",
     "details": "Nova. Más allá de la imaginación, de la compañía malagueña Índigo Teatro, se representa en el Teatro Echegaray de Málaga el 15 y 16 de diciembre de 2026 a las 18:00. A Nova le encanta leer, y un día se queda dormida con su libro favorito entre las manos. Al despertar está en el mundo de la imaginac",
     "first_seen": "2026-10-12",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "occurrences": [
       "2026-12-15",
@@ -3053,7 +3248,7 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-27",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -3118,7 +3313,7 @@
     "schedule_unconfirmed": true,
     "occurrences": null,
     "first_seen": "2026-10-19",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -3224,7 +3419,7 @@
       "2026-12-20"
     ],
     "first_seen": "2026-10-13",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "schedule_note": "Dos funciones: sábado 19 de diciembre a las 19:00 y domingo 20 a las 12:00.",
     "schedule_verification": "oficial Junta de Andalucía",
@@ -3414,7 +3609,7 @@
     "schedule_unconfirmed": true,
     "occurrences": null,
     "first_seen": "2026-11-02",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -3502,7 +3697,7 @@
     "details": "El fantástico viaje de Jonás el espermatozoide, de El Espejo Negro, se representa en el Teatro Echegaray de Málaga el 21 y 22 de diciembre de 2026 a las 18:00. Jonás es un espermatozoide diminuto y perezoso que no tiene ninguna intención de participar en la gran carrera de la fecundación: prefiere",
     "evidence": "La programación oficial del Teatro Echegaray incluye esta obra de títeres en teatro infantil los días 21 y 22 de diciembre de 2026 a las 18:00. La sinopsis narra la aventura de Jonás en busca del óvulo; la Red Aragonesa de Espacios Escénicos clasifica la obra para público infantil de 3 a 6 años.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -3599,7 +3794,7 @@
     "details": "CantaJuego presenta El Payaso Tallarín en el Auditorio Felipe VI de Estepona el sábado 26 de diciembre de 2026, con pases a las 16:30 y a las 18:30. El Payaso Tallarín y su troupe descubren que no hace falta una carpa gigante para montar un gran circo: en el suyo, pequeño, caben la amistad, el resp",
     "evidence": "La cartelera oficial del Teatro Felipe VI confirma el 26 de diciembre de 2026 dos funciones a las 16:30 y 18:30 de CantaJuego presenta El Payaso Tallarín. La sinopsis describe un espectáculo musical con payasos, Coco y Pepe, canciones, juegos y valores infantiles.",
     "first_seen": "2026-11-01",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -3683,7 +3878,7 @@
     "age_min": null,
     "age_max": null,
     "age_label": "Edad sin confirmar",
-    "price_label": "12 EUR",
+    "price_label": "17 EUR",
     "duration_minutes": null,
     "address": "Calle Luis Carreras 7",
     "reservation_url": "https://salamirari.com/reservar/?evento=543",
@@ -3707,7 +3902,7 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-10-18",
-    "last_checked": "2026-11-19T16:01:45+00:00",
+    "last_checked": "2026-11-23T10:16:17+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -3747,7 +3942,7 @@
     "schedule_unconfirmed": true,
     "occurrences": null,
     "first_seen": "2026-11-16",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -3805,6 +4000,31 @@
     "origin": "json-ld"
   },
   {
+    "id": "EVT-IA-D3D8142BE6",
+    "title": "Visita a los Reyes Magos en Centro Comercial Rosaleda",
+    "start": "2026-12-26",
+    "end": "2026-12-26",
+    "time": "11:30–14:30 / 16:00–21:00",
+    "town": "Málaga",
+    "venue": "Centro Comercial Rosaleda",
+    "category": "Otros planes familiares",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "No indicada",
+    "price_label": "Por confirmar",
+    "audience": "Infantil y familiar",
+    "source_name": "Centro Comercial Rosaleda",
+    "source_url": "https://www.centrocomercialrosaleda.es/eventos/calendario-papa-noel-y-reyes-magos/",
+    "secondary_sources": [],
+    "details": "Primera jornada de visitas de los Reyes Magos en Rosaleda; otras sesiones del 27 al 30 de diciembre y del 2 al 5 de enero según el calendario oficial.",
+    "evidence": "El calendario oficial 2026/27 confirma la visita de los Reyes Magos el sábado 26 de diciembre de 11:30 a 14:30 y de 16:00 a 21:00, para que los niños entreguen sus cartas.",
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:24:22+00:00",
+    "origin": "Investigación IA independiente, con fuente",
+    "discovery_channel": "ai_independent",
+    "status": "publicada_en_fuente"
+  },
+  {
     "id": "EVT-IA-B85DE742F4",
     "title": "Visita a los Reyes Magos en el Poblado de los Sueños",
     "start": "2026-12-26",
@@ -3851,7 +4071,7 @@
     "details": "Yo quiero ser…, el nuevo espectáculo de CantaJuego, llega al Teatro Cervantes de Málaga el sábado 26 de diciembre de 2026, con funciones a las 16:30 y a las 19:00. Coco, Pepe y Buby invitan a los niños a jugar a lo que quieren ser de mayores: jardinero, astronauta, médico, profesor… o más fuerte, m",
     "evidence": "El Teatro Cervantes anuncia para el sábado 26 de diciembre de 2026 dos sesiones a las 16:30 y 19:00. La sinopsis de CantaJuego describe canciones, bailes y juegos interactivos con Coco, Pepe y Buby para disfrutar en familia.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -4114,7 +4334,7 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-16",
-    "last_checked": "2026-11-19T15:55:44+00:00",
+    "last_checked": "2026-11-23T10:10:16+00:00",
     "origin": "json-ld",
     "secondary_sources": []
   },
@@ -4266,8 +4486,9 @@
     "schedule_unconfirmed": false,
     "occurrences": null,
     "first_seen": "2026-11-19",
-    "last_checked": "2026-11-19T15:55:44+00:00",
-    "origin": "json-ld"
+    "last_checked": "2026-11-23T10:10:16+00:00",
+    "origin": "json-ld",
+    "secondary_sources": []
   },
   {
     "id": "EVT-1334B90A5F14",
@@ -4321,6 +4542,45 @@
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente"
+  },
+  {
+    "id": "EVT-C6703C1875D3",
+    "title": "Cenicienta, tributo musical",
+    "start": "2027-01-04",
+    "end": "2027-01-04",
+    "time": "00:00",
+    "town": "Málaga",
+    "venue": "Teatro ESAD",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "19.85 EUR",
+    "duration_minutes": null,
+    "address": "Calle Béla Bartók, 2",
+    "reservation_url": "https://www.awin1.com/cread.php?awinmid=13034&awinaffid=2915561&ued=https%3A%2F%2Fwww.elcorteingles.es%2Fentradas%2Fteatro%2Fentradas-cenicienta-tributo-musical-malaga-35426354261796%2F",
+    "field_sources": {
+      "address": {
+        "source_url": "https://teatromalaga.com/cartelera/cenicienta-tributo-musical-malaga",
+        "quote": "Calle Béla Bartók, 2",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      },
+      "reservation_url": {
+        "source_url": "https://teatromalaga.com/cartelera/cenicienta-tributo-musical-malaga",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Teatro Málaga",
+    "source_url": "https://teatromalaga.com/cartelera/cenicienta-tributo-musical-malaga",
+    "status": "publicada_en_fuente",
+    "details": "Cenicienta, tributo musical, llega al Teatro ESAD de Málaga el lunes 4 de enero de 2027. La hora se consulta en el calendario de la web de entradas. El cuento de la joven que, con ayuda de su hada madrina, consigue ir al baile y conquistar al príncipe antes de que den las doce, convertido en un mus",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:10:16+00:00",
+    "origin": "json-ld"
   },
   {
     "id": "EVT-75F92A6F1794",
@@ -4378,6 +4638,45 @@
     "status": "publicada_en_fuente"
   },
   {
+    "id": "EVT-2B187A4B7CE4",
+    "title": "La magia de las guerreras kpop",
+    "start": "2027-01-04",
+    "end": "2027-01-04",
+    "time": "17:00",
+    "town": "Nerja",
+    "venue": "Centro Cultural Villa de Nerja",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "12 EUR",
+    "duration_minutes": null,
+    "address": "Calle Granada, 45, Nerja",
+    "reservation_url": "https://cultura.nerja.es/",
+    "field_sources": {
+      "address": {
+        "source_url": "https://teatromalaga.com/cartelera/la-magia-de-las-guerreras-kpop-nerja",
+        "quote": "Calle Granada, 45, Nerja",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      },
+      "reservation_url": {
+        "source_url": "https://teatromalaga.com/cartelera/la-magia-de-las-guerreras-kpop-nerja",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Teatro Málaga",
+    "source_url": "https://teatromalaga.com/cartelera/la-magia-de-las-guerreras-kpop-nerja",
+    "status": "publicada_en_fuente",
+    "details": "La magia de las guerreras kpop llega al Centro Cultural Villa de Nerja el lunes 4 de enero de 2027, con pases a las 17:00 y a las 20:00. Un espectáculo familiar para las vísperas de Reyes. Entradas a 12 €. Las entradas se compran en la taquilla del centro, de lunes a viernes de 11:00 a 14:00 y dos",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-23",
+    "last_checked": "2026-11-23T10:10:16+00:00",
+    "origin": "json-ld"
+  },
+  {
     "id": "EVT-IA-8DE67CFD68",
     "title": "La mirada de Lino · Teatro en Navidad",
     "start": "2027-01-04",
@@ -4429,28 +4728,50 @@
   },
   {
     "id": "EVT-IA-DE5911F448",
-    "title": "Viaje a Oz · El musical",
+    "title": "VIAJE A OZ. El musical",
     "start": "2027-01-04",
     "end": "2027-01-05",
-    "time": "4 ene 17:00; 5 ene 12:00",
+    "time": "17:00",
     "town": "Málaga",
     "venue": "Teatro Cervantes",
     "category": "Teatro y espectáculos",
     "age_min": null,
     "age_max": null,
     "age_label": "No indicada",
-    "price_label": "15 €",
-    "audience": "Infantil y familiar",
-    "source_name": "Teatro Cervantes de Málaga",
-    "source_url": "https://www.teatrocervantes.com/es/genero/teatro-infantil/navidad-en-el-cervantes-y-echegaray-2026/viaje-a-oz-el-musical-2160",
-    "secondary_sources": [],
-    "details": "Musical familiar de Trencadís Produccions protagonizado por Dora y su aventura fantástica inspirada en Oz. Dos funciones con horarios diferentes.",
+    "price_label": "15.36 EUR",
+    "audience": "Consultar organizador",
+    "source_name": "Teatro Málaga",
+    "source_url": "https://teatromalaga.com/cartelera/viaje-a-oz-el-musical-cervantes-malaga",
+    "secondary_sources": [
+      "https://www.teatrocervantes.com/es/genero/teatro-infantil/navidad-en-el-cervantes-y-echegaray-2026/viaje-a-oz-el-musical-2160"
+    ],
+    "details": "Viaje a Oz. El musical, de Trencadís Produccions, llega al Teatro Cervantes de Málaga el 4 de enero a las 17:00 y el 5 de enero de 2027 a las 12:00. A Dora le encanta dibujar espantapájaros, castillos hechos con latas o leones de peluche. El día que llega una profesora nueva, un tornado obliga a to",
     "evidence": "La ficha oficial del Teatro Cervantes confirma funciones lunes 4 de enero de 2027 a las 17:00 y martes 5 de enero a las 12:00, en Málaga. Describe un teatro musical para todos los públicos, premiado como musical infantil/familiar.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-10-25T09:19:15+00:00",
-    "origin": "Investigación IA independiente, con fuente",
+    "last_checked": "2026-11-23T10:10:16+00:00",
+    "origin": "json-ld",
     "discovery_channel": "ai_independent",
-    "status": "publicada_en_fuente"
+    "status": "publicada_en_fuente",
+    "duration_minutes": null,
+    "address": "C. Ramos Marín, s/n",
+    "reservation_url": "https://www.teatrocervantes.com/es/genero/teatro-infantil/temporada-2026-27/viaje-a-oz-el-musical-2160",
+    "field_sources": {
+      "address": {
+        "source_url": "https://teatromalaga.com/cartelera/viaje-a-oz-el-musical-cervantes-malaga",
+        "quote": "C. Ramos Marín, s/n",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      },
+      "reservation_url": {
+        "source_url": "https://teatromalaga.com/cartelera/viaje-a-oz-el-musical-cervantes-malaga",
+        "quote": "Enlace de oferta para la sesión",
+        "evidence": "El campo offers.url dirige a la oferta anunciada para esta actividad."
+      }
+    },
+    "schedule_unconfirmed": false,
+    "occurrences": [
+      "2027-01-04",
+      "2027-01-05"
+    ]
   },
   {
     "id": "EVT-8B808498694E",
