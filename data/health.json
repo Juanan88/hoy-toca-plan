@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-25T00:49:51+00:00",
+  "generated_at": "2026-11-26T00:35:17+00:00",
   "level": "attention",
-  "events": 159,
+  "events": 169,
   "sources": 86,
   "catalog_drift": false,
   "last_scan_snapshot": {
-    "events": 159,
+    "events": 169,
     "sources": 86
   },
-  "discoveries_pending": 805,
-  "discoveries_unresolved": 884,
-  "unverified_events": 31,
-  "known_age": 16,
+  "discoveries_pending": 789,
+  "discoveries_unresolved": 877,
+  "unverified_events": 32,
+  "known_age": 14,
   "sources_never_checked": 3,
-  "sources_failed": 14,
+  "sources_failed": 12,
   "source_errors": [
     {
       "name": "Teatro Cervantes y Echegaray",
@@ -47,13 +47,8 @@
     },
     {
       "name": "Ayuntamiento Vélez-Málaga",
-      "detail": "404 Client Error: Not Found for url: https://www.velezmalaga.es/",
-      "category": "broken_url"
-    },
-    {
-      "name": "Colección Museo Ruso — mediación familiar",
-      "detail": "robots.txt no permite o no pudo comprobarse",
-      "category": "access_restricted"
+      "detail": "503 Server Error: Service Unavailable for url: https://www.velezmalaga.es/",
+      "category": "server_error"
     },
     {
       "name": "Laberintus Park · eventos y Halloween",
@@ -62,11 +57,6 @@
     },
     {
       "name": "Mijas · noticias y actividades municipales",
-      "detail": "robots.txt no permite o no pudo comprobarse",
-      "category": "access_restricted"
-    },
-    {
-      "name": "La Térmica Mini · programación infantil (agenda oficial)",
       "detail": "robots.txt no permite o no pudo comprobarse",
       "category": "access_restricted"
     },
@@ -86,49 +76,50 @@
       "category": "access_restricted"
     }
   ],
-  "last_full_scan": "2026-11-23T10:08:56+00:00",
-  "days_since_full_scan": 1.6,
-  "last_radar": "2026-11-25T00:45:33+00:00",
+  "last_full_scan": "2026-11-26T00:19:34+00:00",
+  "days_since_full_scan": 0.0,
+  "last_radar": "2026-11-26T00:30:16+00:00",
   "days_since_radar": 0.0,
-  "last_verifier": "2026-11-25T00:48:09+00:00",
+  "last_verifier": "2026-11-26T00:33:23+00:00",
   "days_since_verifier": 0.0,
-  "cases_total": 517,
-  "cases_to_investigate": 19,
-  "cases_high_confidence": 18,
-  "cases_stale_high_confidence": 14,
-  "cases_uninvestigated_high_confidence": 1,
-  "last_case_investigation": "2026-11-25T00:47:23+00:00",
-  "last_broad_scout": "2026-11-25T00:45:34+00:00",
-  "broad_scout_new_leads": 8,
-  "ai_hunt_brief_generated": "2026-11-25T00:49:18+00:00",
+  "cases_total": 532,
+  "cases_to_investigate": 25,
+  "cases_high_confidence": 24,
+  "cases_stale_high_confidence": 16,
+  "cases_uninvestigated_high_confidence": 3,
+  "last_case_investigation": "2026-11-26T00:32:48+00:00",
+  "last_broad_scout": "2026-11-26T00:30:16+00:00",
+  "broad_scout_new_leads": 27,
+  "ai_hunt_brief_generated": "2026-11-26T00:34:58+00:00",
   "ai_hunt_broad_candidates": 22,
   "ai_independent_published": 45,
-  "ai_case_published": 14,
-  "age_missing": 143,
-  "municipalities_with_events": 18,
+  "ai_case_published": 13,
+  "age_missing": 155,
+  "municipalities_with_events": 19,
   "coverage_by_town": {
-    "Málaga": 90,
-    "Benalmádena": 19,
+    "Málaga": 94,
+    "Benalmádena": 20,
     "Fuengirola": 8,
     "Marbella": 8,
-    "Vélez-Málaga": 7,
+    "Vélez-Málaga": 8,
     "Ronda": 5,
+    "Campillos": 4,
     "Nerja": 4,
     "Rincón de la Victoria": 3,
     "Mijas": 3,
     "Antequera": 3,
     "Estepona": 2,
     "Colmenar": 1,
-    "Villanueva del Trabuco": 1,
     "Alhaurín el Grande": 1,
+    "Cártama": 1,
     "Coín": 1,
     "Cañete la Real": 1,
     "Torrox": 1,
     "Torremolinos": 1
   },
   "alerts": [
-    "14 fuentes con error en su última consulta",
+    "12 fuentes con error en su última consulta",
     "3 fuentes aún sin primera revisión",
-    "1 caso de alta confianza llevan más de 48 h sin investigar"
+    "3 casos de alta confianza llevan más de 48 h sin investigar"
   ]
 }

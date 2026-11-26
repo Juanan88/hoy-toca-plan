@@ -1,51 +1,51 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T00:49:54.634900+00:00",
+  "generated_at": "2026-11-26T00:35:20.839591+00:00",
   "workflow": {
     "name": "Hoy Toca Plan · motor y publicación segura",
     "event": "schedule",
     "schedule_cron": null,
-    "run_id": "45520354538",
+    "run_id": "45727900615",
     "run_attempt": "1",
-    "run_url": "https://github.com/Juanan88/hoy-toca-plan-motor/actions/runs/45520354538",
+    "run_url": "https://github.com/Juanan88/hoy-toca-plan-motor/actions/runs/45727900615",
     "job_status": "success"
   },
   "last_success": {
-    "full_scan": "2026-11-23T10:08:56+00:00",
-    "radar": "2026-11-25T00:45:33+00:00",
-    "verifier": "2026-11-25T00:48:09+00:00",
-    "cases": "2026-11-25T00:49:18+00:00",
-    "case_investigation": "2026-11-25T00:47:23+00:00"
+    "full_scan": "2026-11-26T00:19:34+00:00",
+    "radar": "2026-11-26T00:30:16+00:00",
+    "verifier": "2026-11-26T00:33:23+00:00",
+    "cases": "2026-11-26T00:34:57+00:00",
+    "case_investigation": "2026-11-26T00:32:48+00:00"
   },
   "catalog": {
-    "events": 159,
+    "events": 169,
     "drift": false
   },
   "radar": {
-    "examined": 1258,
-    "new_candidates": 89,
+    "examined": 1041,
+    "new_candidates": 76,
     "warnings_count": 0
   },
   "verifier": {
     "examined": 30,
-    "published": 1,
+    "published": 0,
     "inaccessible": 1
   },
   "cases": {
-    "total": 517,
-    "investigate": 19,
-    "resolved": 21,
-    "monitor": 243,
-    "low_priority": 229,
-    "ai_queue": 19,
-    "high_priority": 18,
-    "stale_high_confidence": 14
+    "total": 532,
+    "investigate": 25,
+    "resolved": 31,
+    "monitor": 240,
+    "low_priority": 231,
+    "ai_queue": 20,
+    "high_priority": 24,
+    "stale_high_confidence": 16
   },
   "investigation": {
-    "examined": 10,
-    "new_evidence": 41,
-    "skipped_same_day": 10,
+    "examined": 12,
+    "new_evidence": 28,
+    "skipped_same_day": 12,
     "warnings_count": 0
   },
-  "sources_failed": 14
+  "sources_failed": 12
 }
