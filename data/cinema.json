@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T17:41:42+00:00",
+  "updated_at": "2026-11-26T20:31:19+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -79,7 +79,7 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "19:15"
+            "17:00"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         },
@@ -1168,6 +1168,15 @@
         },
         {
           "date": "2026-11-26",
+          "cinema": "Multicines Rosaleda",
+          "town": "Málaga",
+          "times": [
+            "17:00"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
+        },
+        {
+          "date": "2026-11-26",
           "cinema": "Yelmo Cines Rincón de la Victoria",
           "town": "Rincón de la Victoria",
           "times": [
@@ -1479,6 +1488,15 @@
       "family_reason": "Clasificación infantil y temática familiar verificadas en la cartelera.",
       "source_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda",
       "showtimes": [
+        {
+          "date": "2026-11-26",
+          "cinema": "Multicines Rosaleda",
+          "town": "Málaga",
+          "times": [
+            "17:10"
+          ],
+          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
+        },
         {
           "date": "2026-11-27",
           "cinema": "Yelmo Cines Plaza Mayor",
