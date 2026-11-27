@@ -1,12 +1,18 @@
 {
-  "last_run": "2026-11-26T00:30:16+00:00",
+  "last_run": "2026-11-27T00:36:25+00:00",
   "queries": 44,
-  "items_examined": 1041,
-  "new_candidates": 76,
+  "items_examined": 1037,
+  "new_candidates": 88,
   "candidates_discarded_for_quality": 0,
-  "feeds_google": 40,
-  "feeds_bing_web": 27,
-  "total_discoveries": 1097,
-  "warnings": [],
+  "feeds_google": 39,
+  "feeds_bing_web": 24,
+  "total_discoveries": 1004,
+  "warnings": [
+    {
+      "query": "\"Mijas\" (\"este fin de semana\" OR agenda OR programa) (niños OR familia OR infantil OR \"todos los púb",
+      "provider": "google",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Mijas%22+%28%22este+fin+de+semana%2"
+    }
+  ],
   "method": "RSS público sin API; municipios grandes diarios, refuerzo por huecos de cobertura, fuentes conocidas y corroboración entre pistas"
 }

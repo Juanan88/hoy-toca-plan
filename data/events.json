@@ -530,40 +530,6 @@
     "origin": "json-ld"
   },
   {
-    "id": "EVT-5CC29F422786",
-    "title": "Economía sin cuentos. Con Domingo Soriano",
-    "start": "2026-11-26",
-    "end": "2026-11-26",
-    "time": "19:00",
-    "town": "Málaga",
-    "venue": "Centro Cultural La Malagueta",
-    "category": "Otros planes familiares",
-    "age_min": null,
-    "age_max": null,
-    "age_label": "Edad sin confirmar",
-    "price_label": "Gratis",
-    "duration_minutes": null,
-    "address": "Sala 001, c/ Cervantes, 6",
-    "reservation_url": null,
-    "field_sources": {
-      "address": {
-        "source_url": "https://informalaga.es/agenda/economia-sin-cuentos-con-domingo-soriano-2026-11-26",
-        "quote": "Sala 001, c/ Cervantes, 6",
-        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
-      }
-    },
-    "audience": "Consultar organizador",
-    "source_name": "Radar · informalaga.es",
-    "source_url": "https://informalaga.es/agenda/economia-sin-cuentos-con-domingo-soriano-2026-11-26",
-    "status": "publicada_en_fuente",
-    "details": "Conferencias en Centro Cultural La Malagueta, Málaga, el 26 de noviembre a las 19:00.",
-    "schedule_unconfirmed": false,
-    "occurrences": null,
-    "first_seen": "2026-11-25",
-    "last_checked": "2026-11-25T00:47:59+00:00",
-    "origin": "json-ld"
-  },
-  {
     "id": "EVT-67D5F44C1999",
     "title": "Mercado Navideño de Fuengirola",
     "start": "2026-11-26",
@@ -2139,6 +2105,40 @@
     "secondary_sources": []
   },
   {
+    "id": "EVT-A83A7DA06CDD",
+    "title": "Tributo a Niña Pastori by Natalia Moralo en AWA Málaga",
+    "start": "2026-11-29",
+    "end": "2026-11-29",
+    "time": "17:30",
+    "town": "Málaga",
+    "venue": "AWA Málaga",
+    "category": "Teatro y espectáculos",
+    "age_min": null,
+    "age_max": null,
+    "age_label": "Edad sin confirmar",
+    "price_label": "Gratis",
+    "duration_minutes": null,
+    "address": "C/ Cenit, 2",
+    "reservation_url": null,
+    "field_sources": {
+      "address": {
+        "source_url": "https://informalaga.es/agenda/tributo-a-nina-pastori-by-natalia-moralo-en-awa-malaga-2026-11-29",
+        "quote": "C/ Cenit, 2",
+        "evidence": "Campo streetAddress publicado en la ficha JSON-LD del evento."
+      }
+    },
+    "audience": "Consultar organizador",
+    "source_name": "Radar · informalaga.es",
+    "source_url": "https://informalaga.es/agenda/tributo-a-nina-pastori-by-natalia-moralo-en-awa-malaga-2026-11-29",
+    "status": "publicada_en_fuente",
+    "details": "Concierto tributo a Niña Pastori interpretado por Natalia Moralo junto a músicos.",
+    "schedule_unconfirmed": false,
+    "occurrences": null,
+    "first_seen": "2026-11-27",
+    "last_checked": "2026-11-27T00:39:40+00:00",
+    "origin": "json-ld"
+  },
+  {
     "id": "EVT-AD5BA62EB790",
     "title": "¿NAVIDAD?¿EZO QUE EEEEEEEEH?",
     "start": "2026-11-29",
@@ -2878,7 +2878,7 @@
     "details": "Espectáculo navideño musical en el que los elfos y Papá Noel intentan impedir que el Grinch arruine la Navidad. La descripción oficial confirma público familiar.",
     "evidence": "La ficha oficial de GTM anuncia el domingo 6 de diciembre de 2026 a las 12:30 en Auditorio AM de Málaga y describe expresamente una aventura navideña de elfos, Papá Noel y el Grinch con magia y música para toda la familia.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-26T00:29:02+00:00",
+    "last_checked": "2026-11-27T00:35:06+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
@@ -3268,7 +3268,7 @@
     "details": "Musical en directo protagonizado por los personajes Momonsters: canciones, bailes, humor y aventura sobre los talentos personales, la amistad y el trabajo en equipo. Público infantil y familiar.",
     "evidence": "La cartelera oficial GTM fija sábado 12 de diciembre de 2026 a las 17:00 en Auditorio AM, Málaga; la sinopsis presenta un musical interactivo en vivo donde los más pequeños cantan y bailan con Momonsters.",
     "first_seen": "2026-10-25",
-    "last_checked": "2026-11-26T00:29:02+00:00",
+    "last_checked": "2026-11-27T00:35:06+00:00",
     "origin": "Investigación IA independiente, con fuente",
     "discovery_channel": "ai_independent",
     "status": "publicada_en_fuente",
