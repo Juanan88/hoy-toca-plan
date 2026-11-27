@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T17:25:28+00:00",
+  "updated_at": "2026-11-27T20:17:10+00:00",
   "scope": "Provincia de Málaga · películas infantiles/familiares con sesiones verificadas",
   "movies": [
     {
@@ -72,16 +72,6 @@
             "18:45"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/marbella/kinepolis-la-canada"
-        },
-        {
-          "date": "2026-11-27",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
-            "17:00",
-            "19:15"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         },
         {
           "date": "2026-11-27",
@@ -549,10 +539,6 @@
           "cinema": "Multicines Rosaleda",
           "town": "Málaga",
           "times": [
-            "17:00",
-            "18:00",
-            "18:30",
-            "19:15",
             "20:15",
             "21:30",
             "22:30"
@@ -1236,16 +1222,6 @@
             "17:15"
           ],
           "booking_url": "https://www.publicine.net/cartelera-cine/antequera/cines-la-veronica"
-        },
-        {
-          "date": "2026-11-27",
-          "cinema": "Multicines Rosaleda",
-          "town": "Málaga",
-          "times": [
-            "17:00",
-            "18:15"
-          ],
-          "booking_url": "https://www.publicine.net/cartelera-cine/malaga/multicines-rosaleda"
         },
         {
           "date": "2026-11-27",
